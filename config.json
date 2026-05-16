@@ -6,7 +6,7 @@
         "bgm": "bgm.mp3",
         "tags": "#Dogs #Puppy #CuteDogs #DogLovers #DogLife #Shorts #DoggoBliss",
         "task_list_name": "My Tasks",
-        "pexels_api_key": "3OfpfSdk7zLAplKzkkaWa5K4ldXHiomdAyhNcxulIS6T5BMDaHNbGtxR",
+        "pexels_api_key": "REDACTED_API_KEY",
         "gemini_api_key": "AIzaSyAM0Lmoakl4RqT2EVfhD4uckdUaWTNY6Dg",
         "target_animal": "dog",
         "forbidden_animals": ["cat", "hamster", "bird"],
