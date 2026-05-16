@@ -1,4 +1,4 @@
-{
+﻿{
     "dogs_en": {
         "profile_name": "Doggo Bliss",
         "channel_id": "UCHhoC1Ilya-gfMTbRB2MlFQ",
@@ -7,9 +7,10 @@
         "tags": "#Dogs #Puppy #CuteDogs #DogLovers #DogLife #Shorts #DoggoBliss",
         "task_list_name": "My Tasks",
         "pexels_api_key": "REDACTED_API_KEY",
-        "gemini_api_key": "AIzaSyAM0Lmoakl4RqT2EVfhD4uckdUaWTNY6Dg",
+        "gemini_api_key": "REDACTED_API_KEY",
         "target_animal": "dog",
         "forbidden_animals": ["cat", "hamster", "bird"],
         "topics": ["Funny dog moments", "Heartwarming dog stories", "Life hacks for dog owners", "Amazing dog facts", "Golden Retriever cuteness", "German Shepherd loyalty"]
     }
 }
+
