@@ -21,8 +21,8 @@ def audit_dog_content(title, content, keyword, api_key=None):
     Search Keyword: {keyword}
     
     === QUALITY & SAFETY RULES ===
-    1. NO EMOJIS OR SYMBOLS: Use ONLY letters and basic punctuation (.,!). Emojis cause rendering errors (□). FAIL if you see any.
-    2. STRICTLY DOGS: Only dogs allowed. Absolute fail if any other species is mentioned.
+    1. NO EMOJIS: Use ONLY letters and basic punctuation (.,!,?). Emojis cause rendering errors (□). FAIL if you see emojis. Basic punctuation including question marks (?) is fully allowed.
+    2. STRICTLY DOGS & HUMANS/OWNERS: Only dogs and humans/owners (and the bond/relationship between them) are allowed. Mentions of owners, humans, and human-dog interactions are fully permitted. Absolute FAIL only if other unrelated pets or species (such as cats, birds, hamsters) are mentioned.
     3. SHORT & PUNCHY: The content must be readable within 15 seconds. If too long, FAIL and shorten it.
     4. NATURAL ENGLISH: Must sound like a native speaker. No awkward translations.
     
