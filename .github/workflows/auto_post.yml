@@ -1,4 +1,4 @@
-﻿name: AI Shorts Post (Dogs EN)
+name: AI Shorts Post (Dogs EN)
 
 on:
   schedule:
@@ -7,7 +7,7 @@ on:
     # EST 12:00 -> UTC 16:00
     # EST 18:00 -> UTC 22:00
     # EST 22:00 -> UTC 02:00
-    - cron: '0 2,12,16,22 * * *'
+    - cron: '25 23,8,12 * * *'
   workflow_dispatch:
 
 permissions:
@@ -46,6 +46,7 @@ jobs:
         GITHUB_ACTIONS: "true"
         PYTHONUNBUFFERED: "1"
       run: |
-        echo "縲職nglish Dog Channel縲・Starting automated production..."
+        echo "【English Dog Channel、EStarting automated production..."
         python auto_main.py
+
 
