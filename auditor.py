@@ -8,7 +8,26 @@ def audit_dog_content(title, content, keyword, api_key=None):
     文字化けの原因となる絵文字を禁止し、15秒に収まる簡潔さを徹底する。
     """
     if api_key:
-        genai.configure(api_key=api_key)
+        import json
+        import os
+        from google.oauth2 import service_account
+
+        service_account_str = os.environ.get("GEMINI_SERVICE_ACCOUNT")
+        credentials = None
+        if service_account_str:
+            try:
+                info = json.loads(service_account_str)
+                credentials = service_account.Credentials.from_service_account_info(info)
+            except Exception:
+                if os.path.exists(service_account_str):
+                    try:
+                        credentials = service_account.Credentials.from_service_account_file(service_account_str)
+                    except Exception:
+                        pass
+        if credentials:
+            genai.configure(credentials=credentials)
+        else:
+            genai.configure(api_key=api_key)
     
     model = genai.GenerativeModel('gemini-2.5-flash')
     
