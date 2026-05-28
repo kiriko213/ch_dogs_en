@@ -17,6 +17,11 @@ def main():
         print(f"ERROR: {client_secret_file} not found")
         return
 
+    import warnings
+    warnings.filterwarnings("ignore", category=Warning)
+    os.environ['OAUTHLIB_RELAX_TOKEN_SCOPE'] = '1'
+    import pickle
+    
     flow = InstalledAppFlow.from_client_secrets_file(client_secret_file, SCOPES)
     creds = flow.run_local_server(
         port=0,
@@ -28,6 +33,13 @@ def main():
     if not creds.refresh_token:
         print("ERROR: refresh_token not obtained. Revoke app access and retry.")
         return
+        
+    token_dir = 'tokens'
+    os.makedirs(token_dir, exist_ok=True)
+    token_path = os.path.join(token_dir, 'youtube.pickle')
+    with open(token_path, 'wb') as f:
+        pickle.dump(creds, f)
+    print(f"Saved local token to {token_path}")
     
     with open(client_secret_file, 'r') as f:
         client_data = json.load(f)
