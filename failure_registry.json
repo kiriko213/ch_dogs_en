@@ -1,0 +1,60 @@
+{
+  "failures": [
+    {
+      "timestamp": "2026-06-09T06:22:28.471945Z",
+      "component": "YouTube_API",
+      "error_type": "AUTH_FAILURE",
+      "error_message": "Authentication token is invalid or expired in GitHub Actions environment.",
+      "recovery_action": "Retrying YouTube auth (attempt 1/2)..."
+    },
+    {
+      "timestamp": "2026-06-09T06:22:31.544939Z",
+      "component": "YouTube_API",
+      "error_type": "AUTH_FAILURE",
+      "error_message": "Authentication token is invalid or expired in GitHub Actions environment.",
+      "recovery_action": "YouTube API permanent failure. Degraded run."
+    },
+    {
+      "timestamp": "2026-06-09T06:22:31.561758Z",
+      "component": "Analytics_API",
+      "error_type": "INIT_FAILURE",
+      "error_message": "Authentication token is invalid or expired in GitHub Actions environment.",
+      "recovery_action": "Fallback to Alpha Mode (Data API only)"
+    },
+    {
+      "timestamp": "2026-06-09T06:22:35.836479Z",
+      "component": "Gemini_API",
+      "error_type": "KEY_MISSING",
+      "error_message": "Gemini API key is missing",
+      "recovery_action": "Abort"
+    },
+    {
+      "timestamp": "2026-06-09T06:23:26.097029Z",
+      "component": "YouTube_API",
+      "error_type": "AUTH_FAILURE",
+      "error_message": "Authentication token is invalid or expired in GitHub Actions environment.",
+      "recovery_action": "Retrying YouTube auth (attempt 1/2)..."
+    },
+    {
+      "timestamp": "2026-06-09T06:23:26.910068Z",
+      "component": "YouTube_API",
+      "error_type": "AUTH_FAILURE",
+      "error_message": "Authentication token is invalid or expired in GitHub Actions environment.",
+      "recovery_action": "YouTube API permanent failure. Degraded run."
+    },
+    {
+      "timestamp": "2026-06-09T06:23:26.913595Z",
+      "component": "Analytics_API",
+      "error_type": "INIT_FAILURE",
+      "error_message": "Authentication token is invalid or expired in GitHub Actions environment.",
+      "recovery_action": "Fallback to Alpha Mode (Data API only)"
+    },
+    {
+      "timestamp": "2026-06-09T06:23:27.761991Z",
+      "component": "Gemini_API",
+      "error_type": "KEY_MISSING",
+      "error_message": "Gemini API key is missing",
+      "recovery_action": "Abort"
+    }
+  ]
+}

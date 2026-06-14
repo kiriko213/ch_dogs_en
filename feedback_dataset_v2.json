@@ -1,0 +1,26 @@
+{
+  "feedback_version": 2,
+  "generated_at": "",
+  "channel": "ch_dogs_en",
+  "metadata": {
+    "total_videos_analyzed": 0,
+    "analytics_api_available": false,
+    "cgs_mode": "alpha",
+    "data_freshness_hours": 72,
+    "pattern_extraction_enabled": true
+  },
+  "winning_topics": [],
+  "losing_topics": [],
+  "winning_title_patterns": [],
+  "winning_hook_patterns": [],
+  "toxic_combinations": [],
+  "growth_signals": {
+    "total_subscribers_gained": 0,
+    "growth_trend": "stable"
+  },
+  "exploration_ratio": {
+    "reinforce_pct": 80,
+    "explore_pct": 20,
+    "adjusted_by": "low_cgs_average_0.0"
+  }
+}

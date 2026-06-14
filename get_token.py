@@ -7,7 +7,7 @@ SCOPES = [
 ]
 
 def main():
-    print("=== Dogs EN (Doggo Bliss): Refresh Token 取得 ===")
+    print("=== AquaCurious (Aquatic EN): Refresh Token 取得 ===")
     
     base_dir = os.path.dirname(os.path.abspath(__file__))
     os.chdir(base_dir)
@@ -15,20 +15,21 @@ def main():
     client_secret_file = 'credentials.json'
     if not os.path.exists(client_secret_file):
         print(f"ERROR: {client_secret_file} not found")
+        print("Google Cloud Console から OAuth 2.0 クライアントIDの JSON をダウンロードし、")
+        print(f"このファイルと同じフォルダに '{client_secret_file}' として配置してください。")
         return
 
-    import warnings
-    warnings.filterwarnings("ignore", category=Warning)
-    os.environ['OAUTHLIB_RELAX_TOKEN_SCOPE'] = '1'
-    import pickle
-    
     flow = InstalledAppFlow.from_client_secrets_file(client_secret_file, SCOPES)
+    # ウェブアプリケーション型クライアント（web）を使用する場合は、
+    # Google Cloud Console の「承認されたリダイレクト URI」に 'http://localhost:8080/' を登録してください。
     creds = flow.run_local_server(
-        port=0,
+        port=8080,
         access_type="offline",
         prompt="consent",
         include_granted_scopes="true"
     )
+    
+    import pickle
     
     if not creds.refresh_token:
         print("ERROR: refresh_token not obtained. Revoke app access and retry.")
@@ -45,13 +46,13 @@ def main():
         client_data = json.load(f)
         client_info = client_data.get('installed', client_data.get('web', {}))
     
-    print("\n" + "="*50)
-    print("SUCCESS")
-    print("="*50)
-    print(f"\nYOUTUBE_CLIENT_ID_DOGS_EN:\n{client_info.get('client_id')}\n")
-    print(f"YOUTUBE_CLIENT_SECRET_DOGS_EN:\n{client_info.get('client_secret')}\n")
-    print(f"YOUTUBE_REFRESH_TOKEN_DOGS_EN:\n{creds.refresh_token}\n")
-    print("="*50)
+    print("\n" + "="*60)
+    print("SUCCESS - 以下の3つの値を GitHub Secrets に登録してください")
+    print("="*60)
+    print(f"\nYOUTUBE_CLIENT_ID_AQUATIC_EN:\n{client_info.get('client_id')}\n")
+    print(f"YOUTUBE_CLIENT_SECRET_AQUATIC_EN:\n{client_info.get('client_secret')}\n")
+    print(f"YOUTUBE_REFRESH_TOKEN_AQUATIC_EN:\n{creds.refresh_token}\n")
+    print("="*60)
 
 if __name__ == "__main__":
     main()

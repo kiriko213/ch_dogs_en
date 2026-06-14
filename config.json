@@ -6,13 +6,30 @@
         "bgm": "bgm.mp3",
         "tags": "#Dogs #Puppy #CuteDogs #DogLovers #DogLife #Shorts #DoggoBliss",
         "task_list_name": "My Tasks",
-        "pexels_api_key": "3OfpfSdk7zLAplKzkkaWa5K4ldXHiomdAyhNcxulIS6T5BMDaHNbGtxR",
+        "pexels_api_key": "REDACTED_API_KEY",
         "gemini_api_key": "REDACTED_API_KEY",
         "target_animal": "dog",
         "forbidden_animals": ["cat", "hamster", "bird"],
-        "topics": ["Funny dog moments", "Heartwarming dog stories", "Life hacks for dog owners", "Amazing dog facts", "Golden Retriever cuteness", "German Shepherd loyalty"],
+        "topic_discovery": {
+            "high_cgs_threshold": 80.0,
+            "reinforce_high_cgs": 50,
+            "explore_high_cgs": 50,
+            "reinforce_low_cgs": 80,
+            "explore_low_cgs": 20
+        },
+        "title_intelligence": {
+            "boost_keywords": ["dog", "puppy", "golden retriever", "corgi", "cute dog", "funny dog", "dog facts", "dog training", "husky", "german shepherd"],
+            "score_difference_limit": 5
+        },
+        "topics": [
+            "Funny dog moments",
+            "Heartwarming dog stories",
+            "Life hacks for dog owners",
+            "Amazing dog facts",
+            "Golden Retriever cuteness",
+            "German Shepherd loyalty"
+        ],
         "google_account": "kiriko324@gmail.com",
         "gemini_api_key_env_name": "GEMINI_API_KEY_DOGS_EN"
     }
 }
-

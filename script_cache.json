@@ -1,0 +1,33 @@
+{
+  "channel": "ch_dogs_en",
+  "schema_version": 2,
+  "updated_at": "2026-06-14T05:43:30.196401Z",
+  "items": [
+    {
+      "id": "mock_script_123",
+      "topic": "Life hacks for dog owners",
+      "title": "The Ultimate Secret of Life hacks for dog owners",
+      "hook": "Did you know this shocking fact about Life hacks for dog owners?",
+      "body": "Actually, Life hacks for dog owners is highly intelligent and can build an incredibly strong bond with humans.",
+      "script": "Did you know this shocking fact about Life hacks for dog owners? Actually, it is highly intelligent and can build an incredibly strong bond with humans. Subscribe for more amazing facts!",
+      "call_to_action": "Subscribe for more amazing facts!",
+      "search_query": "dog",
+      "status": "processing",
+      "created_at": "2026-06-14T05:39:49.976407Z",
+      "locked_at": "2026-06-14T05:39:49.978073Z"
+    },
+    {
+      "id": "mock_script_123",
+      "topic": "Golden Retriever cuteness",
+      "title": "The Ultimate Secret of Golden Retriever cuteness",
+      "hook": "Did you know this shocking fact about Golden Retriever cuteness?",
+      "body": "Actually, Golden Retriever cuteness is highly intelligent and can build an incredibly strong bond with humans.",
+      "script": "Did you know this shocking fact about Golden Retriever cuteness? Actually, it is highly intelligent and can build an incredibly strong bond with humans. Subscribe for more amazing facts!",
+      "call_to_action": "Subscribe for more amazing facts!",
+      "search_query": "dog",
+      "status": "processing",
+      "created_at": "2026-06-14T05:43:30.193432Z",
+      "locked_at": "2026-06-14T05:43:30.196378Z"
+    }
+  ]
+}
