@@ -262,7 +262,7 @@ async def fetch_best_visual(query, api_key, profile_key=".", work_dir="."):
     is_overwritten = False
     selected_pool = []
     
-    if "dogs_jp" in combined_ctx or "01_dogs_jp" in combined_ctx or "06_dogs" in combined_ctx:
+    if "dogs_jp" in combined_ctx or "ch_dogs_en" in combined_ctx or "dogs_en" in combined_ctx or "01_dogs_jp" in combined_ctx or "06_dogs" in combined_ctx:
         selected_pool = dog_pool
         is_overwritten = True
     elif "pets_jp" in combined_ctx or "02_pets_jp" in combined_ctx or "pawvana" in combined_ctx:
