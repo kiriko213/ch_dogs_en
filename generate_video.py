@@ -519,7 +519,7 @@ async def fetch_best_visual(query, api_key, profile_key=".", work_dir="."):
         # 必要な本数分、シャッフルされたリストから順に割り当ててダウンロード
         if len(valid_candidates) >= required_count:
             for idx in range(required_count):
-                selected_video, selected_files = valid_candidates[idx]
+                selected_video, selected_files, qsm_score = valid_candidates[idx]
                 video_id = selected_video.get('id')
                 best_file = selected_files[0]
                 dest_path = os.path.join(work_dir, f"temp_bg_{idx}_{video_id}.mp4")
