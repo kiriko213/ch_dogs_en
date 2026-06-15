@@ -505,7 +505,7 @@ async def fetch_best_visual(query, api_key, profile_key=".", work_dir="."):
             suitable_files = [f for f in video.get('video_files', []) if f.get('link')]
             if suitable_files:
                 # Phase 3: QSMスコアリング
-                qsm_score = compute_asset_quality_score(video, search_query=search_query, video_files=suitable_files)
+                qsm_score = compute_asset_quality_score(video, search_query=query, video_files=suitable_files)
                 if qsm_score >= 60:
                     valid_candidates.append((video, suitable_files, qsm_score))
                     print(f"[QSM] Video ID {video_id}: score={qsm_score} (ACCEPTED)")
@@ -629,6 +629,10 @@ async def resolve_local_visual_fallback(profile_key=".", work_dir="."):
                     print(f"[FALLBACK_WARN] Failed to copy local asset {selected}: {e}")
 
     # 2. 動的な ColorClip 背景の作成 (ColorClipフォールバックの自動救済)
+    if os.environ.get("DRY_RUN", "").strip().lower() != "true":
+        print("[FALLBACK_FATAL] Real visual asset was not found and ColorClip fallback is forbidden in production.")
+        raise Exception("Production execution requires high-quality real visual assets. ColorClip/Hand-waving fallback is forbidden.")
+
     print("[FALLBACK] No local asset found. Generating dynamic ColorClip video background...")
     try:
         # プロファイルキーから適したカラーテーマを動的に決定
