@@ -239,7 +239,8 @@ async def run_auto_post(work_dir=".", topic=None):
             analytics_token = os.path.join(work_dir, "tokens", "yt_analytics.pickle")
             env_analytics_key = f"YT_ANALYTICS_TOKEN_{profile_key.upper()}_B64"
             analytics_service = get_authenticated_service(
-                'youtubeAnalytics', 'v1', SCOPES_TASKS,
+                'youtubeAnalytics', 'v2',
+                ['https://www.googleapis.com/auth/youtube.readonly', 'https://www.googleapis.com/auth/yt-analytics.readonly'],
                 token_path=analytics_token,
                 env_token_key=env_analytics_key,
                 profile_key=profile_key,
@@ -306,8 +307,22 @@ async def run_auto_post(work_dir=".", topic=None):
         # ロックと失敗ステータスの復旧
         recover_stale_and_failed_locks(cache_data)
         
+        # ゾンビキャッシュ（mock_script_123 や、モックデータ）の完全物理パージ
+        if "items" in cache_data:
+            original_len = len(cache_data["items"])
+            cache_data["items"] = [item for item in cache_data["items"] if not str(item.get("id", "")).startswith("mock_")]
+            if len(cache_data["items"]) != original_len:
+                print(f"[CACHE_PURGE] Purged {original_len - len(cache_data['items'])} zombie mock cache items.")
+                save_script_cache(cache_path, cache_data)
+        
         # pending（未使用）アイテムを集計
         pending_items = [item for item in cache_data.get("items", []) if item.get("status") == "pending"]
+        
+        # 本番環境（DRY_RUN以外の通常実行）では、手抜きキャッシュを強制バイパスして必ずGeminiから新規生成
+        is_dry_run = os.environ.get("DRY_RUN", "").strip().lower() == "true"
+        if not is_dry_run:
+            print("[FORCE_GENERATE] Production environment detected. Bypassing existing cache to force-generate new content via Gemini.")
+            pending_items = []
         
         # DRY_RUN かつ pending が無い場合、モックの台本を生成してテストを継続する
         if os.environ.get("DRY_RUN", "").strip().lower() == "true" and len(pending_items) == 0:
@@ -568,6 +583,57 @@ async def run_auto_post(work_dir=".", topic=None):
         
         if not os.path.exists(video_file):
             raise Exception(f"FATAL: Video file does not exist: {video_file}")
+            
+        # AIサボり防止用「品質検証ゲート」アサーション
+        print("[QUALITY_GATE] Initiating strict asset verification...")
+        is_dry_run = os.environ.get("DRY_RUN", "").strip().lower() == "true"
+        
+        # 1. モックIDチェック
+        if str(target_item.get("id", "")).startswith("mock_"):
+            raise Exception("[QUALITY_GATE_FAILED] Mock script ID detected in production execution.")
+            
+        # 2. ファイルサイズのチェック
+        video_size = os.path.getsize(video_file)
+        if not is_dry_run:
+            if video_size < 1024 * 1024:  # 本番環境では最低1MB以上
+                raise Exception(f"[QUALITY_GATE_FAILED] Video file size ({video_size} bytes) is too small. Suspected low quality or failed rendering.")
+                
+        # 3. 単色ベタ塗り（ColorClipフォールバック）の検出
+        if "temp_bg_fallback.mp4" in str(asset_path):
+            raise Exception("[QUALITY_GATE_FAILED] Hand-waving ColorClip background fallback detected. Production requires high-quality real visuals.")
+            
+        # 4. ffmpeg / ffprobe によるメタデータアサート
+        try:
+            import subprocess as sp
+            ffprobe_cmd = [
+                "ffprobe", "-v", "error", 
+                "-select_streams", "v:0", 
+                "-show_entries", "stream=nb_frames,codec_name,width,height", 
+                "-of", "csv=p=0", 
+                video_file
+            ]
+            ffprobe_res = sp.run(ffprobe_cmd, capture_output=True, text=True, timeout=10)
+            if ffprobe_res.returncode == 0:
+                meta_info = ffprobe_res.stdout.strip().split(',')
+                print(f"[QUALITY_GATE] Video metadata: {meta_info}")
+                if len(meta_info) >= 3:
+                    codec = meta_info[0]
+                    w = int(meta_info[1])
+                    h = int(meta_info[2])
+                    if w != 1080 or h != 1920:
+                        raise Exception(f"[QUALITY_GATE_FAILED] Resolution mismatch: {w}x{h} (Expected 1080x1920)")
+                    if len(meta_info) >= 4 and meta_info[3].isdigit():
+                        frames = int(meta_info[3])
+                        if frames < 300:  # 最低10秒（30fps）以上を保証
+                            raise Exception(f"[QUALITY_GATE_FAILED] Insufficient video frames: {frames} (Expected >= 300)")
+            else:
+                print(f"[QUALITY_GATE_WARN] ffprobe verification skipped: {ffprobe_res.stderr}")
+        except Exception as ff_err:
+            if "QUALITY_GATE_FAILED" in str(ff_err):
+                raise
+            print(f"[QUALITY_GATE_WARN] Metadata assertion skipped: {ff_err}")
+            
+        print("[QUALITY_GATE] Video asset passed all strict validation gates successfully.")
         
         video_size = os.path.getsize(video_file)
         print(f"VIDEO_FILE: {video_file} ({video_size} bytes)")
