@@ -18,16 +18,16 @@
             "explore_low_cgs": 20
         },
         "title_intelligence": {
-            "boost_keywords": ["dog", "puppy", "golden retriever", "corgi", "cute dog", "funny dog", "dog facts", "dog training", "husky", "german shepherd"],
+            "boost_keywords": ["dog", "cute dog", "funny dog", "dog facts", "dog training", "dog behavior", "dog owner", "dog tips", "dog secrets", "dog life"],
             "score_difference_limit": 5
         },
         "topics": [
-            "Funny dog moments",
-            "Heartwarming dog stories",
-            "Life hacks for dog owners",
-            "Amazing dog facts",
-            "Golden Retriever cuteness",
-            "German Shepherd loyalty"
+            "Why dogs tilt their heads",
+            "Dog body language secrets",
+            "Amazing dog memory facts",
+            "Dog owner mistakes",
+            "Dog training secrets",
+            "Why dogs sniff everything"
         ],
         "google_account": "kiriko324@gmail.com",
         "gemini_api_key_env_name": "GEMINI_API_KEY_DOGS_EN"

@@ -179,7 +179,7 @@ async def run_auto_post(work_dir=".", topic=None):
             if "aesthetic" in profile_key.lower():
                 topics = ["Stunning hidden gems", "Visually shocking landscapes", "Cinematic global paradise", "Mysterious geography secrets", "Breathtaking world wonders"]
             elif "dog" in profile_key.lower():
-                topics = ["Funny dog facts", "Puppy joy", "Dog training tips", "Smart dog tricks", "Living with dogs"]
+                topics = ["Dog body language secrets", "Amazing dog facts", "Dog training tips", "Dog owner life hacks", "Why dogs do weird things"]
             elif "aquatic" in profile_key.lower():
                 topics = ["Deep sea mysteries", "Strange ocean creatures", "Coral reef secrets", "Freshwater wonders", "Aquarium life hacks"]
             else:
@@ -450,7 +450,7 @@ async def run_auto_post(work_dir=".", topic=None):
         # 既存の下流変数へバインド
         title = target_item.get("title", f"{p['profile_name']} | {topic}")
         script_content = target_item.get("script", "")
-        search_query = target_item.get("search_query", "ocean")
+        search_query = target_item.get("search_query", "dog")
         
         print(f"[CACHE] Locked script ID: {target_item['id']}")
         print(f"[CACHE] Topic: {target_item.get('topic', topic)}")

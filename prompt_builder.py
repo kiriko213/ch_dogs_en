@@ -175,6 +175,14 @@ class PromptBuilder:
             Generate exactly {batch_size} independent YouTube Shorts narration scripts about '{base_topic}' in English.
             Output MUST be a valid JSON array matching the schema below. No explanation, no markdown backticks, no markdown blocks.
 
+            [CHANNEL CONTENT POLICY - MANDATORY]
+            This channel covers GENERIC DOG CONTENT ONLY. You MUST follow these rules strictly:
+            ALLOWED topics: dog_facts, dog_behavior, dog_psychology, dog_training, dog_life_hacks, dog_owner_tips, dog_health_facts, dog_communication, dog_intelligence, amazing_dog_abilities.
+            FORBIDDEN topics: breed_specific_content, breed_comparisons, golden_retriever_specific, husky_specific, labrador_specific, puppy_specific_storytelling, individual_dog_profiles.
+            GOOD title examples: "Why Dogs Tilt Their Heads", "Why Dogs Sniff Everything", "Dog Body Language Secrets", "Amazing Dog Memory Facts", "Dog Owner Mistakes", "Dog Training Secrets".
+            BAD title examples: "Golden Retriever Puppy Facts", "Husky Puppy Secrets", "Labrador Puppy Training", "Story About a Specific Dog".
+            For the "search_query" field, use ONLY simple generic queries: "dog", "cute dog", "happy dog", "dog playing", "dog running", "dog owner", "dog training". Do NOT use breed-specific search terms.
+
             [Context & Adaptive Learning Parameters]
             Here are high-performing topics that generated strong audience engagement previously. Try to emulate their style, angle, or hooks:
             {os.linesep.join(top_list) if top_list else "- None"}
@@ -196,7 +204,7 @@ class PromptBuilder:
 
             [Exploration Ratio Rules]
             1. Approximately {reinforce_pct}% ({reinforce_count} scripts) MUST be reinforced topics (Reinforce), directly inspired by the successful angles/themes of the high-performing topics above.
-            2. The remaining {explore_pct}% ({explore_count} scripts) MUST be exploration topics (Explore), exploring completely new categories, species, or ocean phenomena not listed in the Top Topics, and utilizing the Emerging Topic Opportunities above.
+            2. The remaining {explore_pct}% ({explore_count} scripts) MUST be exploration topics (Explore), exploring completely new categories or dog phenomena not listed in the Top Topics, and utilizing the Emerging Topic Opportunities above.
             """
 
         # CTR・フック最適化指令 (Phase 5C & Phase 5E Pattern Injection)

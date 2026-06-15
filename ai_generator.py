@@ -204,7 +204,7 @@ def generate_viral_scripts_batch(topic="health", api_key=None, batch_size=5, lan
             elif "aquarium" in item_topic:
                 item["search_query"] = "aquarium,jellyfish"
             else:
-                item["search_query"] = "marine life,ocean"
+                item["search_query"] = "dog"
                 
         return items
     except Exception as e:
