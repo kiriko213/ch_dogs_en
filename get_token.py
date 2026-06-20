@@ -4,10 +4,12 @@ from google_auth_oauthlib.flow import InstalledAppFlow
 
 SCOPES = [
     'https://www.googleapis.com/auth/youtube',
+    'https://www.googleapis.com/auth/youtube.readonly',
+    'https://www.googleapis.com/auth/yt-analytics.readonly',
 ]
 
 def main():
-    print("=== AquaCurious (Aquatic EN): Refresh Token 取得 ===")
+    print("=== Doggo Bliss (Dogs EN): Refresh Token 取得 ===")
     
     base_dir = os.path.dirname(os.path.abspath(__file__))
     os.chdir(base_dir)
@@ -49,9 +51,9 @@ def main():
     print("\n" + "="*60)
     print("SUCCESS - 以下の3つの値を GitHub Secrets に登録してください")
     print("="*60)
-    print(f"\nYOUTUBE_CLIENT_ID_AQUATIC_EN:\n{client_info.get('client_id')}\n")
-    print(f"YOUTUBE_CLIENT_SECRET_AQUATIC_EN:\n{client_info.get('client_secret')}\n")
-    print(f"YOUTUBE_REFRESH_TOKEN_AQUATIC_EN:\n{creds.refresh_token}\n")
+    print(f"\nYOUTUBE_CLIENT_ID_DOGS_EN:\n{client_info.get('client_id')}\n")
+    print(f"YOUTUBE_CLIENT_SECRET_DOGS_EN:\n{client_info.get('client_secret')}\n")
+    print(f"YOUTUBE_REFRESH_TOKEN_DOGS_EN:\n{creds.refresh_token}\n")
     print("="*60)
 
 if __name__ == "__main__":
