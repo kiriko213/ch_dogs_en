@@ -269,7 +269,19 @@ class TopicDiscoveryEngine:
         """
         最近投稿したトピックとの距離 (Max: 30.0)
         重複・類似度が高いほどスコアを下げる。
+        コンセプト（セマンティック）重複は完全に Novelty なし (0.0) とする。
         """
+        # セマンティックコンセプト重複のチェック (全アップロード履歴ベース)
+        try:
+            from concept_guard import get_uploaded_concepts, is_concept_duplicated
+            uploaded_concepts = get_uploaded_concepts(self.cache_path)
+            is_dup, overlap = is_concept_duplicated(topic_name, uploaded_concepts)
+            if is_dup:
+                print(f"[TD_GUARD] Rejecting topic '{topic_name}' due to semantic concept overlap: {overlap}")
+                return 0.0
+        except Exception as e:
+            print(f"[TD_GUARD_WARN] Failed concept guard check: {e}")
+
         if not recent_topics:
             return 30.0
             
