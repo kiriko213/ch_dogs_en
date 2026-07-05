@@ -325,7 +325,7 @@ async def fetch_best_visual(query, api_key, profile_key=".", work_dir="."):
         },
         "dog": {
             "required": ["dog", "puppy", "shiba", "poodle", "retriever", "corgi", "pomeranian", "bulldog"],
-            "exclude": ["cat", "kitty", "kitten", "hamster", "ferret", "rabbit", "bird"]
+            "exclude": ["cat", "cats", "kitty", "kitten", "kittens", "feline", "felines", "hamster", "ferret", "rabbit", "bird"]
         },
         "cat": {
             "required": ["cat", "kitty", "kitten"],
@@ -397,6 +397,18 @@ async def fetch_best_visual(query, api_key, profile_key=".", work_dir="."):
                 add_ctx = ""
                 if not any(k in sq.lower() for k in ["underwater", "ocean", "marine", "sea"]):
                     add_ctx = " underwater"
+                search_term = f"{sq}{add_ctx}"
+            elif config_target == "dog":
+                # Asset Query Guardrail: 犬コンテキストを補完
+                add_ctx = ""
+                if not any(k in sq.lower() for k in ["dog", "puppy", "canine", "pup"]):
+                    add_ctx = " dog"
+                search_term = f"{sq}{add_ctx}"
+            elif config_target == "cat":
+                # Asset Query Guardrail: 猫コンテキストを補完
+                add_ctx = ""
+                if not any(k in sq.lower() for k in ["cat", "kitty", "kitten", "feline"]):
+                    add_ctx = " cat"
                 search_term = f"{sq}{add_ctx}"
             elif is_aesthetic:
                 search_term = f"{sq} landscape"
@@ -611,6 +623,22 @@ async def resolve_local_visual_fallback(profile_key=".", work_dir="."):
                         fallback_key = os.path.basename(os.getcwd())
                         profile_cfg = config_data.get(profile_key) or config_data.get(fallback_key) or list(config_data.values())[0]
                         forbidden_words.extend(profile_cfg.get("forbidden_animals", []))
+                        
+                        # ターゲット動物に関連するキーワードを排除リストから除外
+                        target_animal = profile_cfg.get("target_animal", "")
+                        if not target_animal:
+                            if "dog" in profile_key.lower():
+                                target_animal = "dog"
+                            elif "cat" in profile_key.lower() or "pet" in profile_key.lower():
+                                target_animal = "cat"
+                        
+                        target_keywords = []
+                        if target_animal == "dog":
+                            target_keywords = ["dog", "dogs", "puppy", "puppies", "doggo", "doggos"]
+                        elif target_animal == "cat":
+                            target_keywords = ["cat", "cats", "kitten", "kittens", "kitty", "kitties"]
+                            
+                        forbidden_words = [fw for fw in forbidden_words if fw.lower() not in target_keywords]
                 except Exception:
                     pass
             
@@ -850,6 +878,22 @@ def resolve_video_pool_asset(search_query, topic="", work_dir=".", used_filename
                 fallback_key = os.path.basename(os.getcwd())
                 profile_cfg = config_data.get(fallback_key) or list(config_data.values())[0]
                 forbidden_words.extend(profile_cfg.get("forbidden_animals", []))
+                
+                # ターゲット動物に関連するキーワードを排除リストから除外
+                target_animal = profile_cfg.get("target_animal", "")
+                if not target_animal:
+                    if "dog" in fallback_key.lower():
+                        target_animal = "dog"
+                    elif "cat" in fallback_key.lower() or "pet" in fallback_key.lower():
+                        target_animal = "cat"
+                
+                target_keywords = []
+                if target_animal == "dog":
+                    target_keywords = ["dog", "dogs", "puppy", "puppies", "doggo", "doggos"]
+                elif target_animal == "cat":
+                    target_keywords = ["cat", "cats", "kitten", "kittens", "kitty", "kitties"]
+                    
+                forbidden_words = [fw for fw in forbidden_words if fw.lower() not in target_keywords]
         except Exception:
             pass
             
