@@ -426,12 +426,14 @@ class PromptBuilder:
                - Challenge: "Most People Don't Know..." / "Nobody Expected..."
                - Revelation: "The Truth About..." / "Finally Revealed..."
                - Superlative: "The Most..." / "The Deepest..." / "The Rarest..."
-            2. Each narration script MUST begin with a strong hook in the first 5-7 words:
-               - Question: "Did you know that...?"
-               - Shocking fact: "This creature can survive..."
-               - Contrast: "It looks harmless, but..."
-               - Imperative: "Look at this..." / "Imagine..."
-            3. Do NOT use generic or bland titles like "Amazing X!" or "Cool Facts".
+            2. The title MUST be under 40 characters (Strict Limit).
+            3. Each narration script MUST begin with a high-retention hook within the first 5 words.
+               - BANNED: Never start with "Did you know", "Have you ever wondered", or any generic question formats.
+               - MUST start with one of the following hook styles:
+                 * A bold negative warning (e.g., "Stop ignoring...", "Never let your dog...")
+                 * A shocking direct statement (e.g., "Your dog secretly hates when...")
+                 * An urgent imperative (e.g., "Watch your dog's tail right now...")
+            4. Do NOT use generic or bland titles like "Amazing X!" or "Cool Facts".
             """
 
         schema_instruction = """
@@ -439,8 +441,9 @@ class PromptBuilder:
         [
           {
             "topic": "Specific sub-topic name",
-            "title": "Video title (under 50 chars, MUST use a CTR pattern from the rules above)",
-            "script": "15-second narration (18 to 22 words, MUST start with a strong hook, no emojis, no quotation marks)"
+            "title": "Video title (under 40 chars, STRICT LIMIT, MUST use a CTR pattern from the rules above)",
+            "script": "15-second narration (18 to 22 words, MUST start with a strong hook conforming to the hook rules, no emojis, no quotation marks)",
+            "video_search_query": "2-3 English words describing the exact visual context needed for the hook/body (e.g., 'dog angry barking', 'puppy sleeping couch'). MUST be highly descriptive for Pexels video search."
           }
         ]
         """
