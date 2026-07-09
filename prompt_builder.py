@@ -264,7 +264,7 @@ class PromptBuilder:
             """
         else:
             lang_instruction = f"""
-            Generate exactly {batch_size} independent YouTube Shorts narration scripts about '{base_topic}' in English.
+            Generate exactly {batch_size} independent YouTube Shorts narration scripts in English.
             Output MUST be a valid JSON array matching the schema below. No explanation, no markdown backticks, no markdown blocks.
 
             [CHANNEL CONTENT POLICY - MANDATORY]
