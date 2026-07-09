@@ -887,6 +887,7 @@ async def run_auto_post(work_dir=".", topic=None):
             try:
                 history_log.append({
                     "title": target_item.get("title", ""),
+                    "topic": target_item.get("topic", ""),
                     "script_content": target_item.get("script", ""),
                     "video_ids": target_item.get("video_ids", []),
                     "local_filenames": target_item.get("local_filenames", []),

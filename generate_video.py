@@ -211,33 +211,55 @@ async def fetch_best_visual(query, api_key, profile_key=".", work_dir="."):
         except Exception:
             pass
             
-    # 0. キャッシュファイルと履歴から使用済みビデオIDをロードして重複をブロック
+    # 0. キャッシュファイルと履歴から使用済みビデオIDをロードして重複をブロック（逆引きによる古いID回復を含む）
     used_visual_ids = set()
-    cache_path = os.path.join(work_dir, "script_cache.json")
-    if os.path.exists(cache_path):
-        try:
-            with open(cache_path, "r", encoding="utf-8") as f_cache:
-                cache_data = json.load(f_cache)
-                for item in cache_data.get("items", []):
-                    # status == 'uploaded' のアイテムから使用済みビデオIDを取得
-                    if item.get("status") == "uploaded":
-                        v_ids = item.get("video_ids", [])
-                        for vid in v_ids:
-                            used_visual_ids.add(int(vid))
-        except Exception as ex_cache:
-            print(f"[PEXELS_GUARD_WARN] Failed to read script_cache.json: {ex_cache}")
-
+    history_title_to_ids = {}
     history_path = os.path.join(work_dir, "generated_history.json")
     if os.path.exists(history_path):
         try:
             with open(history_path, "r", encoding="utf-8") as f_hist:
                 history_data = json.load(f_hist)
                 for entry in history_data:
+                    title = entry.get("title", "")
+                    clean_title = title.replace("Doggo Bliss |", "").replace("Doggo Bliss  |", "").strip()
+                    if " | " in clean_title:
+                        clean_title = clean_title.split(" | ", 1)[-1].strip()
                     v_ids = entry.get("video_ids", [])
                     for vid in v_ids:
                         used_visual_ids.add(int(vid))
+                    if clean_title:
+                        history_title_to_ids[clean_title] = v_ids
         except Exception as ex_hist:
             print(f"[WARN] Failed to read generated_history.json in fetch_best_visual: {ex_hist}")
+
+    cache_path = os.path.join(work_dir, "script_cache.json")
+    cache_dirty = False
+    cache_data = None
+    if os.path.exists(cache_path):
+        try:
+            with open(cache_path, "r", encoding="utf-8") as f_cache:
+                cache_data = json.load(f_cache)
+                for item in cache_data.get("items", []):
+                    if item.get("status") == "uploaded":
+                        v_ids = item.get("video_ids", [])
+                        title = item.get("title", "")
+                        # キャッシュ内に video_ids が欠落している場合、履歴から逆引き回復
+                        if not v_ids and title:
+                            clean_title = title.strip()
+                            recovered_ids = history_title_to_ids.get(clean_title)
+                            if recovered_ids:
+                                v_ids = recovered_ids
+                                item["video_ids"] = v_ids
+                                cache_dirty = True
+                                print(f"[PEXELS_GUARD] Recovered Pexels video IDs for title '{title}': {v_ids}")
+                        for vid in v_ids:
+                            used_visual_ids.add(int(vid))
+            if cache_dirty and cache_data:
+                with open(cache_path, "w", encoding="utf-8") as f_write:
+                    json.dump(cache_data, f_write, ensure_ascii=False, indent=2)
+        except Exception as ex_cache:
+            print(f"[PEXELS_GUARD_WARN] Failed to read/write script_cache.json: {ex_cache}")
+            
     print(f"[PEXELS_GUARD] Loaded recently used visual IDs to avoid: {used_visual_ids}")
 
     scene_queries = [q.strip() for q in query.split(',')] if ',' in query else [query]

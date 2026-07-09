@@ -47,25 +47,35 @@ class PromptBuilder:
 
     def load_recent_topics(self, limit=50):
         """
-        重複防止のため、script_cache.json から最近投稿された（uploaded）トピックを読み込む。
+        重複防止のため、script_cache.json と generated_history.json から最近投稿されたトピックを読み込む。
         """
+        topics = []
         if os.path.exists(self.cache_path):
             try:
                 with open(self.cache_path, "r", encoding="utf-8") as f:
                     data = json.load(f)
                     items = data.get("items", [])
-                    topics = []
                     for item in reversed(items):
                         if item.get("status") == "uploaded":
                             topic = item.get("topic")
                             if topic and topic not in topics:
                                 topics.append(topic)
-                            if len(topics) >= limit:
-                                break
-                    return topics
             except Exception as e:
                 print(f"[PROMPT_WARN] Failed to read script cache for topics: {e}")
-        return []
+
+        history_path = os.path.join(self.work_dir, "generated_history.json")
+        if os.path.exists(history_path):
+            try:
+                with open(history_path, "r", encoding="utf-8") as f:
+                    history_data = json.load(f)
+                    for entry in reversed(history_data):
+                        topic = entry.get("topic")
+                        if topic and topic not in topics:
+                            topics.append(topic)
+            except Exception as e:
+                print(f"[PROMPT_WARN] Failed to read history for topics: {e}")
+
+        return topics[:limit]
 
     def load_topic_candidates(self):
         """
@@ -97,25 +107,39 @@ class PromptBuilder:
 
     def load_posted_video_titles(self, limit=100):
         """
-        script_cache.json から status == 'uploaded' のタイトル一覧を取得する。
+        script_cache.json と generated_history.json から status == 'uploaded' のタイトル一覧を取得する。
         """
+        titles = []
         if os.path.exists(self.cache_path):
             try:
                 with open(self.cache_path, "r", encoding="utf-8") as f:
                     data = json.load(f)
                     items = data.get("items", [])
-                    titles = []
                     for item in reversed(items):
                         if item.get("status") == "uploaded":
                             title = item.get("title")
                             if title and title not in titles:
                                 titles.append(title)
-                            if len(titles) >= limit:
-                                break
-                    return titles
             except Exception as e:
                 print(f"[PROMPT_WARN] Failed to read script cache for uploaded titles: {e}")
-        return []
+
+        history_path = os.path.join(self.work_dir, "generated_history.json")
+        if os.path.exists(history_path):
+            try:
+                with open(history_path, "r", encoding="utf-8") as f:
+                    history_data = json.load(f)
+                    for entry in reversed(history_data):
+                        title = entry.get("title")
+                        if title:
+                            clean_title = title.replace("Doggo Bliss |", "").replace("Doggo Bliss  |", "").strip()
+                            if " | " in clean_title:
+                                clean_title = clean_title.split(" | ", 1)[-1].strip()
+                            if clean_title and clean_title not in titles:
+                                titles.append(clean_title)
+            except Exception as e:
+                print(f"[PROMPT_WARN] Failed to read history for uploaded titles: {e}")
+
+        return titles[:limit]
 
     def build_augmented_prompt(self, base_topic, language="en", batch_size=5, reinforce_pct=None, explore_pct=None):
         """動的にパフォーマンスフィードバックと探索比率を注入した拡張メタプロンプトの構成"""
