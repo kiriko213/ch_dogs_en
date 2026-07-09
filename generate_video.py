@@ -252,6 +252,40 @@ async def fetch_best_visual(query, api_key, profile_key=".", work_dir="."):
         "happy puppy running", "cute puppy head tilt", "dog playing garden", "shiba inu smiling"
     ]
     
+    dogs_en_pool = [
+        "dog playing with owner",
+        "happy dog running",
+        "dog playing outdoors",
+        "dog walking park",
+        "dog sleeping peacefully",
+        "dog relaxing at home",
+        "dog training",
+        "dog learning tricks",
+        "dog playing with toy",
+        "dog running grass",
+        "dog jumping",
+        "dog exploring",
+        "dog looking camera",
+        "dog happy reaction",
+        "dog enjoying life",
+        "puppy playing",
+        "puppy exploring",
+        "dog cuddling owner",
+        "dog running beach",
+        "dog walking nature",
+        "dog playing garden",
+        "dog drinking water",
+        "dog eating",
+        "dog resting",
+        "dog watching owner",
+        "dog funny moment",
+        "dog cute behavior",
+        "dog friendship",
+        "dog outdoor adventure",
+        "dog family moment",
+        "dog active lifestyle"
+    ]
+    
     cat_pool = [
         "calico cat playing", "kitty sleeping sunbeam", "cute cat stretching", 
         "fluffy kitten purring", "cat grooming paws", "scottish fold looking up", 
@@ -271,10 +305,46 @@ async def fetch_best_visual(query, api_key, profile_key=".", work_dir="."):
         "meditation candles glowing"
     ]
 
+    # config.json の読み込みと動的フィルタ適用 (P0-5)
+    config_path = os.path.join(work_dir, "config.json")
+    config_forbidden = []
+    config_target = None
+    profile_cfg = {}
+    if os.path.exists(config_path):
+        try:
+            with open(config_path, "r", encoding="utf-8") as f_cfg:
+                config_data = json.load(f_cfg)
+                fallback_key = os.path.basename(os.getcwd())
+                profile_cfg = config_data.get(profile_key) or config_data.get(fallback_key) or list(config_data.values())[0]
+                config_forbidden = profile_cfg.get("forbidden_animals", [])
+                config_target = profile_cfg.get("target_animal")
+        except Exception as e_cfg:
+            print(f"[WARN] Failed to read config.json in fetch_best_visual: {e_cfg}")
+
     is_overwritten = False
     selected_pool = []
     
-    if "dogs_jp" in combined_ctx or "ch_dogs_en" in combined_ctx or "dogs_en" in combined_ctx or "01_dogs_jp" in combined_ctx or "06_dogs" in combined_ctx:
+    # config_target による優先的マッピング
+    if config_target == "dog":
+        if "dogs_en" in combined_ctx or "ch_dogs_en" in combined_ctx:
+            selected_pool = dogs_en_pool
+        else:
+            selected_pool = dog_pool
+        is_overwritten = True
+    elif config_target == "cat":
+        selected_pool = cat_pool
+        is_overwritten = True
+    elif config_target == "hamster":
+        selected_pool = hamster_pool
+        is_overwritten = True
+    elif config_target == "beauty":
+        selected_pool = beauty_pool
+        is_overwritten = True
+    # 既存のフォールバック判定（combined_ctxに基づく）
+    elif "ch_dogs_en" in combined_ctx or "dogs_en" in combined_ctx:
+        selected_pool = dogs_en_pool
+        is_overwritten = True
+    elif "dogs_jp" in combined_ctx or "01_dogs_jp" in combined_ctx or "06_dogs" in combined_ctx:
         selected_pool = dog_pool
         is_overwritten = True
     elif "pets_jp" in combined_ctx or "02_pets_jp" in combined_ctx or "pawvana" in combined_ctx:
@@ -301,22 +371,6 @@ async def fetch_best_visual(query, api_key, profile_key=".", work_dir="."):
     # 必須・排除キーワードの設定
     required_keywords = []
     exclude_keywords = []
-
-    # config.json の読み込みと動的フィルタ適用 (P0-5)
-    config_path = os.path.join(work_dir, "config.json")
-    config_forbidden = []
-    config_target = None
-    profile_cfg = {}
-    if os.path.exists(config_path):
-        try:
-            with open(config_path, "r", encoding="utf-8") as f_cfg:
-                config_data = json.load(f_cfg)
-                fallback_key = os.path.basename(os.getcwd())
-                profile_cfg = config_data.get(profile_key) or config_data.get(fallback_key) or list(config_data.values())[0]
-                config_forbidden = profile_cfg.get("forbidden_animals", [])
-                config_target = profile_cfg.get("target_animal")
-        except Exception as e_cfg:
-            print(f"[WARN] Failed to read config.json in fetch_best_visual: {e_cfg}")
 
     niche_config = {
         "hamster": {
@@ -538,12 +592,14 @@ async def fetch_best_visual(query, api_key, profile_key=".", work_dir="."):
                 
         # QSMスコアの降順でソートし、上位15本を採用
         valid_candidates.sort(key=lambda x: x[2], reverse=True)
-        valid_candidates = valid_candidates[:15]
+        # 高品質スライス（上位15候補）を作成
+        top_candidates = valid_candidates[:15]
         
-        # 必要な本数分、シャッフルされたリストから順に割り当ててダウンロード
-        if len(valid_candidates) >= required_count:
+        # 必要な本数分、高品質スライスからランダムにサンプリングして順序をランダム化する
+        if len(top_candidates) >= required_count:
+            selected_candidates = random.sample(top_candidates, required_count)
             for idx in range(required_count):
-                selected_video, selected_files, qsm_score = valid_candidates[idx]
+                selected_video, selected_files, qsm_score = selected_candidates[idx]
                 video_id = selected_video.get('id')
                 best_file = selected_files[0]
                 dest_path = os.path.join(work_dir, f"temp_bg_{idx}_{video_id}.mp4")
