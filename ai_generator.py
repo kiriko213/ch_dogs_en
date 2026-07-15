@@ -194,6 +194,7 @@ def generate_viral_scripts_batch(topic="health", api_key=None, batch_size=5, lan
         uploaded_concepts = get_uploaded_concepts(cache_path)
         
         seen_batch_concepts = set()
+        seen_hook_frameworks = set()
         valid_items = []
 
         def _normalize_topic(raw):
@@ -250,10 +251,20 @@ def generate_viral_scripts_batch(topic="health", api_key=None, batch_size=5, lan
             if is_near_identical:
                 print(f"[GENERATION_GUARD] Near-identical topic detected for '{item_topic}'. Skipping.")
                 continue
+
+            # D. hook_framework の重複チェック
+            item_framework = item.get("hook_framework")
+            if item_framework:
+                norm_framework = item_framework.strip().lower()
+                if norm_framework in seen_hook_frameworks:
+                    print(f"[GENERATION_GUARD] Duplicate hook_framework detected for '{item_topic}': '{item_framework}'. Skipping.")
+                    continue
             
             # すべてのガードを通過した場合
             valid_items.append(item)
             seen_batch_concepts.update(item_concepts)
+            if item_framework:
+                seen_hook_frameworks.add(item_framework.strip().lower())
 
         # 不足分がある場合、Gemini APIに対して再生成/補充ループを実行する (最大3回リトライ)
         max_retries = 3
@@ -270,6 +281,11 @@ def generate_viral_scripts_batch(topic="health", api_key=None, batch_size=5, lan
                 forbidden_instr = f"\n[FORBIDDEN CONCEPTS / TOPICS]\nDo NOT generate any scripts related to the following concepts:\n"
                 forbidden_instr += "\n".join([f"- {c}" for c in forbidden_list])
                 forbidden_instr += "\nFocus on entirely new canine domains (e.g. nutrition, genetics, vision, hearing, reproduction) that do not overlap with the forbidden list."
+            
+            if seen_hook_frameworks:
+                forbidden_instr += f"\n\n[USED HOOK FRAMEWORKS]\nDo NOT use the following hook_framework values (they are already used in this batch):\n"
+                forbidden_instr += "\n".join([f"- {hw}" for hw in seen_hook_frameworks])
+                forbidden_instr += "\nYou MUST choose from the remaining unused options of [Myth vs Fact, Problem & Solution, Secret Meaning, Warning]."
 
             # リトライ用のプロンプト構築
             retry_prompt = prompt
@@ -325,9 +341,19 @@ def generate_viral_scripts_batch(topic="health", api_key=None, batch_size=5, lan
                             print(f"[GENERATION_GUARD] [RETRY] Near-identical topic for '{item_topic}'. Skipping.")
                             continue
 
+                        # D. hook_framework の重複チェック
+                        item_framework = item.get("hook_framework")
+                        if item_framework:
+                            norm_framework = item_framework.strip().lower()
+                            if norm_framework in seen_hook_frameworks:
+                                print(f"[GENERATION_GUARD] [RETRY] Duplicate hook_framework for '{item_topic}': '{item_framework}'. Skipping.")
+                                continue
+
                         # 合格した場合はマージ
                         valid_items.append(item)
                         seen_batch_concepts.update(item_concepts)
+                        if item_framework:
+                            seen_hook_frameworks.add(item_framework.strip().lower())
             except Exception as retry_err:
                 print(f"[GENERATION_GUARD_WARN] Retry attempt {retry_count} failed: {retry_err}")
                 
