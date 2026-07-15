@@ -197,6 +197,39 @@ def generate_viral_scripts_batch(topic="health", api_key=None, batch_size=5, lan
         seen_hook_frameworks = set()
         valid_items = []
 
+        # 過去のトピック履歴および投稿済みビデオタイトルの取得
+        history_list = []
+        try:
+            from prompt_builder import PromptBuilder
+            pb = PromptBuilder(work_dir=work_dir)
+            posted_titles = pb.load_posted_video_titles(limit=100)
+            posted_topics = pb.load_recent_topics(limit=50)
+            history_list = posted_titles + posted_topics
+        except Exception as e:
+            print(f"[GENERATION_GUARD_WARN] Failed to load history lists: {e}")
+
+        import difflib
+        def _is_similar_to_history(new_topic, history):
+            norm_new = _normalize_topic(new_topic)
+            if not norm_new:
+                return False
+            for hist_item in history:
+                norm_hist = _normalize_topic(hist_item)
+                if not norm_hist:
+                    continue
+                if norm_new == norm_hist:
+                    return True
+                if difflib.SequenceMatcher(None, norm_new, norm_hist).ratio() >= 0.7:
+                    return True
+                words_new = set(norm_new.split())
+                words_hist = set(norm_hist.split())
+                if words_new and words_hist:
+                    overlap = words_new & words_hist
+                    min_len = min(len(words_new), len(words_hist))
+                    if min_len > 0 and len(overlap) / min_len >= 0.70:
+                        return True
+            return False
+
         def _normalize_topic(raw):
             t = raw.lower().strip()
             t = _re.sub(r'[^a-z0-9\s]', '', t)
@@ -259,6 +292,11 @@ def generate_viral_scripts_batch(topic="health", api_key=None, batch_size=5, lan
                 if norm_framework in seen_hook_frameworks:
                     print(f"[GENERATION_GUARD] Duplicate hook_framework detected for '{item_topic}': '{item_framework}'. Skipping.")
                     continue
+
+            # E. 過去の投稿履歴（トピック・タイトル）との類似チェック
+            if history_list and _is_similar_to_history(item_topic, history_list):
+                print(f"[GENERATION_GUARD] Topic '{item_topic}' is semantically similar to history. Skipping.")
+                continue
             
             # すべてのガードを通過した場合
             valid_items.append(item)
@@ -348,6 +386,11 @@ def generate_viral_scripts_batch(topic="health", api_key=None, batch_size=5, lan
                             if norm_framework in seen_hook_frameworks:
                                 print(f"[GENERATION_GUARD] [RETRY] Duplicate hook_framework for '{item_topic}': '{item_framework}'. Skipping.")
                                 continue
+
+                        # E. 過去の投稿履歴（トピック・タイトル）との類似チェック
+                        if history_list and _is_similar_to_history(item_topic, history_list):
+                            print(f"[GENERATION_GUARD] [RETRY] Topic '{item_topic}' is semantically similar to history. Skipping.")
+                            continue
 
                         # 合格した場合はマージ
                         valid_items.append(item)
