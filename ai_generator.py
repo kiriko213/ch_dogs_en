@@ -230,6 +230,41 @@ def generate_viral_scripts_batch(topic="health", api_key=None, batch_size=5, lan
                         return True
             return False
 
+        # 過去のキャッシュアイテム一覧の取得
+        past_items = []
+        try:
+            if os.path.exists(cache_path):
+                with open(cache_path, "r", encoding="utf-8") as f_cache:
+                    cache_data = json.load(f_cache)
+                    past_items = cache_data.get("items", [])
+        except Exception as e:
+            print(f"[GENERATION_GUARD_WARN] Failed to load script_cache items: {e}")
+
+        def _is_duplicate_by_meta(item, other):
+            keys = ["category", "subtopic", "unique_fact", "angle", "region", "age_stage"]
+            def get_val(obj, k):
+                val = obj.get(k)
+                if val is None:
+                    return ""
+                return str(val).strip().lower()
+
+            item_vals = {k: get_val(item, k) for k in keys}
+            other_vals = {k: get_val(other, k) for k in keys}
+
+            # unique_fact が同じ場合、angle も同じなら重複
+            if item_vals["unique_fact"] and item_vals["unique_fact"] == other_vals["unique_fact"]:
+                if item_vals["angle"] == other_vals["angle"]:
+                    return True
+
+            diff_count = 0
+            for k in keys:
+                if item_vals[k] != other_vals[k]:
+                    diff_count += 1
+
+            if diff_count < 3:
+                return True
+            return False
+
         def _normalize_topic(raw):
             t = raw.lower().strip()
             t = _re.sub(r'[^a-z0-9\s]', '', t)
@@ -296,6 +331,21 @@ def generate_viral_scripts_batch(topic="health", api_key=None, batch_size=5, lan
             # E. 過去の投稿履歴（トピック・タイトル）との類似チェック
             if history_list and _is_similar_to_history(item_topic, history_list):
                 print(f"[GENERATION_GUARD] Topic '{item_topic}' is semantically similar to history. Skipping.")
+                continue
+
+            # F. メタデータ（6要素）による重複チェック
+            is_meta_dup = False
+            for past_item in past_items:
+                if _is_duplicate_by_meta(item, past_item):
+                    is_meta_dup = True
+                    break
+            if not is_meta_dup:
+                for prev_item in valid_items:
+                    if _is_duplicate_by_meta(item, prev_item):
+                        is_meta_dup = True
+                        break
+            if is_meta_dup:
+                print(f"[GENERATION_GUARD] Metadata duplication detected for '{item_topic}'. Skipping.")
                 continue
             
             # すべてのガードを通過した場合
@@ -390,6 +440,21 @@ def generate_viral_scripts_batch(topic="health", api_key=None, batch_size=5, lan
                         # E. 過去の投稿履歴（トピック・タイトル）との類似チェック
                         if history_list and _is_similar_to_history(item_topic, history_list):
                             print(f"[GENERATION_GUARD] [RETRY] Topic '{item_topic}' is semantically similar to history. Skipping.")
+                            continue
+
+                        # F. メタデータ（6要素）による重複チェック
+                        is_meta_dup = False
+                        for past_item in past_items:
+                            if _is_duplicate_by_meta(item, past_item):
+                                is_meta_dup = True
+                                break
+                        if not is_meta_dup:
+                            for prev_item in valid_items:
+                                if _is_duplicate_by_meta(item, prev_item):
+                                    is_meta_dup = True
+                                    break
+                        if is_meta_dup:
+                            print(f"[GENERATION_GUARD] [RETRY] Metadata duplication for '{item_topic}'. Skipping.")
                             continue
 
                         # 合格した場合はマージ
