@@ -458,6 +458,7 @@ class PromptBuilder:
                  * A shocking direct statement (e.g., "Your dog secretly hates when...")
                  * An urgent imperative (e.g., "Watch your dog's tail right now...")
             4. Do NOT use generic or bland titles like "Amazing X!" or "Cool Facts".
+            5. [MANDATORY] Every script in this batch of 5 MUST use a different hook_framework. No two scripts may use the same hook_framework.
             """
 
         schema_instruction = """
@@ -468,7 +469,13 @@ class PromptBuilder:
             "title": "Video title (under 40 chars, STRICT LIMIT, MUST use a CTR pattern from the rules above)",
             "hook_framework": "MUST choose one: [Myth vs Fact, Problem & Solution, Secret Meaning, Warning]. This defines the structure.",
             "script": "15-second narration (18 to 22 words). MUST start with a strong hook based on 'hook_framework'. MUST end with a specific physical action for the owner to take. No emojis, no quotation marks.",
-            "video_search_query": "2-3 English words describing the exact visual context needed for the hook/body (e.g., 'dog angry barking', 'puppy sleeping couch'). MUST be highly descriptive for Pexels video search."
+            "video_search_query": "2-3 English words describing the exact visual context needed for the hook/body (e.g., 'dog angry barking', 'puppy sleeping couch'). MUST be highly descriptive for Pexels video search.",
+            "category": "Main category (e.g., Behavior, Health, Trivia)",
+            "subtopic": "Subtopic classification (e.g., Emotion, Physical, Culture)",
+            "unique_fact": "The core unique fact of this video",
+            "angle": "Perspective (e.g., Science, History, Action)",
+            "region": "Target region or context (e.g., US, UK, Global)",
+            "development_stage": "Target life stage (Dog: Puppy/Adult/Senior, Aquatic: Larval/Juvenile/Adult/Colony)"
           }
         ]
         """
