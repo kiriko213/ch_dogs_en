@@ -1059,18 +1059,49 @@ async def assemble_video_professional(script, asset_path, asset_type, bgm_path, 
         else:
             raw_sections = [cleanse_japanese_text(s) for s in raw_sections]
             
-        n = len(raw_sections)
-        if n > 2:
-            # 強制的に2シーン（前半・後半）に統合する
-            if is_ja_channel:
-                sections = ["".join(raw_sections[:n//2]), "".join(raw_sections[n//2:])]
-            else:
-                sections = [" ".join(raw_sections[:n//2]), " ".join(raw_sections[n//2:])]
-        elif n == 2:
-            sections = raw_sections
+        # 1. 字幕と音声のための細かいセグメント分割
+        if is_ja_channel:
+            # 読点（、）や句点（。）などの区切り文字で分割
+            raw_sections = [s.strip() for s in re.split(r'(?<=[。！!？\?\n、])', script) if s.strip()]
+            # 各セグメントが長すぎる（例えば 24文字を超える）場合は、20文字程度で分割する
+            fine_sections = []
+            for sec in raw_sections:
+                while len(sec) > 24:
+                    fine_sections.append(sec[:20])
+                    sec = sec[20:]
+                if sec:
+                    fine_sections.append(sec)
+            sections = fine_sections
         else:
-            # 1文しか生成されなかった場合の安全弁
-            sections = raw_sections
+            # 英語の場合は、句点（. ! ?）およびカンマ（,）で分割（look-behindのエラーを回避するため単純分割のあと修復）
+            raw_splits = [s.strip() for s in re.split(r'(?<=[.!?,\n])\s*', script) if s.strip()]
+            abbreviations = {"mr", "ms", "dr", "vs", "e.g", "i.e"}
+            raw_sections = []
+            temp_sec = ""
+            for part in raw_splits:
+                if temp_sec:
+                    last_words = temp_sec.split()
+                    if last_words and last_words[-1].lower().rstrip('.') in abbreviations:
+                        temp_sec += " " + part
+                        continue
+                    else:
+                        raw_sections.append(temp_sec)
+                        temp_sec = part
+                else:
+                    temp_sec = part
+            if temp_sec:
+                raw_sections.append(temp_sec)
+
+            # 各セグメントが長すぎる（例えば 8ワードを超える）場合は、ワード数で分割する
+            fine_sections = []
+            for sec in raw_sections:
+                words = sec.split()
+                while len(words) > 8:
+                    fine_sections.append(" ".join(words[:6]))
+                    words = words[6:]
+                if words:
+                    fine_sections.append(" ".join(words))
+            sections = [s for s in fine_sections if s.strip()]
 
         if not is_ja_channel:
             sections = [normalize_english_text(s) for s in sections]
@@ -1078,6 +1109,9 @@ async def assemble_video_professional(script, asset_path, asset_type, bgm_path, 
             sections = [re.sub(r"\bIt\s+s\b", "It's", s, flags=re.IGNORECASE) for s in sections]
         else:
             sections = [cleanse_japanese_text(s) for s in sections]
+
+        # 空のセグメントを除外
+        sections = [s for s in sections if s.strip()]
 
         temp_dir = os.path.join(work_dir, "temp_audio")
         os.makedirs(temp_dir, exist_ok=True)
