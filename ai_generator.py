@@ -165,7 +165,7 @@ def generate_viral_scripts_batch(topic="health", api_key=None, batch_size=5, lan
               {{
                 "topic": "Specific sub-topic name",
                 "title": "Video title (under 50 chars)",
-                "script": "15-second narration (18 to 22 words). MUST be written in exactly 3 distinct sentences: Hook, Development, and Conclusion, ensuring each part ends with a clear punctuation mark (like a period). Output only the narration text, no emojis, no quotation marks."
+                "script": "15-second narration (20 to 25 words). MUST be written in exactly 3 distinct sentences: Hook, Development, and Call to Action. MUST end with a short question asking the viewer about their own dog to drive comments. Output only the narration text, no emojis, no quotation marks."
               }}
             ]
             """
