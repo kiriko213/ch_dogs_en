@@ -13,11 +13,11 @@ class TitleIntelligenceEngine:
         self.title_registry_path = os.path.join(work_dir, title_registry_file)
         
         self.default_patterns = [
-            "The Truth About {Topic}",
-            "5 Secrets of {Topic}",
-            "{Topic}'s Deepest Secrets",
-            "This {Topic} Will Shock You",
-            "The Most Dangerous {Topic}"
+            "Why Your Dog {Topic}",
+            "Understanding Dog {Topic}",
+            "The Secret Behind {Topic}",
+            "What {Topic} Means",
+            "How Dogs Show {Topic}"
         ]
 
     def _load_json(self, path):
@@ -162,11 +162,11 @@ class TitleIntelligenceEngine:
         # --- 2. curiosity_score (最大 30点) ---
         # 5つの要素：mystery, surprise, hidden truth, danger, rare facts
         curiosity_categories = {
-            "mystery": ["secrets", "mystery", "unknown", "hidden", "dark"],
-            "surprise": ["shock", "believe", "never", "magic", "unexpected"],
-            "hidden truth": ["truth", "exposed", "revealed", "lies"],
-            "danger": ["dangerous", "deadly", "killer", "venomous", "attack"],
-            "rare facts": ["rare", "facts", "amazing", "bizarre", "weird", "strangest"]
+            "affection": ["love", "bond", "trust", "heart", "happy", "affection"],
+            "behavior": ["signals", "language", "meaning", "communication", "tells"],
+            "curiosity": ["why", "reason", "secret", "fascinating", "wonder"],
+            "science": ["vision", "mind", "senses", "brain", "understand"],
+            "care": ["comfort", "health", "care", "gentle", "help"]
         }
         curiosity_score = 0.0
         for category, words in curiosity_categories.items():

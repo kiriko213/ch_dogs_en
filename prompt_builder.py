@@ -438,26 +438,22 @@ class PromptBuilder:
         else:
             hook_rules = f"""
             [Title & Hook Optimization Rules]
-            ■ Winning Title Structures from previous top-performing videos (Use or adapt these structures if applicable):
-            {os.linesep.join(title_patterns) if title_patterns else "- None (Use standard CTR patterns below)"}
+            ■ Winning Title Structures from previous top-performing videos:
+            {os.linesep.join(title_patterns) if title_patterns else "- None (Use standard patterns below)"}
 
-            ■ Winning Hook Structures from previous top-performing videos (Use these types/examples as inspiration):
-            {os.linesep.join(hook_patterns) if hook_patterns else "- None (Use standard hook patterns below)"}
-
-            1. Each title MUST use one of these high-CTR patterns:
-               - Curiosity gap: "This X Can..." / "You Won't Believe..."
-               - Number hook: "5 Secrets of..." / "3 Facts About..."
-               - Challenge: "Most People Don't Know..." / "Nobody Expected..."
-               - Revelation: "The Truth About..." / "Finally Revealed..."
-               - Superlative: "The Most..." / "The Deepest..." / "The Rarest..."
+            1. Each title MUST use one of these natural, empathy-driven patterns:
+               - Behavior meaning: "What Your Dog's [Action] Really Means"
+               - Affection/Bond: "How to Tell if Your Dog [Loves You/Trusts You]"
+               - Science/Facts: "The Fascinating Reason Dogs [Do X]"
+               - Gentle advice: "Why You Should [Positive Action] With Your Dog"
             2. The title MUST be under 40 characters (Strict Limit).
-            3. Each narration script MUST begin with a high-retention hook within the first 5 words.
-               - BANNED: Never start with "Did you know", "Have you ever wondered", or any generic question formats.
+            3. Each narration script MUST begin with a gentle, engaging hook within the first 5 words.
+               - BANNED: Never use clickbait, fear-mongering, or aggressive words like "Dangerous", "Stop", "Never", "Secretly hates".
                - MUST start with one of the following hook styles:
-                 * A bold negative warning (e.g., "Stop ignoring...", "Never let your dog...")
-                 * A shocking direct statement (e.g., "Your dog secretly hates when...")
-                 * An urgent imperative (e.g., "Watch your dog's tail right now...")
-            4. Do NOT use generic or bland titles like "Amazing X!" or "Cool Facts".
+                 * A fascinating fact (e.g., "Your dog actually sees...")
+                 * An empathetic observation (e.g., "When your dog leans on you...")
+                 * A heartwarming tip (e.g., "To build a stronger bond...")
+            4. Do NOT use generic or overly sensational titles.
             5. [MANDATORY] Every script in this batch of 5 MUST use a different hook_framework. No two scripts may use the same hook_framework.
             """
 
