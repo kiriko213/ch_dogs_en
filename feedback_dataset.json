@@ -1,0 +1,25 @@
+{
+  "feedback_version": 1,
+  "generated_at": "2026-07-17T22:04:11.670106Z",
+  "top_topics": [
+    {
+      "topic": "Dog vocal communication",
+      "category": "default",
+      "score": 31.03,
+      "views": 271
+    },
+    {
+      "topic": "Dog episodic memory",
+      "category": "default",
+      "score": 27.95,
+      "views": 265
+    },
+    {
+      "topic": "Canine olfactory sense",
+      "category": "default",
+      "score": 26.04,
+      "views": 237
+    }
+  ],
+  "underperforming_topics": []
+}

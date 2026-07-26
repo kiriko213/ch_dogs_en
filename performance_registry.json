@@ -1,11 +1,81 @@
 {
   "channel": "ch_dogs_en",
-  "updated_at": "",
-  "average_views": 0.0,
+  "updated_at": "2026-07-17T22:04:11.668329Z",
+  "average_views": 257.67,
   "summary": {
-    "total_videos_tracked": 0,
+    "total_videos_tracked": 3,
     "top_performing_category": "default",
     "lowest_performing_category": "default"
   },
-  "items": []
+  "items": [
+    {
+      "video_id": "YLjPJ60-U7Q",
+      "cache_item_id": "aq_1781959946_0",
+      "topic": "Dog episodic memory",
+      "category": "default",
+      "title": "Dog Episodic Memory's Deepest Secrets",
+      "first_tracked_at": "2026-06-22T13:55:43.070877Z",
+      "last_updated_at": "2026-07-17T22:04:11.653553Z",
+      "metrics": {
+        "views": 265,
+        "likes": 2,
+        "comments": 0,
+        "retention": null,
+        "ctr": null,
+        "subscribers_gained": null,
+        "apv": null,
+        "avd": null
+      },
+      "performance_score": 29.55,
+      "performance_score_v1": 31.75,
+      "performance_score_v2": 27.95,
+      "cgs_score": 29.55
+    },
+    {
+      "video_id": "rR_qYus7ivE",
+      "cache_item_id": "aq_1781959946_1",
+      "topic": "Canine olfactory sense",
+      "category": "default",
+      "title": "The Truth About Dog Noses",
+      "first_tracked_at": "2026-06-20T13:51:28.810023Z",
+      "last_updated_at": "2026-07-17T22:04:11.668159Z",
+      "metrics": {
+        "views": 237,
+        "likes": 2,
+        "comments": 0,
+        "retention": null,
+        "ctr": null,
+        "subscribers_gained": null,
+        "apv": null,
+        "avd": null
+      },
+      "performance_score": 27.49,
+      "performance_score_v1": 29.75,
+      "performance_score_v2": 26.04,
+      "cgs_score": 27.49
+    },
+    {
+      "video_id": "HXcXSfrEMR4",
+      "cache_item_id": "aq_1781959946_2",
+      "topic": "Dog vocal communication",
+      "category": "default",
+      "title": "This Dog Vocal Communication Will Shock You",
+      "first_tracked_at": "2026-07-17T22:04:11.668259Z",
+      "last_updated_at": "2026-07-17T22:04:11.668259Z",
+      "metrics": {
+        "views": 271,
+        "likes": 0,
+        "comments": 0,
+        "retention": null,
+        "ctr": null,
+        "subscribers_gained": null,
+        "apv": null,
+        "avd": null
+      },
+      "performance_score": 30.23,
+      "performance_score_v1": 26.29,
+      "performance_score_v2": 31.03,
+      "cgs_score": 30.23
+    }
+  ]
 }

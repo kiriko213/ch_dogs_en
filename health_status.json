@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-06-14T05:43:30.058280Z",
-  "status": "degraded",
+  "timestamp": "2026-07-17T22:04:29.509131Z",
+  "status": "healthy",
   "components": {
     "gemini_api": {
-      "status": "error",
-      "details": "missing_key"
+      "status": "healthy",
+      "details": "configured"
     },
     "youtube_api": {
       "status": "healthy",

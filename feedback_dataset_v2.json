@@ -1,18 +1,78 @@
 {
   "feedback_version": 2,
-  "generated_at": "",
+  "generated_at": "2026-07-17T22:04:29.626975Z",
   "channel": "ch_dogs_en",
   "metadata": {
-    "total_videos_analyzed": 0,
+    "total_videos_analyzed": 3,
     "analytics_api_available": false,
     "cgs_mode": "alpha",
     "data_freshness_hours": 72,
     "pattern_extraction_enabled": true
   },
-  "winning_topics": [],
+  "winning_topics": [
+    {
+      "topic": "Dog vocal communication",
+      "category": "default",
+      "cgs": 30.23,
+      "ctr": null,
+      "apv": null,
+      "avd": null,
+      "views": 271
+    },
+    {
+      "topic": "Dog episodic memory",
+      "category": "default",
+      "cgs": 29.55,
+      "ctr": null,
+      "apv": null,
+      "avd": null,
+      "views": 265
+    },
+    {
+      "topic": "Canine olfactory sense",
+      "category": "default",
+      "cgs": 27.49,
+      "ctr": null,
+      "apv": null,
+      "avd": null,
+      "views": 237
+    }
+  ],
   "losing_topics": [],
-  "winning_title_patterns": [],
-  "winning_hook_patterns": [],
+  "winning_title_patterns": [
+    {
+      "pattern": "{Topic} Episodic Memory's Deepest Secrets",
+      "frequency": 2,
+      "example": "Dog Episodic Memory's Deepest Secrets",
+      "source": "title_curiosity_patterns"
+    },
+    {
+      "pattern": "The Truth About {Topic} Noses",
+      "frequency": 2,
+      "example": "The Truth About Dog Noses",
+      "source": "title_curiosity_patterns"
+    },
+    {
+      "pattern": "{Number} Secrets of {Topic} Hearing Abilities",
+      "frequency": 1,
+      "example": "5 Secrets of Canine Hearing Abilities",
+      "source": "title_curiosity_patterns"
+    }
+  ],
+  "winning_hook_patterns": [
+    {
+      "hook_type": "questioning",
+      "frequency": 1,
+      "example_opening": "Did you know dogs remember specific events? They possess episodic-like memory, recalling past actions with surprising detail.",
+      "source": "opening_hook_patterns"
+    },
+    {
+      "hook_type": "imperative",
+      "frequency": 1,
+      "example_opening": "Imagine smelling a teaspoon of sugar in two Olympic pools.",
+      "source": "opening_hook_patterns"
+    }
+  ],
   "toxic_combinations": [],
   "growth_signals": {
     "total_subscribers_gained": 0,
@@ -21,6 +81,6 @@
   "exploration_ratio": {
     "reinforce_pct": 80,
     "explore_pct": 20,
-    "adjusted_by": "low_cgs_average_0.0"
+    "adjusted_by": "low_cgs_average_29.1"
   }
 }

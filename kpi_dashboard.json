@@ -1,5 +1,29 @@
 {
-  "channel": "ch_dogs_en",
-  "updated_at": "",
-  "kpis": {}
+  "generated_at": "2026-07-17T22:12:12.198932Z",
+  "kpis": {
+    "uploads": 3,
+    "views": 773,
+    "ctr_average": 0.0,
+    "apv_average": 0.0,
+    "subscribers_gained": 0,
+    "cgs_average": 29.09,
+    "top_topics": [
+      "Dog vocal communication",
+      "Dog episodic memory",
+      "Canine olfactory sense"
+    ],
+    "top_titles": [
+      "The Truth About Dog Noses",
+      "Dog Episodic Memory's Deepest Secrets",
+      "This Dog Vocal Communication Will Shock You"
+    ]
+  },
+  "production_metrics": {
+    "success_rate_percent": 25.0,
+    "failure_rate_percent": 75.0,
+    "retry_rate_percent": 16.67,
+    "upload_latency_seconds": 9.12,
+    "generation_latency_seconds": 364.52
+  },
+  "warnings": []
 }

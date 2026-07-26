@@ -1,4 +1,55 @@
 {
-  "generated_at": "",
-  "top_candidates": []
+  "generated_at": "2026-07-17T22:04:29.665858Z",
+  "top_candidates": [
+    {
+      "topic": "dog communication",
+      "score": 100,
+      "category": "dog_communication"
+    },
+    {
+      "topic": "dog psychology",
+      "score": 87,
+      "category": "dog_psychology"
+    },
+    {
+      "topic": "dog training secrets",
+      "score": 87,
+      "category": "dog_training"
+    },
+    {
+      "topic": "amazing dog abilities",
+      "score": 87,
+      "category": "dog_intelligence"
+    },
+    {
+      "topic": "dog owner tips",
+      "score": 87,
+      "category": "dog_owner_tips"
+    },
+    {
+      "topic": "dog behavior mysteries",
+      "score": 87,
+      "category": "dog_psychology"
+    },
+    {
+      "topic": "dog life hacks",
+      "score": 87,
+      "category": "dog_owner_tips"
+    },
+    {
+      "topic": "dog health facts",
+      "score": 81,
+      "category": "dog_health"
+    },
+    {
+      "topic": "The Truth About Dog psychology",
+      "score": 81,
+      "category": "dog_psychology"
+    },
+    {
+      "topic": "The Truth About Dog training secrets",
+      "score": 81,
+      "category": "dog_training"
+    }
+  ]
 }
