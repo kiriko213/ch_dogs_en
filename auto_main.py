@@ -798,7 +798,8 @@ async def run_auto_post(work_dir=".", topic=None):
             },
             'status': {
                 'privacyStatus': 'private' if scheduled_for_iso else 'public',
-                'selfDeclaredMadeForKids': False
+                'selfDeclaredMadeForKids': False,
+                'containsSyntheticMedia': True
             }
         }
         

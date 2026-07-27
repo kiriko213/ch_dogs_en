@@ -1163,6 +1163,7 @@ async def assemble_video_professional(script, asset_path, asset_type, bgm_path, 
                 
                 # ループするか切り取る
                 bg_clip = bg_clip.fx(vfx.loop, duration=clip_dur) if bg_clip.duration < clip_dur else bg_clip.subclip(0, clip_dur)
+                bg_clip = bg_clip.fx(vfx.mirror_x)
                 bg_clips.append(bg_clip.set_start(t_start))
                 t_start += dur
                 

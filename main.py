@@ -250,7 +250,8 @@ def upload_to_youtube(service, video_file, title, description, tags):
         },
         'status': {
             'privacyStatus': 'public',
-            'selfDeclaredMadeForKids': False
+            'selfDeclaredMadeForKids': False,
+            'containsSyntheticMedia': True
         }
     }
     print(f"[INFO] プライバシー設定: {body['status']['privacyStatus']}")
