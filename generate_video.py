@@ -6,6 +6,7 @@ import edge_tts
 import json
 import gtts
 from moviepy.editor import VideoFileClip, TextClip, CompositeVideoClip, AudioFileClip, ImageClip, ColorClip, concatenate_videoclips, CompositeAudioClip, vfx, afx
+from moviepy.video.io.ffmpeg_writer import ffmpeg_write_video
 from PIL import Image, ImageDraw, ImageFont, ImageFilter
 import numpy as np
 
@@ -776,8 +777,8 @@ async def resolve_local_visual_fallback(profile_key=".", work_dir="."):
             theme_color = (30, 30, 30) # チャコール
             
         print(f"[FALLBACK] Selected theme color {theme_color} for profile: {profile_key}")
-        clip = ColorClip(size=(1080, 1920), color=theme_color, duration=16.5)
-        clip.write_videofile(fallback_path, fps=30, codec="libx264", audio=False)
+        clip = ColorClip(size=(1080, 1920), color=theme_color, duration=16.5).set_fps(30)
+        ffmpeg_write_video(clip, fallback_path, 30, codec="libx264", audiofile=None)
         clip.close()
         print(f"[FALLBACK] ColorClip background generated at: {fallback_path}")
         return fallback_path, "video"
@@ -1152,7 +1153,7 @@ async def assemble_video_professional(script, asset_path, asset_type, bgm_path, 
                 if clip_dur <= 0:
                     break
                     
-                raw_bg = VideoFileClip(p).without_audio()
+                raw_bg = VideoFileClip(p).without_audio().set_fps(30)
                 raw_bgs.append(raw_bg)
                 src_w, src_h = raw_bg.size
                 scale_w = TARGET_W / src_w
@@ -1164,11 +1165,13 @@ async def assemble_video_professional(script, asset_path, asset_type, bgm_path, 
                 # ループするか切り取る
                 bg_clip = bg_clip.fx(vfx.loop, duration=clip_dur) if bg_clip.duration < clip_dur else bg_clip.subclip(0, clip_dur)
                 bg_clip = bg_clip.fx(vfx.mirror_x)
+                bg_clip.fps = 30
                 bg_clips.append(bg_clip.set_start(t_start))
                 t_start += dur
                 
             # 背景クリップを結合
             bg = CompositeVideoClip(bg_clips, size=(TARGET_W, TARGET_H)).set_duration(duration)
+            bg = bg.set_fps(30)
         else:
             print("[FATAL_ERROR] Background video assets are missing. ColorClip is strictly PROHIBITED.")
             import sys
@@ -1188,7 +1191,8 @@ async def assemble_video_professional(script, asset_path, asset_type, bgm_path, 
             img = create_boxed_text_image(wrapped_txt, is_ja_channel=is_ja_channel)
             img_p = os.path.join(temp_dir, f"t_{i}.png")
             img.save(img_p)
-            subs.append(ImageClip(img_p).set_start(t_curr).set_duration(dur))
+            sub_clip = ImageClip(img_p).set_start(t_curr).set_duration(dur).set_fps(30)
+            subs.append(sub_clip)
             t_curr += dur
 
         # ■ バグ修正(無音化): BGM合成時もdurationを明示
@@ -1208,11 +1212,13 @@ async def assemble_video_professional(script, asset_path, asset_type, bgm_path, 
         # PASS 1: 映像のみ（音声なし）を書き出し
         print("[2PASS] Writing video track (no audio)...")
         composite = CompositeVideoClip([bg] + subs, size=(TARGET_W, TARGET_H)).set_duration(duration)
-        composite.write_videofile(
+        composite = composite.set_fps(30)
+        ffmpeg_write_video(
+            composite,
             temp_video_noaudio,
-            fps=30,
+            30,
             codec="libx264",
-            audio=False,
+            audiofile=None,
             ffmpeg_params=["-pix_fmt", "yuv420p"]
         )
         
