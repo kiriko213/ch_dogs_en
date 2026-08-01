@@ -30,7 +30,7 @@ def generate_viral_script(topic="health", channel_context="", api_key=None, feed
         else:
             genai.configure(api_key=api_key)
 
-    model = genai.GenerativeModel('gemini-1.5-flash')
+    model = genai.GenerativeModel('gemini-flash-latest')
 
     # エコモード用極短プロンプト（コンテキストを完全排除）
     if language == "ja":
@@ -129,7 +129,7 @@ def generate_viral_scripts_batch(topic="health", api_key=None, batch_size=5, lan
 
     # JSONレスポンス出力を強制するための設定
     model = genai.GenerativeModel(
-        'gemini-1.5-flash',
+        'gemini-flash-latest',
         generation_config={"response_mime_type": "application/json"}
     )
 
