@@ -1,55 +1,55 @@
 {
   "feedback_version": 2,
-  "generated_at": "2026-07-17T22:04:29.626975Z",
+  "generated_at": "2026-08-01T13:48:53.827657Z",
   "channel": "ch_dogs_en",
   "metadata": {
     "total_videos_analyzed": 3,
-    "analytics_api_available": false,
-    "cgs_mode": "alpha",
+    "analytics_api_available": true,
+    "cgs_mode": "beta",
     "data_freshness_hours": 72,
     "pattern_extraction_enabled": true
   },
   "winning_topics": [
     {
-      "topic": "Dog vocal communication",
+      "topic": "Canine olfactory sense",
       "category": "default",
-      "cgs": 30.23,
-      "ctr": null,
-      "apv": null,
-      "avd": null,
-      "views": 271
+      "cgs": 68.93,
+      "ctr": 237.0,
+      "apv": 88.32,
+      "avd": 10.0,
+      "views": 237
     },
     {
       "topic": "Dog episodic memory",
       "category": "default",
-      "cgs": 29.55,
-      "ctr": null,
-      "apv": null,
-      "avd": null,
+      "cgs": 67.36,
+      "ctr": 265.0,
+      "apv": 73.96,
+      "avd": 9.0,
       "views": 265
     },
     {
-      "topic": "Canine olfactory sense",
+      "topic": "Dog vocal communication",
       "category": "default",
-      "cgs": 27.49,
-      "ctr": null,
-      "apv": null,
-      "avd": null,
-      "views": 237
+      "cgs": 67.22,
+      "ctr": 271.0,
+      "apv": 87.19,
+      "avd": 10.0,
+      "views": 271
     }
   ],
   "losing_topics": [],
   "winning_title_patterns": [
     {
-      "pattern": "{Topic} Episodic Memory's Deepest Secrets",
-      "frequency": 2,
-      "example": "Dog Episodic Memory's Deepest Secrets",
-      "source": "title_curiosity_patterns"
-    },
-    {
       "pattern": "The Truth About {Topic} Noses",
       "frequency": 2,
       "example": "The Truth About Dog Noses",
+      "source": "title_curiosity_patterns"
+    },
+    {
+      "pattern": "{Topic} Episodic Memory's Deepest Secrets",
+      "frequency": 2,
+      "example": "Dog Episodic Memory's Deepest Secrets",
       "source": "title_curiosity_patterns"
     },
     {
@@ -61,15 +61,15 @@
   ],
   "winning_hook_patterns": [
     {
-      "hook_type": "questioning",
-      "frequency": 1,
-      "example_opening": "Did you know dogs remember specific events? They possess episodic-like memory, recalling past actions with surprising detail.",
-      "source": "opening_hook_patterns"
-    },
-    {
       "hook_type": "imperative",
       "frequency": 1,
       "example_opening": "Imagine smelling a teaspoon of sugar in two Olympic pools.",
+      "source": "opening_hook_patterns"
+    },
+    {
+      "hook_type": "questioning",
+      "frequency": 1,
+      "example_opening": "Did you know dogs remember specific events? They possess episodic-like memory, recalling past actions with surprising detail.",
       "source": "opening_hook_patterns"
     }
   ],
@@ -81,6 +81,6 @@
   "exploration_ratio": {
     "reinforce_pct": 80,
     "explore_pct": 20,
-    "adjusted_by": "low_cgs_average_29.1"
+    "adjusted_by": "low_cgs_average_67.8"
   }
 }

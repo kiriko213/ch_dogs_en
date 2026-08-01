@@ -1,55 +1,55 @@
 {
-  "generated_at": "2026-07-17T22:04:29.665858Z",
+  "generated_at": "2026-08-01T13:48:53.837544Z",
   "top_candidates": [
     {
-      "topic": "dog communication",
+      "topic": "dog body language",
       "score": 100,
       "category": "dog_communication"
     },
     {
       "topic": "dog psychology",
-      "score": 87,
+      "score": 94,
       "category": "dog_psychology"
-    },
-    {
-      "topic": "dog training secrets",
-      "score": 87,
-      "category": "dog_training"
     },
     {
       "topic": "amazing dog abilities",
-      "score": 87,
+      "score": 94,
       "category": "dog_intelligence"
     },
     {
-      "topic": "dog owner tips",
-      "score": 87,
-      "category": "dog_owner_tips"
-    },
-    {
-      "topic": "dog behavior mysteries",
-      "score": 87,
-      "category": "dog_psychology"
-    },
-    {
-      "topic": "dog life hacks",
-      "score": 87,
-      "category": "dog_owner_tips"
-    },
-    {
       "topic": "dog health facts",
-      "score": 81,
+      "score": 94,
       "category": "dog_health"
     },
     {
-      "topic": "The Truth About Dog psychology",
-      "score": 81,
-      "category": "dog_psychology"
+      "topic": "dog owner tips",
+      "score": 94,
+      "category": "dog_owner_tips"
     },
     {
-      "topic": "The Truth About Dog training secrets",
-      "score": 81,
-      "category": "dog_training"
+      "topic": "dog life hacks",
+      "score": 94,
+      "category": "dog_owner_tips"
+    },
+    {
+      "topic": "The Truth About Dog owner tips",
+      "score": 94,
+      "category": "dog_owner_tips"
+    },
+    {
+      "topic": "Dog owner tips Most People Don't Know",
+      "score": 94,
+      "category": "dog_owner_tips"
+    },
+    {
+      "topic": "The Truth About Dog life hacks",
+      "score": 94,
+      "category": "dog_owner_tips"
+    },
+    {
+      "topic": "Dog life hacks Most People Don't Know",
+      "score": 94,
+      "category": "dog_owner_tips"
     }
   ]
 }

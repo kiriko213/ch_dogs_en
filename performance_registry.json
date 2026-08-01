@@ -1,6 +1,6 @@
 {
   "channel": "ch_dogs_en",
-  "updated_at": "2026-07-17T22:04:11.668329Z",
+  "updated_at": "2026-08-01T13:48:53.045334Z",
   "average_views": 257.67,
   "summary": {
     "total_videos_tracked": 3,
@@ -15,21 +15,21 @@
       "category": "default",
       "title": "Dog Episodic Memory's Deepest Secrets",
       "first_tracked_at": "2026-06-22T13:55:43.070877Z",
-      "last_updated_at": "2026-07-17T22:04:11.653553Z",
+      "last_updated_at": "2026-08-01T13:48:53.026639Z",
       "metrics": {
         "views": 265,
         "likes": 2,
         "comments": 0,
-        "retention": null,
-        "ctr": null,
-        "subscribers_gained": null,
-        "apv": null,
-        "avd": null
+        "retention": 73.96,
+        "ctr": 265.0,
+        "subscribers_gained": 0,
+        "apv": 73.96,
+        "avd": 9.0
       },
-      "performance_score": 29.55,
+      "performance_score": 67.36,
       "performance_score_v1": 31.75,
-      "performance_score_v2": 27.95,
-      "cgs_score": 29.55
+      "performance_score_v2": 26.48,
+      "cgs_score": 67.36
     },
     {
       "video_id": "rR_qYus7ivE",
@@ -38,21 +38,21 @@
       "category": "default",
       "title": "The Truth About Dog Noses",
       "first_tracked_at": "2026-06-20T13:51:28.810023Z",
-      "last_updated_at": "2026-07-17T22:04:11.668159Z",
+      "last_updated_at": "2026-08-01T13:48:53.045245Z",
       "metrics": {
         "views": 237,
         "likes": 2,
         "comments": 0,
-        "retention": null,
-        "ctr": null,
-        "subscribers_gained": null,
-        "apv": null,
-        "avd": null
+        "retention": 88.32,
+        "ctr": 237.0,
+        "subscribers_gained": 0,
+        "apv": 88.32,
+        "avd": 10.0
       },
-      "performance_score": 27.49,
+      "performance_score": 68.93,
       "performance_score_v1": 29.75,
-      "performance_score_v2": 26.04,
-      "cgs_score": 27.49
+      "performance_score_v2": 24.71,
+      "cgs_score": 68.93
     },
     {
       "video_id": "HXcXSfrEMR4",
@@ -61,21 +61,21 @@
       "category": "default",
       "title": "This Dog Vocal Communication Will Shock You",
       "first_tracked_at": "2026-07-17T22:04:11.668259Z",
-      "last_updated_at": "2026-07-17T22:04:11.668259Z",
+      "last_updated_at": "2026-08-01T13:48:53.045282Z",
       "metrics": {
         "views": 271,
         "likes": 0,
         "comments": 0,
-        "retention": null,
-        "ctr": null,
-        "subscribers_gained": null,
-        "apv": null,
-        "avd": null
+        "retention": 87.19,
+        "ctr": 271.0,
+        "subscribers_gained": 0,
+        "apv": 87.19,
+        "avd": 10.0
       },
-      "performance_score": 30.23,
+      "performance_score": 67.22,
       "performance_score_v1": 26.29,
-      "performance_score_v2": 31.03,
-      "cgs_score": 30.23
+      "performance_score_v2": 25.88,
+      "cgs_score": 67.22
     }
   ]
 }
