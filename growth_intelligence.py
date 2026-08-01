@@ -109,7 +109,7 @@ class GrowthIntelligenceEngine:
                     ids="channel==MINE",
                     startDate=start_date,
                     endDate=end_date,
-                    metrics="impressionClickThroughRate,averageViewPercentage,averageViewDuration,subscribersGained",
+                    metrics="views,averageViewPercentage,averageViewDuration,subscribersGained",
                     dimensions="video",
                     filters=f"video=={ids_str}"
                 )
@@ -123,7 +123,7 @@ class GrowthIntelligenceEngine:
                     v_id = row_dict.get("video")
                     if v_id:
                         results[v_id] = {
-                            "ctr": float(row_dict.get("impressionClickThroughRate", 0.0)),
+                            "ctr": float(row_dict.get("views", 0.0)),
                             "apv": float(row_dict.get("averageViewPercentage", 0.0)),
                             "avd": float(row_dict.get("averageViewDuration", 0.0)),
                             "subscribers_gained": int(row_dict.get("subscribersGained", 0))

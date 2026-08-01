@@ -29,7 +29,7 @@ def audit_dog_content(title, content, keyword, api_key=None):
         else:
             genai.configure(api_key=api_key)
     
-    model = genai.GenerativeModel('gemini-2.5-flash')
+    model = genai.GenerativeModel('gemini-1.5-flash')
     
     audit_prompt = f"""
     You are a HIGHLY STRICT Content Compliance Officer for the YouTube channel "Doggo Bliss".
