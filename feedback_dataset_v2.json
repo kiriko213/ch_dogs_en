@@ -1,9 +1,9 @@
 {
   "feedback_version": 2,
-  "generated_at": "2026-08-02T07:40:49.463819Z",
+  "generated_at": "2026-08-02T13:49:45.932334Z",
   "channel": "ch_dogs_en",
   "metadata": {
-    "total_videos_analyzed": 5,
+    "total_videos_analyzed": 6,
     "analytics_api_available": true,
     "cgs_mode": "beta",
     "data_freshness_hours": 72,
@@ -13,7 +13,7 @@
     {
       "topic": "Canine olfactory sense",
       "category": "default",
-      "cgs": 71.49,
+      "cgs": 72.9,
       "ctr": 237.0,
       "apv": 88.32,
       "avd": 10.0,
@@ -22,7 +22,7 @@
     {
       "topic": "Dog episodic memory",
       "category": "default",
-      "cgs": 70.22,
+      "cgs": 71.8,
       "ctr": 265.0,
       "apv": 73.96,
       "avd": 9.0,
@@ -31,7 +31,7 @@
     {
       "topic": "Dog vocal communication",
       "category": "default",
-      "cgs": 70.12,
+      "cgs": 71.72,
       "ctr": 271.0,
       "apv": 87.19,
       "avd": 10.0,
@@ -40,15 +40,15 @@
     {
       "topic": "Grape Toxicity in Canine Nutrition",
       "category": "Nutrition",
-      "cgs": 16.04,
+      "cgs": 17.4,
       "ctr": null,
       "apv": null,
       "avd": null,
-      "views": 53
+      "views": 55
     },
     {
-      "topic": "Canine Lapping Mechanics",
-      "category": "Biomechanics",
+      "topic": "Frenetic Random Activity Periods",
+      "category": "Behavior",
       "cgs": 10.0,
       "ctr": null,
       "apv": null,
@@ -56,7 +56,17 @@
       "views": 0
     }
   ],
-  "losing_topics": [],
+  "losing_topics": [
+    {
+      "topic": "Canine Lapping Mechanics",
+      "category": "Biomechanics",
+      "cgs": 9.88,
+      "ctr": null,
+      "apv": null,
+      "avd": null,
+      "views": 0
+    }
+  ],
   "winning_title_patterns": [
     {
       "pattern": "The Truth About {Topic} Noses",
@@ -99,6 +109,6 @@
   "exploration_ratio": {
     "reinforce_pct": 80,
     "explore_pct": 20,
-    "adjusted_by": "low_cgs_average_32.1"
+    "adjusted_by": "low_cgs_average_12.4"
   }
 }

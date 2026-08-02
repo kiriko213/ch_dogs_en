@@ -1,9 +1,9 @@
 {
   "channel": "ch_dogs_en",
-  "updated_at": "2026-08-02T07:40:48.853725Z",
-  "average_views": 165.2,
+  "updated_at": "2026-08-02T13:49:45.350959Z",
+  "average_views": 138.0,
   "summary": {
-    "total_videos_tracked": 5,
+    "total_videos_tracked": 6,
     "top_performing_category": "default",
     "lowest_performing_category": "Biomechanics"
   },
@@ -15,7 +15,7 @@
       "category": "default",
       "title": "Dog Episodic Memory's Deepest Secrets",
       "first_tracked_at": "2026-06-22T13:55:43.070877Z",
-      "last_updated_at": "2026-08-02T07:40:48.838998Z",
+      "last_updated_at": "2026-08-02T13:49:45.333748Z",
       "metrics": {
         "views": 265,
         "likes": 2,
@@ -26,10 +26,10 @@
         "apv": 73.96,
         "avd": 9.0
       },
-      "performance_score": 70.22,
-      "performance_score_v1": 46.14,
-      "performance_score_v2": 37.94,
-      "cgs_score": 70.22
+      "performance_score": 71.8,
+      "performance_score_v1": 54.04,
+      "performance_score_v2": 44.25,
+      "cgs_score": 71.8
     },
     {
       "video_id": "rR_qYus7ivE",
@@ -38,7 +38,7 @@
       "category": "default",
       "title": "The Truth About Dog Noses",
       "first_tracked_at": "2026-06-20T13:51:28.810023Z",
-      "last_updated_at": "2026-08-02T07:40:48.853582Z",
+      "last_updated_at": "2026-08-02T13:49:45.350829Z",
       "metrics": {
         "views": 237,
         "likes": 2,
@@ -49,10 +49,10 @@
         "apv": 88.32,
         "avd": 10.0
       },
-      "performance_score": 71.49,
-      "performance_score_v1": 42.62,
-      "performance_score_v2": 34.96,
-      "cgs_score": 71.49
+      "performance_score": 72.9,
+      "performance_score_v1": 49.69,
+      "performance_score_v2": 40.6,
+      "cgs_score": 72.9
     },
     {
       "video_id": "HXcXSfrEMR4",
@@ -61,7 +61,7 @@
       "category": "default",
       "title": "This Dog Vocal Communication Will Shock You",
       "first_tracked_at": "2026-07-17T22:04:11.668259Z",
-      "last_updated_at": "2026-08-02T07:40:48.853647Z",
+      "last_updated_at": "2026-08-02T13:49:45.350866Z",
       "metrics": {
         "views": 271,
         "likes": 0,
@@ -72,10 +72,10 @@
         "apv": 87.19,
         "avd": 10.0
       },
-      "performance_score": 70.12,
-      "performance_score_v1": 41.01,
-      "performance_score_v2": 37.47,
-      "cgs_score": 70.12
+      "performance_score": 71.72,
+      "performance_score_v1": 49.09,
+      "performance_score_v2": 43.88,
+      "cgs_score": 71.72
     },
     {
       "video_id": "q9RUBk19_QA",
@@ -84,9 +84,9 @@
       "category": "Nutrition",
       "title": "Why Your Dog Grape Toxicity In Canine Nutrition",
       "first_tracked_at": "2026-08-02T04:59:55.603651Z",
-      "last_updated_at": "2026-08-02T07:40:48.853675Z",
+      "last_updated_at": "2026-08-02T13:49:45.350889Z",
       "metrics": {
-        "views": 53,
+        "views": 55,
         "likes": 0,
         "comments": 0,
         "retention": null,
@@ -95,10 +95,10 @@
         "apv": null,
         "avd": null
       },
-      "performance_score": 16.04,
-      "performance_score_v1": 8.02,
-      "performance_score_v2": 16.36,
-      "cgs_score": 16.04
+      "performance_score": 17.4,
+      "performance_score_v1": 9.96,
+      "performance_score_v2": 17.79,
+      "cgs_score": 17.4
     },
     {
       "video_id": "VciACp6hcls",
@@ -107,7 +107,30 @@
       "category": "Biomechanics",
       "title": "Why Your Dog Canine Lapping Mechanics",
       "first_tracked_at": "2026-08-02T07:40:48.853697Z",
-      "last_updated_at": "2026-08-02T07:40:48.853697Z",
+      "last_updated_at": "2026-08-02T13:49:45.350908Z",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0,
+        "retention": null,
+        "ctr": null,
+        "subscribers_gained": null,
+        "apv": null,
+        "avd": null
+      },
+      "performance_score": 9.88,
+      "performance_score_v1": 0.0,
+      "performance_score_v2": 9.87,
+      "cgs_score": 9.88
+    },
+    {
+      "video_id": "OJFt1ByU_FA",
+      "cache_item_id": "aq_1785656564_0",
+      "topic": "Frenetic Random Activity Periods",
+      "category": "Behavior",
+      "title": "Why Your Dog Frenetic Random Activity Periods",
+      "first_tracked_at": "2026-08-02T13:49:45.350925Z",
+      "last_updated_at": "2026-08-02T13:49:45.350925Z",
       "metrics": {
         "views": 0,
         "likes": 0,

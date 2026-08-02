@@ -1,37 +1,44 @@
 {
   "feedback_version": 1,
-  "generated_at": "2026-08-02T07:40:48.854023Z",
+  "generated_at": "2026-08-02T13:49:45.351286Z",
   "top_topics": [
     {
       "topic": "Dog episodic memory",
       "category": "default",
-      "score": 37.94,
+      "score": 44.25,
       "views": 265
     },
     {
       "topic": "Dog vocal communication",
       "category": "default",
-      "score": 37.47,
+      "score": 43.88,
       "views": 271
     },
     {
       "topic": "Canine olfactory sense",
       "category": "default",
-      "score": 34.96,
+      "score": 40.6,
       "views": 237
     },
     {
       "topic": "Grape Toxicity in Canine Nutrition",
       "category": "Nutrition",
-      "score": 16.36,
-      "views": 53
+      "score": 17.79,
+      "views": 55
     },
     {
-      "topic": "Canine Lapping Mechanics",
-      "category": "Biomechanics",
+      "topic": "Frenetic Random Activity Periods",
+      "category": "Behavior",
       "score": 10.0,
       "views": 0
     }
   ],
-  "underperforming_topics": []
+  "underperforming_topics": [
+    {
+      "topic": "Canine Lapping Mechanics",
+      "category": "Biomechanics",
+      "score": 9.87,
+      "views": 0
+    }
+  ]
 }
