@@ -1,24 +1,30 @@
 {
   "feedback_version": 1,
-  "generated_at": "2026-08-01T13:48:53.045556Z",
+  "generated_at": "2026-08-02T04:59:55.603936Z",
   "top_topics": [
     {
       "topic": "Dog episodic memory",
       "category": "default",
-      "score": 26.48,
+      "score": 31.53,
       "views": 265
     },
     {
       "topic": "Dog vocal communication",
       "category": "default",
-      "score": 25.88,
+      "score": 30.94,
       "views": 271
     },
     {
       "topic": "Canine olfactory sense",
       "category": "default",
-      "score": 24.71,
+      "score": 29.23,
       "views": 237
+    },
+    {
+      "topic": "Grape Toxicity in Canine Nutrition",
+      "category": "Nutrition",
+      "score": 15.13,
+      "views": 53
     }
   ],
   "underperforming_topics": []

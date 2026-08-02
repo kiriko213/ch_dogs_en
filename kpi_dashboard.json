@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-01T13:52:07.410758Z",
+  "generated_at": "2026-08-02T05:02:27.696755Z",
   "kpis": {
-    "uploads": 3,
-    "views": 773,
+    "uploads": 4,
+    "views": 826,
     "ctr_average": 257.67,
     "apv_average": 83.16,
     "subscribers_gained": 0,
-    "cgs_average": 67.84,
+    "cgs_average": 55.51,
     "top_topics": [
       "Canine olfactory sense",
       "Dog episodic memory",
@@ -19,11 +19,11 @@
     ]
   },
   "production_metrics": {
-    "success_rate_percent": 25.0,
-    "failure_rate_percent": 75.0,
-    "retry_rate_percent": 16.67,
-    "upload_latency_seconds": 5.05,
-    "generation_latency_seconds": 131.18
+    "success_rate_percent": 30.77,
+    "failure_rate_percent": 69.23,
+    "retry_rate_percent": 15.38,
+    "upload_latency_seconds": 5.78,
+    "generation_latency_seconds": 92.72
   },
   "warnings": []
 }

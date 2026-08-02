@@ -1,9 +1,9 @@
 {
   "feedback_version": 2,
-  "generated_at": "2026-08-01T13:48:53.827657Z",
+  "generated_at": "2026-08-02T04:59:56.551907Z",
   "channel": "ch_dogs_en",
   "metadata": {
-    "total_videos_analyzed": 3,
+    "total_videos_analyzed": 4,
     "analytics_api_available": true,
     "cgs_mode": "beta",
     "data_freshness_hours": 72,
@@ -13,7 +13,7 @@
     {
       "topic": "Canine olfactory sense",
       "category": "default",
-      "cgs": 68.93,
+      "cgs": 70.06,
       "ctr": 237.0,
       "apv": 88.32,
       "avd": 10.0,
@@ -22,7 +22,7 @@
     {
       "topic": "Dog episodic memory",
       "category": "default",
-      "cgs": 67.36,
+      "cgs": 68.62,
       "ctr": 265.0,
       "apv": 73.96,
       "avd": 9.0,
@@ -31,11 +31,20 @@
     {
       "topic": "Dog vocal communication",
       "category": "default",
-      "cgs": 67.22,
+      "cgs": 68.48,
       "ctr": 271.0,
       "apv": 87.19,
       "avd": 10.0,
       "views": 271
+    },
+    {
+      "topic": "Grape Toxicity in Canine Nutrition",
+      "category": "Nutrition",
+      "cgs": 14.87,
+      "ctr": null,
+      "apv": null,
+      "avd": null,
+      "views": 53
     }
   ],
   "losing_topics": [],
@@ -76,11 +85,11 @@
   "toxic_combinations": [],
   "growth_signals": {
     "total_subscribers_gained": 0,
-    "growth_trend": "stable"
+    "growth_trend": "growing"
   },
   "exploration_ratio": {
     "reinforce_pct": 80,
     "explore_pct": 20,
-    "adjusted_by": "low_cgs_average_67.8"
+    "adjusted_by": "low_cgs_average_51.1"
   }
 }

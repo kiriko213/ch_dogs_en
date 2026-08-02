@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T13:48:53.837544Z",
+  "generated_at": "2026-08-02T04:59:56.565647Z",
   "top_candidates": [
     {
       "topic": "dog body language",
@@ -10,6 +10,11 @@
       "topic": "dog psychology",
       "score": 94,
       "category": "dog_psychology"
+    },
+    {
+      "topic": "dog training secrets",
+      "score": 94,
+      "category": "dog_training"
     },
     {
       "topic": "amazing dog abilities",
@@ -32,24 +37,19 @@
       "category": "dog_owner_tips"
     },
     {
-      "topic": "The Truth About Dog owner tips",
+      "topic": "The Truth About Dog health facts",
       "score": 94,
-      "category": "dog_owner_tips"
+      "category": "dog_health"
     },
     {
-      "topic": "Dog owner tips Most People Don't Know",
+      "topic": "Dog health facts Most People Don't Know",
       "score": 94,
-      "category": "dog_owner_tips"
+      "category": "dog_health"
     },
     {
-      "topic": "The Truth About Dog life hacks",
+      "topic": "Surprising Facts About Dog health facts",
       "score": 94,
-      "category": "dog_owner_tips"
-    },
-    {
-      "topic": "Dog life hacks Most People Don't Know",
-      "score": 94,
-      "category": "dog_owner_tips"
+      "category": "dog_health"
     }
   ]
 }
