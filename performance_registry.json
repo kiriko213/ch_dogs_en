@@ -1,11 +1,11 @@
 {
   "channel": "ch_dogs_en",
-  "updated_at": "2026-08-02T04:59:55.603679Z",
-  "average_views": 206.5,
+  "updated_at": "2026-08-02T07:40:48.853725Z",
+  "average_views": 165.2,
   "summary": {
-    "total_videos_tracked": 4,
+    "total_videos_tracked": 5,
     "top_performing_category": "default",
-    "lowest_performing_category": "Nutrition"
+    "lowest_performing_category": "Biomechanics"
   },
   "items": [
     {
@@ -15,7 +15,7 @@
       "category": "default",
       "title": "Dog Episodic Memory's Deepest Secrets",
       "first_tracked_at": "2026-06-22T13:55:43.070877Z",
-      "last_updated_at": "2026-08-02T04:59:55.598217Z",
+      "last_updated_at": "2026-08-02T07:40:48.838998Z",
       "metrics": {
         "views": 265,
         "likes": 2,
@@ -26,10 +26,10 @@
         "apv": 73.96,
         "avd": 9.0
       },
-      "performance_score": 68.62,
-      "performance_score_v1": 38.12,
-      "performance_score_v2": 31.53,
-      "cgs_score": 68.62
+      "performance_score": 70.22,
+      "performance_score_v1": 46.14,
+      "performance_score_v2": 37.94,
+      "cgs_score": 70.22
     },
     {
       "video_id": "rR_qYus7ivE",
@@ -38,7 +38,7 @@
       "category": "default",
       "title": "The Truth About Dog Noses",
       "first_tracked_at": "2026-06-20T13:51:28.810023Z",
-      "last_updated_at": "2026-08-02T04:59:55.603592Z",
+      "last_updated_at": "2026-08-02T07:40:48.853582Z",
       "metrics": {
         "views": 237,
         "likes": 2,
@@ -49,10 +49,10 @@
         "apv": 88.32,
         "avd": 10.0
       },
-      "performance_score": 70.06,
-      "performance_score_v1": 35.44,
-      "performance_score_v2": 29.23,
-      "cgs_score": 70.06
+      "performance_score": 71.49,
+      "performance_score_v1": 42.62,
+      "performance_score_v2": 34.96,
+      "cgs_score": 71.49
     },
     {
       "video_id": "HXcXSfrEMR4",
@@ -61,7 +61,7 @@
       "category": "default",
       "title": "This Dog Vocal Communication Will Shock You",
       "first_tracked_at": "2026-07-17T22:04:11.668259Z",
-      "last_updated_at": "2026-08-02T04:59:55.603627Z",
+      "last_updated_at": "2026-08-02T07:40:48.853647Z",
       "metrics": {
         "views": 271,
         "likes": 0,
@@ -72,10 +72,10 @@
         "apv": 87.19,
         "avd": 10.0
       },
-      "performance_score": 68.48,
-      "performance_score_v1": 32.81,
-      "performance_score_v2": 30.94,
-      "cgs_score": 68.48
+      "performance_score": 70.12,
+      "performance_score_v1": 41.01,
+      "performance_score_v2": 37.47,
+      "cgs_score": 70.12
     },
     {
       "video_id": "q9RUBk19_QA",
@@ -84,7 +84,7 @@
       "category": "Nutrition",
       "title": "Why Your Dog Grape Toxicity In Canine Nutrition",
       "first_tracked_at": "2026-08-02T04:59:55.603651Z",
-      "last_updated_at": "2026-08-02T04:59:55.603651Z",
+      "last_updated_at": "2026-08-02T07:40:48.853675Z",
       "metrics": {
         "views": 53,
         "likes": 0,
@@ -95,10 +95,33 @@
         "apv": null,
         "avd": null
       },
-      "performance_score": 14.87,
-      "performance_score_v1": 6.42,
-      "performance_score_v2": 15.13,
-      "cgs_score": 14.87
+      "performance_score": 16.04,
+      "performance_score_v1": 8.02,
+      "performance_score_v2": 16.36,
+      "cgs_score": 16.04
+    },
+    {
+      "video_id": "VciACp6hcls",
+      "cache_item_id": "aq_1785646848_0",
+      "topic": "Canine Lapping Mechanics",
+      "category": "Biomechanics",
+      "title": "Why Your Dog Canine Lapping Mechanics",
+      "first_tracked_at": "2026-08-02T07:40:48.853697Z",
+      "last_updated_at": "2026-08-02T07:40:48.853697Z",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0,
+        "retention": null,
+        "ctr": null,
+        "subscribers_gained": null,
+        "apv": null,
+        "avd": null
+      },
+      "performance_score": 10.0,
+      "performance_score_v1": 0.0,
+      "performance_score_v2": 10.0,
+      "cgs_score": 10.0
     }
   ]
 }
