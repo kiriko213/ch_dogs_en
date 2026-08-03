@@ -1,9 +1,9 @@
 {
   "feedback_version": 2,
-  "generated_at": "2026-08-03T05:11:53.228193Z",
+  "generated_at": "2026-08-03T08:41:38.055763Z",
   "channel": "ch_dogs_en",
   "metadata": {
-    "total_videos_analyzed": 7,
+    "total_videos_analyzed": 8,
     "analytics_api_available": true,
     "cgs_mode": "beta",
     "data_freshness_hours": 72,
@@ -13,7 +13,7 @@
     {
       "topic": "Canine olfactory sense",
       "category": "default",
-      "cgs": 67.02,
+      "cgs": 67.35,
       "ctr": 237.0,
       "apv": 88.32,
       "avd": 10.0,
@@ -22,7 +22,7 @@
     {
       "topic": "Dog episodic memory",
       "category": "default",
-      "cgs": 65.22,
+      "cgs": 65.59,
       "ctr": 265.0,
       "apv": 73.96,
       "avd": 9.0,
@@ -31,7 +31,7 @@
     {
       "topic": "Dog vocal communication",
       "category": "default",
-      "cgs": 64.97,
+      "cgs": 65.35,
       "ctr": 271.0,
       "apv": 87.19,
       "avd": 10.0,
@@ -40,27 +40,27 @@
     {
       "topic": "Canine Lapping Mechanics",
       "category": "Biomechanics",
-      "cgs": 57.99,
+      "cgs": 57.41,
       "ctr": null,
       "apv": null,
       "avd": null,
-      "views": 876
+      "views": 922
     },
     {
       "topic": "Frenetic Random Activity Periods",
       "category": "Behavior",
-      "cgs": 54.55,
+      "cgs": 54.02,
       "ctr": null,
       "apv": null,
       "avd": null,
-      "views": 1332
+      "views": 1338
     }
   ],
   "losing_topics": [
     {
       "topic": "Grape Toxicity in Canine Nutrition",
       "category": "Nutrition",
-      "cgs": 20.8,
+      "cgs": 21.11,
       "ctr": null,
       "apv": null,
       "avd": null,
@@ -69,11 +69,20 @@
     {
       "topic": "Canine Paw Pad Thermoregulation",
       "category": "Physiology",
-      "cgs": 10.17,
+      "cgs": 10.18,
       "ctr": null,
       "apv": null,
       "avd": null,
-      "views": 4
+      "views": 5
+    },
+    {
+      "topic": "Canine REM Sleep Dynamics",
+      "category": "Sleep",
+      "cgs": 10.0,
+      "ctr": null,
+      "apv": null,
+      "avd": null,
+      "views": 0
     }
   ],
   "winning_title_patterns": [
@@ -118,6 +127,6 @@
   "exploration_ratio": {
     "reinforce_pct": 80,
     "explore_pct": 20,
-    "adjusted_by": "low_cgs_average_40.9"
+    "adjusted_by": "low_cgs_average_24.7"
   }
 }

@@ -1,35 +1,35 @@
 {
   "feedback_version": 1,
-  "generated_at": "2026-08-03T05:11:52.472424Z",
+  "generated_at": "2026-08-03T08:41:37.374632Z",
   "top_topics": [
     {
       "topic": "Canine Lapping Mechanics",
       "category": "Biomechanics",
-      "score": 60.52,
-      "views": 876
+      "score": 59.91,
+      "views": 922
     },
     {
       "topic": "Frenetic Random Activity Periods",
       "category": "Behavior",
-      "score": 56.9,
-      "views": 1332
+      "score": 56.34,
+      "views": 1338
     },
     {
       "topic": "Grape Toxicity in Canine Nutrition",
       "category": "Nutrition",
-      "score": 21.37,
+      "score": 21.69,
       "views": 69
     },
     {
       "topic": "Dog episodic memory",
       "category": "default",
-      "score": 17.95,
+      "score": 19.44,
       "views": 265
     },
     {
       "topic": "Canine olfactory sense",
       "category": "default",
-      "score": 17.08,
+      "score": 18.41,
       "views": 237
     }
   ],
@@ -37,14 +37,20 @@
     {
       "topic": "Dog vocal communication",
       "category": "default",
-      "score": 16.89,
+      "score": 18.39,
       "views": 271
     },
     {
       "topic": "Canine Paw Pad Thermoregulation",
       "category": "Physiology",
-      "score": 10.18,
-      "views": 4
+      "score": 10.19,
+      "views": 5
+    },
+    {
+      "topic": "Canine REM Sleep Dynamics",
+      "category": "Sleep",
+      "score": 10.0,
+      "views": 0
     }
   ]
 }
