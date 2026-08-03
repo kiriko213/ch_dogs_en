@@ -1,9 +1,9 @@
 {
   "channel": "ch_dogs_en",
-  "updated_at": "2026-08-03T08:41:37.374260Z",
-  "average_views": 388.38,
+  "updated_at": "2026-08-03T15:12:29.345019Z",
+  "average_views": 346.56,
   "summary": {
-    "total_videos_tracked": 8,
+    "total_videos_tracked": 9,
     "top_performing_category": "Biomechanics",
     "lowest_performing_category": "Sleep"
   },
@@ -15,7 +15,7 @@
       "category": "default",
       "title": "Dog Episodic Memory's Deepest Secrets",
       "first_tracked_at": "2026-06-22T13:55:43.070877Z",
-      "last_updated_at": "2026-08-03T08:41:37.368522Z",
+      "last_updated_at": "2026-08-03T15:12:29.328124Z",
       "metrics": {
         "views": 265,
         "likes": 2,
@@ -26,10 +26,10 @@
         "apv": 73.96,
         "avd": 9.0
       },
-      "performance_score": 65.59,
-      "performance_score_v1": 23.1,
-      "performance_score_v2": 19.44,
-      "cgs_score": 65.59
+      "performance_score": 66.0,
+      "performance_score_v1": 25.15,
+      "performance_score_v2": 21.07,
+      "cgs_score": 66.0
     },
     {
       "video_id": "rR_qYus7ivE",
@@ -38,7 +38,7 @@
       "category": "default",
       "title": "The Truth About Dog Noses",
       "first_tracked_at": "2026-06-20T13:51:28.810023Z",
-      "last_updated_at": "2026-08-03T08:41:37.374075Z",
+      "last_updated_at": "2026-08-03T15:12:29.344805Z",
       "metrics": {
         "views": 237,
         "likes": 2,
@@ -49,10 +49,10 @@
         "apv": 88.32,
         "avd": 10.0
       },
-      "performance_score": 67.35,
-      "performance_score_v1": 22.01,
-      "performance_score_v2": 18.41,
-      "cgs_score": 67.35
+      "performance_score": 67.72,
+      "performance_score_v1": 23.85,
+      "performance_score_v2": 19.87,
+      "cgs_score": 67.72
     },
     {
       "video_id": "HXcXSfrEMR4",
@@ -61,7 +61,7 @@
       "category": "default",
       "title": "This Dog Vocal Communication Will Shock You",
       "first_tracked_at": "2026-07-17T22:04:11.668259Z",
-      "last_updated_at": "2026-08-03T08:41:37.374114Z",
+      "last_updated_at": "2026-08-03T15:12:29.344845Z",
       "metrics": {
         "views": 271,
         "likes": 0,
@@ -72,10 +72,10 @@
         "apv": 87.19,
         "avd": 10.0
       },
-      "performance_score": 65.35,
-      "performance_score_v1": 17.44,
-      "performance_score_v2": 18.39,
-      "cgs_score": 65.35
+      "performance_score": 65.75,
+      "performance_score_v1": 19.55,
+      "performance_score_v2": 20.01,
+      "cgs_score": 65.75
     },
     {
       "video_id": "q9RUBk19_QA",
@@ -84,9 +84,9 @@
       "category": "Nutrition",
       "title": "Why Your Dog Grape Toxicity In Canine Nutrition",
       "first_tracked_at": "2026-08-02T04:59:55.603651Z",
-      "last_updated_at": "2026-08-03T08:41:37.374137Z",
+      "last_updated_at": "2026-08-03T15:12:29.344870Z",
       "metrics": {
-        "views": 69,
+        "views": 71,
         "likes": 1,
         "comments": 0,
         "retention": null,
@@ -95,10 +95,10 @@
         "apv": null,
         "avd": null
       },
-      "performance_score": 21.11,
-      "performance_score_v1": 16.04,
-      "performance_score_v2": 21.69,
-      "cgs_score": 21.11
+      "performance_score": 21.28,
+      "performance_score_v1": 16.39,
+      "performance_score_v2": 21.87,
+      "cgs_score": 21.28
     },
     {
       "video_id": "VciACp6hcls",
@@ -107,9 +107,9 @@
       "category": "Biomechanics",
       "title": "Why Your Dog Canine Lapping Mechanics",
       "first_tracked_at": "2026-08-02T07:40:48.853697Z",
-      "last_updated_at": "2026-08-03T08:41:37.374157Z",
+      "last_updated_at": "2026-08-03T15:12:29.344891Z",
       "metrics": {
-        "views": 922,
+        "views": 926,
         "likes": 16,
         "comments": 0,
         "retention": null,
@@ -118,10 +118,10 @@
         "apv": null,
         "avd": null
       },
-      "performance_score": 57.41,
-      "performance_score_v1": 63.88,
-      "performance_score_v2": 59.91,
-      "cgs_score": 57.41
+      "performance_score": 57.25,
+      "performance_score_v1": 63.82,
+      "performance_score_v2": 59.74,
+      "cgs_score": 57.25
     },
     {
       "video_id": "OJFt1ByU_FA",
@@ -130,9 +130,9 @@
       "category": "Behavior",
       "title": "Why Your Dog Frenetic Random Activity Periods",
       "first_tracked_at": "2026-08-02T13:49:45.350925Z",
-      "last_updated_at": "2026-08-03T08:41:37.374177Z",
+      "last_updated_at": "2026-08-03T15:12:29.344911Z",
       "metrics": {
-        "views": 1338,
+        "views": 1342,
         "likes": 15,
         "comments": 0,
         "retention": null,
@@ -141,10 +141,10 @@
         "apv": null,
         "avd": null
       },
-      "performance_score": 54.02,
-      "performance_score_v1": 58.97,
-      "performance_score_v2": 56.34,
-      "cgs_score": 54.02
+      "performance_score": 53.89,
+      "performance_score_v1": 58.94,
+      "performance_score_v2": 56.2,
+      "cgs_score": 53.89
     },
     {
       "video_id": "7v1QhfHpoOY",
@@ -153,9 +153,9 @@
       "category": "Physiology",
       "title": "Understanding Dog Canine Paw Pad Thermoregulation",
       "first_tracked_at": "2026-08-03T05:11:52.472080Z",
-      "last_updated_at": "2026-08-03T08:41:37.374203Z",
+      "last_updated_at": "2026-08-03T15:12:29.344938Z",
       "metrics": {
-        "views": 5,
+        "views": 7,
         "likes": 0,
         "comments": 0,
         "retention": null,
@@ -164,10 +164,10 @@
         "apv": null,
         "avd": null
       },
-      "performance_score": 10.18,
-      "performance_score_v1": 0.32,
-      "performance_score_v2": 10.19,
-      "cgs_score": 10.18
+      "performance_score": 10.19,
+      "performance_score_v1": 0.5,
+      "performance_score_v2": 10.2,
+      "cgs_score": 10.19
     },
     {
       "video_id": "HcBMh8ySVeg",
@@ -176,7 +176,30 @@
       "category": "Sleep",
       "title": "Understanding Dog Canine Rem Sleep Dynamics",
       "first_tracked_at": "2026-08-03T08:41:37.374225Z",
-      "last_updated_at": "2026-08-03T08:41:37.374225Z",
+      "last_updated_at": "2026-08-03T15:12:29.344961Z",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0,
+        "retention": null,
+        "ctr": null,
+        "subscribers_gained": null,
+        "apv": null,
+        "avd": null
+      },
+      "performance_score": 9.88,
+      "performance_score_v1": 0.0,
+      "performance_score_v2": 9.87,
+      "cgs_score": 9.88
+    },
+    {
+      "video_id": "Xxpa8xe-O1U",
+      "cache_item_id": "aq_1785746624_0",
+      "topic": "Canine Play Bow Communication",
+      "category": "Body Language",
+      "title": "Why Your Dog Canine Play Bow Communication",
+      "first_tracked_at": "2026-08-03T15:12:29.344988Z",
+      "last_updated_at": "2026-08-03T15:12:29.344988Z",
       "metrics": {
         "views": 0,
         "likes": 0,

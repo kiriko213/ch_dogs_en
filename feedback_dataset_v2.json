@@ -1,9 +1,9 @@
 {
   "feedback_version": 2,
-  "generated_at": "2026-08-03T08:41:38.055763Z",
+  "generated_at": "2026-08-03T15:12:30.108420Z",
   "channel": "ch_dogs_en",
   "metadata": {
-    "total_videos_analyzed": 8,
+    "total_videos_analyzed": 9,
     "analytics_api_available": true,
     "cgs_mode": "beta",
     "data_freshness_hours": 72,
@@ -13,7 +13,7 @@
     {
       "topic": "Canine olfactory sense",
       "category": "default",
-      "cgs": 67.35,
+      "cgs": 67.72,
       "ctr": 237.0,
       "apv": 88.32,
       "avd": 10.0,
@@ -22,7 +22,7 @@
     {
       "topic": "Dog episodic memory",
       "category": "default",
-      "cgs": 65.59,
+      "cgs": 66.0,
       "ctr": 265.0,
       "apv": 73.96,
       "avd": 9.0,
@@ -31,7 +31,7 @@
     {
       "topic": "Dog vocal communication",
       "category": "default",
-      "cgs": 65.35,
+      "cgs": 65.75,
       "ctr": 271.0,
       "apv": 87.19,
       "avd": 10.0,
@@ -40,45 +40,54 @@
     {
       "topic": "Canine Lapping Mechanics",
       "category": "Biomechanics",
-      "cgs": 57.41,
+      "cgs": 57.25,
       "ctr": null,
       "apv": null,
       "avd": null,
-      "views": 922
+      "views": 926
     },
     {
       "topic": "Frenetic Random Activity Periods",
       "category": "Behavior",
-      "cgs": 54.02,
+      "cgs": 53.89,
       "ctr": null,
       "apv": null,
       "avd": null,
-      "views": 1338
+      "views": 1342
     }
   ],
   "losing_topics": [
     {
       "topic": "Grape Toxicity in Canine Nutrition",
       "category": "Nutrition",
-      "cgs": 21.11,
+      "cgs": 21.28,
       "ctr": null,
       "apv": null,
       "avd": null,
-      "views": 69
+      "views": 71
     },
     {
       "topic": "Canine Paw Pad Thermoregulation",
       "category": "Physiology",
-      "cgs": 10.18,
+      "cgs": 10.19,
       "ctr": null,
       "apv": null,
       "avd": null,
-      "views": 5
+      "views": 7
+    },
+    {
+      "topic": "Canine Play Bow Communication",
+      "category": "Body Language",
+      "cgs": 10.0,
+      "ctr": null,
+      "apv": null,
+      "avd": null,
+      "views": 0
     },
     {
       "topic": "Canine REM Sleep Dynamics",
       "category": "Sleep",
-      "cgs": 10.0,
+      "cgs": 9.88,
       "ctr": null,
       "apv": null,
       "avd": null,
@@ -127,6 +136,6 @@
   "exploration_ratio": {
     "reinforce_pct": 80,
     "explore_pct": 20,
-    "adjusted_by": "low_cgs_average_24.7"
+    "adjusted_by": "low_cgs_average_10.0"
   }
 }

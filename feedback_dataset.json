@@ -1,55 +1,61 @@
 {
   "feedback_version": 1,
-  "generated_at": "2026-08-03T08:41:37.374632Z",
+  "generated_at": "2026-08-03T15:12:29.345409Z",
   "top_topics": [
     {
       "topic": "Canine Lapping Mechanics",
       "category": "Biomechanics",
-      "score": 59.91,
-      "views": 922
+      "score": 59.74,
+      "views": 926
     },
     {
       "topic": "Frenetic Random Activity Periods",
       "category": "Behavior",
-      "score": 56.34,
-      "views": 1338
+      "score": 56.2,
+      "views": 1342
     },
     {
       "topic": "Grape Toxicity in Canine Nutrition",
       "category": "Nutrition",
-      "score": 21.69,
-      "views": 69
+      "score": 21.87,
+      "views": 71
     },
     {
       "topic": "Dog episodic memory",
       "category": "default",
-      "score": 19.44,
+      "score": 21.07,
       "views": 265
     },
     {
-      "topic": "Canine olfactory sense",
+      "topic": "Dog vocal communication",
       "category": "default",
-      "score": 18.41,
-      "views": 237
+      "score": 20.01,
+      "views": 271
     }
   ],
   "underperforming_topics": [
     {
-      "topic": "Dog vocal communication",
+      "topic": "Canine olfactory sense",
       "category": "default",
-      "score": 18.39,
-      "views": 271
+      "score": 19.87,
+      "views": 237
     },
     {
       "topic": "Canine Paw Pad Thermoregulation",
       "category": "Physiology",
-      "score": 10.19,
-      "views": 5
+      "score": 10.2,
+      "views": 7
+    },
+    {
+      "topic": "Canine Play Bow Communication",
+      "category": "Body Language",
+      "score": 10.0,
+      "views": 0
     },
     {
       "topic": "Canine REM Sleep Dynamics",
       "category": "Sleep",
-      "score": 10.0,
+      "score": 9.87,
       "views": 0
     }
   ]
