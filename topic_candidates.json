@@ -1,15 +1,10 @@
 {
-  "generated_at": "2026-08-04T04:48:05.414943Z",
+  "generated_at": "2026-08-04T07:47:59.015770Z",
   "top_candidates": [
     {
       "topic": "dog body language",
       "score": 100,
       "category": "dog_communication"
-    },
-    {
-      "topic": "Grape Toxicity in Canine Nutrition",
-      "score": 100,
-      "category": "dog_facts"
     },
     {
       "topic": "dog psychology",
@@ -48,6 +43,11 @@
     },
     {
       "topic": "The Truth About Dog life hacks",
+      "score": 94,
+      "category": "dog_owner_tips"
+    },
+    {
+      "topic": "Dog life hacks Most People Don't Know",
       "score": 94,
       "category": "dog_owner_tips"
     }
