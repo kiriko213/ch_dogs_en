@@ -1,10 +1,20 @@
 {
-  "generated_at": "2026-08-04T07:47:59.015770Z",
+  "generated_at": "2026-08-04T14:36:48.883491Z",
   "top_candidates": [
     {
       "topic": "dog body language",
       "score": 100,
       "category": "dog_communication"
+    },
+    {
+      "topic": "Canine Lapping Mechanics",
+      "score": 100,
+      "category": "dog_facts"
+    },
+    {
+      "topic": "Grape Toxicity in Canine Nutrition",
+      "score": 100,
+      "category": "dog_facts"
     },
     {
       "topic": "dog psychology",
@@ -38,16 +48,6 @@
     },
     {
       "topic": "Dog owner tips Most People Don't Know",
-      "score": 94,
-      "category": "dog_owner_tips"
-    },
-    {
-      "topic": "The Truth About Dog life hacks",
-      "score": 94,
-      "category": "dog_owner_tips"
-    },
-    {
-      "topic": "Dog life hacks Most People Don't Know",
       "score": 94,
       "category": "dog_owner_tips"
     }

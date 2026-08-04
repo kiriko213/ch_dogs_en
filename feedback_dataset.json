@@ -1,67 +1,67 @@
 {
   "feedback_version": 1,
-  "generated_at": "2026-08-04T07:47:58.464045Z",
+  "generated_at": "2026-08-04T14:36:48.237345Z",
   "top_topics": [
     {
       "topic": "Canine Lapping Mechanics",
       "category": "Biomechanics",
-      "score": 59.39,
+      "score": 59.26,
       "views": 929
-    },
-    {
-      "topic": "Canine REM Sleep Dynamics",
-      "category": "Sleep",
-      "score": 56.48,
-      "views": 864
     },
     {
       "topic": "Frenetic Random Activity Periods",
       "category": "Behavior",
-      "score": 55.83,
-      "views": 1352
+      "score": 55.69,
+      "views": 1353
+    },
+    {
+      "topic": "Canine REM Sleep Dynamics",
+      "category": "Sleep",
+      "score": 55.65,
+      "views": 864
     },
     {
       "topic": "Dog reward association timing",
       "category": "Training",
-      "score": 45.24,
+      "score": 46.18,
       "views": 230
     },
     {
       "topic": "Grape Toxicity in Canine Nutrition",
       "category": "Nutrition",
-      "score": 20.71,
+      "score": 20.95,
       "views": 78
     }
   ],
   "underperforming_topics": [
     {
-      "topic": "Canine olfactory sense",
-      "category": "default",
-      "score": 18.34,
-      "views": 237
-    },
-    {
       "topic": "Dog vocal communication",
       "category": "default",
-      "score": 18.16,
+      "score": 19.37,
       "views": 271
     },
     {
       "topic": "Canine Play Bow Communication",
       "category": "Body Language",
-      "score": 11.93,
+      "score": 12.0,
       "views": 44
+    },
+    {
+      "topic": "Canine Starch Digestion",
+      "category": "Evolution",
+      "score": 10.0,
+      "views": 0
     },
     {
       "topic": "Canine Permanent Dental Structure",
       "category": "Anatomy",
-      "score": 10.0,
+      "score": 9.86,
       "views": 0
     },
     {
       "topic": "Canine Paw Pad Thermoregulation",
       "category": "Physiology",
-      "score": 9.88,
+      "score": 9.78,
       "views": 8
     }
   ]
