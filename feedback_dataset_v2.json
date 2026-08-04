@@ -1,9 +1,9 @@
 {
   "feedback_version": 2,
-  "generated_at": "2026-08-03T15:12:30.108420Z",
+  "generated_at": "2026-08-04T04:48:05.394468Z",
   "channel": "ch_dogs_en",
   "metadata": {
-    "total_videos_analyzed": 9,
+    "total_videos_analyzed": 10,
     "analytics_api_available": true,
     "cgs_mode": "beta",
     "data_freshness_hours": 72,
@@ -13,7 +13,7 @@
     {
       "topic": "Canine olfactory sense",
       "category": "default",
-      "cgs": 67.72,
+      "cgs": 67.06,
       "ctr": 237.0,
       "apv": 88.32,
       "avd": 10.0,
@@ -22,7 +22,7 @@
     {
       "topic": "Dog episodic memory",
       "category": "default",
-      "cgs": 66.0,
+      "cgs": 65.27,
       "ctr": 265.0,
       "apv": 73.96,
       "avd": 9.0,
@@ -31,7 +31,7 @@
     {
       "topic": "Dog vocal communication",
       "category": "default",
-      "cgs": 65.75,
+      "cgs": 64.98,
       "ctr": 271.0,
       "apv": 87.19,
       "avd": 10.0,
@@ -40,58 +40,67 @@
     {
       "topic": "Canine Lapping Mechanics",
       "category": "Biomechanics",
-      "cgs": 57.25,
+      "cgs": 56.97,
       "ctr": null,
       "apv": null,
       "avd": null,
-      "views": 926
+      "views": 929
     },
     {
-      "topic": "Frenetic Random Activity Periods",
-      "category": "Behavior",
-      "cgs": 53.89,
-      "ctr": null,
-      "apv": null,
-      "avd": null,
-      "views": 1342
+      "topic": "Grape Toxicity in Canine Nutrition",
+      "category": "Nutrition",
+      "cgs": 54.61,
+      "ctr": 56.0,
+      "apv": 50.629999999999995,
+      "avd": 7.0,
+      "views": 76
     }
   ],
   "losing_topics": [
     {
-      "topic": "Grape Toxicity in Canine Nutrition",
-      "category": "Nutrition",
-      "cgs": 21.28,
+      "topic": "Canine REM Sleep Dynamics",
+      "category": "Sleep",
+      "cgs": 54.21,
       "ctr": null,
       "apv": null,
       "avd": null,
-      "views": 71
+      "views": 864
     },
     {
-      "topic": "Canine Paw Pad Thermoregulation",
-      "category": "Physiology",
-      "cgs": 10.19,
+      "topic": "Frenetic Random Activity Periods",
+      "category": "Behavior",
+      "cgs": 53.6,
       "ctr": null,
       "apv": null,
       "avd": null,
-      "views": 7
+      "views": 1351
+    },
+    {
+      "topic": "Dog reward association timing",
+      "category": "Training",
+      "cgs": 42.53,
+      "ctr": null,
+      "apv": null,
+      "avd": null,
+      "views": 230
     },
     {
       "topic": "Canine Play Bow Communication",
       "category": "Body Language",
-      "cgs": 10.0,
+      "cgs": 11.69,
       "ctr": null,
       "apv": null,
       "avd": null,
-      "views": 0
+      "views": 44
     },
     {
-      "topic": "Canine REM Sleep Dynamics",
-      "category": "Sleep",
-      "cgs": 9.88,
+      "topic": "Canine Paw Pad Thermoregulation",
+      "category": "Physiology",
+      "cgs": 9.9,
       "ctr": null,
       "apv": null,
       "avd": null,
-      "views": 0
+      "views": 8
     }
   ],
   "winning_title_patterns": [
@@ -136,6 +145,6 @@
   "exploration_ratio": {
     "reinforce_pct": 80,
     "explore_pct": 20,
-    "adjusted_by": "low_cgs_average_10.0"
+    "adjusted_by": "low_cgs_average_36.1"
   }
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T15:12:30.127710Z",
+  "generated_at": "2026-08-04T04:48:05.414943Z",
   "top_candidates": [
     {
       "topic": "dog body language",
@@ -7,14 +7,14 @@
       "category": "dog_communication"
     },
     {
+      "topic": "Grape Toxicity in Canine Nutrition",
+      "score": 100,
+      "category": "dog_facts"
+    },
+    {
       "topic": "dog psychology",
       "score": 94,
       "category": "dog_psychology"
-    },
-    {
-      "topic": "dog training secrets",
-      "score": 94,
-      "category": "dog_training"
     },
     {
       "topic": "amazing dog abilities",
@@ -37,19 +37,19 @@
       "category": "dog_owner_tips"
     },
     {
-      "topic": "The Truth About Dog health facts",
+      "topic": "The Truth About Dog owner tips",
       "score": 94,
-      "category": "dog_health"
+      "category": "dog_owner_tips"
     },
     {
-      "topic": "Dog health facts Most People Don't Know",
+      "topic": "Dog owner tips Most People Don't Know",
       "score": 94,
-      "category": "dog_health"
+      "category": "dog_owner_tips"
     },
     {
-      "topic": "Surprising Facts About Dog health facts",
+      "topic": "The Truth About Dog life hacks",
       "score": 94,
-      "category": "dog_health"
+      "category": "dog_owner_tips"
     }
   ]
 }
