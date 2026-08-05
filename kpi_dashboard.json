@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-05T07:52:46.532158Z",
+  "generated_at": "2026-08-05T14:32:05.241151Z",
   "kpis": {
-    "uploads": 14,
-    "views": 5658,
-    "ctr_average": 435.29,
+    "uploads": 15,
+    "views": 5663,
+    "ctr_average": 435.0,
     "apv_average": 67.85,
     "subscribers_gained": 6,
-    "cgs_average": 48.07,
+    "cgs_average": 45.68,
     "top_topics": [
       "Frenetic Random Activity Periods",
       "Canine Lapping Mechanics",
@@ -19,11 +19,11 @@
     ]
   },
   "production_metrics": {
-    "success_rate_percent": 60.87,
-    "failure_rate_percent": 39.13,
-    "retry_rate_percent": 8.7,
-    "upload_latency_seconds": 5.62,
-    "generation_latency_seconds": 105.92
+    "success_rate_percent": 62.5,
+    "failure_rate_percent": 37.5,
+    "retry_rate_percent": 8.33,
+    "upload_latency_seconds": 5.23,
+    "generation_latency_seconds": 97.6
   },
   "warnings": []
 }

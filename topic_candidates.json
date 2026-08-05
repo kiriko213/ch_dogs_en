@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-05T07:49:39.407026Z",
+  "generated_at": "2026-08-05T14:29:19.310397Z",
   "top_candidates": [
     {
-      "topic": "dog body language",
+      "topic": "dog psychology",
       "score": 100,
-      "category": "dog_communication"
+      "category": "dog_psychology"
     },
     {
       "topic": "Frenetic Random Activity Periods",
@@ -17,9 +17,9 @@
       "category": "dog_facts"
     },
     {
-      "topic": "dog psychology",
+      "topic": "dog communication",
       "score": 94,
-      "category": "dog_psychology"
+      "category": "dog_communication"
     },
     {
       "topic": "amazing dog abilities",
@@ -37,19 +37,19 @@
       "category": "dog_owner_tips"
     },
     {
+      "topic": "dog behavior mysteries",
+      "score": 84,
+      "category": "dog_psychology"
+    },
+    {
       "topic": "dog life hacks",
-      "score": 94,
+      "score": 84,
       "category": "dog_owner_tips"
     },
     {
-      "topic": "The Truth About Dog owner tips",
-      "score": 94,
-      "category": "dog_owner_tips"
-    },
-    {
-      "topic": "Dog owner tips Most People Don't Know",
-      "score": 94,
-      "category": "dog_owner_tips"
+      "topic": "The Truth About Dog behavior mysteries",
+      "score": 84,
+      "category": "dog_psychology"
     }
   ]
 }
