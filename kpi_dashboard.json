@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-08-04T14:40:12.254041Z",
+  "generated_at": "2026-08-05T04:50:12.128704Z",
   "kpis": {
-    "uploads": 12,
-    "views": 4279,
-    "ctr_average": 207.25,
-    "apv_average": 75.02,
-    "subscribers_gained": 0,
-    "cgs_average": 41.96,
+    "uploads": 13,
+    "views": 5675,
+    "ctr_average": 435.29,
+    "apv_average": 67.85,
+    "subscribers_gained": 6,
+    "cgs_average": 50.54,
     "top_topics": [
-      "Canine olfactory sense",
-      "Dog episodic memory",
-      "Dog vocal communication"
+      "Frenetic Random Activity Periods",
+      "Canine Lapping Mechanics",
+      "Canine olfactory sense"
     ],
     "top_titles": [
       "The Truth About Dog Noses",
@@ -19,11 +19,11 @@
     ]
   },
   "production_metrics": {
-    "success_rate_percent": 57.14,
-    "failure_rate_percent": 42.86,
-    "retry_rate_percent": 9.52,
-    "upload_latency_seconds": 4.96,
-    "generation_latency_seconds": 85.85
+    "success_rate_percent": 59.09,
+    "failure_rate_percent": 40.91,
+    "retry_rate_percent": 9.09,
+    "upload_latency_seconds": 4.94,
+    "generation_latency_seconds": 78.09
   },
   "warnings": []
 }

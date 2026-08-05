@@ -1,68 +1,68 @@
 {
   "feedback_version": 1,
-  "generated_at": "2026-08-04T14:36:48.237345Z",
+  "generated_at": "2026-08-05T04:47:19.476301Z",
   "top_topics": [
     {
       "topic": "Canine Lapping Mechanics",
       "category": "Biomechanics",
-      "score": 59.26,
-      "views": 929
+      "score": 59.22,
+      "views": 910
+    },
+    {
+      "topic": "Physical Weight Leaning Behavior",
+      "category": "Bonding",
+      "score": 58.98,
+      "views": 935
     },
     {
       "topic": "Frenetic Random Activity Periods",
       "category": "Behavior",
-      "score": 55.69,
-      "views": 1353
+      "score": 55.68,
+      "views": 1304
     },
     {
       "topic": "Canine REM Sleep Dynamics",
       "category": "Sleep",
-      "score": 55.65,
+      "score": 54.96,
       "views": 864
-    },
-    {
-      "topic": "Dog reward association timing",
-      "category": "Training",
-      "score": 46.18,
-      "views": 230
-    },
-    {
-      "topic": "Grape Toxicity in Canine Nutrition",
-      "category": "Nutrition",
-      "score": 20.95,
-      "views": 78
-    }
-  ],
-  "underperforming_topics": [
-    {
-      "topic": "Dog vocal communication",
-      "category": "default",
-      "score": 19.37,
-      "views": 271
-    },
-    {
-      "topic": "Canine Play Bow Communication",
-      "category": "Body Language",
-      "score": 12.0,
-      "views": 44
     },
     {
       "topic": "Canine Starch Digestion",
       "category": "Evolution",
-      "score": 10.0,
-      "views": 0
+      "score": 45.9,
+      "views": 504
+    }
+  ],
+  "underperforming_topics": [
+    {
+      "topic": "Canine olfactory sense",
+      "category": "default",
+      "score": 16.97,
+      "views": 237
+    },
+    {
+      "topic": "Dog vocal communication",
+      "category": "default",
+      "score": 16.46,
+      "views": 271
     },
     {
       "topic": "Canine Permanent Dental Structure",
       "category": "Anatomy",
-      "score": 9.86,
-      "views": 0
+      "score": 12.14,
+      "views": 56
+    },
+    {
+      "topic": "Canine Play Bow Communication",
+      "category": "Body Language",
+      "score": 11.09,
+      "views": 40
     },
     {
       "topic": "Canine Paw Pad Thermoregulation",
       "category": "Physiology",
-      "score": 9.78,
-      "views": 8
+      "score": 9.52,
+      "views": 10
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "feedback_version": 2,
-  "generated_at": "2026-08-04T14:36:48.860325Z",
+  "generated_at": "2026-08-05T04:47:19.964183Z",
   "channel": "ch_dogs_en",
   "metadata": {
-    "total_videos_analyzed": 12,
+    "total_videos_analyzed": 13,
     "analytics_api_available": true,
     "cgs_mode": "beta",
     "data_freshness_hours": 72,
@@ -11,9 +11,27 @@
   },
   "winning_topics": [
     {
+      "topic": "Frenetic Random Activity Periods",
+      "category": "Behavior",
+      "cgs": 77.43,
+      "ctr": 1290.0,
+      "apv": 61.35,
+      "avd": 9.0,
+      "views": 1304
+    },
+    {
+      "topic": "Canine Lapping Mechanics",
+      "category": "Biomechanics",
+      "cgs": 71.71,
+      "ctr": 906.0,
+      "apv": 65.07,
+      "avd": 10.0,
+      "views": 910
+    },
+    {
       "topic": "Canine olfactory sense",
       "category": "default",
-      "cgs": 67.61,
+      "cgs": 66.99,
       "ctr": 237.0,
       "apv": 88.32,
       "avd": 10.0,
@@ -22,7 +40,7 @@
     {
       "topic": "Dog episodic memory",
       "category": "default",
-      "cgs": 65.88,
+      "cgs": 65.19,
       "ctr": 265.0,
       "apv": 73.96,
       "avd": 9.0,
@@ -31,76 +49,58 @@
     {
       "topic": "Dog vocal communication",
       "category": "default",
-      "cgs": 65.59,
+      "cgs": 64.86,
       "ctr": 271.0,
       "apv": 87.19,
       "avd": 10.0,
       "views": 271
-    },
-    {
-      "topic": "Canine Lapping Mechanics",
-      "category": "Biomechanics",
-      "cgs": 56.8,
-      "ctr": null,
-      "apv": null,
-      "avd": null,
-      "views": 929
-    },
-    {
-      "topic": "Grape Toxicity in Canine Nutrition",
-      "category": "Nutrition",
-      "cgs": 54.72,
-      "ctr": 56.0,
-      "apv": 50.629999999999995,
-      "avd": 7.0,
-      "views": 78
     }
   ],
   "losing_topics": [
     {
-      "topic": "Dog reward association timing",
-      "category": "Training",
-      "cgs": 44.37,
-      "ctr": null,
-      "apv": null,
-      "avd": null,
-      "views": 230
-    },
-    {
-      "topic": "Canine Play Bow Communication",
-      "category": "Body Language",
-      "cgs": 11.9,
-      "ctr": null,
-      "apv": null,
-      "avd": null,
-      "views": 44
-    },
-    {
-      "topic": "Canine Permanent Dental Structure",
-      "category": "Anatomy",
-      "cgs": 10.12,
-      "ctr": null,
-      "apv": null,
-      "avd": null,
-      "views": 0
-    },
-    {
       "topic": "Canine Starch Digestion",
       "category": "Evolution",
-      "cgs": 10.0,
+      "cgs": 44.1,
       "ctr": null,
       "apv": null,
       "avd": null,
-      "views": 0
+      "views": 504
+    },
+    {
+      "topic": "Dog reward association timing",
+      "category": "Training",
+      "cgs": 43.65,
+      "ctr": null,
+      "apv": null,
+      "avd": null,
+      "views": 203
     },
     {
       "topic": "Canine Paw Pad Thermoregulation",
       "category": "Physiology",
-      "cgs": 9.79,
+      "cgs": 37.07,
+      "ctr": 6.0,
+      "apv": 51.16,
+      "avd": 8.0,
+      "views": 10
+    },
+    {
+      "topic": "Canine Permanent Dental Structure",
+      "category": "Anatomy",
+      "cgs": 12.28,
       "ctr": null,
       "apv": null,
       "avd": null,
-      "views": 8
+      "views": 56
+    },
+    {
+      "topic": "Canine Play Bow Communication",
+      "category": "Body Language",
+      "cgs": 11.04,
+      "ctr": null,
+      "apv": null,
+      "avd": null,
+      "views": 40
     }
   ],
   "winning_title_patterns": [
@@ -139,12 +139,12 @@
   ],
   "toxic_combinations": [],
   "growth_signals": {
-    "total_subscribers_gained": 0,
+    "total_subscribers_gained": 6,
     "growth_trend": "growing"
   },
   "exploration_ratio": {
     "reinforce_pct": 80,
     "explore_pct": 20,
-    "adjusted_by": "low_cgs_average_21.5"
+    "adjusted_by": "low_cgs_average_37.6"
   }
 }
