@@ -1,9 +1,9 @@
 {
   "feedback_version": 2,
-  "generated_at": "2026-08-05T04:47:19.964183Z",
+  "generated_at": "2026-08-05T07:49:39.385301Z",
   "channel": "ch_dogs_en",
   "metadata": {
-    "total_videos_analyzed": 13,
+    "total_videos_analyzed": 14,
     "analytics_api_available": true,
     "cgs_mode": "beta",
     "data_freshness_hours": 72,
@@ -13,7 +13,7 @@
     {
       "topic": "Frenetic Random Activity Periods",
       "category": "Behavior",
-      "cgs": 77.43,
+      "cgs": 77.41,
       "ctr": 1290.0,
       "apv": 61.35,
       "avd": 9.0,
@@ -22,7 +22,7 @@
     {
       "topic": "Canine Lapping Mechanics",
       "category": "Biomechanics",
-      "cgs": 71.71,
+      "cgs": 71.69,
       "ctr": 906.0,
       "apv": 65.07,
       "avd": 10.0,
@@ -31,7 +31,7 @@
     {
       "topic": "Canine olfactory sense",
       "category": "default",
-      "cgs": 66.99,
+      "cgs": 67.21,
       "ctr": 237.0,
       "apv": 88.32,
       "avd": 10.0,
@@ -40,7 +40,7 @@
     {
       "topic": "Dog episodic memory",
       "category": "default",
-      "cgs": 65.19,
+      "cgs": 65.43,
       "ctr": 265.0,
       "apv": 73.96,
       "avd": 9.0,
@@ -49,7 +49,7 @@
     {
       "topic": "Dog vocal communication",
       "category": "default",
-      "cgs": 64.86,
+      "cgs": 65.11,
       "ctr": 271.0,
       "apv": 87.19,
       "avd": 10.0,
@@ -58,18 +58,9 @@
   ],
   "losing_topics": [
     {
-      "topic": "Canine Starch Digestion",
-      "category": "Evolution",
-      "cgs": 44.1,
-      "ctr": null,
-      "apv": null,
-      "avd": null,
-      "views": 504
-    },
-    {
       "topic": "Dog reward association timing",
       "category": "Training",
-      "cgs": 43.65,
+      "cgs": 44.3,
       "ctr": null,
       "apv": null,
       "avd": null,
@@ -78,7 +69,7 @@
     {
       "topic": "Canine Paw Pad Thermoregulation",
       "category": "Physiology",
-      "cgs": 37.07,
+      "cgs": 37.06,
       "ctr": 6.0,
       "apv": 51.16,
       "avd": 8.0,
@@ -87,20 +78,29 @@
     {
       "topic": "Canine Permanent Dental Structure",
       "category": "Anatomy",
-      "cgs": 12.28,
+      "cgs": 12.52,
       "ctr": null,
       "apv": null,
       "avd": null,
-      "views": 56
+      "views": 58
     },
     {
       "topic": "Canine Play Bow Communication",
       "category": "Body Language",
-      "cgs": 11.04,
+      "cgs": 11.12,
       "ctr": null,
       "apv": null,
       "avd": null,
       "views": 40
+    },
+    {
+      "topic": "Canine Geomagnetic Orientation",
+      "category": "Navigation",
+      "cgs": 10.0,
+      "ctr": null,
+      "apv": null,
+      "avd": null,
+      "views": 0
     }
   ],
   "winning_title_patterns": [
@@ -145,6 +145,6 @@
   "exploration_ratio": {
     "reinforce_pct": 80,
     "explore_pct": 20,
-    "adjusted_by": "low_cgs_average_37.6"
+    "adjusted_by": "low_cgs_average_38.1"
   }
 }
