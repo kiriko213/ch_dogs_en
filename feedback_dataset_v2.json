@@ -1,9 +1,9 @@
 {
   "feedback_version": 2,
-  "generated_at": "2026-08-05T14:29:19.285242Z",
+  "generated_at": "2026-08-06T04:48:24.660630Z",
   "channel": "ch_dogs_en",
   "metadata": {
-    "total_videos_analyzed": 15,
+    "total_videos_analyzed": 16,
     "analytics_api_available": true,
     "cgs_mode": "beta",
     "data_freshness_hours": 72,
@@ -14,93 +14,93 @@
       "topic": "Frenetic Random Activity Periods",
       "category": "Behavior",
       "cgs": 77.38,
-      "ctr": 1290.0,
-      "apv": 61.35,
+      "ctr": 1303.0,
+      "apv": 61.5,
       "avd": 9.0,
       "views": 1304
     },
     {
+      "topic": "Canine REM Sleep Dynamics",
+      "category": "Sleep",
+      "cgs": 74.77,
+      "ctr": 863.0,
+      "apv": 71.04,
+      "avd": 9.0,
+      "views": 807
+    },
+    {
       "topic": "Canine Lapping Mechanics",
       "category": "Biomechanics",
-      "cgs": 71.66,
-      "ctr": 906.0,
+      "cgs": 70.37,
+      "ctr": 910.0,
       "apv": 65.07,
       "avd": 10.0,
       "views": 910
     },
     {
+      "topic": "Dog reward association timing",
+      "category": "Training",
+      "cgs": 68.6,
+      "ctr": 227.0,
+      "apv": 61.92999999999999,
+      "avd": 9.0,
+      "views": 203
+    },
+    {
       "topic": "Canine olfactory sense",
       "category": "default",
-      "cgs": 67.41,
+      "cgs": 66.55,
       "ctr": 237.0,
       "apv": 88.32,
       "avd": 10.0,
       "views": 237
-    },
-    {
-      "topic": "Dog episodic memory",
-      "category": "default",
-      "cgs": 65.66,
-      "ctr": 265.0,
-      "apv": 73.96,
-      "avd": 9.0,
-      "views": 265
-    },
-    {
-      "topic": "Dog vocal communication",
-      "category": "default",
-      "cgs": 65.33,
-      "ctr": 271.0,
-      "apv": 87.19,
-      "avd": 10.0,
-      "views": 271
     }
   ],
   "losing_topics": [
     {
+      "topic": "Canine Tactile Whiskers",
+      "category": "Sensory Biology",
+      "cgs": 46.77,
+      "ctr": null,
+      "apv": null,
+      "avd": null,
+      "views": 880
+    },
+    {
+      "topic": "Canine Starch Digestion",
+      "category": "Evolution",
+      "cgs": 44.1,
+      "ctr": null,
+      "apv": null,
+      "avd": null,
+      "views": 629
+    },
+    {
       "topic": "Canine Paw Pad Thermoregulation",
       "category": "Physiology",
-      "cgs": 37.04,
-      "ctr": 6.0,
-      "apv": 51.16,
-      "avd": 8.0,
+      "cgs": 36.94,
+      "ctr": 7.0,
+      "apv": 44.51,
+      "avd": 7.0,
       "views": 10
-    },
-    {
-      "topic": "Canine Permanent Dental Structure",
-      "category": "Anatomy",
-      "cgs": 12.63,
-      "ctr": null,
-      "apv": null,
-      "avd": null,
-      "views": 59
-    },
-    {
-      "topic": "Canine Play Bow Communication",
-      "category": "Body Language",
-      "cgs": 11.13,
-      "ctr": null,
-      "apv": null,
-      "avd": null,
-      "views": 40
-    },
-    {
-      "topic": "Canine Geomagnetic Orientation",
-      "category": "Navigation",
-      "cgs": 9.87,
-      "ctr": null,
-      "apv": null,
-      "avd": null,
-      "views": 0
     },
     {
       "topic": "Hind Leg Sploot Posture Mechanics",
       "category": "Biomechanics",
-      "cgs": 9.5,
+      "cgs": 23.46,
       "ctr": null,
       "apv": null,
       "avd": null,
-      "views": 0
+      "views": 343
+    },
+    {
+      "topic": "Canine Permanent Dental Structure",
+      "category": "Anatomy",
+      "cgs": 11.65,
+      "ctr": null,
+      "apv": null,
+      "avd": null,
+      "views": 61
     }
   ],
   "winning_title_patterns": [
@@ -112,7 +112,7 @@
     },
     {
       "pattern": "{Topic} Episodic Memory's Deepest Secrets",
-      "frequency": 2,
+      "frequency": 1,
       "example": "Dog Episodic Memory's Deepest Secrets",
       "source": "title_curiosity_patterns"
     },
@@ -129,22 +129,16 @@
       "frequency": 1,
       "example_opening": "Imagine smelling a teaspoon of sugar in two Olympic pools.",
       "source": "opening_hook_patterns"
-    },
-    {
-      "hook_type": "questioning",
-      "frequency": 1,
-      "example_opening": "Did you know dogs remember specific events? They possess episodic-like memory, recalling past actions with surprising detail.",
-      "source": "opening_hook_patterns"
     }
   ],
   "toxic_combinations": [],
   "growth_signals": {
-    "total_subscribers_gained": 6,
+    "total_subscribers_gained": 11,
     "growth_trend": "growing"
   },
   "exploration_ratio": {
     "reinforce_pct": 80,
     "explore_pct": 20,
-    "adjusted_by": "low_cgs_average_25.2"
+    "adjusted_by": "low_cgs_average_41.0"
   }
 }

@@ -1,55 +1,55 @@
 {
-  "generated_at": "2026-08-05T14:29:19.310397Z",
+  "generated_at": "2026-08-06T04:48:24.686803Z",
   "top_candidates": [
-    {
-      "topic": "dog psychology",
-      "score": 100,
-      "category": "dog_psychology"
-    },
     {
       "topic": "Frenetic Random Activity Periods",
       "score": 100,
       "category": "dog_facts"
     },
     {
-      "topic": "Canine Lapping Mechanics",
-      "score": 100,
-      "category": "dog_facts"
+      "topic": "dog psychology",
+      "score": 97,
+      "category": "dog_psychology"
     },
     {
       "topic": "dog communication",
-      "score": 94,
+      "score": 91,
       "category": "dog_communication"
     },
     {
       "topic": "amazing dog abilities",
-      "score": 94,
+      "score": 91,
       "category": "dog_intelligence"
     },
     {
       "topic": "dog health facts",
-      "score": 94,
+      "score": 91,
       "category": "dog_health"
     },
     {
       "topic": "dog owner tips",
-      "score": 94,
+      "score": 91,
       "category": "dog_owner_tips"
-    },
-    {
-      "topic": "dog behavior mysteries",
-      "score": 84,
-      "category": "dog_psychology"
     },
     {
       "topic": "dog life hacks",
-      "score": 84,
+      "score": 91,
       "category": "dog_owner_tips"
     },
     {
-      "topic": "The Truth About Dog behavior mysteries",
-      "score": 84,
-      "category": "dog_psychology"
+      "topic": "The Truth About Dog health facts",
+      "score": 91,
+      "category": "dog_health"
+    },
+    {
+      "topic": "Dog health facts Most People Don't Know",
+      "score": 91,
+      "category": "dog_health"
+    },
+    {
+      "topic": "Surprising Facts About Dog health facts",
+      "score": 91,
+      "category": "dog_health"
     }
   ]
 }

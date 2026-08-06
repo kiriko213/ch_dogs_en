@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-08-05T14:32:05.241151Z",
+  "generated_at": "2026-08-06T04:51:38.777547Z",
   "kpis": {
-    "uploads": 15,
-    "views": 5663,
-    "ctr_average": 435.0,
-    "apv_average": 67.85,
-    "subscribers_gained": 6,
-    "cgs_average": 45.68,
+    "uploads": 16,
+    "views": 8298,
+    "ctr_average": 420.6,
+    "apv_average": 63.72,
+    "subscribers_gained": 11,
+    "cgs_average": 53.41,
     "top_topics": [
       "Frenetic Random Activity Periods",
-      "Canine Lapping Mechanics",
-      "Canine olfactory sense"
+      "Canine REM Sleep Dynamics",
+      "Canine Lapping Mechanics"
     ],
     "top_titles": [
       "The Truth About Dog Noses",
@@ -19,11 +19,11 @@
     ]
   },
   "production_metrics": {
-    "success_rate_percent": 62.5,
-    "failure_rate_percent": 37.5,
-    "retry_rate_percent": 8.33,
-    "upload_latency_seconds": 5.23,
-    "generation_latency_seconds": 97.6
+    "success_rate_percent": 64.0,
+    "failure_rate_percent": 36.0,
+    "retry_rate_percent": 8.0,
+    "upload_latency_seconds": 4.94,
+    "generation_latency_seconds": 99.16
   },
   "warnings": []
 }
