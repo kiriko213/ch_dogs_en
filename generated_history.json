@@ -1,15 +1,5 @@
 [
   {
-    "title": "Doggo Bliss | The Truth About Dog Noses",
-    "script_content": "Imagine smelling a teaspoon of sugar in two Olympic pools. That's a dog's nose! Their powerful sense of smell is truly unmatched.",
-    "video_ids": [
-      4057316,
-      7117646
-    ],
-    "local_filenames": [],
-    "timestamp": "2026-06-20T22:05:24.189857"
-  },
-  {
     "title": "Doggo Bliss | Dog Episodic Memory's Deepest Secrets",
     "script_content": "Did you know dogs remember specific events? They possess episodic-like memory, recalling past actions with surprising detail. Truly amazing!",
     "video_ids": [
@@ -198,5 +188,15 @@
     ],
     "local_filenames": [],
     "timestamp": "2026-08-06T07:52:11.703202"
+  },
+  {
+    "title": "Why Your Dog Canine Grass Eating",
+    "topic": "Canine Grass Eating",
+    "script_content": "Many believe dogs eat grass only when sick, but they often need fiber. Fresh grass helps support healthy digestive function. Does your dog eat grass?",
+    "video_ids": [
+      16215700
+    ],
+    "local_filenames": [],
+    "timestamp": "2026-08-06T14:35:57.335586"
   }
 ]

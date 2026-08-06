@@ -1,9 +1,9 @@
 {
   "feedback_version": 2,
-  "generated_at": "2026-08-06T07:49:04.992876Z",
+  "generated_at": "2026-08-06T14:32:34.189814Z",
   "channel": "ch_dogs_en",
   "metadata": {
-    "total_videos_analyzed": 17,
+    "total_videos_analyzed": 18,
     "analytics_api_available": true,
     "cgs_mode": "beta",
     "data_freshness_hours": 72,
@@ -13,7 +13,7 @@
     {
       "topic": "Frenetic Random Activity Periods",
       "category": "Behavior",
-      "cgs": 77.37,
+      "cgs": 77.34,
       "ctr": 1303.0,
       "apv": 61.5,
       "avd": 9.0,
@@ -22,16 +22,16 @@
     {
       "topic": "Canine REM Sleep Dynamics",
       "category": "Sleep",
-      "cgs": 75.18,
+      "cgs": 75.55,
       "ctr": 863.0,
       "apv": 71.04,
       "avd": 9.0,
-      "views": 807
+      "views": 808
     },
     {
       "topic": "Canine Lapping Mechanics",
       "category": "Biomechanics",
-      "cgs": 70.84,
+      "cgs": 71.26,
       "ctr": 910.0,
       "apv": 65.07,
       "avd": 10.0,
@@ -40,7 +40,7 @@
     {
       "topic": "Dog reward association timing",
       "category": "Training",
-      "cgs": 68.69,
+      "cgs": 68.76,
       "ctr": 227.0,
       "apv": 61.92999999999999,
       "avd": 9.0,
@@ -49,7 +49,7 @@
     {
       "topic": "Canine olfactory sense",
       "category": "default",
-      "cgs": 66.67,
+      "cgs": 66.78,
       "ctr": 237.0,
       "apv": 88.32,
       "avd": 10.0,
@@ -58,18 +58,9 @@
   ],
   "losing_topics": [
     {
-      "topic": "Canine Starch Digestion",
-      "category": "Evolution",
-      "cgs": 45.94,
-      "ctr": null,
-      "apv": null,
-      "avd": null,
-      "views": 659
-    },
-    {
       "topic": "Canine Paw Pad Thermoregulation",
       "category": "Physiology",
-      "cgs": 36.94,
+      "cgs": 36.91,
       "ctr": 7.0,
       "apv": 44.51,
       "avd": 7.0,
@@ -78,7 +69,7 @@
     {
       "topic": "Hind Leg Sploot Posture Mechanics",
       "category": "Biomechanics",
-      "cgs": 24.08,
+      "cgs": 24.6,
       "ctr": null,
       "apv": null,
       "avd": null,
@@ -87,16 +78,25 @@
     {
       "topic": "Canine Permanent Dental Structure",
       "category": "Anatomy",
-      "cgs": 11.71,
+      "cgs": 11.54,
       "ctr": null,
       "apv": null,
       "avd": null,
-      "views": 61
+      "views": 57
+    },
+    {
+      "topic": "Dog Paddle Biomechanics",
+      "category": "Locomotion",
+      "cgs": 10.0,
+      "ctr": null,
+      "apv": null,
+      "avd": null,
+      "views": 0
     },
     {
       "topic": "Eyebrow Muscle Facial Evolution",
       "category": "Evolution",
-      "cgs": 10.0,
+      "cgs": 9.87,
       "ctr": null,
       "apv": null,
       "avd": null,
@@ -139,6 +139,6 @@
   "exploration_ratio": {
     "reinforce_pct": 80,
     "explore_pct": 20,
-    "adjusted_by": "low_cgs_average_27.5"
+    "adjusted_by": "low_cgs_average_23.3"
   }
 }

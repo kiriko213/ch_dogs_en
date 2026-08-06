@@ -1,67 +1,67 @@
 {
   "feedback_version": 1,
-  "generated_at": "2026-08-06T07:49:04.464535Z",
+  "generated_at": "2026-08-06T14:32:32.942878Z",
   "top_topics": [
-    {
-      "topic": "Physical Weight Leaning Behavior",
-      "category": "Bonding",
-      "score": 56.57,
-      "views": 938
-    },
     {
       "topic": "Canine Lapping Mechanics",
       "category": "Biomechanics",
-      "score": 55.77,
+      "score": 57.44,
       "views": 910
+    },
+    {
+      "topic": "Physical Weight Leaning Behavior",
+      "category": "Bonding",
+      "score": 56.97,
+      "views": 898
     },
     {
       "topic": "Frenetic Random Activity Periods",
       "category": "Behavior",
-      "score": 55.23,
+      "score": 55.12,
       "views": 1299
     },
     {
       "topic": "Canine Geomagnetic Orientation",
       "category": "Navigation",
-      "score": 54.81,
-      "views": 1360
+      "score": 54.68,
+      "views": 1361
     },
     {
-      "topic": "Canine Tactile Whiskers",
-      "category": "Sensory Biology",
-      "score": 50.51,
-      "views": 880
+      "topic": "Canine Starch Digestion",
+      "category": "Evolution",
+      "score": 53.17,
+      "views": 783
     }
   ],
   "underperforming_topics": [
     {
-      "topic": "Dog vocal communication",
-      "category": "default",
-      "score": 14.85,
-      "views": 271
-    },
-    {
       "topic": "Canine Permanent Dental Structure",
       "category": "Anatomy",
-      "score": 11.54,
-      "views": 61
+      "score": 11.36,
+      "views": 57
     },
     {
       "topic": "Canine Play Bow Communication",
       "category": "Body Language",
-      "score": 10.38,
+      "score": 10.34,
       "views": 40
+    },
+    {
+      "topic": "Dog Paddle Biomechanics",
+      "category": "Locomotion",
+      "score": 10.0,
+      "views": 0
     },
     {
       "topic": "Eyebrow Muscle Facial Evolution",
       "category": "Evolution",
-      "score": 10.0,
+      "score": 9.86,
       "views": 0
     },
     {
       "topic": "Canine Paw Pad Thermoregulation",
       "category": "Physiology",
-      "score": 8.98,
+      "score": 8.88,
       "views": 10
     }
   ]
