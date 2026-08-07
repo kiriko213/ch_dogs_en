@@ -1,15 +1,5 @@
 [
   {
-    "title": "Doggo Bliss | Dog Episodic Memory's Deepest Secrets",
-    "script_content": "Did you know dogs remember specific events? They possess episodic-like memory, recalling past actions with surprising detail. Truly amazing!",
-    "video_ids": [
-      31861354,
-      37353341
-    ],
-    "local_filenames": [],
-    "timestamp": "2026-06-20T22:56:14.413161"
-  },
-  {
     "title": "Doggo Bliss | This Dog Vocal Communication Will Shock You",
     "script_content": "What do dog barks mean? Different barks convey specific messages to us, from alert to playful. Understanding their calls is fascinating!",
     "video_ids": [
@@ -198,5 +188,15 @@
     ],
     "local_filenames": [],
     "timestamp": "2026-08-06T14:35:57.335586"
+  },
+  {
+    "title": "Understanding Dog Canine Deep Sighing Meaning",
+    "topic": "Canine Deep Sighing Meaning",
+    "script_content": "When your dog sighs deeply, they are feeling completely relaxed. Exhaling with soft closed eyes shows full contentment inside. Does your dog sigh near you?",
+    "video_ids": [
+      34711078
+    ],
+    "local_filenames": [],
+    "timestamp": "2026-08-07T04:18:36.261998"
   }
 ]

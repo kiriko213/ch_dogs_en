@@ -1,67 +1,67 @@
 {
   "feedback_version": 1,
-  "generated_at": "2026-08-06T14:32:32.942878Z",
+  "generated_at": "2026-08-07T04:15:09.056927Z",
   "top_topics": [
     {
       "topic": "Canine Lapping Mechanics",
       "category": "Biomechanics",
-      "score": 57.44,
+      "score": 57.57,
       "views": 910
     },
     {
       "topic": "Physical Weight Leaning Behavior",
       "category": "Bonding",
-      "score": 56.97,
+      "score": 57.06,
       "views": 898
     },
     {
       "topic": "Frenetic Random Activity Periods",
       "category": "Behavior",
-      "score": 55.12,
+      "score": 54.89,
       "views": 1299
     },
     {
       "topic": "Canine Geomagnetic Orientation",
       "category": "Navigation",
-      "score": 54.68,
-      "views": 1361
+      "score": 54.66,
+      "views": 1300
     },
     {
       "topic": "Canine Starch Digestion",
       "category": "Evolution",
-      "score": 53.17,
-      "views": 783
+      "score": 53.07,
+      "views": 803
     }
   ],
   "underperforming_topics": [
     {
+      "topic": "Canine olfactory sense",
+      "category": "default",
+      "score": 16.21,
+      "views": 237
+    },
+    {
+      "topic": "Dog vocal communication",
+      "category": "default",
+      "score": 15.33,
+      "views": 271
+    },
+    {
       "topic": "Canine Permanent Dental Structure",
       "category": "Anatomy",
-      "score": 11.36,
+      "score": 11.14,
       "views": 57
     },
     {
       "topic": "Canine Play Bow Communication",
       "category": "Body Language",
-      "score": 10.34,
-      "views": 40
-    },
-    {
-      "topic": "Dog Paddle Biomechanics",
-      "category": "Locomotion",
-      "score": 10.0,
-      "views": 0
-    },
-    {
-      "topic": "Eyebrow Muscle Facial Evolution",
-      "category": "Evolution",
-      "score": 9.86,
-      "views": 0
+      "score": 10.15,
+      "views": 41
     },
     {
       "topic": "Canine Paw Pad Thermoregulation",
       "category": "Physiology",
-      "score": 8.88,
+      "score": 8.65,
       "views": 10
     }
   ]
