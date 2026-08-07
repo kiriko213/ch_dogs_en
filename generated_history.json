@@ -1,15 +1,5 @@
 [
   {
-    "title": "Doggo Bliss | This Dog Vocal Communication Will Shock You",
-    "script_content": "What do dog barks mean? Different barks convey specific messages to us, from alert to playful. Understanding their calls is fascinating!",
-    "video_ids": [
-      32536736,
-      10864288
-    ],
-    "local_filenames": [],
-    "timestamp": "2026-06-22T23:00:42.727829"
-  },
-  {
     "title": "5 Secrets of Canine Hearing Abilities",
     "script_content": "Can dogs hear silent whistles? Yes! Their hearing is four times more sensitive, detecting high frequencies from further away. Amazing!",
     "video_ids": [
@@ -198,5 +188,15 @@
     ],
     "local_filenames": [],
     "timestamp": "2026-08-07T04:18:36.261998"
+  },
+  {
+    "title": "Why Your Dog Canine Contagious Yawning",
+    "topic": "Canine Contagious Yawning",
+    "script_content": "Catching your yawn is a clear sign of canine empathy. Dogs mirror human yawning to show comfort and deep trust. Does your dog yawn back?",
+    "video_ids": [
+      37676969
+    ],
+    "local_filenames": [],
+    "timestamp": "2026-08-07T14:21:40.183945"
   }
 ]
