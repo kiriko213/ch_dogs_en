@@ -1,9 +1,9 @@
 {
   "feedback_version": 2,
-  "generated_at": "2026-08-08T03:12:39.740489Z",
+  "generated_at": "2026-08-08T05:54:58.456830Z",
   "channel": "ch_dogs_en",
   "metadata": {
-    "total_videos_analyzed": 21,
+    "total_videos_analyzed": 22,
     "analytics_api_available": true,
     "cgs_mode": "beta",
     "data_freshness_hours": 72,
@@ -13,8 +13,8 @@
     {
       "topic": "Frenetic Random Activity Periods",
       "category": "Behavior",
-      "cgs": 77.23,
-      "ctr": 1299.0,
+      "cgs": 77.22,
+      "ctr": 1304.0,
       "apv": 61.6,
       "avd": 9.0,
       "views": 1299
@@ -22,7 +22,7 @@
     {
       "topic": "Canine REM Sleep Dynamics",
       "category": "Sleep",
-      "cgs": 72.11,
+      "cgs": 72.26,
       "ctr": 803.0,
       "apv": 67.39,
       "avd": 9.0,
@@ -31,7 +31,7 @@
     {
       "topic": "Canine Geomagnetic Orientation",
       "category": "Navigation",
-      "cgs": 71.09,
+      "cgs": 71.08,
       "ctr": 1361.0,
       "apv": 72.08,
       "avd": 10.0,
@@ -40,7 +40,7 @@
     {
       "topic": "Canine Starch Digestion",
       "category": "Evolution",
-      "cgs": 69.55,
+      "cgs": 69.7,
       "ctr": 684.0,
       "apv": 63.65,
       "avd": 9.0,
@@ -49,7 +49,7 @@
     {
       "topic": "Canine Lapping Mechanics",
       "category": "Biomechanics",
-      "cgs": 69.25,
+      "cgs": 69.44,
       "ctr": 910.0,
       "apv": 64.96,
       "avd": 10.0,
@@ -67,6 +67,15 @@
       "views": 41
     },
     {
+      "topic": "Canine Contagious Yawning",
+      "category": "Behavior",
+      "cgs": 44.26,
+      "ctr": null,
+      "apv": null,
+      "avd": null,
+      "views": 905
+    },
+    {
       "topic": "Canine Paw Pad Thermoregulation",
       "category": "Physiology",
       "cgs": 44.23,
@@ -76,31 +85,22 @@
       "views": 10
     },
     {
-      "topic": "Canine Grass Eating",
-      "category": "Nutrition",
-      "cgs": 43.95,
-      "ctr": null,
-      "apv": null,
-      "avd": null,
-      "views": 911
-    },
-    {
-      "topic": "Canine Contagious Yawning",
-      "category": "Behavior",
-      "cgs": 43.61,
-      "ctr": null,
-      "apv": null,
-      "avd": null,
-      "views": 905
-    },
-    {
       "topic": "Eyebrow Muscle Facial Evolution",
       "category": "Evolution",
-      "cgs": 32.3,
+      "cgs": 32.37,
       "ctr": null,
       "apv": null,
       "avd": null,
       "views": 157
+    },
+    {
+      "topic": "Premature Graying in Canines",
+      "category": "Aging",
+      "cgs": 10.0,
+      "ctr": null,
+      "apv": null,
+      "avd": null,
+      "views": 0
     }
   ],
   "winning_title_patterns": [
@@ -132,6 +132,6 @@
   "exploration_ratio": {
     "reinforce_pct": 80,
     "explore_pct": 20,
-    "adjusted_by": "low_cgs_average_46.9"
+    "adjusted_by": "low_cgs_average_36.1"
   }
 }

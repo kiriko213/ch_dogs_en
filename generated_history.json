@@ -1,15 +1,5 @@
 [
   {
-    "title": "5 Secrets of Canine Vision Perception",
-    "topic": "Canine vision perception",
-    "script_content": "Your dog sees differently. They don't see black and white, but shades of blue and yellow. Look at their eyes.",
-    "video_ids": [
-      7267516
-    ],
-    "local_filenames": [],
-    "timestamp": "2026-07-18T07:12:12.107160"
-  },
-  {
     "title": "Why Your Dog Grape Toxicity In Canine Nutrition",
     "topic": "Grape Toxicity in Canine Nutrition",
     "script_content": "Grapes can cause sudden health trouble in dogs. Even a single raisin can upset your pet digestive system severely. Does your dog enjoy fresh fruit?",
@@ -198,5 +188,15 @@
     ],
     "local_filenames": [],
     "timestamp": "2026-08-08T03:17:06.311158"
+  },
+  {
+    "title": "Understanding Dog Canine Water And Sweet Receptors",
+    "topic": "Canine Water and Sweet Receptors",
+    "script_content": "Dogs possess specialized taste buds specifically designed for detecting water and sweet flavors. This natural adaptation ensures they stay hydrated and energized. What is your dog's favorite treat?",
+    "video_ids": [
+      11256762
+    ],
+    "local_filenames": [],
+    "timestamp": "2026-08-08T05:57:52.965040"
   }
 ]

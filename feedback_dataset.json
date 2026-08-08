@@ -1,49 +1,43 @@
 {
   "feedback_version": 1,
-  "generated_at": "2026-08-08T03:12:38.819100Z",
+  "generated_at": "2026-08-08T05:54:57.386215Z",
   "top_topics": [
     {
       "topic": "Dog Paddle Biomechanics",
       "category": "Locomotion",
-      "score": 58.8,
-      "views": 1179
+      "score": 58.64,
+      "views": 1232
     },
     {
       "topic": "Canine Deep Sighing Meaning",
       "category": "Behavior",
-      "score": 54.99,
-      "views": 1053
+      "score": 55.89,
+      "views": 1057
     },
     {
       "topic": "Frenetic Random Activity Periods",
       "category": "Behavior",
-      "score": 54.52,
+      "score": 54.48,
       "views": 1299
     },
     {
       "topic": "Canine Geomagnetic Orientation",
       "category": "Navigation",
-      "score": 54.23,
+      "score": 54.18,
       "views": 1303
     },
     {
-      "topic": "Canine Lapping Mechanics",
-      "category": "Biomechanics",
-      "score": 49.56,
-      "views": 967
+      "topic": "Canine Grass Eating",
+      "category": "Nutrition",
+      "score": 52.51,
+      "views": 1140
     }
   ],
   "underperforming_topics": [
     {
-      "topic": "Canine olfactory sense",
-      "category": "default",
-      "score": 13.84,
-      "views": 237
-    },
-    {
       "topic": "Dog vocal communication",
       "category": "default",
-      "score": 12.5,
+      "score": 12.71,
       "views": 271
     },
     {
@@ -53,15 +47,21 @@
       "views": 57
     },
     {
+      "topic": "Premature Graying in Canines",
+      "category": "Aging",
+      "score": 10.0,
+      "views": 0
+    },
+    {
       "topic": "Canine Play Bow Communication",
       "category": "Body Language",
-      "score": 9.37,
+      "score": 9.35,
       "views": 41
     },
     {
       "topic": "Canine Paw Pad Thermoregulation",
       "category": "Physiology",
-      "score": 8.17,
+      "score": 8.14,
       "views": 10
     }
   ]
