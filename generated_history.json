@@ -1,15 +1,5 @@
 [
   {
-    "title": "Why Your Dog Grape Toxicity In Canine Nutrition",
-    "topic": "Grape Toxicity in Canine Nutrition",
-    "script_content": "Grapes can cause sudden health trouble in dogs. Even a single raisin can upset your pet digestive system severely. Does your dog enjoy fresh fruit?",
-    "video_ids": [
-      30157613
-    ],
-    "local_filenames": [],
-    "timestamp": "2026-08-01T13:52:07.408550"
-  },
-  {
     "title": "Why Your Dog Canine Lapping Mechanics",
     "topic": "Canine Lapping Mechanics",
     "script_content": "Your dog bends their tongue backward to ladle water efficiently. This unique motion creates fluid force to drink quickly. Does your dog make a mess?",
@@ -198,5 +188,15 @@
     ],
     "local_filenames": [],
     "timestamp": "2026-08-08T05:57:52.965040"
+  },
+  {
+    "title": "Why Your Dog Canine Dichromatic Color Vision",
+    "topic": "Canine Dichromatic Color Vision",
+    "script_content": "Dogs do not see only in black and white. Their eyes process vibrant shades of blue and yellow across their environment. Does your dog love blue toys?",
+    "video_ids": [
+      7267516
+    ],
+    "local_filenames": [],
+    "timestamp": "2026-08-08T13:11:59.841347"
   }
 ]

@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-08T05:57:52.967446Z",
+  "generated_at": "2026-08-08T13:11:59.844690Z",
   "kpis": {
-    "uploads": 22,
-    "views": 12924,
-    "ctr_average": 523.88,
+    "uploads": 23,
+    "views": 13052,
+    "ctr_average": 529.94,
     "apv_average": 62.34,
     "subscribers_gained": 15,
-    "cgs_average": 57.04,
+    "cgs_average": 55.1,
     "top_topics": [
       "Frenetic Random Activity Periods",
       "Canine REM Sleep Dynamics",
@@ -19,11 +19,11 @@
     ]
   },
   "production_metrics": {
-    "success_rate_percent": 70.97,
-    "failure_rate_percent": 29.03,
-    "retry_rate_percent": 6.45,
-    "upload_latency_seconds": 5.34,
-    "generation_latency_seconds": 100.78
+    "success_rate_percent": 71.88,
+    "failure_rate_percent": 28.12,
+    "retry_rate_percent": 6.25,
+    "upload_latency_seconds": 5.39,
+    "generation_latency_seconds": 88.14
   },
   "warnings": []
 }

@@ -1,9 +1,9 @@
 {
   "feedback_version": 2,
-  "generated_at": "2026-08-08T05:54:58.456830Z",
+  "generated_at": "2026-08-08T13:09:26.537142Z",
   "channel": "ch_dogs_en",
   "metadata": {
-    "total_videos_analyzed": 22,
+    "total_videos_analyzed": 23,
     "analytics_api_available": true,
     "cgs_mode": "beta",
     "data_freshness_hours": 72,
@@ -13,8 +13,8 @@
     {
       "topic": "Frenetic Random Activity Periods",
       "category": "Behavior",
-      "cgs": 77.22,
-      "ctr": 1304.0,
+      "cgs": 77.19,
+      "ctr": 1299.0,
       "apv": 61.6,
       "avd": 9.0,
       "views": 1299
@@ -22,8 +22,8 @@
     {
       "topic": "Canine REM Sleep Dynamics",
       "category": "Sleep",
-      "cgs": 72.26,
-      "ctr": 803.0,
+      "cgs": 72.47,
+      "ctr": 876.0,
       "apv": 67.39,
       "avd": 9.0,
       "views": 805
@@ -31,7 +31,7 @@
     {
       "topic": "Canine Geomagnetic Orientation",
       "category": "Navigation",
-      "cgs": 71.08,
+      "cgs": 71.04,
       "ctr": 1361.0,
       "apv": 72.08,
       "avd": 10.0,
@@ -40,17 +40,17 @@
     {
       "topic": "Canine Starch Digestion",
       "category": "Evolution",
-      "cgs": 69.7,
+      "cgs": 69.91,
       "ctr": 684.0,
       "apv": 63.65,
       "avd": 9.0,
-      "views": 800
+      "views": 799
     },
     {
       "topic": "Canine Lapping Mechanics",
       "category": "Biomechanics",
-      "cgs": 69.44,
-      "ctr": 910.0,
+      "cgs": 69.7,
+      "ctr": 911.0,
       "apv": 64.96,
       "avd": 10.0,
       "views": 967
@@ -58,27 +58,18 @@
   ],
   "losing_topics": [
     {
-      "topic": "Canine Play Bow Communication",
-      "category": "Body Language",
-      "cgs": 47.23,
-      "ctr": 40.0,
-      "apv": 38.38,
-      "avd": 6.0,
-      "views": 41
-    },
-    {
       "topic": "Canine Contagious Yawning",
       "category": "Behavior",
-      "cgs": 44.26,
+      "cgs": 45.23,
       "ctr": null,
       "apv": null,
       "avd": null,
-      "views": 905
+      "views": 908
     },
     {
       "topic": "Canine Paw Pad Thermoregulation",
       "category": "Physiology",
-      "cgs": 44.23,
+      "cgs": 44.2,
       "ctr": 10.0,
       "apv": 44.51,
       "avd": 7.0,
@@ -87,16 +78,25 @@
     {
       "topic": "Eyebrow Muscle Facial Evolution",
       "category": "Evolution",
-      "cgs": 32.37,
+      "cgs": 32.33,
       "ctr": null,
       "apv": null,
       "avd": null,
-      "views": 157
+      "views": 158
+    },
+    {
+      "topic": "Canine Water and Sweet Receptors",
+      "category": "Nutrition",
+      "cgs": 10.0,
+      "ctr": null,
+      "apv": null,
+      "avd": null,
+      "views": 0
     },
     {
       "topic": "Premature Graying in Canines",
       "category": "Aging",
-      "cgs": 10.0,
+      "cgs": 9.86,
       "ctr": null,
       "apv": null,
       "avd": null,
@@ -132,6 +132,6 @@
   "exploration_ratio": {
     "reinforce_pct": 80,
     "explore_pct": 20,
-    "adjusted_by": "low_cgs_average_36.1"
+    "adjusted_by": "low_cgs_average_21.7"
   }
 }
