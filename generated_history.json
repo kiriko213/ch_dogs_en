@@ -1,15 +1,5 @@
 [
   {
-    "title": "5 Secrets of Canine Hearing Abilities",
-    "script_content": "Can dogs hear silent whistles? Yes! Their hearing is four times more sensitive, detecting high frequencies from further away. Amazing!",
-    "video_ids": [
-      11622178,
-      10981872
-    ],
-    "local_filenames": [],
-    "timestamp": "2026-06-25T21:13:52.603562"
-  },
-  {
     "title": "5 Secrets of Canine Vision Perception",
     "topic": "Canine vision perception",
     "script_content": "Your dog sees differently. They don't see black and white, but shades of blue and yellow. Look at their eyes.",
@@ -198,5 +188,15 @@
     ],
     "local_filenames": [],
     "timestamp": "2026-08-07T14:21:40.183945"
+  },
+  {
+    "title": "Understanding Dog Premature Graying In Canines",
+    "topic": "Premature Graying in Canines",
+    "script_content": "Gray muzzles are not always caused by old age. High anxiety and stress levels frequently cause young dogs to turn gray early. Has your dog grayed early?",
+    "video_ids": [
+      8115118
+    ],
+    "local_filenames": [],
+    "timestamp": "2026-08-08T03:17:06.311158"
   }
 ]

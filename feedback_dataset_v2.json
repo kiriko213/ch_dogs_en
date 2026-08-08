@@ -1,9 +1,9 @@
 {
   "feedback_version": 2,
-  "generated_at": "2026-08-07T14:18:52.628894Z",
+  "generated_at": "2026-08-08T03:12:39.740489Z",
   "channel": "ch_dogs_en",
   "metadata": {
-    "total_videos_analyzed": 20,
+    "total_videos_analyzed": 21,
     "analytics_api_available": true,
     "cgs_mode": "beta",
     "data_freshness_hours": 72,
@@ -13,8 +13,8 @@
     {
       "topic": "Frenetic Random Activity Periods",
       "category": "Behavior",
-      "cgs": 77.28,
-      "ctr": 1304.0,
+      "cgs": 77.23,
+      "ctr": 1299.0,
       "apv": 61.6,
       "avd": 9.0,
       "views": 1299
@@ -22,85 +22,85 @@
     {
       "topic": "Canine REM Sleep Dynamics",
       "category": "Sleep",
-      "cgs": 75.36,
-      "ctr": 876.0,
-      "apv": 70.42,
+      "cgs": 72.11,
+      "ctr": 803.0,
+      "apv": 67.39,
       "avd": 9.0,
       "views": 805
     },
     {
-      "topic": "Canine Lapping Mechanics",
-      "category": "Biomechanics",
-      "cgs": 71.31,
-      "ctr": 911.0,
-      "apv": 64.96,
+      "topic": "Canine Geomagnetic Orientation",
+      "category": "Navigation",
+      "cgs": 71.09,
+      "ctr": 1361.0,
+      "apv": 72.08,
       "avd": 10.0,
-      "views": 910
+      "views": 1303
     },
     {
       "topic": "Canine Starch Digestion",
       "category": "Evolution",
-      "cgs": 71.13,
-      "ctr": 543.0,
-      "apv": 62.19,
+      "cgs": 69.55,
+      "ctr": 684.0,
+      "apv": 63.65,
       "avd": 9.0,
-      "views": 803
+      "views": 800
     },
     {
-      "topic": "Physical Weight Leaning Behavior",
-      "category": "Bonding",
-      "cgs": 69.24,
-      "ctr": 936.0,
-      "apv": 65.13,
-      "avd": 8.0,
-      "views": 898
+      "topic": "Canine Lapping Mechanics",
+      "category": "Biomechanics",
+      "cgs": 69.25,
+      "ctr": 910.0,
+      "apv": 64.96,
+      "avd": 10.0,
+      "views": 967
     }
   ],
   "losing_topics": [
     {
-      "topic": "Dog Paddle Biomechanics",
-      "category": "Locomotion",
-      "cgs": 41.0,
-      "ctr": null,
-      "apv": null,
-      "avd": null,
-      "views": 430
+      "topic": "Canine Play Bow Communication",
+      "category": "Body Language",
+      "cgs": 47.23,
+      "ctr": 40.0,
+      "apv": 38.38,
+      "avd": 6.0,
+      "views": 41
     },
     {
-      "topic": "Eyebrow Muscle Facial Evolution",
-      "category": "Evolution",
-      "cgs": 33.5,
-      "ctr": null,
-      "apv": null,
-      "avd": null,
-      "views": 165
+      "topic": "Canine Paw Pad Thermoregulation",
+      "category": "Physiology",
+      "cgs": 44.23,
+      "ctr": 10.0,
+      "apv": 44.51,
+      "avd": 7.0,
+      "views": 10
     },
     {
       "topic": "Canine Grass Eating",
       "category": "Nutrition",
-      "cgs": 24.83,
+      "cgs": 43.95,
       "ctr": null,
       "apv": null,
       "avd": null,
-      "views": 256
+      "views": 911
     },
     {
-      "topic": "Hind Leg Sploot Posture Mechanics",
-      "category": "Biomechanics",
-      "cgs": 23.43,
-      "ctr": null,
-      "apv": null,
-      "avd": null,
-      "views": 315
-    },
-    {
-      "topic": "Canine Deep Sighing Meaning",
+      "topic": "Canine Contagious Yawning",
       "category": "Behavior",
-      "cgs": 10.5,
+      "cgs": 43.61,
       "ctr": null,
       "apv": null,
       "avd": null,
-      "views": 0
+      "views": 905
+    },
+    {
+      "topic": "Eyebrow Muscle Facial Evolution",
+      "category": "Evolution",
+      "cgs": 32.3,
+      "ctr": null,
+      "apv": null,
+      "avd": null,
+      "views": 157
     }
   ],
   "winning_title_patterns": [
@@ -126,12 +126,12 @@
   "winning_hook_patterns": [],
   "toxic_combinations": [],
   "growth_signals": {
-    "total_subscribers_gained": 13,
+    "total_subscribers_gained": 15,
     "growth_trend": "growing"
   },
   "exploration_ratio": {
     "reinforce_pct": 80,
     "explore_pct": 20,
-    "adjusted_by": "low_cgs_average_25.4"
+    "adjusted_by": "low_cgs_average_46.9"
   }
 }

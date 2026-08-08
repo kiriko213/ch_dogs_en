@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T14:18:52.659711Z",
+  "generated_at": "2026-08-08T03:12:39.769150Z",
   "top_candidates": [
     {
       "topic": "Frenetic Random Activity Periods",
@@ -7,19 +7,9 @@
       "category": "dog_facts"
     },
     {
-      "topic": "dog behavior mysteries",
-      "score": 97,
-      "category": "dog_psychology"
-    },
-    {
-      "topic": "Canine Lapping Mechanics",
+      "topic": "Canine Geomagnetic Orientation",
       "score": 90,
       "category": "dog_facts"
-    },
-    {
-      "topic": "The Truth About Dog behavior mysteries",
-      "score": 75,
-      "category": "dog_psychology"
     },
     {
       "topic": "Canine Starch Digestion",
@@ -27,13 +17,13 @@
       "category": "dog_facts"
     },
     {
-      "topic": "Dog behavior mysteries Most People Don't Know",
-      "score": 67,
-      "category": "dog_psychology"
+      "topic": "Canine Lapping Mechanics",
+      "score": 70,
+      "category": "dog_facts"
     },
     {
-      "topic": "Surprising Facts About Dog behavior mysteries",
-      "score": 67,
+      "topic": "dog psychology",
+      "score": 70,
       "category": "dog_psychology"
     },
     {
@@ -50,6 +40,16 @@
       "topic": "dog health facts",
       "score": 64,
       "category": "dog_health"
+    },
+    {
+      "topic": "dog owner tips",
+      "score": 64,
+      "category": "dog_owner_tips"
+    },
+    {
+      "topic": "dog life hacks",
+      "score": 64,
+      "category": "dog_owner_tips"
     }
   ]
 }
