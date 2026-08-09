@@ -1,67 +1,67 @@
 {
   "feedback_version": 1,
-  "generated_at": "2026-08-08T13:09:25.467966Z",
+  "generated_at": "2026-08-09T03:20:24.240722Z",
   "top_topics": [
     {
       "topic": "Dog Paddle Biomechanics",
       "category": "Locomotion",
-      "score": 58.03,
-      "views": 1297
+      "score": 57.74,
+      "views": 1300
     },
     {
       "topic": "Canine Deep Sighing Meaning",
       "category": "Behavior",
-      "score": 56.49,
-      "views": 1059
-    },
-    {
-      "topic": "Frenetic Random Activity Periods",
-      "category": "Behavior",
-      "score": 54.37,
-      "views": 1299
+      "score": 54.02,
+      "views": 1052
     },
     {
       "topic": "Canine Geomagnetic Orientation",
       "category": "Navigation",
-      "score": 54.05,
+      "score": 53.81,
       "views": 1303
+    },
+    {
+      "topic": "Frenetic Random Activity Periods",
+      "category": "Behavior",
+      "score": 53.62,
+      "views": 1407
     },
     {
       "topic": "Canine Grass Eating",
       "category": "Nutrition",
-      "score": 52.85,
-      "views": 1198
+      "score": 52.04,
+      "views": 1199
     }
   ],
   "underperforming_topics": [
     {
+      "topic": "Canine olfactory sense",
+      "category": "default",
+      "score": 13.82,
+      "views": 237
+    },
+    {
+      "topic": "Dog vocal communication",
+      "category": "default",
+      "score": 12.36,
+      "views": 271
+    },
+    {
       "topic": "Canine Permanent Dental Structure",
       "category": "Anatomy",
-      "score": 10.12,
+      "score": 9.78,
       "views": 57
-    },
-    {
-      "topic": "Canine Water and Sweet Receptors",
-      "category": "Nutrition",
-      "score": 10.0,
-      "views": 0
-    },
-    {
-      "topic": "Premature Graying in Canines",
-      "category": "Aging",
-      "score": 9.85,
-      "views": 0
     },
     {
       "topic": "Canine Play Bow Communication",
       "category": "Body Language",
-      "score": 9.29,
-      "views": 41
+      "score": 9.21,
+      "views": 48
     },
     {
       "topic": "Canine Paw Pad Thermoregulation",
       "category": "Physiology",
-      "score": 8.03,
+      "score": 7.79,
       "views": 10
     }
   ]

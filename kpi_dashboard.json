@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-08-08T13:11:59.844690Z",
+  "generated_at": "2026-08-09T03:23:30.921860Z",
   "kpis": {
-    "uploads": 23,
-    "views": 13052,
-    "ctr_average": 529.94,
-    "apv_average": 62.34,
-    "subscribers_gained": 15,
-    "cgs_average": 55.1,
+    "uploads": 24,
+    "views": 14402,
+    "ctr_average": 493.95,
+    "apv_average": 59.75,
+    "subscribers_gained": 20,
+    "cgs_average": 57.68,
     "top_topics": [
       "Frenetic Random Activity Periods",
       "Canine REM Sleep Dynamics",
-      "Canine Geomagnetic Orientation"
+      "Canine Starch Digestion"
     ],
     "top_titles": [
       "The Truth About Dog Noses",
@@ -19,11 +19,11 @@
     ]
   },
   "production_metrics": {
-    "success_rate_percent": 71.88,
-    "failure_rate_percent": 28.12,
-    "retry_rate_percent": 6.25,
-    "upload_latency_seconds": 5.39,
-    "generation_latency_seconds": 88.14
+    "success_rate_percent": 72.73,
+    "failure_rate_percent": 27.27,
+    "retry_rate_percent": 6.06,
+    "upload_latency_seconds": 4.56,
+    "generation_latency_seconds": 98.75
   },
   "warnings": []
 }

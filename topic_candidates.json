@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T13:09:26.570267Z",
+  "generated_at": "2026-08-09T03:20:24.933405Z",
   "top_candidates": [
     {
       "topic": "Frenetic Random Activity Periods",
@@ -7,49 +7,49 @@
       "category": "dog_facts"
     },
     {
-      "topic": "Canine Geomagnetic Orientation",
-      "score": 90,
-      "category": "dog_facts"
-    },
-    {
-      "topic": "Canine Starch Digestion",
-      "score": 74,
-      "category": "dog_facts"
-    },
-    {
-      "topic": "Canine Lapping Mechanics",
-      "score": 70,
-      "category": "dog_facts"
-    },
-    {
       "topic": "dog psychology",
-      "score": 70,
+      "score": 98,
       "category": "dog_psychology"
     },
     {
       "topic": "dog communication",
-      "score": 64,
+      "score": 92,
       "category": "dog_communication"
     },
     {
       "topic": "amazing dog abilities",
-      "score": 64,
+      "score": 92,
       "category": "dog_intelligence"
     },
     {
       "topic": "dog health facts",
-      "score": 64,
+      "score": 92,
       "category": "dog_health"
     },
     {
       "topic": "dog owner tips",
-      "score": 64,
+      "score": 92,
       "category": "dog_owner_tips"
     },
     {
       "topic": "dog life hacks",
-      "score": 64,
+      "score": 92,
       "category": "dog_owner_tips"
+    },
+    {
+      "topic": "The Truth About Amazing dog abilities",
+      "score": 92,
+      "category": "dog_intelligence"
+    },
+    {
+      "topic": "Amazing dog abilities Most People Don't Know",
+      "score": 92,
+      "category": "dog_intelligence"
+    },
+    {
+      "topic": "Surprising Facts About Amazing dog abilities",
+      "score": 92,
+      "category": "dog_intelligence"
     }
   ]
 }
