@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T05:57:01.286764Z",
+  "generated_at": "2026-08-09T13:12:20.994945Z",
   "top_candidates": [
     {
       "topic": "Frenetic Random Activity Periods",
@@ -8,7 +8,7 @@
     },
     {
       "topic": "dog psychology",
-      "score": 98,
+      "score": 92,
       "category": "dog_psychology"
     },
     {
@@ -37,19 +37,19 @@
       "category": "dog_owner_tips"
     },
     {
-      "topic": "The Truth About Amazing dog abilities",
+      "topic": "The Truth About Dog communication",
       "score": 92,
-      "category": "dog_intelligence"
+      "category": "dog_communication"
     },
     {
-      "topic": "Amazing dog abilities Most People Don't Know",
+      "topic": "Dog communication Most People Don't Know",
       "score": 92,
-      "category": "dog_intelligence"
+      "category": "dog_communication"
     },
     {
-      "topic": "Surprising Facts About Amazing dog abilities",
+      "topic": "Surprising Facts About Dog communication",
       "score": 92,
-      "category": "dog_intelligence"
+      "category": "dog_communication"
     }
   ]
 }

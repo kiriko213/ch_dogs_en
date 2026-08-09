@@ -1,67 +1,67 @@
 {
   "feedback_version": 1,
-  "generated_at": "2026-08-09T05:57:00.174502Z",
+  "generated_at": "2026-08-09T13:12:20.244828Z",
   "top_topics": [
     {
       "topic": "Dog Paddle Biomechanics",
       "category": "Locomotion",
-      "score": 57.67,
+      "score": 57.54,
       "views": 1304
     },
     {
       "topic": "Canine Deep Sighing Meaning",
       "category": "Behavior",
-      "score": 55.42,
+      "score": 57.22,
       "views": 1052
-    },
-    {
-      "topic": "Canine Geomagnetic Orientation",
-      "category": "Navigation",
-      "score": 53.76,
-      "views": 1303
     },
     {
       "topic": "Frenetic Random Activity Periods",
       "category": "Behavior",
-      "score": 53.58,
-      "views": 1407
+      "score": 54.01,
+      "views": 1299
+    },
+    {
+      "topic": "Canine Geomagnetic Orientation",
+      "category": "Navigation",
+      "score": 53.64,
+      "views": 1303
     },
     {
       "topic": "Canine Grass Eating",
       "category": "Nutrition",
-      "score": 52.03,
+      "score": 51.89,
       "views": 1199
     }
   ],
   "underperforming_topics": [
     {
-      "topic": "Dog vocal communication",
-      "category": "default",
-      "score": 12.72,
-      "views": 271
+      "topic": "Canine Pseudopregnancy Hormones",
+      "category": "Reproduction",
+      "score": 10.0,
+      "views": 0
     },
     {
       "topic": "Canine Hypersociability Genetics",
       "category": "Genetics",
-      "score": 10.0,
+      "score": 9.85,
       "views": 0
     },
     {
       "topic": "Canine Permanent Dental Structure",
       "category": "Anatomy",
-      "score": 9.82,
+      "score": 9.8,
       "views": 57
     },
     {
       "topic": "Canine Play Bow Communication",
       "category": "Body Language",
-      "score": 9.24,
-      "views": 48
+      "score": 8.96,
+      "views": 41
     },
     {
       "topic": "Canine Paw Pad Thermoregulation",
       "category": "Physiology",
-      "score": 7.77,
+      "score": 7.67,
       "views": 10
     }
   ]

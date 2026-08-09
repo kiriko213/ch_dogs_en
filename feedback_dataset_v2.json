@@ -1,9 +1,9 @@
 {
   "feedback_version": 2,
-  "generated_at": "2026-08-09T05:57:01.259630Z",
+  "generated_at": "2026-08-09T13:12:20.954841Z",
   "channel": "ch_dogs_en",
   "metadata": {
-    "total_videos_analyzed": 25,
+    "total_videos_analyzed": 26,
     "analytics_api_available": true,
     "cgs_mode": "beta",
     "data_freshness_hours": 72,
@@ -13,34 +13,34 @@
     {
       "topic": "Frenetic Random Activity Periods",
       "category": "Behavior",
-      "cgs": 76.99,
+      "cgs": 77.1,
       "ctr": 1299.0,
       "apv": 61.6,
       "avd": 9.0,
-      "views": 1407
-    },
-    {
-      "topic": "Canine REM Sleep Dynamics",
-      "category": "Sleep",
-      "cgs": 72.71,
-      "ctr": 805.0,
-      "apv": 67.27,
-      "avd": 9.0,
-      "views": 872
+      "views": 1299
     },
     {
       "topic": "Canine Starch Digestion",
       "category": "Evolution",
-      "cgs": 72.53,
+      "cgs": 72.87,
       "ctr": 835.0,
       "apv": 65.8,
       "avd": 9.0,
       "views": 799
     },
     {
+      "topic": "Canine REM Sleep Dynamics",
+      "category": "Sleep",
+      "cgs": 72.6,
+      "ctr": 805.0,
+      "apv": 67.27,
+      "avd": 9.0,
+      "views": 805
+    },
+    {
       "topic": "Canine Geomagnetic Orientation",
       "category": "Navigation",
-      "cgs": 71.01,
+      "cgs": 70.98,
       "ctr": 1363.0,
       "apv": 72.18,
       "avd": 10.0,
@@ -49,7 +49,7 @@
     {
       "topic": "Dog Paddle Biomechanics",
       "category": "Locomotion",
-      "cgs": 70.23,
+      "cgs": 70.2,
       "ctr": 433.0,
       "apv": 56.84,
       "avd": 9.0,
@@ -58,45 +58,45 @@
   ],
   "losing_topics": [
     {
-      "topic": "Canine Paw Pad Thermoregulation",
-      "category": "Physiology",
-      "cgs": 44.13,
-      "ctr": 10.0,
-      "apv": 44.51,
-      "avd": 7.0,
-      "views": 10
-    },
-    {
       "topic": "Premature Graying in Canines",
       "category": "Aging",
-      "cgs": 41.18,
+      "cgs": 42.32,
       "ctr": null,
       "apv": null,
       "avd": null,
-      "views": 680
+      "views": 684
     },
     {
       "topic": "Canine Dichromatic Color Vision",
       "category": "Vision",
-      "cgs": 35.96,
+      "cgs": 36.53,
       "ctr": null,
       "apv": null,
       "avd": null,
-      "views": 399
+      "views": 405
     },
     {
       "topic": "Canine Water and Sweet Receptors",
       "category": "Nutrition",
-      "cgs": 18.69,
+      "cgs": 18.85,
       "ctr": null,
       "apv": null,
       "avd": null,
       "views": 174
     },
     {
+      "topic": "Canine Pseudopregnancy Hormones",
+      "category": "Reproduction",
+      "cgs": 10.0,
+      "ctr": null,
+      "apv": null,
+      "avd": null,
+      "views": 0
+    },
+    {
       "topic": "Canine Hypersociability Genetics",
       "category": "Genetics",
-      "cgs": 10.0,
+      "cgs": 9.86,
       "ctr": null,
       "apv": null,
       "avd": null,
@@ -132,6 +132,6 @@
   "exploration_ratio": {
     "reinforce_pct": 80,
     "explore_pct": 20,
-    "adjusted_by": "low_cgs_average_21.6"
+    "adjusted_by": "low_cgs_average_18.8"
   }
 }
