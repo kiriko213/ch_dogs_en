@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T13:12:20.994945Z",
+  "generated_at": "2026-08-10T03:29:51.821243Z",
   "top_candidates": [
     {
       "topic": "Frenetic Random Activity Periods",
@@ -7,49 +7,49 @@
       "category": "dog_facts"
     },
     {
+      "topic": "Canine Starch Digestion",
+      "score": 90,
+      "category": "dog_facts"
+    },
+    {
       "topic": "dog psychology",
-      "score": 92,
+      "score": 70,
       "category": "dog_psychology"
     },
     {
       "topic": "dog communication",
-      "score": 92,
+      "score": 64,
       "category": "dog_communication"
     },
     {
       "topic": "amazing dog abilities",
-      "score": 92,
+      "score": 64,
       "category": "dog_intelligence"
     },
     {
       "topic": "dog health facts",
-      "score": 92,
+      "score": 64,
       "category": "dog_health"
     },
     {
       "topic": "dog owner tips",
-      "score": 92,
+      "score": 64,
       "category": "dog_owner_tips"
     },
     {
       "topic": "dog life hacks",
-      "score": 92,
+      "score": 64,
       "category": "dog_owner_tips"
     },
     {
-      "topic": "The Truth About Dog communication",
-      "score": 92,
-      "category": "dog_communication"
+      "topic": "Canine REM Sleep Dynamics",
+      "score": 64,
+      "category": "dog_health"
     },
     {
-      "topic": "Dog communication Most People Don't Know",
-      "score": 92,
-      "category": "dog_communication"
-    },
-    {
-      "topic": "Surprising Facts About Dog communication",
-      "score": 92,
-      "category": "dog_communication"
+      "topic": "The Truth About Dog health facts",
+      "score": 64,
+      "category": "dog_health"
     }
   ]
 }

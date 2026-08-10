@@ -1,9 +1,9 @@
 {
   "feedback_version": 2,
-  "generated_at": "2026-08-09T13:12:20.954841Z",
+  "generated_at": "2026-08-10T03:29:51.785750Z",
   "channel": "ch_dogs_en",
   "metadata": {
-    "total_videos_analyzed": 26,
+    "total_videos_analyzed": 27,
     "analytics_api_available": true,
     "cgs_mode": "beta",
     "data_freshness_hours": 72,
@@ -13,94 +13,94 @@
     {
       "topic": "Frenetic Random Activity Periods",
       "category": "Behavior",
-      "cgs": 77.1,
-      "ctr": 1299.0,
+      "cgs": 77.05,
+      "ctr": 1304.0,
       "apv": 61.6,
       "avd": 9.0,
       "views": 1299
     },
     {
+      "topic": "Canine Deep Sighing Meaning",
+      "category": "Behavior",
+      "cgs": 74.92,
+      "ctr": 1056.0,
+      "apv": 69.73,
+      "avd": 11.0,
+      "views": 1052
+    },
+    {
       "topic": "Canine Starch Digestion",
       "category": "Evolution",
-      "cgs": 72.87,
-      "ctr": 835.0,
-      "apv": 65.8,
+      "cgs": 72.47,
+      "ctr": 805.0,
+      "apv": 65.81,
       "avd": 9.0,
       "views": 799
     },
     {
       "topic": "Canine REM Sleep Dynamics",
       "category": "Sleep",
-      "cgs": 72.6,
+      "cgs": 72.19,
       "ctr": 805.0,
       "apv": 67.27,
       "avd": 9.0,
       "views": 805
     },
     {
-      "topic": "Canine Geomagnetic Orientation",
-      "category": "Navigation",
-      "cgs": 70.98,
-      "ctr": 1363.0,
-      "apv": 72.18,
+      "topic": "Canine Contagious Yawning",
+      "category": "Behavior",
+      "cgs": 71.32,
+      "ctr": 906.0,
+      "apv": 67.73,
       "avd": 10.0,
-      "views": 1303
-    },
-    {
-      "topic": "Dog Paddle Biomechanics",
-      "category": "Locomotion",
-      "cgs": 70.2,
-      "ctr": 433.0,
-      "apv": 56.84,
-      "avd": 9.0,
-      "views": 1304
+      "views": 900
     }
   ],
   "losing_topics": [
     {
       "topic": "Premature Graying in Canines",
       "category": "Aging",
-      "cgs": 42.32,
+      "cgs": 40.88,
       "ctr": null,
       "apv": null,
       "avd": null,
-      "views": 684
+      "views": 682
     },
     {
       "topic": "Canine Dichromatic Color Vision",
       "category": "Vision",
-      "cgs": 36.53,
+      "cgs": 35.58,
       "ctr": null,
       "apv": null,
       "avd": null,
-      "views": 405
-    },
-    {
-      "topic": "Canine Water and Sweet Receptors",
-      "category": "Nutrition",
-      "cgs": 18.85,
-      "ctr": null,
-      "apv": null,
-      "avd": null,
-      "views": 174
-    },
-    {
-      "topic": "Canine Pseudopregnancy Hormones",
-      "category": "Reproduction",
-      "cgs": 10.0,
-      "ctr": null,
-      "apv": null,
-      "avd": null,
-      "views": 0
+      "views": 399
     },
     {
       "topic": "Canine Hypersociability Genetics",
       "category": "Genetics",
-      "cgs": 9.86,
+      "cgs": 25.0,
       "ctr": null,
       "apv": null,
       "avd": null,
-      "views": 0
+      "views": 182
+    },
+    {
+      "topic": "Canine Water and Sweet Receptors",
+      "category": "Nutrition",
+      "cgs": 18.03,
+      "ctr": null,
+      "apv": null,
+      "avd": null,
+      "views": 149
+    },
+    {
+      "topic": "Canine Pseudopregnancy Hormones",
+      "category": "Reproduction",
+      "cgs": 17.32,
+      "ctr": null,
+      "apv": null,
+      "avd": null,
+      "views": 230
     }
   ],
   "winning_title_patterns": [
@@ -126,12 +126,12 @@
   "winning_hook_patterns": [],
   "toxic_combinations": [],
   "growth_signals": {
-    "total_subscribers_gained": 20,
+    "total_subscribers_gained": 26,
     "growth_trend": "growing"
   },
   "exploration_ratio": {
     "reinforce_pct": 80,
     "explore_pct": 20,
-    "adjusted_by": "low_cgs_average_18.8"
+    "adjusted_by": "low_cgs_average_29.4"
   }
 }

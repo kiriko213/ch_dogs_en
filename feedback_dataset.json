@@ -1,67 +1,67 @@
 {
   "feedback_version": 1,
-  "generated_at": "2026-08-09T13:12:20.244828Z",
+  "generated_at": "2026-08-10T03:29:51.283422Z",
   "top_topics": [
     {
       "topic": "Dog Paddle Biomechanics",
       "category": "Locomotion",
-      "score": 57.54,
+      "score": 57.29,
       "views": 1304
     },
     {
       "topic": "Canine Deep Sighing Meaning",
       "category": "Behavior",
-      "score": 57.22,
+      "score": 55.1,
       "views": 1052
     },
     {
       "topic": "Frenetic Random Activity Periods",
       "category": "Behavior",
-      "score": 54.01,
+      "score": 53.8,
       "views": 1299
     },
     {
       "topic": "Canine Geomagnetic Orientation",
       "category": "Navigation",
-      "score": 53.64,
-      "views": 1303
+      "score": 53.4,
+      "views": 1304
     },
     {
       "topic": "Canine Grass Eating",
       "category": "Nutrition",
-      "score": 51.89,
+      "score": 51.64,
       "views": 1199
     }
   ],
   "underperforming_topics": [
     {
-      "topic": "Canine Pseudopregnancy Hormones",
-      "category": "Reproduction",
-      "score": 10.0,
-      "views": 0
+      "topic": "Canine olfactory sense",
+      "category": "default",
+      "score": 14.12,
+      "views": 237
     },
     {
-      "topic": "Canine Hypersociability Genetics",
-      "category": "Genetics",
-      "score": 9.85,
-      "views": 0
+      "topic": "Dog vocal communication",
+      "category": "default",
+      "score": 12.59,
+      "views": 271
     },
     {
       "topic": "Canine Permanent Dental Structure",
       "category": "Anatomy",
-      "score": 9.8,
+      "score": 9.48,
       "views": 57
     },
     {
       "topic": "Canine Play Bow Communication",
       "category": "Body Language",
-      "score": 8.96,
+      "score": 8.67,
       "views": 41
     },
     {
       "topic": "Canine Paw Pad Thermoregulation",
       "category": "Physiology",
-      "score": 7.67,
+      "score": 7.44,
       "views": 10
     }
   ]
