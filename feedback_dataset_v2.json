@@ -1,9 +1,9 @@
 {
   "feedback_version": 2,
-  "generated_at": "2026-08-10T03:29:51.785750Z",
+  "generated_at": "2026-08-10T06:21:40.643872Z",
   "channel": "ch_dogs_en",
   "metadata": {
-    "total_videos_analyzed": 27,
+    "total_videos_analyzed": 28,
     "analytics_api_available": true,
     "cgs_mode": "beta",
     "data_freshness_hours": 72,
@@ -13,8 +13,8 @@
     {
       "topic": "Frenetic Random Activity Periods",
       "category": "Behavior",
-      "cgs": 77.05,
-      "ctr": 1304.0,
+      "cgs": 77.04,
+      "ctr": 1299.0,
       "apv": 61.6,
       "avd": 9.0,
       "views": 1299
@@ -22,7 +22,7 @@
     {
       "topic": "Canine Deep Sighing Meaning",
       "category": "Behavior",
-      "cgs": 74.92,
+      "cgs": 75.24,
       "ctr": 1056.0,
       "apv": 69.73,
       "avd": 11.0,
@@ -31,16 +31,16 @@
     {
       "topic": "Canine Starch Digestion",
       "category": "Evolution",
-      "cgs": 72.47,
-      "ctr": 805.0,
-      "apv": 65.81,
+      "cgs": 72.7,
+      "ctr": 809.0,
+      "apv": 65.8,
       "avd": 9.0,
       "views": 799
     },
     {
       "topic": "Canine REM Sleep Dynamics",
       "category": "Sleep",
-      "cgs": 72.19,
+      "cgs": 72.43,
       "ctr": 805.0,
       "apv": 67.27,
       "avd": 9.0,
@@ -49,7 +49,7 @@
     {
       "topic": "Canine Contagious Yawning",
       "category": "Behavior",
-      "cgs": 71.32,
+      "cgs": 71.59,
       "ctr": 906.0,
       "apv": 67.73,
       "avd": 10.0,
@@ -58,18 +58,9 @@
   ],
   "losing_topics": [
     {
-      "topic": "Premature Graying in Canines",
-      "category": "Aging",
-      "cgs": 40.88,
-      "ctr": null,
-      "apv": null,
-      "avd": null,
-      "views": 682
-    },
-    {
       "topic": "Canine Dichromatic Color Vision",
       "category": "Vision",
-      "cgs": 35.58,
+      "cgs": 36.0,
       "ctr": null,
       "apv": null,
       "avd": null,
@@ -78,7 +69,7 @@
     {
       "topic": "Canine Hypersociability Genetics",
       "category": "Genetics",
-      "cgs": 25.0,
+      "cgs": 25.16,
       "ctr": null,
       "apv": null,
       "avd": null,
@@ -87,7 +78,7 @@
     {
       "topic": "Canine Water and Sweet Receptors",
       "category": "Nutrition",
-      "cgs": 18.03,
+      "cgs": 18.15,
       "ctr": null,
       "apv": null,
       "avd": null,
@@ -96,11 +87,20 @@
     {
       "topic": "Canine Pseudopregnancy Hormones",
       "category": "Reproduction",
-      "cgs": 17.32,
+      "cgs": 17.92,
       "ctr": null,
       "apv": null,
       "avd": null,
-      "views": 230
+      "views": 241
+    },
+    {
+      "topic": "Canine Double Coat Thermal Insulation",
+      "category": "Coat Physiology",
+      "cgs": 9.5,
+      "ctr": null,
+      "apv": null,
+      "avd": null,
+      "views": 0
     }
   ],
   "winning_title_patterns": [
@@ -132,6 +132,6 @@
   "exploration_ratio": {
     "reinforce_pct": 80,
     "explore_pct": 20,
-    "adjusted_by": "low_cgs_average_29.4"
+    "adjusted_by": "low_cgs_average_24.8"
   }
 }

@@ -1,67 +1,67 @@
 {
   "feedback_version": 1,
-  "generated_at": "2026-08-10T03:29:51.283422Z",
+  "generated_at": "2026-08-10T06:21:39.598804Z",
   "top_topics": [
     {
       "topic": "Dog Paddle Biomechanics",
       "category": "Locomotion",
-      "score": 57.29,
+      "score": 57.24,
       "views": 1304
     },
     {
       "topic": "Canine Deep Sighing Meaning",
       "category": "Behavior",
-      "score": 55.1,
+      "score": 56.38,
       "views": 1052
     },
     {
       "topic": "Frenetic Random Activity Periods",
       "category": "Behavior",
-      "score": 53.8,
+      "score": 53.76,
       "views": 1299
     },
     {
       "topic": "Canine Geomagnetic Orientation",
       "category": "Navigation",
-      "score": 53.4,
+      "score": 53.35,
       "views": 1304
     },
     {
       "topic": "Canine Grass Eating",
       "category": "Nutrition",
-      "score": 51.64,
+      "score": 51.58,
       "views": 1199
     }
   ],
   "underperforming_topics": [
     {
-      "topic": "Canine olfactory sense",
-      "category": "default",
-      "score": 14.12,
-      "views": 237
-    },
-    {
       "topic": "Dog vocal communication",
       "category": "default",
-      "score": 12.59,
+      "score": 12.92,
       "views": 271
+    },
+    {
+      "topic": "Canine Double Coat Thermal Insulation",
+      "category": "Coat Physiology",
+      "score": 10.0,
+      "views": 0
     },
     {
       "topic": "Canine Permanent Dental Structure",
       "category": "Anatomy",
-      "score": 9.48,
+      "score": 9.51,
       "views": 57
     },
     {
       "topic": "Canine Play Bow Communication",
       "category": "Body Language",
-      "score": 8.67,
+      "score": 8.68,
       "views": 41
     },
     {
       "topic": "Canine Paw Pad Thermoregulation",
       "category": "Physiology",
-      "score": 7.44,
+      "score": 7.41,
       "views": 10
     }
   ]
