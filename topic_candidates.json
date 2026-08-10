@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T06:21:40.673275Z",
+  "generated_at": "2026-08-10T13:38:37.579753Z",
   "top_candidates": [
     {
       "topic": "Frenetic Random Activity Periods",
@@ -7,8 +7,18 @@
       "category": "dog_facts"
     },
     {
-      "topic": "Canine Starch Digestion",
+      "topic": "Canine Deep Sighing Meaning",
       "score": 90,
+      "category": "dog_facts"
+    },
+    {
+      "topic": "Canine Starch Digestion",
+      "score": 74,
+      "category": "dog_facts"
+    },
+    {
+      "topic": "Canine Contagious Yawning",
+      "score": 70,
       "category": "dog_facts"
     },
     {
@@ -40,16 +50,6 @@
       "topic": "dog life hacks",
       "score": 64,
       "category": "dog_owner_tips"
-    },
-    {
-      "topic": "Canine REM Sleep Dynamics",
-      "score": 64,
-      "category": "dog_health"
-    },
-    {
-      "topic": "The Truth About Dog health facts",
-      "score": 64,
-      "category": "dog_health"
     }
   ]
 }

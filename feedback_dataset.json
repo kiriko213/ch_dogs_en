@@ -1,67 +1,67 @@
 {
   "feedback_version": 1,
-  "generated_at": "2026-08-10T06:21:39.598804Z",
+  "generated_at": "2026-08-10T13:38:36.805920Z",
   "top_topics": [
-    {
-      "topic": "Dog Paddle Biomechanics",
-      "category": "Locomotion",
-      "score": 57.24,
-      "views": 1304
-    },
     {
       "topic": "Canine Deep Sighing Meaning",
       "category": "Behavior",
-      "score": 56.38,
+      "score": 57.58,
       "views": 1052
+    },
+    {
+      "topic": "Dog Paddle Biomechanics",
+      "category": "Locomotion",
+      "score": 57.13,
+      "views": 1302
     },
     {
       "topic": "Frenetic Random Activity Periods",
       "category": "Behavior",
-      "score": 53.76,
+      "score": 53.66,
       "views": 1299
     },
     {
       "topic": "Canine Geomagnetic Orientation",
       "category": "Navigation",
-      "score": 53.35,
+      "score": 53.24,
       "views": 1304
     },
     {
       "topic": "Canine Grass Eating",
       "category": "Nutrition",
-      "score": 51.58,
-      "views": 1199
+      "score": 51.46,
+      "views": 1197
     }
   ],
   "underperforming_topics": [
     {
-      "topic": "Dog vocal communication",
-      "category": "default",
-      "score": 12.92,
-      "views": 271
+      "topic": "Canine Dietary Kibble Hydration",
+      "category": "Nutrition",
+      "score": 10.0,
+      "views": 0
     },
     {
       "topic": "Canine Double Coat Thermal Insulation",
       "category": "Coat Physiology",
-      "score": 10.0,
+      "score": 9.85,
       "views": 0
     },
     {
       "topic": "Canine Permanent Dental Structure",
       "category": "Anatomy",
-      "score": 9.51,
+      "score": 9.47,
       "views": 57
     },
     {
       "topic": "Canine Play Bow Communication",
       "category": "Body Language",
-      "score": 8.68,
+      "score": 8.62,
       "views": 41
     },
     {
       "topic": "Canine Paw Pad Thermoregulation",
       "category": "Physiology",
-      "score": 7.41,
+      "score": 7.32,
       "views": 10
     }
   ]

@@ -1,15 +1,5 @@
 [
   {
-    "title": "Understanding Dog Dog Reward Association Timing",
-    "topic": "Dog reward association timing",
-    "script_content": "To build trust, reward your dog within one second. Quick treats help dogs instantly connect good actions with rewards. Does your dog learn fast?",
-    "video_ids": [
-      10050402
-    ],
-    "local_filenames": [],
-    "timestamp": "2026-08-03T15:15:43.181014"
-  },
-  {
     "title": "The Reason Dogs Have 42 Teeth",
     "topic": "Canine Permanent Dental Structure",
     "script_content": "Your dog actually has forty two permanent teeth. This full adult set helps them crush food efficiently. Does your dog have healthy teeth?",
@@ -198,5 +188,15 @@
     ],
     "local_filenames": [],
     "timestamp": "2026-08-10T06:24:10.797987"
+  },
+  {
+    "title": "Understanding Dog Canine Scratch Reflex Mechanism",
+    "topic": "Canine Scratch Reflex Mechanism",
+    "script_content": "Scratching that special spot triggers an involuntary leg kick. This harmless reflex protects them from irritating outdoor insects. Where is your dog's tickle spot?",
+    "video_ids": [
+      7628758
+    ],
+    "local_filenames": [],
+    "timestamp": "2026-08-10T13:41:08.817071"
   }
 ]
