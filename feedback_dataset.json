@@ -1,67 +1,67 @@
 {
   "feedback_version": 1,
-  "generated_at": "2026-08-11T03:22:25.262173Z",
+  "generated_at": "2026-08-11T06:02:24.365799Z",
   "top_topics": [
-    {
-      "topic": "Dog Paddle Biomechanics",
-      "category": "Locomotion",
-      "score": 56.9,
-      "views": 1302
-    },
     {
       "topic": "Canine Deep Sighing Meaning",
       "category": "Behavior",
-      "score": 56.15,
+      "score": 57.3,
       "views": 1060
+    },
+    {
+      "topic": "Dog Paddle Biomechanics",
+      "category": "Locomotion",
+      "score": 56.85,
+      "views": 1302
+    },
+    {
+      "topic": "Canine Stomach Acid pH",
+      "category": "Health",
+      "score": 53.85,
+      "views": 982
     },
     {
       "topic": "Frenetic Random Activity Periods",
       "category": "Behavior",
-      "score": 53.47,
+      "score": 53.44,
       "views": 1299
     },
     {
       "topic": "Canine Geomagnetic Orientation",
       "category": "Navigation",
-      "score": 53.02,
+      "score": 52.98,
       "views": 1304
-    },
-    {
-      "topic": "Canine Stomach Acid pH",
-      "category": "Health",
-      "score": 52.18,
-      "views": 960
     }
   ],
   "underperforming_topics": [
     {
-      "topic": "Canine olfactory sense",
-      "category": "default",
-      "score": 14.37,
-      "views": 237
-    },
-    {
       "topic": "Dog vocal communication",
       "category": "default",
-      "score": 12.76,
+      "score": 13.05,
       "views": 271
+    },
+    {
+      "topic": "Canine Dewclaw Function",
+      "category": "Anatomy",
+      "score": 10.0,
+      "views": 0
     },
     {
       "topic": "Canine Permanent Dental Structure",
       "category": "Anatomy",
-      "score": 9.19,
+      "score": 9.21,
       "views": 57
     },
     {
       "topic": "Canine Play Bow Communication",
       "category": "Body Language",
-      "score": 8.37,
+      "score": 8.38,
       "views": 41
     },
     {
       "topic": "Canine Paw Pad Thermoregulation",
       "category": "Physiology",
-      "score": 7.11,
+      "score": 7.09,
       "views": 10
     }
   ]

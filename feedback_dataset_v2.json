@@ -1,9 +1,9 @@
 {
   "feedback_version": 2,
-  "generated_at": "2026-08-11T03:22:26.002049Z",
+  "generated_at": "2026-08-11T06:02:24.988286Z",
   "channel": "ch_dogs_en",
   "metadata": {
-    "total_videos_analyzed": 30,
+    "total_videos_analyzed": 31,
     "analytics_api_available": true,
     "cgs_mode": "beta",
     "data_freshness_hours": 72,
@@ -13,7 +13,7 @@
     {
       "topic": "Frenetic Random Activity Periods",
       "category": "Behavior",
-      "cgs": 76.97,
+      "cgs": 76.96,
       "ctr": 1299.0,
       "apv": 61.6,
       "avd": 9.0,
@@ -22,7 +22,7 @@
     {
       "topic": "Canine Deep Sighing Meaning",
       "category": "Behavior",
-      "cgs": 75.19,
+      "cgs": 75.47,
       "ctr": 1057.0,
       "apv": 69.73,
       "avd": 11.0,
@@ -31,7 +31,7 @@
     {
       "topic": "Canine Starch Digestion",
       "category": "Evolution",
-      "cgs": 72.61,
+      "cgs": 72.83,
       "ctr": 806.0,
       "apv": 65.8,
       "avd": 9.0,
@@ -40,7 +40,7 @@
     {
       "topic": "Canine REM Sleep Dynamics",
       "category": "Sleep",
-      "cgs": 72.34,
+      "cgs": 72.56,
       "ctr": 805.0,
       "apv": 67.27,
       "avd": 9.0,
@@ -49,7 +49,7 @@
     {
       "topic": "Canine Contagious Yawning",
       "category": "Behavior",
-      "cgs": 71.54,
+      "cgs": 71.79,
       "ctr": 906.0,
       "apv": 67.73,
       "avd": 10.0,
@@ -58,36 +58,27 @@
   ],
   "losing_topics": [
     {
-      "topic": "Canine Dietary Kibble Hydration",
-      "category": "Nutrition",
-      "cgs": 38.67,
-      "ctr": null,
-      "apv": null,
-      "avd": null,
-      "views": 312
-    },
-    {
       "topic": "Canine Scratch Reflex Mechanism",
       "category": "Physiology",
-      "cgs": 34.52,
+      "cgs": 35.07,
       "ctr": null,
       "apv": null,
       "avd": null,
-      "views": 468
+      "views": 474
     },
     {
       "topic": "Canine Double Coat Thermal Insulation",
       "category": "Coat Physiology",
-      "cgs": 28.85,
+      "cgs": 29.13,
       "ctr": null,
       "apv": null,
       "avd": null,
-      "views": 299
+      "views": 302
     },
     {
       "topic": "Canine Hypersociability Genetics",
       "category": "Genetics",
-      "cgs": 24.8,
+      "cgs": 24.94,
       "ctr": null,
       "apv": null,
       "avd": null,
@@ -96,11 +87,20 @@
     {
       "topic": "Canine Pseudopregnancy Hormones",
       "category": "Reproduction",
-      "cgs": 17.76,
+      "cgs": 17.97,
       "ctr": null,
       "apv": null,
       "avd": null,
       "views": 248
+    },
+    {
+      "topic": "Canine Dewclaw Function",
+      "category": "Anatomy",
+      "cgs": 10.0,
+      "ctr": null,
+      "apv": null,
+      "avd": null,
+      "views": 0
     }
   ],
   "winning_title_patterns": [
@@ -132,6 +132,6 @@
   "exploration_ratio": {
     "reinforce_pct": 80,
     "explore_pct": 20,
-    "adjusted_by": "low_cgs_average_34.0"
+    "adjusted_by": "low_cgs_average_28.0"
   }
 }

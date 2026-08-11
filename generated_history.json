@@ -1,15 +1,5 @@
 [
   {
-    "title": "Understanding Dog Canine Starch Digestion",
-    "topic": "Canine Starch Digestion",
-    "script_content": "Dogs are actually not strict carnivores. Evolution gave them special genes to digest starch alongside early humans. Does your dog like eating veggies?",
-    "video_ids": [
-      36040946
-    ],
-    "local_filenames": [],
-    "timestamp": "2026-08-04T07:50:01.280998"
-  },
-  {
     "title": "Understanding Dog Physical Weight Leaning Behavior",
     "topic": "Physical Weight Leaning Behavior",
     "script_content": "When your dog leans on you, they give a cuddle. Pressing their body against yours shows complete trust. Does your dog lean on you?",
@@ -198,5 +188,15 @@
     ],
     "local_filenames": [],
     "timestamp": "2026-08-11T03:25:25.540405"
+  },
+  {
+    "title": "Understanding Dog Canine Social Hierarchy Dynamics",
+    "topic": "Canine Social Hierarchy Dynamics",
+    "script_content": "Dogs view human families as supportive social groups. Cooperation drives their daily behavior more than dominance. How does your dog bond?",
+    "video_ids": [
+      11110303
+    ],
+    "local_filenames": [],
+    "timestamp": "2026-08-11T06:05:16.169561"
   }
 ]
