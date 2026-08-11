@@ -1,15 +1,5 @@
 [
   {
-    "title": "The Reason Dogs Have 42 Teeth",
-    "topic": "Canine Permanent Dental Structure",
-    "script_content": "Your dog actually has forty two permanent teeth. This full adult set helps them crush food efficiently. Does your dog have healthy teeth?",
-    "video_ids": [
-      7197984
-    ],
-    "local_filenames": [],
-    "timestamp": "2026-08-04T04:51:46.954853"
-  },
-  {
     "title": "Understanding Dog Canine Starch Digestion",
     "topic": "Canine Starch Digestion",
     "script_content": "Dogs are actually not strict carnivores. Evolution gave them special genes to digest starch alongside early humans. Does your dog like eating veggies?",
@@ -198,5 +188,15 @@
     ],
     "local_filenames": [],
     "timestamp": "2026-08-10T13:41:08.817071"
+  },
+  {
+    "title": "Understanding Dog Canine Dewclaw Function",
+    "topic": "Canine Dewclaw Function",
+    "script_content": "Dewclaws help dogs grip slippery surfaces during quick turns. These extra digits stabilize joints while holding toys securely. Does your dog use their dewclaws?",
+    "video_ids": [
+      5482269
+    ],
+    "local_filenames": [],
+    "timestamp": "2026-08-11T03:25:25.540405"
   }
 ]
