@@ -1,67 +1,67 @@
 {
   "feedback_version": 1,
-  "generated_at": "2026-08-11T13:36:44.755910Z",
+  "generated_at": "2026-08-12T03:49:29.608171Z",
   "top_topics": [
     {
       "topic": "Canine Deep Sighing Meaning",
       "category": "Behavior",
-      "score": 57.92,
+      "score": 57.34,
       "views": 1051
     },
     {
       "topic": "Dog Paddle Biomechanics",
       "category": "Locomotion",
-      "score": 56.73,
+      "score": 56.51,
       "views": 1302
     },
     {
       "topic": "Canine Stomach Acid pH",
       "category": "Health",
-      "score": 56.54,
-      "views": 1040
+      "score": 55.82,
+      "views": 1152
     },
     {
       "topic": "Frenetic Random Activity Periods",
       "category": "Behavior",
-      "score": 53.34,
+      "score": 53.15,
       "views": 1299
     },
     {
       "topic": "Canine Geomagnetic Orientation",
       "category": "Navigation",
-      "score": 52.86,
+      "score": 52.65,
       "views": 1304
     }
   ],
   "underperforming_topics": [
     {
-      "topic": "Canine Social Hierarchy Dynamics",
-      "category": "Psychology",
-      "score": 10.0,
-      "views": 0
+      "topic": "Canine olfactory sense",
+      "category": "default",
+      "score": 14.75,
+      "views": 237
     },
     {
-      "topic": "Canine Dewclaw Function",
-      "category": "Anatomy",
-      "score": 9.85,
-      "views": 0
+      "topic": "Dog vocal communication",
+      "category": "default",
+      "score": 13.09,
+      "views": 271
     },
     {
       "topic": "Canine Permanent Dental Structure",
       "category": "Anatomy",
-      "score": 9.16,
+      "score": 8.94,
       "views": 57
     },
     {
       "topic": "Canine Play Bow Communication",
       "category": "Body Language",
-      "score": 8.32,
+      "score": 8.1,
       "views": 41
     },
     {
       "topic": "Canine Paw Pad Thermoregulation",
       "category": "Physiology",
-      "score": 7.0,
+      "score": 6.8,
       "views": 10
     }
   ]
