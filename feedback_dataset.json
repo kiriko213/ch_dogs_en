@@ -1,67 +1,67 @@
 {
   "feedback_version": 1,
-  "generated_at": "2026-08-12T06:41:53.755932Z",
+  "generated_at": "2026-08-12T13:39:45.052883Z",
   "top_topics": [
     {
       "topic": "Canine Deep Sighing Meaning",
       "category": "Behavior",
-      "score": 57.64,
+      "score": 57.52,
       "views": 1051
     },
     {
       "topic": "Dog Paddle Biomechanics",
       "category": "Locomotion",
-      "score": 56.46,
+      "score": 56.35,
       "views": 1302
     },
     {
       "topic": "Canine Stomach Acid pH",
       "category": "Health",
-      "score": 55.76,
-      "views": 1153
+      "score": 55.62,
+      "views": 1155
     },
     {
       "topic": "Frenetic Random Activity Periods",
       "category": "Behavior",
-      "score": 53.11,
+      "score": 53.03,
       "views": 1299
     },
     {
-      "topic": "Canine Geomagnetic Orientation",
-      "category": "Navigation",
-      "score": 52.61,
-      "views": 1304
+      "topic": "Canine Lapping Mechanics",
+      "category": "Biomechanics",
+      "score": 52.86,
+      "views": 910
     }
   ],
   "underperforming_topics": [
     {
-      "topic": "Dog vocal communication",
-      "category": "default",
-      "score": 13.35,
-      "views": 271
+      "topic": "Canine Skin Elasticity Hydration Test",
+      "category": "Health",
+      "score": 10.0,
+      "views": 0
     },
     {
       "topic": "Canine Nesting Digging Instinct",
       "category": "Instinct",
-      "score": 10.0,
+      "score": 9.86,
       "views": 0
     },
     {
       "topic": "Canine Permanent Dental Structure",
       "category": "Anatomy",
-      "score": 8.95,
+      "score": 8.92,
       "views": 57
     },
     {
       "topic": "Canine Play Bow Communication",
       "category": "Body Language",
-      "score": 8.11,
+      "score": 8.06,
       "views": 41
     },
     {
       "topic": "Canine Paw Pad Thermoregulation",
       "category": "Physiology",
-      "score": 6.77,
+      "score": 6.69,
       "views": 10
     }
   ]
