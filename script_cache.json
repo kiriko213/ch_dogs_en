@@ -1,7 +1,7 @@
 {
   "channel": "ch_dogs_en",
   "schema_version": 2,
-  "updated_at": "2026-08-12T03:53:33.116394Z",
+  "updated_at": "2026-08-12T06:45:37.547554Z",
   "items": [
     {
       "topic": "Dog episodic memory",
@@ -937,27 +937,55 @@
       "scheduled_for": "2026-08-12T19:00:00Z"
     },
     {
-      "topic": "Canine Umbilical Cord Scars",
-      "title": "Understanding Dog Canine Umbilical Cord Scars",
-      "hook_framework": "Myth vs Fact",
-      "script": "Your dog actually has a hidden belly button. It remains as a flat scar from their umbilical cord. Have you ever noticed your dog's navel?",
-      "video_search_query": "cute dog lying",
-      "category": "Anatomy",
+      "topic": "Canine Skin Elasticity Hydration Test",
+      "title": "Understanding Dog Canine Skin Elasticity Hydration Test",
+      "hook_framework": "Warning",
+      "script": "Gently pinching your dog's scruff tests hydration. Healthy skin snaps back immediately, while slow skin shows dehydration. Have you tested your dog today?",
+      "video_search_query": "dog owner pet",
+      "category": "Health",
       "subtopic": "Physical",
-      "unique_fact": "Dogs have a small belly button scar located on their abdominal wall.",
-      "angle": "Trivia",
+      "unique_fact": "Skin elasticity on the neck scruff offers an immediate indicator of canine hydration levels.",
+      "angle": "Action",
       "region": "Global",
       "development_stage": "Adult",
-      "search_query": "cute dog lying",
-      "id": "aq_1786506716_1",
+      "search_query": "dog owner pet",
+      "id": "aq_1786517038_0",
+      "status": "uploaded",
+      "locked_at": "2026-08-12T06:43:58.558440Z",
+      "used_at": "2026-08-12T06:45:37.546808Z",
+      "video_id": "mHX0YDkqlqI",
+      "original_title": "Why You Should Check Dog Hydration",
+      "hook_score": 0.0,
+      "hook_title_score": 0,
+      "hook_opening_score": 0,
+      "video_ids": [
+        10940346
+      ],
+      "local_filenames": [],
+      "scheduled_for": "2026-08-12T19:00:00Z"
+    },
+    {
+      "topic": "Adult Canine Lactose Intolerance",
+      "title": "Understanding Dog Adult Canine Lactose Intolerance",
+      "hook_framework": "Problem & Solution",
+      "script": "Adult dogs naturally lack enzymes to digest cow milk properly. Offering fresh water instead prevents unwanted stomach upset. What treat does your dog enjoy most?",
+      "video_search_query": "dog drinking water",
+      "category": "Nutrition",
+      "subtopic": "Dietary",
+      "unique_fact": "Most mature dogs downregulate lactase production after weaning.",
+      "angle": "Advice",
+      "region": "Global",
+      "development_stage": "Adult",
+      "search_query": "dog drinking water",
+      "id": "aq_1786517038_1",
       "status": "pending",
       "locked_at": null,
       "used_at": null,
       "video_id": null,
-      "original_title": "The Fascinating Reason Dogs Have Navels",
-      "hook_score": 20.0,
+      "original_title": "Why You Should Avoid Milk For Dogs",
+      "hook_score": 10.0,
       "hook_title_score": 20,
-      "hook_opening_score": 20
+      "hook_opening_score": 0
     }
   ]
 }

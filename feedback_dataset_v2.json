@@ -1,9 +1,9 @@
 {
   "feedback_version": 2,
-  "generated_at": "2026-08-12T03:49:30.620981Z",
+  "generated_at": "2026-08-12T06:41:54.859437Z",
   "channel": "ch_dogs_en",
   "metadata": {
-    "total_videos_analyzed": 33,
+    "total_videos_analyzed": 34,
     "analytics_api_available": true,
     "cgs_mode": "beta",
     "data_freshness_hours": 72,
@@ -13,7 +13,7 @@
     {
       "topic": "Frenetic Random Activity Periods",
       "category": "Behavior",
-      "cgs": 76.89,
+      "cgs": 76.88,
       "ctr": 1299.0,
       "apv": 61.6,
       "avd": 9.0,
@@ -22,7 +22,7 @@
     {
       "topic": "Canine Deep Sighing Meaning",
       "category": "Behavior",
-      "cgs": 75.48,
+      "cgs": 75.56,
       "ctr": 1057.0,
       "apv": 69.73,
       "avd": 11.0,
@@ -31,7 +31,7 @@
     {
       "topic": "Canine Starch Digestion",
       "category": "Evolution",
-      "cgs": 72.87,
+      "cgs": 73.07,
       "ctr": 810.0,
       "apv": 65.8,
       "avd": 9.0,
@@ -40,7 +40,7 @@
     {
       "topic": "Canine REM Sleep Dynamics",
       "category": "Sleep",
-      "cgs": 72.61,
+      "cgs": 72.81,
       "ctr": 805.0,
       "apv": 67.27,
       "avd": 9.0,
@@ -49,7 +49,7 @@
     {
       "topic": "Canine Contagious Yawning",
       "category": "Behavior",
-      "cgs": 71.74,
+      "cgs": 71.96,
       "ctr": 906.0,
       "apv": 67.73,
       "avd": 10.0,
@@ -58,27 +58,18 @@
   ],
   "losing_topics": [
     {
-      "topic": "Canine Scratch Reflex Mechanism",
-      "category": "Physiology",
-      "cgs": 36.42,
-      "ctr": null,
-      "apv": null,
-      "avd": null,
-      "views": 491
-    },
-    {
       "topic": "Canine Dewclaw Function",
       "category": "Anatomy",
-      "cgs": 34.29,
+      "cgs": 33.82,
       "ctr": null,
       "apv": null,
       "avd": null,
-      "views": 258
+      "views": 309
     },
     {
       "topic": "Canine Double Coat Thermal Insulation",
       "category": "Coat Physiology",
-      "cgs": 28.92,
+      "cgs": 29.16,
       "ctr": null,
       "apv": null,
       "avd": null,
@@ -87,20 +78,29 @@
     {
       "topic": "Canine Biological Circadian Clock",
       "category": "Cognition",
-      "cgs": 27.58,
+      "cgs": 27.77,
       "ctr": null,
       "apv": null,
       "avd": null,
-      "views": 251
+      "views": 252
     },
     {
       "topic": "Canine Social Hierarchy Dynamics",
       "category": "Psychology",
-      "cgs": 24.63,
+      "cgs": 24.68,
       "ctr": null,
       "apv": null,
       "avd": null,
       "views": 101
+    },
+    {
+      "topic": "Canine Nesting Digging Instinct",
+      "category": "Instinct",
+      "cgs": 10.0,
+      "ctr": null,
+      "apv": null,
+      "avd": null,
+      "views": 0
     }
   ],
   "winning_title_patterns": [
@@ -132,6 +132,6 @@
   "exploration_ratio": {
     "reinforce_pct": 80,
     "explore_pct": 20,
-    "adjusted_by": "low_cgs_average_28.8"
+    "adjusted_by": "low_cgs_average_20.8"
   }
 }

@@ -1,15 +1,5 @@
 [
   {
-    "title": "Understanding Dog Hind Leg Sploot Posture Mechanics",
-    "topic": "Hind Leg Sploot Posture Mechanics",
-    "script_content": "Stretching hind legs straight back relaxes a dog's hips. This comfortable sploot posture also cools down body temperature. Does your dog sploot on cold floor surfaces?",
-    "video_ids": [
-      34284049
-    ],
-    "local_filenames": [],
-    "timestamp": "2026-08-05T07:52:46.529726"
-  },
-  {
     "title": "Why Your Dog Canine Tactile Whiskers",
     "topic": "Canine Tactile Whiskers",
     "script_content": "Whiskers are not just fur, they are delicate navigation sensors. They detect subtle air currents to help dogs navigate in darkness. How sensitive are your dog's whiskers?",
@@ -198,5 +188,15 @@
     ],
     "local_filenames": [],
     "timestamp": "2026-08-12T03:53:33.115753"
+  },
+  {
+    "title": "Understanding Dog Canine Skin Elasticity Hydration Test",
+    "topic": "Canine Skin Elasticity Hydration Test",
+    "script_content": "Gently pinching your dog's scruff tests hydration. Healthy skin snaps back immediately, while slow skin shows dehydration. Have you tested your dog today?",
+    "video_ids": [
+      10940346
+    ],
+    "local_filenames": [],
+    "timestamp": "2026-08-12T06:45:37.546828"
   }
 ]
