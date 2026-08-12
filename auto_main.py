@@ -229,7 +229,17 @@ async def run_auto_post(work_dir=".", topic=None):
             if "aesthetic" in profile_key.lower():
                 topics = ["Stunning hidden gems", "Visually shocking landscapes", "Cinematic global paradise", "Mysterious geography secrets", "Breathtaking world wonders"]
             elif "dog" in profile_key.lower():
-                topics = ["Dog body language secrets", "Amazing dog facts", "Dog training tips", "Dog owner life hacks", "Why dogs do weird things"]
+                topics = [
+                    "Dog body language secrets", 
+                    "Amazing dog facts", 
+                    "Dog training tips", 
+                    "Dog owner life hacks", 
+                    "Why dogs do weird things",
+                    "Dog myths & misconceptions debunked",
+                    "Historical roles of dogs & coevolution",
+                    "Breed quirks & origins trivia",
+                    "Dog psychology & human bond secrets"
+                ]
             elif "aquatic" in profile_key.lower():
                 topics = ["Deep sea mysteries", "Strange ocean creatures", "Coral reef secrets", "Freshwater wonders", "Aquarium life hacks"]
             else:

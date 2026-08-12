@@ -36,7 +36,12 @@ def generate_viral_script(topic="health", channel_context="", api_key=None, feed
     if language == "ja":
         prompt = f"YouTubeショート動画用として「{topic}」に関するナレーション（100〜150文字程度）を日本語で作成してください。余計な前置きやタイトルは一切省き、ナレーションテキストのみを出力してください。"
     else:
-        prompt = f"Write a 15-second narration script for a YouTube Short about '{topic}' in English. Keep it to 18-22 words. Output ONLY the narration text. No titles, no introduction, no emojis, no markdown, and no extra notes."
+        prompt = (
+            f"Write a 15-second narration script for a YouTube Short about '{topic}' in English. Keep it to 18-22 words. "
+            f"Do not focus solely on physical abilities or sports performance. Instead, hook the audience using diverse angles like "
+            f"historical facts, canine psychology, debunking common myths, or their unique bond with humans. "
+            f"Output ONLY the narration text. No titles, no introduction, no emojis, no markdown, and no extra notes."
+        )
 
     print(f"[ECO_MODE] Sending minimal prompt to Gemini...")
 
@@ -165,7 +170,7 @@ def generate_viral_scripts_batch(topic="health", api_key=None, batch_size=5, lan
               {{
                 "topic": "Specific sub-topic name",
                 "title": "Video title (under 50 chars)",
-                "script": "15-second narration (20 to 25 words). MUST be written in exactly 3 distinct sentences: Hook, Development, and Call to Action. MUST end with a short question asking the viewer about their own dog to drive comments. Output only the narration text, no emojis, no quotation marks."
+                "script": "15-second narration (20 to 25 words). MUST be written in exactly 3 distinct sentences: Hook, Development, and Call to Action. MUST end with a short question asking the viewer about their own dog to drive comments. Crucial: Avoid focusing solely on physical features or athletic performance. Hook the viewer by incorporating rich angles such as history, canine psychology, debunking common myths, or their unique emotional connection with humans. Output only the narration text, no emojis, no quotation marks."
               }}
             ]
             """
