@@ -1,7 +1,7 @@
 {
   "channel": "ch_dogs_en",
   "schema_version": 2,
-  "updated_at": "2026-08-13T06:48:32.021993Z",
+  "updated_at": "2026-08-13T13:44:33.747796Z",
   "items": [
     {
       "topic": "Dog episodic memory",
@@ -1047,6 +1047,56 @@
       ],
       "local_filenames": [],
       "scheduled_for": "2026-08-13T19:00:00Z"
+    },
+    {
+      "topic": "Canine Social Allogrooming",
+      "title": "Why Your Dog Canine Social Allogrooming",
+      "hook_framework": "Empathetic Observation",
+      "script": "When your dog licks your hands, they are sharing affection. Grooming you releases soothing endorphins that strengthen your emotional connection. Does your dog lick your hands?",
+      "video_search_query": "dog owner",
+      "category": "Social Bonding",
+      "subtopic": "Affection Display",
+      "unique_fact": "Social licking triggers oxytocin release in dogs to strengthen interpersonal bonds.",
+      "angle": "Emotion",
+      "region": "Global",
+      "development_stage": "Adult",
+      "search_query": "dog owner",
+      "id": "aq_1786628568_0",
+      "status": "uploaded",
+      "locked_at": "2026-08-13T13:42:48.980506Z",
+      "used_at": "2026-08-13T13:44:33.747105Z",
+      "video_id": "OxqsnuKvlrs",
+      "original_title": "How to Tell if Your Dog Loves You",
+      "hook_score": 10.0,
+      "hook_title_score": 20,
+      "hook_opening_score": 0,
+      "video_ids": [
+        30346566
+      ],
+      "local_filenames": [],
+      "scheduled_for": "2026-08-13T19:00:00Z"
+    },
+    {
+      "topic": "Canine Colostrum Antibody Transfer",
+      "title": "Why You Should Protect Newborn Dogs",
+      "hook_framework": "Warning",
+      "script": "Newborn dogs receive vital immunity solely through maternal colostrum milk. These initial antibodies guard vulnerable immune systems during early life. How old was your dog?",
+      "video_search_query": "dog nursing outdoors",
+      "category": "Immunology",
+      "subtopic": "Reproduction",
+      "unique_fact": "Maternal colostrum provides critical passive immunity during early hours of life",
+      "angle": "Science",
+      "region": "Global",
+      "development_stage": "Puppy",
+      "search_query": "dog nursing outdoors",
+      "id": "aq_1786628568_1",
+      "status": "pending",
+      "locked_at": null,
+      "used_at": null,
+      "video_id": null,
+      "hook_score": 10.0,
+      "hook_title_score": 20,
+      "hook_opening_score": 0
     }
   ]
 }

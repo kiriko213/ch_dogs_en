@@ -1,9 +1,9 @@
 {
   "feedback_version": 2,
-  "generated_at": "2026-08-13T06:44:45.033731Z",
+  "generated_at": "2026-08-13T13:40:25.824546Z",
   "channel": "ch_dogs_en",
   "metadata": {
-    "total_videos_analyzed": 37,
+    "total_videos_analyzed": 38,
     "analytics_api_available": true,
     "cgs_mode": "beta",
     "data_freshness_hours": 72,
@@ -13,7 +13,7 @@
     {
       "topic": "Frenetic Random Activity Periods",
       "category": "Behavior",
-      "cgs": 76.8,
+      "cgs": 76.78,
       "ctr": 1299.0,
       "apv": 61.6,
       "avd": 9.0,
@@ -22,7 +22,7 @@
     {
       "topic": "Canine Deep Sighing Meaning",
       "category": "Behavior",
-      "cgs": 75.46,
+      "cgs": 75.43,
       "ctr": 1057.0,
       "apv": 69.73,
       "avd": 11.0,
@@ -31,7 +31,7 @@
     {
       "topic": "Canine Starch Digestion",
       "category": "Evolution",
-      "cgs": 72.95,
+      "cgs": 73.14,
       "ctr": 799.0,
       "apv": 65.62,
       "avd": 9.0,
@@ -40,16 +40,16 @@
     {
       "topic": "Canine REM Sleep Dynamics",
       "category": "Sleep",
-      "cgs": 72.78,
+      "cgs": 72.98,
       "ctr": 805.0,
       "apv": 67.27,
       "avd": 9.0,
-      "views": 806
+      "views": 808
     },
     {
       "topic": "Canine Contagious Yawning",
       "category": "Behavior",
-      "cgs": 71.9,
+      "cgs": 72.1,
       "ctr": 906.0,
       "apv": 67.73,
       "avd": 10.0,
@@ -58,27 +58,18 @@
   ],
   "losing_topics": [
     {
-      "topic": "Canine Skin Elasticity Hydration Test",
-      "category": "Health",
-      "cgs": 30.9,
-      "ctr": null,
-      "apv": null,
-      "avd": null,
-      "views": 390
-    },
-    {
       "topic": "Canine Paw Preference Ambidexterity",
       "category": "Motor Control",
-      "cgs": 29.18,
+      "cgs": 29.4,
       "ctr": null,
       "apv": null,
       "avd": null,
-      "views": 337
+      "views": 338
     },
     {
       "topic": "Canine Biological Circadian Clock",
       "category": "Cognition",
-      "cgs": 27.37,
+      "cgs": 27.48,
       "ctr": null,
       "apv": null,
       "avd": null,
@@ -87,16 +78,25 @@
     {
       "topic": "Canine Social Hierarchy Dynamics",
       "category": "Psychology",
-      "cgs": 24.74,
+      "cgs": 24.72,
       "ctr": null,
       "apv": null,
       "avd": null,
       "views": 95
     },
     {
+      "topic": "Canine Heartbeat Synchronization",
+      "category": "Psychology",
+      "cgs": 10.0,
+      "ctr": null,
+      "apv": null,
+      "avd": null,
+      "views": 0
+    },
+    {
       "topic": "Canine Reverse Sneezing Reflex",
       "category": "Respiratory",
-      "cgs": 10.0,
+      "cgs": 9.87,
       "ctr": null,
       "apv": null,
       "avd": null,
@@ -132,6 +132,6 @@
   "exploration_ratio": {
     "reinforce_pct": 80,
     "explore_pct": 20,
-    "adjusted_by": "low_cgs_average_23.4"
+    "adjusted_by": "low_cgs_average_16.4"
   }
 }

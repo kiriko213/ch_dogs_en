@@ -1,67 +1,67 @@
 {
   "feedback_version": 1,
-  "generated_at": "2026-08-13T06:44:44.343596Z",
+  "generated_at": "2026-08-13T13:40:25.125845Z",
   "top_topics": [
     {
       "topic": "Canine Deep Sighing Meaning",
       "category": "Behavior",
-      "score": 57.25,
+      "score": 57.14,
       "views": 1051
     },
     {
       "topic": "Dog Paddle Biomechanics",
       "category": "Locomotion",
-      "score": 56.1,
+      "score": 55.99,
       "views": 1302
     },
     {
       "topic": "Canine Stomach Acid pH",
       "category": "Health",
-      "score": 55.32,
+      "score": 55.2,
       "views": 1154
     },
     {
       "topic": "Frenetic Random Activity Periods",
       "category": "Behavior",
-      "score": 52.81,
+      "score": 52.73,
       "views": 1299
     },
     {
-      "topic": "Canine Geomagnetic Orientation",
-      "category": "Navigation",
-      "score": 52.27,
-      "views": 1304
+      "topic": "Canine Lapping Mechanics",
+      "category": "Biomechanics",
+      "score": 52.66,
+      "views": 910
     }
   ],
   "underperforming_topics": [
     {
-      "topic": "Dog vocal communication",
-      "category": "default",
-      "score": 13.26,
-      "views": 271
+      "topic": "Canine Heartbeat Synchronization",
+      "category": "Psychology",
+      "score": 10.0,
+      "views": 0
     },
     {
       "topic": "Canine Reverse Sneezing Reflex",
       "category": "Respiratory",
-      "score": 10.0,
+      "score": 9.86,
       "views": 0
     },
     {
       "topic": "Canine Permanent Dental Structure",
       "category": "Anatomy",
-      "score": 8.64,
+      "score": 8.61,
       "views": 57
     },
     {
       "topic": "Canine Play Bow Communication",
       "category": "Body Language",
-      "score": 7.84,
+      "score": 7.79,
       "views": 42
     },
     {
       "topic": "Canine Paw Pad Thermoregulation",
       "category": "Physiology",
-      "score": 6.47,
+      "score": 6.39,
       "views": 10
     }
   ]
