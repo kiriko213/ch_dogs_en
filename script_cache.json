@@ -1,7 +1,7 @@
 {
   "channel": "ch_dogs_en",
   "schema_version": 2,
-  "updated_at": "2026-08-13T03:57:17.130364Z",
+  "updated_at": "2026-08-13T06:48:32.021993Z",
   "items": [
     {
       "topic": "Dog episodic memory",
@@ -1021,50 +1021,32 @@
       "scheduled_for": "2026-08-13T19:00:00Z"
     },
     {
-      "topic": "Dog Floating Collarbone",
-      "title": "Understanding Dog Dog Floating Collarbone",
-      "hook_framework": "Myth vs Fact",
-      "script": "Dogs actually lack a connected collarbone structure. This anatomical flexibility lets them take surprisingly long strides. Is your dog a fast runner?",
-      "video_search_query": "dog running field",
-      "category": "Anatomy",
-      "subtopic": "Skeleton",
-      "unique_fact": "Dogs do not have a connected collarbone, granting greater shoulder movement and stride distance.",
-      "angle": "Evolution",
+      "topic": "Canine Heartbeat Synchronization",
+      "title": "Understanding Dog Canine Heartbeat Synchronization",
+      "hook_framework": "Problem & Solution",
+      "script": "When you gently pet your dog, your heart rates can align naturally. This soothing physiological sync lowers stress for both of you instantly. Does your dog cuddle often?",
+      "video_search_query": "happy dog",
+      "category": "Psychology",
+      "subtopic": "Bonding",
+      "unique_fact": "Petting a dog causes heart rate synchronization between human and dog, reducing stress hormones.",
+      "angle": "Science",
       "region": "Global",
       "development_stage": "Adult",
-      "search_query": "dog running field",
-      "id": "aq_1786593347_1",
-      "status": "pending",
-      "locked_at": null,
-      "used_at": null,
-      "video_id": null,
-      "original_title": "The Fascinating Reason Dogs Run So Fast",
+      "search_query": "happy dog",
+      "id": "aq_1786603602_0",
+      "status": "uploaded",
+      "locked_at": "2026-08-13T06:46:42.053833Z",
+      "used_at": "2026-08-13T06:48:32.021529Z",
+      "video_id": "annC9Ddd0xs",
+      "original_title": "How to Tell if Your Dog Trusts You",
       "hook_score": 10.0,
       "hook_title_score": 20,
-      "hook_opening_score": 0
-    },
-    {
-      "topic": "Dog Adult Lactose Intolerance",
-      "title": "Understanding Dog Dog Adult Lactose Intolerance",
-      "hook_framework": "Warning",
-      "script": "Adult dogs naturally lose the enzyme needed to digest milk properly. Giving them dairy can cause uncomfortable digestion issues. Does your dog enjoy dairy treats?",
-      "video_search_query": "happy dog eating",
-      "category": "Nutrition",
-      "subtopic": "Metabolism",
-      "unique_fact": "Most adult dogs produce significantly lower levels of lactase after weaning.",
-      "angle": "Nutrition",
-      "region": "Global",
-      "development_stage": "Adult",
-      "search_query": "happy dog eating",
-      "id": "aq_1786593347_2",
-      "status": "pending",
-      "locked_at": null,
-      "used_at": null,
-      "video_id": null,
-      "original_title": "Why You Should Skip Giving Milk To Dogs",
-      "hook_score": 10.0,
-      "hook_title_score": 20,
-      "hook_opening_score": 0
+      "hook_opening_score": 0,
+      "video_ids": [
+        35390209
+      ],
+      "local_filenames": [],
+      "scheduled_for": "2026-08-13T19:00:00Z"
     }
   ]
 }
