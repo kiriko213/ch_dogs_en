@@ -1,15 +1,5 @@
 [
   {
-    "title": "Understanding Dog Eyebrow Muscle Facial Evolution",
-    "topic": "Eyebrow Muscle Facial Evolution",
-    "script_content": "Your dog evolved special eyebrow muscles over thousands of years. This feature lets them create expressive eyes that captivate humans. Does your dog make puppy eyes?",
-    "video_ids": [
-      7189578
-    ],
-    "local_filenames": [],
-    "timestamp": "2026-08-06T04:51:38.774469"
-  },
-  {
     "title": "Why Your Dog Dog Paddle Biomechanics",
     "topic": "Dog Paddle Biomechanics",
     "script_content": "To swim easily, dogs rely on an instinctual paddle movement. Front legs alternate while back legs stabilize body direction effortlessly. Does your dog love swimming?",
@@ -198,5 +188,15 @@
     ],
     "local_filenames": [],
     "timestamp": "2026-08-12T13:44:45.554461"
+  },
+  {
+    "title": "Why Your Dog Canine Reverse Sneezing Reflex",
+    "topic": "Canine Reverse Sneezing Reflex",
+    "script_content": "Reverse sneezing happens when soft palate irritation pulls air inward. This harmless reflex safely clears throat irritants. Has your dog ever done a reverse sneeze?",
+    "video_ids": [
+      35637293
+    ],
+    "local_filenames": [],
+    "timestamp": "2026-08-13T03:57:17.129916"
   }
 ]

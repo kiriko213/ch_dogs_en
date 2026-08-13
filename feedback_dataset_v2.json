@@ -1,9 +1,9 @@
 {
   "feedback_version": 2,
-  "generated_at": "2026-08-12T13:39:45.577139Z",
+  "generated_at": "2026-08-13T03:53:57.084594Z",
   "channel": "ch_dogs_en",
   "metadata": {
-    "total_videos_analyzed": 35,
+    "total_videos_analyzed": 36,
     "analytics_api_available": true,
     "cgs_mode": "beta",
     "data_freshness_hours": 72,
@@ -13,7 +13,7 @@
     {
       "topic": "Frenetic Random Activity Periods",
       "category": "Behavior",
-      "cgs": 76.86,
+      "cgs": 76.81,
       "ctr": 1299.0,
       "apv": 61.6,
       "avd": 9.0,
@@ -22,7 +22,7 @@
     {
       "topic": "Canine Deep Sighing Meaning",
       "category": "Behavior",
-      "cgs": 75.53,
+      "cgs": 75.43,
       "ctr": 1057.0,
       "apv": 69.73,
       "avd": 11.0,
@@ -31,7 +31,7 @@
     {
       "topic": "Canine Starch Digestion",
       "category": "Evolution",
-      "cgs": 73.2,
+      "cgs": 72.76,
       "ctr": 799.0,
       "apv": 65.62,
       "avd": 9.0,
@@ -40,16 +40,16 @@
     {
       "topic": "Canine REM Sleep Dynamics",
       "category": "Sleep",
-      "cgs": 73.01,
+      "cgs": 72.58,
       "ctr": 805.0,
       "apv": 67.27,
       "avd": 9.0,
-      "views": 805
+      "views": 806
     },
     {
       "topic": "Canine Contagious Yawning",
       "category": "Behavior",
-      "cgs": 72.18,
+      "cgs": 71.68,
       "ctr": 906.0,
       "apv": 67.73,
       "avd": 10.0,
@@ -58,49 +58,49 @@
   ],
   "losing_topics": [
     {
-      "topic": "Canine Double Coat Thermal Insulation",
-      "category": "Coat Physiology",
-      "cgs": 29.35,
+      "topic": "Canine Dewclaw Function",
+      "category": "Anatomy",
+      "cgs": 33.27,
       "ctr": null,
       "apv": null,
       "avd": null,
-      "views": 303
-    },
-    {
-      "topic": "Canine Biological Circadian Clock",
-      "category": "Cognition",
-      "cgs": 27.9,
-      "ctr": null,
-      "apv": null,
-      "avd": null,
-      "views": 253
-    },
-    {
-      "topic": "Canine Social Hierarchy Dynamics",
-      "category": "Psychology",
-      "cgs": 24.65,
-      "ctr": null,
-      "apv": null,
-      "avd": null,
-      "views": 101
-    },
-    {
-      "topic": "Canine Nesting Digging Instinct",
-      "category": "Instinct",
-      "cgs": 9.87,
-      "ctr": null,
-      "apv": null,
-      "avd": null,
-      "views": 0
+      "views": 298
     },
     {
       "topic": "Canine Skin Elasticity Hydration Test",
       "category": "Health",
-      "cgs": 9.5,
+      "cgs": 30.54,
       "ctr": null,
       "apv": null,
       "avd": null,
-      "views": 0
+      "views": 388
+    },
+    {
+      "topic": "Canine Paw Preference Ambidexterity",
+      "category": "Motor Control",
+      "cgs": 28.87,
+      "ctr": null,
+      "apv": null,
+      "avd": null,
+      "views": 335
+    },
+    {
+      "topic": "Canine Biological Circadian Clock",
+      "category": "Cognition",
+      "cgs": 27.19,
+      "ctr": null,
+      "apv": null,
+      "avd": null,
+      "views": 238
+    },
+    {
+      "topic": "Canine Social Hierarchy Dynamics",
+      "category": "Psychology",
+      "cgs": 24.7,
+      "ctr": null,
+      "apv": null,
+      "avd": null,
+      "views": 95
     }
   ],
   "winning_title_patterns": [
@@ -126,12 +126,12 @@
   "winning_hook_patterns": [],
   "toxic_combinations": [],
   "growth_signals": {
-    "total_subscribers_gained": 27,
+    "total_subscribers_gained": 29,
     "growth_trend": "growing"
   },
   "exploration_ratio": {
     "reinforce_pct": 80,
     "explore_pct": 20,
-    "adjusted_by": "low_cgs_average_15.8"
+    "adjusted_by": "low_cgs_average_33.5"
   }
 }

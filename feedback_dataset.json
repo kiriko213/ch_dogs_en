@@ -1,67 +1,67 @@
 {
   "feedback_version": 1,
-  "generated_at": "2026-08-12T13:39:45.052883Z",
+  "generated_at": "2026-08-13T03:53:56.223878Z",
   "top_topics": [
     {
       "topic": "Canine Deep Sighing Meaning",
       "category": "Behavior",
-      "score": 57.52,
+      "score": 57.13,
       "views": 1051
     },
     {
       "topic": "Dog Paddle Biomechanics",
       "category": "Locomotion",
-      "score": 56.35,
+      "score": 56.14,
       "views": 1302
     },
     {
       "topic": "Canine Stomach Acid pH",
       "category": "Health",
-      "score": 55.62,
-      "views": 1155
+      "score": 55.37,
+      "views": 1154
     },
     {
       "topic": "Frenetic Random Activity Periods",
       "category": "Behavior",
-      "score": 53.03,
+      "score": 52.85,
       "views": 1299
     },
     {
-      "topic": "Canine Lapping Mechanics",
-      "category": "Biomechanics",
-      "score": 52.86,
-      "views": 910
+      "topic": "Canine Geomagnetic Orientation",
+      "category": "Navigation",
+      "score": 52.31,
+      "views": 1304
     }
   ],
   "underperforming_topics": [
     {
-      "topic": "Canine Skin Elasticity Hydration Test",
-      "category": "Health",
-      "score": 10.0,
-      "views": 0
+      "topic": "Canine olfactory sense",
+      "category": "default",
+      "score": 14.75,
+      "views": 237
     },
     {
-      "topic": "Canine Nesting Digging Instinct",
-      "category": "Instinct",
-      "score": 9.86,
-      "views": 0
+      "topic": "Dog vocal communication",
+      "category": "default",
+      "score": 13.0,
+      "views": 271
     },
     {
       "topic": "Canine Permanent Dental Structure",
       "category": "Anatomy",
-      "score": 8.92,
+      "score": 8.62,
       "views": 57
     },
     {
       "topic": "Canine Play Bow Communication",
       "category": "Body Language",
-      "score": 8.06,
-      "views": 41
+      "score": 7.83,
+      "views": 42
     },
     {
       "topic": "Canine Paw Pad Thermoregulation",
       "category": "Physiology",
-      "score": 6.69,
+      "score": 6.49,
       "views": 10
     }
   ]
