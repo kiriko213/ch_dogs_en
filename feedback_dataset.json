@@ -1,67 +1,67 @@
 {
   "feedback_version": 1,
-  "generated_at": "2026-08-13T13:40:25.125845Z",
+  "generated_at": "2026-08-14T03:50:26.674851Z",
   "top_topics": [
     {
-      "topic": "Canine Deep Sighing Meaning",
-      "category": "Behavior",
-      "score": 57.14,
-      "views": 1051
+      "topic": "Canine Social Allogrooming",
+      "category": "Social Bonding",
+      "score": 60.59,
+      "views": 914
     },
     {
       "topic": "Dog Paddle Biomechanics",
       "category": "Locomotion",
-      "score": 55.99,
+      "score": 55.79,
       "views": 1302
     },
     {
       "topic": "Canine Stomach Acid pH",
       "category": "Health",
-      "score": 55.2,
+      "score": 54.96,
       "views": 1154
     },
     {
-      "topic": "Frenetic Random Activity Periods",
+      "topic": "Canine Deep Sighing Meaning",
       "category": "Behavior",
-      "score": 52.73,
-      "views": 1299
+      "score": 54.75,
+      "views": 1052
     },
     {
-      "topic": "Canine Lapping Mechanics",
-      "category": "Biomechanics",
-      "score": 52.66,
-      "views": 910
+      "topic": "Canine Heartbeat Synchronization",
+      "category": "Psychology",
+      "score": 54.58,
+      "views": 922
     }
   ],
   "underperforming_topics": [
     {
-      "topic": "Canine Heartbeat Synchronization",
-      "category": "Psychology",
-      "score": 10.0,
-      "views": 0
+      "topic": "Canine olfactory sense",
+      "category": "default",
+      "score": 14.26,
+      "views": 237
     },
     {
-      "topic": "Canine Reverse Sneezing Reflex",
-      "category": "Respiratory",
-      "score": 9.86,
-      "views": 0
+      "topic": "Dog vocal communication",
+      "category": "default",
+      "score": 12.34,
+      "views": 271
     },
     {
       "topic": "Canine Permanent Dental Structure",
       "category": "Anatomy",
-      "score": 8.61,
+      "score": 8.19,
       "views": 57
     },
     {
       "topic": "Canine Play Bow Communication",
       "category": "Body Language",
-      "score": 7.79,
+      "score": 7.45,
       "views": 42
     },
     {
       "topic": "Canine Paw Pad Thermoregulation",
       "category": "Physiology",
-      "score": 6.39,
+      "score": 6.18,
       "views": 10
     }
   ]
