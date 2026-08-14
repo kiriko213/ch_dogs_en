@@ -1,9 +1,9 @@
 {
   "feedback_version": 2,
-  "generated_at": "2026-08-14T03:50:27.154330Z",
+  "generated_at": "2026-08-14T13:35:55.298268Z",
   "channel": "ch_dogs_en",
   "metadata": {
-    "total_videos_analyzed": 39,
+    "total_videos_analyzed": 40,
     "analytics_api_available": true,
     "cgs_mode": "beta",
     "data_freshness_hours": 72,
@@ -13,7 +13,7 @@
     {
       "topic": "Frenetic Random Activity Periods",
       "category": "Behavior",
-      "cgs": 76.74,
+      "cgs": 76.71,
       "ctr": 1299.0,
       "apv": 61.6,
       "avd": 9.0,
@@ -22,7 +22,7 @@
     {
       "topic": "Canine Deep Sighing Meaning",
       "category": "Behavior",
-      "cgs": 74.84,
+      "cgs": 74.91,
       "ctr": 1057.0,
       "apv": 69.73,
       "avd": 11.0,
@@ -31,7 +31,7 @@
     {
       "topic": "Canine Stomach Acid pH",
       "category": "Health",
-      "cgs": 72.6,
+      "cgs": 72.56,
       "ctr": 1168.0,
       "apv": 64.97,
       "avd": 9.0,
@@ -40,7 +40,7 @@
     {
       "topic": "Canine Starch Digestion",
       "category": "Evolution",
-      "cgs": 72.29,
+      "cgs": 72.34,
       "ctr": 799.0,
       "apv": 65.62,
       "avd": 9.0,
@@ -49,7 +49,7 @@
     {
       "topic": "Canine REM Sleep Dynamics",
       "category": "Sleep",
-      "cgs": 72.12,
+      "cgs": 72.18,
       "ctr": 805.0,
       "apv": 67.27,
       "avd": 9.0,
@@ -58,18 +58,9 @@
   ],
   "losing_topics": [
     {
-      "topic": "Canine Reverse Sneezing Reflex",
-      "category": "Respiratory",
-      "cgs": 44.12,
-      "ctr": null,
-      "apv": null,
-      "avd": null,
-      "views": 830
-    },
-    {
       "topic": "Canine Paw Pad Thermoregulation",
       "category": "Physiology",
-      "cgs": 43.74,
+      "cgs": 43.71,
       "ctr": 10.0,
       "apv": 44.51,
       "avd": 7.0,
@@ -78,7 +69,7 @@
     {
       "topic": "Canine Nesting Digging Instinct",
       "category": "Instinct",
-      "cgs": 39.28,
+      "cgs": 39.39,
       "ctr": null,
       "apv": null,
       "avd": null,
@@ -87,7 +78,7 @@
     {
       "topic": "Canine Skin Elasticity Hydration Test",
       "category": "Health",
-      "cgs": 29.47,
+      "cgs": 29.45,
       "ctr": null,
       "apv": null,
       "avd": null,
@@ -96,11 +87,20 @@
     {
       "topic": "Canine Paw Preference Ambidexterity",
       "category": "Motor Control",
-      "cgs": 27.83,
+      "cgs": 27.78,
       "ctr": null,
       "apv": null,
       "avd": null,
       "views": 338
+    },
+    {
+      "topic": "Canine Colostrum Antibody Transfer",
+      "category": "Immunology",
+      "cgs": 10.0,
+      "ctr": null,
+      "apv": null,
+      "avd": null,
+      "views": 0
     }
   ],
   "winning_title_patterns": [
@@ -132,6 +132,6 @@
   "exploration_ratio": {
     "reinforce_pct": 80,
     "explore_pct": 20,
-    "adjusted_by": "low_cgs_average_51.5"
+    "adjusted_by": "low_cgs_average_41.6"
   }
 }

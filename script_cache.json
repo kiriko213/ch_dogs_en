@@ -1,7 +1,7 @@
 {
   "channel": "ch_dogs_en",
   "schema_version": 2,
-  "updated_at": "2026-08-14T04:00:34.463349Z",
+  "updated_at": "2026-08-14T14:01:13.538859Z",
   "items": [
     {
       "topic": "Dog episodic memory",
@@ -1105,27 +1105,31 @@
       "scheduled_for": "2026-08-14T19:00:00Z"
     },
     {
-      "topic": "Canine Growth Plate Closure",
-      "title": "Why Your Dog Canine Growth Plate Closure",
-      "hook_framework": "Warning",
-      "script": "Heavy jumping can permanently injure a young dogs growth plates. These fragile cartilage zones take months to harden into bone. How old is your dog?",
-      "video_search_query": "puppy running grass",
-      "category": "Orthopedics",
-      "subtopic": "Skeletal Development",
-      "unique_fact": "Canine growth plates remain soft and susceptible to permanent developmental injury until full skeletal maturity.",
+      "topic": "Canine Masticatory Safety",
+      "title": "Why You Should Pick Safe Dog Toys",
+      "hook_framework": "Problem & Solution",
+      "script": "Hard chews can easily crack a dog powerful molar teeth. Providing pliable rubber toys prevents fractures during aggressive playtime. What does your dog chew?",
+      "video_search_query": "dog chewing toy",
+      "category": "Care",
+      "subtopic": "Dental Safety",
+      "unique_fact": "Chewing on unyielding objects causes slab fractures on upper carnassial teeth due to concentrated biting leverage.",
       "angle": "Action",
       "region": "Global",
-      "development_stage": "Puppy",
-      "search_query": "puppy running grass",
-      "id": "aq_1786679928_1",
-      "status": "pending",
-      "locked_at": null,
-      "used_at": null,
-      "video_id": null,
-      "original_title": "Why You Should Guard Young Dog Bones",
+      "development_stage": "Adult",
+      "search_query": "dog chewing toy",
+      "id": "aq_1786715972_0",
+      "status": "uploaded",
+      "locked_at": "2026-08-14T13:59:32.874896Z",
+      "used_at": "2026-08-14T14:01:13.538262Z",
+      "video_id": "QoodlYYCBzM",
       "hook_score": 10.0,
       "hook_title_score": 20,
-      "hook_opening_score": 0
+      "hook_opening_score": 0,
+      "video_ids": [
+        32423655
+      ],
+      "local_filenames": [],
+      "scheduled_for": "2026-08-14T19:00:00Z"
     }
   ]
 }

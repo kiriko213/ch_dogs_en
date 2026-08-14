@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-14T04:00:34.474803Z",
+  "generated_at": "2026-08-14T14:01:13.542521Z",
   "kpis": {
-    "uploads": 39,
-    "views": 21693,
+    "uploads": 40,
+    "views": 22000,
     "ctr_average": 534.09,
     "apv_average": 61.23,
     "subscribers_gained": 30,
-    "cgs_average": 59.95,
+    "cgs_average": 58.83,
     "top_topics": [
       "Frenetic Random Activity Periods",
       "Canine Deep Sighing Meaning",
@@ -19,11 +19,11 @@
     ]
   },
   "production_metrics": {
-    "success_rate_percent": 81.25,
-    "failure_rate_percent": 18.75,
-    "retry_rate_percent": 4.17,
-    "upload_latency_seconds": 5.93,
-    "generation_latency_seconds": 99.27
+    "success_rate_percent": 81.63,
+    "failure_rate_percent": 18.37,
+    "retry_rate_percent": 4.08,
+    "upload_latency_seconds": 5.15,
+    "generation_latency_seconds": 95.13
   },
   "warnings": []
 }
