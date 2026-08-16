@@ -1,15 +1,5 @@
 [
   {
-    "title": "Understanding Dog Premature Graying In Canines",
-    "topic": "Premature Graying in Canines",
-    "script_content": "Gray muzzles are not always caused by old age. High anxiety and stress levels frequently cause young dogs to turn gray early. Has your dog grayed early?",
-    "video_ids": [
-      8115118
-    ],
-    "local_filenames": [],
-    "timestamp": "2026-08-08T03:17:06.311158"
-  },
-  {
     "title": "Understanding Dog Canine Water And Sweet Receptors",
     "topic": "Canine Water and Sweet Receptors",
     "script_content": "Dogs possess specialized taste buds specifically designed for detecting water and sweet flavors. This natural adaptation ensures they stay hydrated and energized. What is your dog's favorite treat?",
@@ -198,5 +188,15 @@
     ],
     "local_filenames": [],
     "timestamp": "2026-08-14T14:01:13.538282"
+  },
+  {
+    "title": "Understanding Dog Canine Rotary Gallop Biomechanics",
+    "topic": "Canine Rotary Gallop Biomechanics",
+    "script_content": "Your dog uses a special rotary gallop to sprint. Their spine flexes like a spring to propel every stride forward. How fast is your dog?",
+    "video_ids": [
+      19089752
+    ],
+    "local_filenames": [],
+    "timestamp": "2026-08-16T02:48:51.686709"
   }
 ]

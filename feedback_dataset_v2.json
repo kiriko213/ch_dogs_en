@@ -1,9 +1,9 @@
 {
   "feedback_version": 2,
-  "generated_at": "2026-08-14T13:35:55.298268Z",
+  "generated_at": "2026-08-16T02:46:34.568114Z",
   "channel": "ch_dogs_en",
   "metadata": {
-    "total_videos_analyzed": 40,
+    "total_videos_analyzed": 41,
     "analytics_api_available": true,
     "cgs_mode": "beta",
     "data_freshness_hours": 72,
@@ -13,7 +13,7 @@
     {
       "topic": "Frenetic Random Activity Periods",
       "category": "Behavior",
-      "cgs": 76.71,
+      "cgs": 76.61,
       "ctr": 1299.0,
       "apv": 61.6,
       "avd": 9.0,
@@ -22,85 +22,85 @@
     {
       "topic": "Canine Deep Sighing Meaning",
       "category": "Behavior",
-      "cgs": 74.91,
-      "ctr": 1057.0,
+      "cgs": 74.79,
+      "ctr": 1058.0,
       "apv": 69.73,
       "avd": 11.0,
       "views": 1052
     },
     {
+      "topic": "Canine Social Allogrooming",
+      "category": "Social Bonding",
+      "cgs": 72.67,
+      "ctr": 901.0,
+      "apv": 61.809999999999995,
+      "avd": 10.0,
+      "views": 906
+    },
+    {
       "topic": "Canine Stomach Acid pH",
       "category": "Health",
-      "cgs": 72.56,
-      "ctr": 1168.0,
-      "apv": 64.97,
+      "cgs": 72.4,
+      "ctr": 1171.0,
+      "apv": 64.93,
       "avd": 9.0,
       "views": 1154
     },
     {
       "topic": "Canine Starch Digestion",
       "category": "Evolution",
-      "cgs": 72.34,
-      "ctr": 799.0,
-      "apv": 65.62,
+      "cgs": 72.31,
+      "ctr": 810.0,
+      "apv": 65.8,
       "avd": 9.0,
       "views": 799
-    },
-    {
-      "topic": "Canine REM Sleep Dynamics",
-      "category": "Sleep",
-      "cgs": 72.18,
-      "ctr": 805.0,
-      "apv": 67.27,
-      "avd": 9.0,
-      "views": 808
     }
   ],
   "losing_topics": [
     {
+      "topic": "Grape Toxicity in Canine Nutrition",
+      "category": "Nutrition",
+      "cgs": 51.44,
+      "ctr": 75.0,
+      "apv": 45.33,
+      "avd": 6.0,
+      "views": 75
+    },
+    {
+      "topic": "Canine Play Bow Communication",
+      "category": "Body Language",
+      "cgs": 45.13,
+      "ctr": 42.0,
+      "apv": 34.41,
+      "avd": 5.0,
+      "views": 42
+    },
+    {
       "topic": "Canine Paw Pad Thermoregulation",
       "category": "Physiology",
-      "cgs": 43.71,
+      "cgs": 43.6,
       "ctr": 10.0,
       "apv": 44.51,
       "avd": 7.0,
       "views": 10
     },
     {
-      "topic": "Canine Nesting Digging Instinct",
-      "category": "Instinct",
-      "cgs": 39.39,
-      "ctr": null,
-      "apv": null,
-      "avd": null,
-      "views": 748
-    },
-    {
-      "topic": "Canine Skin Elasticity Hydration Test",
-      "category": "Health",
-      "cgs": 29.45,
-      "ctr": null,
-      "apv": null,
-      "avd": null,
-      "views": 394
-    },
-    {
-      "topic": "Canine Paw Preference Ambidexterity",
-      "category": "Motor Control",
-      "cgs": 27.78,
-      "ctr": null,
-      "apv": null,
-      "avd": null,
-      "views": 338
-    },
-    {
       "topic": "Canine Colostrum Antibody Transfer",
       "category": "Immunology",
-      "cgs": 10.0,
+      "cgs": 34.83,
       "ctr": null,
       "apv": null,
       "avd": null,
-      "views": 0
+      "views": 303
+    },
+    {
+      "topic": "Canine Masticatory Safety",
+      "category": "Care",
+      "cgs": 13.5,
+      "ctr": null,
+      "apv": null,
+      "avd": null,
+      "views": 101
     }
   ],
   "winning_title_patterns": [
@@ -126,12 +126,12 @@
   "winning_hook_patterns": [],
   "toxic_combinations": [],
   "growth_signals": {
-    "total_subscribers_gained": 30,
+    "total_subscribers_gained": 36,
     "growth_trend": "growing"
   },
   "exploration_ratio": {
     "reinforce_pct": 80,
     "explore_pct": 20,
-    "adjusted_by": "low_cgs_average_41.6"
+    "adjusted_by": "low_cgs_average_40.3"
   }
 }

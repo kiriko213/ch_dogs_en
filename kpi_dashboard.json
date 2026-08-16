@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-08-14T14:01:13.542521Z",
+  "generated_at": "2026-08-16T02:48:51.706454Z",
   "kpis": {
-    "uploads": 40,
-    "views": 22000,
-    "ctr_average": 534.09,
-    "apv_average": 61.23,
-    "subscribers_gained": 30,
-    "cgs_average": 58.83,
+    "uploads": 41,
+    "views": 22508,
+    "ctr_average": 568.54,
+    "apv_average": 61.33,
+    "subscribers_gained": 36,
+    "cgs_average": 61.66,
     "top_topics": [
       "Frenetic Random Activity Periods",
       "Canine Deep Sighing Meaning",
-      "Canine Stomach Acid pH"
+      "Canine Social Allogrooming"
     ],
     "top_titles": [
       "The Truth About Dog Noses",
@@ -19,11 +19,11 @@
     ]
   },
   "production_metrics": {
-    "success_rate_percent": 81.63,
-    "failure_rate_percent": 18.37,
-    "retry_rate_percent": 4.08,
-    "upload_latency_seconds": 5.15,
-    "generation_latency_seconds": 95.13
+    "success_rate_percent": 82.0,
+    "failure_rate_percent": 18.0,
+    "retry_rate_percent": 4.0,
+    "upload_latency_seconds": 5.11,
+    "generation_latency_seconds": 96.21
   },
   "warnings": []
 }
