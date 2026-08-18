@@ -1,15 +1,5 @@
 [
   {
-    "title": "Understanding Dog Canine Water And Sweet Receptors",
-    "topic": "Canine Water and Sweet Receptors",
-    "script_content": "Dogs possess specialized taste buds specifically designed for detecting water and sweet flavors. This natural adaptation ensures they stay hydrated and energized. What is your dog's favorite treat?",
-    "video_ids": [
-      11256762
-    ],
-    "local_filenames": [],
-    "timestamp": "2026-08-08T05:57:52.965040"
-  },
-  {
     "title": "Why Your Dog Canine Dichromatic Color Vision",
     "topic": "Canine Dichromatic Color Vision",
     "script_content": "Dogs do not see only in black and white. Their eyes process vibrant shades of blue and yellow across their environment. Does your dog love blue toys?",
@@ -198,5 +188,15 @@
     ],
     "local_filenames": [],
     "timestamp": "2026-08-16T02:48:51.686709"
+  },
+  {
+    "title": "Understanding Dog Canine Vestigial Clavicle",
+    "topic": "Canine Vestigial Clavicle",
+    "script_content": "Dogs actually lack a true collarbone. Their shoulder blades attach purely through flexible muscles to dramatically increase running stride length. Have you seen your dog sprint?",
+    "video_ids": [
+      38087082
+    ],
+    "local_filenames": [],
+    "timestamp": "2026-08-18T02:43:38.521571"
   }
 ]
