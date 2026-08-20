@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T02:40:41.549001Z",
+  "generated_at": "2026-08-20T02:43:05.262663Z",
   "top_candidates": [
     {
       "topic": "Frenetic Random Activity Periods",
@@ -12,13 +12,8 @@
       "category": "dog_facts"
     },
     {
-      "topic": "Canine Stomach Acid pH",
-      "score": 74,
-      "category": "dog_facts"
-    },
-    {
       "topic": "Canine Starch Digestion",
-      "score": 70,
+      "score": 74,
       "category": "dog_facts"
     },
     {
@@ -50,6 +45,11 @@
       "topic": "dog life hacks",
       "score": 64,
       "category": "dog_owner_tips"
+    },
+    {
+      "topic": "Canine REM Sleep Dynamics",
+      "score": 64,
+      "category": "dog_health"
     }
   ]
 }
