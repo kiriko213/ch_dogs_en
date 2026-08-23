@@ -1,7 +1,7 @@
 {
   "channel": "ch_dogs_en",
   "schema_version": 2,
-  "updated_at": "2026-08-20T02:46:32.983087Z",
+  "updated_at": "2026-08-23T02:51:29.351646Z",
   "items": [
     {
       "topic": "Dog episodic memory",
@@ -1214,6 +1214,56 @@
       ],
       "local_filenames": [],
       "scheduled_for": "2026-08-20T19:00:00Z"
+    },
+    {
+      "topic": "Canine Digitigrade Locomotion",
+      "title": "The Fascinating Reason Dogs Walk on Toes",
+      "hook_framework": "Secret Meaning",
+      "script": "Dogs naturally walk on toes instead of heels. This digitigrade design maximizes sprinting speed and absorbs ground impact. Does your dog run super fast?",
+      "video_search_query": "dog running grass",
+      "category": "Anatomy",
+      "subtopic": "Locomotion",
+      "unique_fact": "Dogs are digitigrades, meaning their anatomical ankles and heels never touch the ground during movement.",
+      "angle": "Biomechanics",
+      "region": "Global",
+      "development_stage": "Adult",
+      "search_query": "dog running grass",
+      "id": "aq_1787453401_0",
+      "status": "uploaded",
+      "locked_at": "2026-08-23T02:50:01.564728Z",
+      "used_at": "2026-08-23T02:51:29.351101Z",
+      "video_id": "VvRtV-l5nTM",
+      "hook_score": 10.0,
+      "hook_title_score": 20,
+      "hook_opening_score": 0,
+      "video_ids": [
+        35172441
+      ],
+      "local_filenames": [],
+      "scheduled_for": "2026-08-23T19:00:00Z"
+    },
+    {
+      "topic": "Canine Panting Evaporative Cooling",
+      "title": "Understanding Dog Canine Panting Evaporative Cooling",
+      "hook_framework": "Warning",
+      "script": "Dogs cool themselves using tongue moisture instead of sweat. Heavy panting without fresh water quickly causes thermal strain. Does your dog drink enough water?",
+      "video_search_query": "dog panting water",
+      "category": "Behavior",
+      "subtopic": "Thermoregulation",
+      "unique_fact": "Panting circulates air over moist surfaces of the tongue and upper respiratory tract to dissipate core heat.",
+      "angle": "Health",
+      "region": "Global",
+      "development_stage": "Adult",
+      "search_query": "dog panting water",
+      "id": "aq_1787453401_1",
+      "status": "pending",
+      "locked_at": null,
+      "used_at": null,
+      "video_id": null,
+      "original_title": "What Your Dog's Panting Really Means",
+      "hook_score": 0.0,
+      "hook_title_score": 0,
+      "hook_opening_score": 0
     }
   ]
 }

@@ -1,67 +1,67 @@
 {
   "feedback_version": 1,
-  "generated_at": "2026-08-20T02:43:04.374914Z",
+  "generated_at": "2026-08-23T02:48:43.626165Z",
   "top_topics": [
+    {
+      "topic": "Canine Erythrocyte Antigen System",
+      "category": "Biology",
+      "score": 58.47,
+      "views": 1018
+    },
     {
       "topic": "Canine Social Allogrooming",
       "category": "Social Bonding",
-      "score": 59.2,
+      "score": 57.49,
       "views": 907
     },
     {
       "topic": "Canine Heartbeat Synchronization",
       "category": "Psychology",
-      "score": 57.11,
+      "score": 56.11,
       "views": 1336
-    },
-    {
-      "topic": "Canine Deep Sighing Meaning",
-      "category": "Behavior",
-      "score": 54.39,
-      "views": 1052
     },
     {
       "topic": "Dog Paddle Biomechanics",
       "category": "Locomotion",
-      "score": 54.03,
-      "views": 1302
+      "score": 54.85,
+      "views": 1303
     },
     {
-      "topic": "Canine Stomach Acid pH",
-      "category": "Health",
-      "score": 52.86,
-      "views": 1154
+      "topic": "Canine Deep Sighing Meaning",
+      "category": "Behavior",
+      "score": 52.85,
+      "views": 1052
     }
   ],
   "underperforming_topics": [
     {
-      "topic": "Dog vocal communication",
-      "category": "default",
-      "score": 12.06,
-      "views": 271
+      "topic": "Canine Vestigial Clavicle",
+      "category": "Anatomy",
+      "score": 11.07,
+      "views": 67
     },
     {
       "topic": "Canine Masticatory Safety",
       "category": "Care",
-      "score": 11.98,
+      "score": 10.77,
       "views": 101
     },
     {
       "topic": "Canine Permanent Dental Structure",
       "category": "Anatomy",
-      "score": 6.71,
+      "score": 6.03,
       "views": 57
     },
     {
       "topic": "Canine Play Bow Communication",
       "category": "Body Language",
-      "score": 5.99,
+      "score": 5.35,
       "views": 42
     },
     {
       "topic": "Canine Paw Pad Thermoregulation",
       "category": "Physiology",
-      "score": 4.71,
+      "score": 4.1,
       "views": 10
     }
   ]
