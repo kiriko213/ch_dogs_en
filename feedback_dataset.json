@@ -1,67 +1,67 @@
 {
   "feedback_version": 1,
-  "generated_at": "2026-08-23T02:48:43.626165Z",
+  "generated_at": "2026-08-23T12:59:14.765094Z",
   "top_topics": [
     {
       "topic": "Canine Erythrocyte Antigen System",
       "category": "Biology",
-      "score": 58.47,
-      "views": 1018
+      "score": 59.16,
+      "views": 1020
     },
     {
       "topic": "Canine Social Allogrooming",
       "category": "Social Bonding",
-      "score": 57.49,
+      "score": 58.1,
       "views": 907
     },
     {
       "topic": "Canine Heartbeat Synchronization",
       "category": "Psychology",
-      "score": 56.11,
+      "score": 55.98,
       "views": 1336
     },
     {
       "topic": "Dog Paddle Biomechanics",
       "category": "Locomotion",
-      "score": 54.85,
+      "score": 54.76,
       "views": 1303
     },
     {
       "topic": "Canine Deep Sighing Meaning",
       "category": "Behavior",
-      "score": 52.85,
+      "score": 53.62,
       "views": 1052
     }
   ],
   "underperforming_topics": [
     {
-      "topic": "Canine Vestigial Clavicle",
-      "category": "Anatomy",
-      "score": 11.07,
-      "views": 67
-    },
-    {
       "topic": "Canine Masticatory Safety",
       "category": "Care",
-      "score": 10.77,
+      "score": 10.71,
       "views": 101
+    },
+    {
+      "topic": "Canine Digitigrade Locomotion",
+      "category": "Anatomy",
+      "score": 10.0,
+      "views": 0
     },
     {
       "topic": "Canine Permanent Dental Structure",
       "category": "Anatomy",
-      "score": 6.03,
+      "score": 6.0,
       "views": 57
     },
     {
       "topic": "Canine Play Bow Communication",
       "category": "Body Language",
-      "score": 5.35,
+      "score": 5.3,
       "views": 42
     },
     {
       "topic": "Canine Paw Pad Thermoregulation",
       "category": "Physiology",
-      "score": 4.1,
+      "score": 4.03,
       "views": 10
     }
   ]
