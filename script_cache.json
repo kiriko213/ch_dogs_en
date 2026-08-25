@@ -1,7 +1,7 @@
 {
   "channel": "ch_dogs_en",
   "schema_version": 2,
-  "updated_at": "2026-08-23T13:02:43.681819Z",
+  "updated_at": "2026-08-25T02:47:41.951966Z",
   "items": [
     {
       "topic": "Dog episodic memory",
@@ -1271,49 +1271,31 @@
       "scheduled_for": "2026-08-23T19:00:00Z"
     },
     {
-      "topic": "Canine Photoperiod Coat Shedding",
-      "title": "Why Your Dog Canine Photoperiod Coat Shedding",
-      "hook_framework": "Problem & Solution",
-      "script": "Heavy indoor shedding creates frustrating fur buildup everywhere. Daily natural sunlight exposure helps regulate their seasonal coat release cycle. How much does your dog shed?",
-      "video_search_query": "dog brushing fur",
-      "category": "Dermatology",
-      "subtopic": "Seasonality",
-      "unique_fact": "Seasonal shedding cycles in dogs are regulated primarily by daylight changes rather than ambient temperature",
-      "angle": "Action",
-      "region": "Global",
-      "development_stage": "Adult",
-      "search_query": "dog brushing fur",
-      "id": "aq_1787490062_1",
-      "status": "pending",
-      "locked_at": null,
-      "used_at": null,
-      "video_id": null,
-      "original_title": "Why You Should Brush During Shedding",
-      "hook_score": 10.0,
-      "hook_title_score": 20,
-      "hook_opening_score": 0
-    },
-    {
-      "topic": "Canine Fatty Acid Aerobic Metabolism",
-      "title": "Why You Should Feed Healthy Fats",
+      "topic": "Canine Numerical Competence",
+      "title": "The Fascinating Reason Dogs Count",
       "hook_framework": "Warning",
-      "script": "Dogs burn dietary fat as primary fuel rather than carbohydrates. Low fat levels can quickly drain your dog of stamina. What does your dog eat?",
-      "video_search_query": "dog eating food",
-      "category": "Metabolism",
-      "subtopic": "Cellular Energy",
-      "unique_fact": "Canines derive the majority of their cellular aerobic endurance energy from fat oxidation",
-      "angle": "Action",
+      "script": "Dogs actually notice when small treat quantities change during mealtime. Their sharp numerical sense easily tracks basic amounts throughout the day. Is your dog smart?",
+      "video_search_query": "dog treat training",
+      "category": "Cognition",
+      "subtopic": "Intelligence",
+      "unique_fact": "Dogs possess an innate approximate number system that allows them to spontaneously discriminate between differing quantities of food items.",
+      "angle": "Science",
       "region": "Global",
       "development_stage": "Adult",
-      "search_query": "dog eating food",
-      "id": "aq_1787490062_2",
-      "status": "pending",
-      "locked_at": null,
-      "used_at": null,
-      "video_id": null,
+      "search_query": "dog treat training",
+      "id": "aq_1787625956_0",
+      "status": "uploaded",
+      "locked_at": "2026-08-25T02:45:56.558404Z",
+      "used_at": "2026-08-25T02:47:41.951609Z",
+      "video_id": "qeoBfOtvnIQ",
       "hook_score": 10.0,
       "hook_title_score": 20,
-      "hook_opening_score": 0
+      "hook_opening_score": 0,
+      "video_ids": [
+        27808232
+      ],
+      "local_filenames": [],
+      "scheduled_for": "2026-08-25T19:00:00Z"
     }
   ]
 }

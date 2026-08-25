@@ -1,15 +1,5 @@
 [
   {
-    "title": "The Fascinating Reason Dogs Eat Bones",
-    "topic": "Canine Stomach Acid pH",
-    "script_content": "Your dog has powerful stomach acid dissolving bone tissue easily. This high acidity protects their system from bacteria. What does your dog chew on?",
-    "video_ids": [
-      35605537
-    ],
-    "local_filenames": [],
-    "timestamp": "2026-08-09T13:16:50.597699"
-  },
-  {
     "title": "Understanding Dog Canine Double Coat Thermal Insulation",
     "topic": "Canine Double Coat Thermal Insulation",
     "script_content": "A double coat insulates warmth. Surprisingly, this layer also traps cool air, protecting dogs from extreme summer heat as well. Does your dog shed much?",
@@ -198,5 +188,15 @@
     ],
     "local_filenames": [],
     "timestamp": "2026-08-23T13:02:43.681281"
+  },
+  {
+    "title": "The Fascinating Reason Dogs Count",
+    "topic": "Canine Numerical Competence",
+    "script_content": "Dogs actually notice when small treat quantities change during mealtime. Their sharp numerical sense easily tracks basic amounts throughout the day. Is your dog smart?",
+    "video_ids": [
+      27808232
+    ],
+    "local_filenames": [],
+    "timestamp": "2026-08-25T02:47:41.951626"
   }
 ]
