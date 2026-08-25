@@ -139,25 +139,13 @@ def create_boxed_text_image(text, size=(1080, 1920), fontsize=55, is_ja_channel=
         if current_line:
             lines.append(current_line)
     
-    line_heights = [draw.textbbox((0, 0), l, font=font)[3] - draw.textbbox((0, 0), l, font=font)[1] for l in lines]
-    total_text_height = sum(line_heights) + 25 * (len(lines) - 1)
-    box_width = 900
-    box_height = total_text_height + 120
-    
-    box_x = (size[0] - box_width) // 2
-    box_y = (size[1] - box_height) // 2
-    overlay = Image.new('RGBA', size, (0, 0, 0, 0))
-    overlay_draw = ImageDraw.Draw(overlay)
-    overlay_draw.rounded_rectangle([box_x, box_y, box_x + box_width, box_y + box_height], radius=30, fill=(30, 20, 10, 180))
-    img = Image.alpha_composite(img, overlay)
-    draw = ImageDraw.Draw(img)
-    
-    current_y = box_y + 60
+    line_spacing = 30
+    current_y = int(size[1] * 0.18)
     for line in lines:
         w = draw.textbbox((0, 0), line, font=font)[2]
         x = (size[0] - w) // 2
-        draw.text((x, current_y), line, font=font, fill=(255, 255, 255))
-        current_y += draw.textbbox((0, 0), line, font=font)[3] - draw.textbbox((0, 0), line, font=font)[1] + 25
+        draw.text((x, current_y), line, font=font, fill=(255, 255, 255), stroke_width=4, stroke_fill=(0, 0, 0))
+        current_y += draw.textbbox((0, 0), line, font=font)[3] - draw.textbbox((0, 0), line, font=font)[1] + line_spacing
         
     return img
 
