@@ -648,10 +648,15 @@ async def fetch_best_visual(query, api_key, profile_key=".", work_dir="."):
 
             # 上位候補をランダム順で1本ずつ検証し、DOGと判定されたもののみ採用
             shuffled_candidates = random.sample(top_candidates, len(top_candidates))
-            for cand in shuffled_candidates:
+            for cand_idx, cand in enumerate(shuffled_candidates):
                 cand_video, cand_files, cand_score = cand
                 cand_id = cand_video.get('id')
                 cand_thumb = cand_video.get('image')
+                
+                # 5 RPM 制限対策: 候補切り替え時（2本目以降のVision判定前）に待機
+                if cand_idx > 0 and vision_configured and cand_thumb:
+                    print(f"[VISION_GUARD] Rate guard: waiting 13s before checking candidate {cand_idx + 1}...")
+                    time.sleep(13)
                 
                 is_dog_confirmed = False
                 if vision_configured and cand_thumb:
@@ -674,7 +679,13 @@ async def fetch_best_visual(query, api_key, profile_key=".", work_dir="."):
                         else:
                             print(f"[VISION_GUARD] Video ID {cand_id} REJECTED (non-dog): {v_ans}")
                     except Exception as v_err:
+                        err_str = str(v_err)
                         print(f"[VISION_GUARD_WARN] Video ID {cand_id} Vision check failed: {v_err}")
+                        if "429" in err_str or "resource_exhausted" in err_str.lower() or "quota" in err_str.lower():
+                            match = re.search(r'retry\s*(?:after|in)?\s*[:\s]*(\d+(?:\.\d+)?)\s*s', err_str, re.IGNORECASE)
+                            wait_sec = int(float(match.group(1))) + 2 if match else 20
+                            print(f"[VISION_GUARD_WAIT] Rate limited (429). Waiting {wait_sec}s...")
+                            time.sleep(wait_sec)
                 else:
                     print(f"[VISION_GUARD_WARN] Vision guard unconfigured or thumbnail missing for Video ID {cand_id}")
 

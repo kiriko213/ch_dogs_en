@@ -367,6 +367,9 @@ def generate_viral_scripts_batch(topic="health", api_key=None, batch_size=5, lan
             retry_count += 1
             print(f"[GENERATION_GUARD] Batch incomplete ({len(valid_items)}/{batch_size}). Replenishing {needed_count} items (Attempt {retry_count}/{max_retries})...")
             
+            # 5 RPM 制限対策: 補充リクエスト間の待機時間 (13秒)
+            time.sleep(13)
+            
             # 禁止する既存コンセプト（過去 + 現在バッチ）の一覧をプロンプト用に結合
             forbidden_list = sorted(list(uploaded_concepts.union(seen_batch_concepts)))
             forbidden_instr = ""
@@ -468,7 +471,14 @@ def generate_viral_scripts_batch(topic="health", api_key=None, batch_size=5, lan
                         if item_framework:
                             seen_hook_frameworks.add(item_framework.strip().lower())
             except Exception as retry_err:
+                err_str = str(retry_err)
                 print(f"[GENERATION_GUARD_WARN] Retry attempt {retry_count} failed: {retry_err}")
+                if "429" in err_str or "resource_exhausted" in err_str.lower() or "quota" in err_str.lower():
+                    import re as _re_err
+                    match = _re_err.search(r'retry\s*(?:after|in)?\s*[:\s]*(\d+(?:\.\d+)?)\s*s', err_str, _re_err.IGNORECASE)
+                    wait_sec = int(float(match.group(1))) + 2 if match else 20
+                    print(f"[GENERATION_GUARD_WAIT] Rate limited (429). Waiting {wait_sec}s...")
+                    time.sleep(wait_sec)
                 
         if len(valid_items) < batch_size:
             print(f"[GENERATION_GUARD_WARN] Could not replenish to full batch size {batch_size}. Proceeding with {len(valid_items)} valid items.")

@@ -452,7 +452,14 @@ async def run_auto_post(work_dir=".", topic=None):
                             if len(pending_items) == 0:
                                 print("FATAL: Cache is empty and Gemini generation failed. Aborting safely.")
                                 sys.exit(0)
-                        await asyncio.sleep(2)
+                        # 5 RPM 制限対策 & 429 retry_delay 尊重
+                        retry_delay = 15
+                        err_str = str(gen_err)
+                        match = re.search(r'retry\s*(?:after|in)?\s*[:\s]*(\d+(?:\.\d+)?)\s*s', err_str, re.IGNORECASE)
+                        if match:
+                            retry_delay = max(retry_delay, int(float(match.group(1))) + 2)
+                        print(f"[RETRY_WAIT] Rate guard: waiting {retry_delay}s before attempt {gen_attempt + 1}...")
+                        await asyncio.sleep(retry_delay)
 
                 generation_latency = time.time() - gen_start_time
                 
