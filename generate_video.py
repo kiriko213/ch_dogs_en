@@ -606,10 +606,85 @@ async def fetch_best_visual(query, api_key, profile_key=".", work_dir="."):
         # 高品質スライス（上位15候補）を作成
         top_candidates = valid_candidates[:15]
         
-        # 必要な本数分、高品質スライスからランダムにサンプリングして順序をランダム化する
+        # 必要な本数分、高品質スライスからランダム順にGemini Visionで犬判定を行い採用する
+        selected_candidates = []
         if len(top_candidates) >= required_count:
-            selected_candidates = random.sample(top_candidates, required_count)
-            for idx in range(required_count):
+            import io
+            import google.generativeai as genai
+            
+            # Gemini API の初期化（既存認証方式の再利用）
+            vision_configured = False
+            try:
+                service_account_str = os.environ.get("GEMINI_SERVICE_ACCOUNT")
+                credentials = None
+                if service_account_str:
+                    try:
+                        info = json.loads(service_account_str)
+                        from google.oauth2 import service_account
+                        credentials = service_account.Credentials.from_service_account_info(info)
+                    except Exception:
+                        if os.path.exists(service_account_str):
+                            try:
+                                from google.oauth2 import service_account
+                                credentials = service_account.Credentials.from_service_account_file(service_account_str)
+                            except Exception:
+                                pass
+                if credentials:
+                    genai.configure(credentials=credentials)
+                    vision_configured = True
+                else:
+                    gemini_key = (
+                        os.environ.get(profile_cfg.get("gemini_api_key_env_name", ""))
+                        or os.environ.get("GEMINI_API_KEY_DOGS_EN")
+                        or os.environ.get("GEMINI_API_KEY")
+                        or os.environ.get("GEMINI_KEY")
+                        or profile_cfg.get("gemini_api_key")
+                    )
+                    if gemini_key and gemini_key != "REDACTED_API_KEY":
+                        genai.configure(api_key=gemini_key)
+                        vision_configured = True
+            except Exception as conf_err:
+                print(f"[VISION_GUARD_WARN] Gemini configure failed: {conf_err}")
+
+            # 上位候補をランダム順で1本ずつ検証し、DOGと判定されたもののみ採用
+            shuffled_candidates = random.sample(top_candidates, len(top_candidates))
+            for cand in shuffled_candidates:
+                cand_video, cand_files, cand_score = cand
+                cand_id = cand_video.get('id')
+                cand_thumb = cand_video.get('image')
+                
+                is_dog_confirmed = False
+                if vision_configured and cand_thumb:
+                    try:
+                        img_res = requests.get(cand_thumb, timeout=5)
+                        img_res.raise_for_status()
+                        img_obj = Image.open(io.BytesIO(img_res.content))
+                        
+                        v_model = genai.GenerativeModel('gemini-flash-latest')
+                        v_prompt = (
+                            "Identify the primary subject in this image. Is it a dog, a cat, or other? "
+                            "Reply with only one word: DOG, CAT, or OTHER."
+                        )
+                        v_resp = v_model.generate_content([v_prompt, img_obj])
+                        v_ans = v_resp.text.strip().upper()
+                        
+                        if "DOG" in v_ans and "CAT" not in v_ans:
+                            print(f"[VISION_GUARD] Video ID {cand_id} PASSED: {v_ans}")
+                            is_dog_confirmed = True
+                        else:
+                            print(f"[VISION_GUARD] Video ID {cand_id} REJECTED (non-dog): {v_ans}")
+                    except Exception as v_err:
+                        print(f"[VISION_GUARD_WARN] Video ID {cand_id} Vision check failed: {v_err}")
+                else:
+                    print(f"[VISION_GUARD_WARN] Vision guard unconfigured or thumbnail missing for Video ID {cand_id}")
+
+                if is_dog_confirmed:
+                    selected_candidates.append(cand)
+                    if len(selected_candidates) == required_count:
+                        break
+
+            # 採用された候補のダウンロード実行
+            for idx in range(len(selected_candidates)):
                 selected_video, selected_files, qsm_score = selected_candidates[idx]
                 video_id = selected_video.get('id')
                 best_file = selected_files[0]
