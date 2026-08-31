@@ -1,15 +1,5 @@
 [
   {
-    "title": "Understanding Dog Canine Double Coat Thermal Insulation",
-    "topic": "Canine Double Coat Thermal Insulation",
-    "script_content": "A double coat insulates warmth. Surprisingly, this layer also traps cool air, protecting dogs from extreme summer heat as well. Does your dog shed much?",
-    "video_ids": [
-      32447608
-    ],
-    "local_filenames": [],
-    "timestamp": "2026-08-10T03:33:10.920200"
-  },
-  {
     "title": "Why You Should Add Water With Dog Food",
     "topic": "Canine Dietary Kibble Hydration",
     "script_content": "Adding warm water to dry food enhances aroma and aids digestion. Moisture prevents stomach bloat while improving nutrient absorption. Do you hydrate your dog's meal?",
@@ -198,5 +188,15 @@
     ],
     "local_filenames": [],
     "timestamp": "2026-08-25T02:47:41.951626"
+  },
+  {
+    "title": "Why Your Dog Canine Piloerection Reflex",
+    "topic": "Canine Piloerection Reflex",
+    "script_content": "Raised back fur does not mean aggression. An involuntary adrenaline surge lifts dog hackles during surprise or intense excitement. Does your dog ever raise hackles?",
+    "video_ids": [
+      27927178
+    ],
+    "local_filenames": [],
+    "timestamp": "2026-08-31T07:47:05.131510"
   }
 ]

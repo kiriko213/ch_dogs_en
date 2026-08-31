@@ -1,67 +1,67 @@
 {
   "feedback_version": 1,
-  "generated_at": "2026-08-25T02:44:37.559235Z",
+  "generated_at": "2026-08-31T07:34:59.433431Z",
   "top_topics": [
-    {
-      "topic": "Canine Erythrocyte Antigen System",
-      "category": "Biology",
-      "score": 57.48,
-      "views": 1022
-    },
     {
       "topic": "Canine Social Allogrooming",
       "category": "Social Bonding",
-      "score": 56.74,
+      "score": 55.18,
       "views": 907
+    },
+    {
+      "topic": "Canine Erythrocyte Antigen System",
+      "category": "Biology",
+      "score": 55.08,
+      "views": 1023
     },
     {
       "topic": "Canine Heartbeat Synchronization",
       "category": "Psychology",
-      "score": 55.53,
+      "score": 54.03,
       "views": 1336
     },
     {
       "topic": "Dog Paddle Biomechanics",
       "category": "Locomotion",
-      "score": 54.44,
+      "score": 53.38,
       "views": 1303
     },
     {
       "topic": "Canine Deep Sighing Meaning",
       "category": "Behavior",
-      "score": 52.25,
+      "score": 51.12,
       "views": 1052
     }
   ],
   "underperforming_topics": [
     {
-      "topic": "Canine Vestigial Clavicle",
-      "category": "Anatomy",
-      "score": 10.25,
-      "views": 67
-    },
-    {
       "topic": "Canine Masticatory Safety",
       "category": "Care",
-      "score": 10.09,
+      "score": 8.39,
       "views": 101
+    },
+    {
+      "topic": "Canine Vestigial Clavicle",
+      "category": "Anatomy",
+      "score": 8.18,
+      "views": 67
     },
     {
       "topic": "Canine Permanent Dental Structure",
       "category": "Anatomy",
-      "score": 5.65,
+      "score": 4.7,
       "views": 57
     },
     {
       "topic": "Canine Play Bow Communication",
       "category": "Body Language",
-      "score": 4.98,
-      "views": 42
+      "score": 4.11,
+      "views": 43
     },
     {
       "topic": "Canine Paw Pad Thermoregulation",
       "category": "Physiology",
-      "score": 3.75,
+      "score": 2.85,
       "views": 10
     }
   ]
