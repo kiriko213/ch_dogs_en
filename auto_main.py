@@ -377,19 +377,7 @@ async def run_auto_post(work_dir=".", topic=None):
         
         # pending（未使用）アイテムを集計
         pending_items = [item for item in cache_data.get("items", []) if item.get("status") == "pending"]
-        
-        # 本番環境（DRY_RUN以外の通常実行）では、手抜きキャッシュを強制バイパスして必ずGeminiから新規生成
-        is_dry_run = os.environ.get("DRY_RUN", "").strip().lower() == "true"
-        if not is_dry_run:
-            print("[FORCE_GENERATE] Production environment detected. Bypassing existing cache to force-generate new content via Gemini.")
-            # 永久防止策: 古い pending および failed のキャッシュアイテムをすべてパージしてゾンビの再利用を防ぐ
-            if "items" in cache_data:
-                original_count = len(cache_data["items"])
-                cache_data["items"] = [item for item in cache_data["items"] if item.get("status") in ["uploaded", "processing", "concept_blocked"]]
-                print(f"[CACHE_PURGE] Purged {original_count - len(cache_data['items'])} pending/failed items to prevent duplicate reuse.")
-                save_script_cache(cache_path, cache_data)
-            pending_items = []
-        
+
         # DRY_RUN かつ pending が無い場合、モックの台本を生成してテストを継続する
         if os.environ.get("DRY_RUN", "").strip().lower() == "true" and len(pending_items) == 0:
             print("[DRY_RUN] Generating a mock viral script item for End-to-End pipeline testing...")
