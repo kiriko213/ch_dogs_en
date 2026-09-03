@@ -610,10 +610,11 @@ async def fetch_best_visual(query, api_key, profile_key=".", work_dir="."):
         selected_candidates = []
         if len(top_candidates) >= required_count:
             import io
-            import google.generativeai as genai
+            from google import genai
+            from google.genai import types
             
-            # Gemini API の初期化（既存認証方式の再利用）
-            vision_configured = False
+            # Gemini API の初期化（新SDK google.genai を使用）
+            vision_client = None
             try:
                 service_account_str = os.environ.get("GEMINI_SERVICE_ACCOUNT")
                 credentials = None
@@ -630,19 +631,17 @@ async def fetch_best_visual(query, api_key, profile_key=".", work_dir="."):
                             except Exception:
                                 pass
                 if credentials:
-                    genai.configure(credentials=credentials)
-                    vision_configured = True
+                    vision_client = genai.Client(credentials=credentials, http_options={"api_version": "v1beta", "timeout": 30000})
                 else:
                     gemini_key = (
-                        os.environ.get(profile_cfg.get("gemini_api_key_env_name", ""))
-                        or os.environ.get("GEMINI_API_KEY_DOGS_EN")
-                        or os.environ.get("GEMINI_API_KEY")
+                        os.environ.get("GEMINI_API_KEY")
                         or os.environ.get("GEMINI_KEY")
+                        or os.environ.get(profile_cfg.get("gemini_api_key_env_name", ""))
+                        or os.environ.get("GEMINI_API_KEY_DOGS_EN")
                         or profile_cfg.get("gemini_api_key")
                     )
                     if gemini_key and gemini_key != "REDACTED_API_KEY":
-                        genai.configure(api_key=gemini_key)
-                        vision_configured = True
+                        vision_client = genai.Client(api_key=gemini_key, http_options={"api_version": "v1beta", "timeout": 30000})
             except Exception as conf_err:
                 print(f"[VISION_GUARD_WARN] Gemini configure failed: {conf_err}")
 
@@ -654,24 +653,26 @@ async def fetch_best_visual(query, api_key, profile_key=".", work_dir="."):
                 cand_thumb = cand_video.get('image')
                 
                 # 5 RPM 制限対策: 候補切り替え時（2本目以降のVision判定前）に待機
-                if cand_idx > 0 and vision_configured and cand_thumb:
+                if cand_idx > 0 and vision_client and cand_thumb:
                     print(f"[VISION_GUARD] Rate guard: waiting 13s before checking candidate {cand_idx + 1}...")
                     time.sleep(13)
                 
                 is_dog_confirmed = False
-                if vision_configured and cand_thumb:
+                if vision_client and cand_thumb:
                     try:
                         img_res = requests.get(cand_thumb, timeout=5)
                         img_res.raise_for_status()
                         img_obj = Image.open(io.BytesIO(img_res.content))
                         
-                        v_model = genai.GenerativeModel('gemini-flash-latest')
                         v_prompt = (
                             "Identify the primary subject in this image. Is it a dog, a cat, or other? "
                             "Reply with only one word: DOG, CAT, or OTHER."
                         )
-                        v_resp = v_model.generate_content([v_prompt, img_obj])
-                        v_ans = v_resp.text.strip().upper()
+                        v_resp = vision_client.models.generate_content(
+                            model="gemini-2.5-flash",
+                            contents=[v_prompt, img_obj]
+                        )
+                        v_ans = v_resp.text.strip().upper() if v_resp and v_resp.text else ""
                         
                         if "DOG" in v_ans and "CAT" not in v_ans:
                             print(f"[VISION_GUARD] Video ID {cand_id} PASSED: {v_ans}")
