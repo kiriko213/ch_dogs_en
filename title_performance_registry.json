@@ -1,15 +1,6 @@
 {
   "items": [
     {
-      "video_id": "rR_qYus7ivE",
-      "title": "The Truth About Dog Noses",
-      "ctr": 0.0,
-      "apv": 0.0,
-      "subscribers_gained": 0,
-      "performance_score": 0.0,
-      "recorded_at": "2026-06-20T13:05:32.611526Z"
-    },
-    {
       "video_id": "YLjPJ60-U7Q",
       "title": "Dog Episodic Memory's Deepest Secrets",
       "ctr": 0.0,
@@ -449,6 +440,15 @@
       "subscribers_gained": 0,
       "performance_score": 0.0,
       "recorded_at": "2026-08-31T07:47:05.134262Z"
+    },
+    {
+      "video_id": "jeADDTH8nqY",
+      "title": "Why Your Dog Canine Gorge Feeding Elasticity",
+      "ctr": 0.0,
+      "apv": 0.0,
+      "subscribers_gained": 0,
+      "performance_score": 0.0,
+      "recorded_at": "2026-09-07T13:02:43.934170Z"
     }
   ]
 }

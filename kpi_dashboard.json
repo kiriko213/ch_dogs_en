@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-08-31T07:47:05.136072Z",
+  "generated_at": "2026-09-07T13:02:43.936152Z",
   "kpis": {
-    "uploads": 47,
-    "views": 25799,
-    "ctr_average": 548.94,
-    "apv_average": 60.03,
-    "subscribers_gained": 40,
-    "cgs_average": 62.16,
+    "uploads": 48,
+    "views": 26387,
+    "ctr_average": 549.77,
+    "apv_average": 60.3,
+    "subscribers_gained": 43,
+    "cgs_average": 62.21,
     "top_topics": [
+      "Canine Piloerection Reflex",
       "Frenetic Random Activity Periods",
-      "Canine Deep Sighing Meaning",
-      "Canine Starch Digestion"
+      "Canine Deep Sighing Meaning"
     ],
     "top_titles": [
-      "The Truth About Dog Noses",
       "Dog Episodic Memory's Deepest Secrets",
-      "This Dog Vocal Communication Will Shock You"
+      "This Dog Vocal Communication Will Shock You",
+      "5 Secrets of Canine Hearing Abilities"
     ]
   },
   "production_metrics": {
-    "success_rate_percent": 83.93,
-    "failure_rate_percent": 16.07,
-    "retry_rate_percent": 3.57,
-    "upload_latency_seconds": 4.76,
-    "generation_latency_seconds": 173.89
+    "success_rate_percent": 84.21,
+    "failure_rate_percent": 15.79,
+    "retry_rate_percent": 3.51,
+    "upload_latency_seconds": 4.85,
+    "generation_latency_seconds": 86.91
   },
   "warnings": []
 }

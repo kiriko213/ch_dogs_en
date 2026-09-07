@@ -1,9 +1,9 @@
 {
   "feedback_version": 2,
-  "generated_at": "2026-08-31T07:35:00.490128Z",
+  "generated_at": "2026-09-07T13:01:11.748105Z",
   "channel": "ch_dogs_en",
   "metadata": {
-    "total_videos_analyzed": 47,
+    "total_videos_analyzed": 48,
     "analytics_api_available": true,
     "cgs_mode": "beta",
     "data_freshness_hours": 72,
@@ -11,9 +11,18 @@
   },
   "winning_topics": [
     {
+      "topic": "Canine Piloerection Reflex",
+      "category": "Dermatology",
+      "cgs": 78.16,
+      "ctr": 585.0,
+      "apv": 74.5,
+      "avd": 11.0,
+      "views": 580
+    },
+    {
       "topic": "Frenetic Random Activity Periods",
       "category": "Behavior",
-      "cgs": 75.94,
+      "cgs": 75.75,
       "ctr": 1299.0,
       "apv": 61.6,
       "avd": 9.0,
@@ -22,16 +31,16 @@
     {
       "topic": "Canine Deep Sighing Meaning",
       "category": "Behavior",
-      "cgs": 73.9,
+      "cgs": 73.66,
       "ctr": 1052.0,
       "apv": 69.66,
       "avd": 11.0,
-      "views": 1052
+      "views": 1053
     },
     {
       "topic": "Canine Starch Digestion",
       "category": "Evolution",
-      "cgs": 71.49,
+      "cgs": 71.28,
       "ctr": 799.0,
       "apv": 65.62,
       "avd": 9.0,
@@ -40,27 +49,18 @@
     {
       "topic": "Canine REM Sleep Dynamics",
       "category": "Sleep",
-      "cgs": 71.45,
+      "cgs": 71.25,
       "ctr": 808.0,
       "apv": 67.44,
       "avd": 9.0,
       "views": 808
-    },
-    {
-      "topic": "Canine Social Allogrooming",
-      "category": "Social Bonding",
-      "cgs": 71.43,
-      "ctr": 907.0,
-      "apv": 61.7,
-      "avd": 10.0,
-      "views": 907
     }
   ],
   "losing_topics": [
     {
       "topic": "Canine Permanent Dental Structure",
       "category": "Anatomy",
-      "cgs": 52.81,
+      "cgs": 52.62,
       "ctr": 57.0,
       "apv": 55.7,
       "avd": 7.0,
@@ -69,7 +69,7 @@
     {
       "topic": "Grape Toxicity in Canine Nutrition",
       "category": "Nutrition",
-      "cgs": 50.77,
+      "cgs": 50.59,
       "ctr": 75.0,
       "apv": 45.33,
       "avd": 6.0,
@@ -78,7 +78,7 @@
     {
       "topic": "Canine Play Bow Communication",
       "category": "Body Language",
-      "cgs": 47.63,
+      "cgs": 47.44,
       "ctr": 43.0,
       "apv": 42.95,
       "avd": 7.0,
@@ -87,7 +87,7 @@
     {
       "topic": "Canine Vestigial Clavicle",
       "category": "Anatomy",
-      "cgs": 46.73,
+      "cgs": 46.29,
       "ctr": 67.0,
       "apv": 37.82,
       "avd": 6.0,
@@ -96,7 +96,7 @@
     {
       "topic": "Canine Paw Pad Thermoregulation",
       "category": "Physiology",
-      "cgs": 42.9,
+      "cgs": 42.72,
       "ctr": 10.0,
       "apv": 44.51,
       "avd": 7.0,
@@ -126,12 +126,12 @@
   "winning_hook_patterns": [],
   "toxic_combinations": [],
   "growth_signals": {
-    "total_subscribers_gained": 40,
+    "total_subscribers_gained": 43,
     "growth_trend": "growing"
   },
   "exploration_ratio": {
     "reinforce_pct": 80,
     "explore_pct": 20,
-    "adjusted_by": "low_cgs_average_59.9"
+    "adjusted_by": "low_cgs_average_64.5"
   }
 }

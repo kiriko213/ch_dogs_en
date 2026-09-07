@@ -1,7 +1,7 @@
 {
   "channel": "ch_dogs_en",
   "schema_version": 2,
-  "updated_at": "2026-08-31T07:47:05.132055Z",
+  "updated_at": "2026-09-07T13:02:43.929292Z",
   "items": [
     {
       "topic": "Dog episodic memory",
@@ -1339,14 +1339,19 @@
       "development_stage": "Adult",
       "search_query": "dog owner feeding",
       "id": "aq_1788162246_1",
-      "status": "pending",
-      "locked_at": null,
-      "used_at": null,
-      "video_id": null,
+      "status": "uploaded",
+      "locked_at": "2026-09-07T13:01:11.807071Z",
+      "used_at": "2026-09-07T13:02:43.928678Z",
+      "video_id": "jeADDTH8nqY",
       "original_title": "Why Dogs Can Eat Huge Meals Fast",
       "hook_score": 10.0,
       "hook_title_score": 20,
-      "hook_opening_score": 0
+      "hook_opening_score": 0,
+      "video_ids": [
+        13260818
+      ],
+      "local_filenames": [],
+      "scheduled_for": "2026-09-07T19:00:00Z"
     },
     {
       "topic": "Photoperiod Dependent Fur Shedding",
