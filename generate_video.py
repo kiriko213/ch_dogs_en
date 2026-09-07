@@ -610,12 +610,12 @@ async def fetch_best_visual(query, api_key, profile_key=".", work_dir="."):
         selected_candidates = []
         if len(top_candidates) >= required_count:
             import io
-            from google import genai
-            from google.genai import types
-            
-            # Gemini API の初期化（新SDK google.genai を使用）
             vision_client = None
             try:
+                from google import genai
+                from google.genai import types
+                
+                # Gemini API の初期化（新SDK google.genai を使用）
                 service_account_str = os.environ.get("GEMINI_SERVICE_ACCOUNT")
                 credentials = None
                 if service_account_str:
@@ -645,55 +645,60 @@ async def fetch_best_visual(query, api_key, profile_key=".", work_dir="."):
             except Exception as conf_err:
                 print(f"[VISION_GUARD_WARN] Gemini configure failed: {conf_err}")
 
-            # 上位候補をランダム順で1本ずつ検証し、DOGと判定されたもののみ採用
-            shuffled_candidates = random.sample(top_candidates, len(top_candidates))
-            for cand_idx, cand in enumerate(shuffled_candidates):
-                cand_video, cand_files, cand_score = cand
-                cand_id = cand_video.get('id')
-                cand_thumb = cand_video.get('image')
-                
-                # 5 RPM 制限対策: 候補切り替え時（2本目以降のVision判定前）に待機
-                if cand_idx > 0 and vision_client and cand_thumb:
-                    print(f"[VISION_GUARD] Rate guard: waiting 13s before checking candidate {cand_idx + 1}...")
-                    time.sleep(13)
-                
-                is_dog_confirmed = False
-                if vision_client and cand_thumb:
-                    try:
-                        img_res = requests.get(cand_thumb, timeout=5)
-                        img_res.raise_for_status()
-                        img_obj = Image.open(io.BytesIO(img_res.content))
-                        
-                        v_prompt = (
-                            "Identify the primary subject in this image. Is it a dog, a cat, or other? "
-                            "Reply with only one word: DOG, CAT, or OTHER."
-                        )
-                        v_resp = vision_client.models.generate_content(
-                            model="gemini-2.5-flash",
-                            contents=[v_prompt, img_obj]
-                        )
-                        v_ans = v_resp.text.strip().upper() if v_resp and v_resp.text else ""
-                        
-                        if "DOG" in v_ans and "CAT" not in v_ans:
-                            print(f"[VISION_GUARD] Video ID {cand_id} PASSED: {v_ans}")
-                            is_dog_confirmed = True
-                        else:
-                            print(f"[VISION_GUARD] Video ID {cand_id} REJECTED (non-dog): {v_ans}")
-                    except Exception as v_err:
-                        err_str = str(v_err)
-                        print(f"[VISION_GUARD_WARN] Video ID {cand_id} Vision check failed: {v_err}")
-                        if "429" in err_str or "resource_exhausted" in err_str.lower() or "quota" in err_str.lower():
-                            match = re.search(r'retry\s*(?:after|in)?\s*[:\s]*(\d+(?:\.\d+)?)\s*s', err_str, re.IGNORECASE)
-                            wait_sec = int(float(match.group(1))) + 2 if match else 20
-                            print(f"[VISION_GUARD_WAIT] Rate limited (429). Waiting {wait_sec}s...")
-                            time.sleep(wait_sec)
-                else:
-                    print(f"[VISION_GUARD_WARN] Vision guard unconfigured or thumbnail missing for Video ID {cand_id}")
+            if not vision_client:
+                # Vision Guard利用不可時はQSM合格候補から素材を取得
+                print("[VISION_GUARD_FALLBACK] Vision Guard unavailable. Using QSM top candidates.")
+                selected_candidates = top_candidates[:required_count]
+            else:
+                # 上位候補をランダム順で1本ずつ検証し、DOGと判定されたもののみ採用
+                shuffled_candidates = random.sample(top_candidates, len(top_candidates))
+                for cand_idx, cand in enumerate(shuffled_candidates):
+                    cand_video, cand_files, cand_score = cand
+                    cand_id = cand_video.get('id')
+                    cand_thumb = cand_video.get('image')
+                    
+                    # 5 RPM 制限対策: 候補切り替え時（2本目以降のVision判定前）に待機
+                    if cand_idx > 0 and vision_client and cand_thumb:
+                        print(f"[VISION_GUARD] Rate guard: waiting 13s before checking candidate {cand_idx + 1}...")
+                        time.sleep(13)
+                    
+                    is_dog_confirmed = False
+                    if vision_client and cand_thumb:
+                        try:
+                            img_res = requests.get(cand_thumb, timeout=5)
+                            img_res.raise_for_status()
+                            img_obj = Image.open(io.BytesIO(img_res.content))
+                            
+                            v_prompt = (
+                                "Identify the primary subject in this image. Is it a dog, a cat, or other? "
+                                "Reply with only one word: DOG, CAT, or OTHER."
+                            )
+                            v_resp = vision_client.models.generate_content(
+                                model="gemini-2.5-flash",
+                                contents=[v_prompt, img_obj]
+                            )
+                            v_ans = v_resp.text.strip().upper() if v_resp and v_resp.text else ""
+                            
+                            if "DOG" in v_ans and "CAT" not in v_ans:
+                                print(f"[VISION_GUARD] Video ID {cand_id} PASSED: {v_ans}")
+                                is_dog_confirmed = True
+                            else:
+                                print(f"[VISION_GUARD] Video ID {cand_id} REJECTED (non-dog): {v_ans}")
+                        except Exception as v_err:
+                            err_str = str(v_err)
+                            print(f"[VISION_GUARD_WARN] Video ID {cand_id} Vision check failed: {v_err}")
+                            if "429" in err_str or "resource_exhausted" in err_str.lower() or "quota" in err_str.lower():
+                                match = re.search(r'retry\s*(?:after|in)?\s*[:\s]*(\d+(?:\.\d+)?)\s*s', err_str, re.IGNORECASE)
+                                wait_sec = int(float(match.group(1))) + 2 if match else 20
+                                print(f"[VISION_GUARD_WAIT] Rate limited (429). Waiting {wait_sec}s...")
+                                time.sleep(wait_sec)
+                    else:
+                        print(f"[VISION_GUARD_WARN] Vision guard unconfigured or thumbnail missing for Video ID {cand_id}")
 
-                if is_dog_confirmed:
-                    selected_candidates.append(cand)
-                    if len(selected_candidates) == required_count:
-                        break
+                    if is_dog_confirmed:
+                        selected_candidates.append(cand)
+                        if len(selected_candidates) == required_count:
+                            break
 
             # 採用された候補のダウンロード実行
             for idx in range(len(selected_candidates)):
