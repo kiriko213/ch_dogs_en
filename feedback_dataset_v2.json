@@ -1,9 +1,9 @@
 {
   "feedback_version": 2,
-  "generated_at": "2026-09-07T13:01:11.748105Z",
+  "generated_at": "2026-09-07T17:44:08.765350Z",
   "channel": "ch_dogs_en",
   "metadata": {
-    "total_videos_analyzed": 48,
+    "total_videos_analyzed": 49,
     "analytics_api_available": true,
     "cgs_mode": "beta",
     "data_freshness_hours": 72,
@@ -13,7 +13,7 @@
     {
       "topic": "Canine Piloerection Reflex",
       "category": "Dermatology",
-      "cgs": 78.16,
+      "cgs": 78.25,
       "ctr": 585.0,
       "apv": 74.5,
       "avd": 11.0,
@@ -31,7 +31,7 @@
     {
       "topic": "Canine Deep Sighing Meaning",
       "category": "Behavior",
-      "cgs": 73.66,
+      "cgs": 73.85,
       "ctr": 1052.0,
       "apv": 69.66,
       "avd": 11.0,
@@ -40,7 +40,7 @@
     {
       "topic": "Canine Starch Digestion",
       "category": "Evolution",
-      "cgs": 71.28,
+      "cgs": 71.43,
       "ctr": 799.0,
       "apv": 65.62,
       "avd": 9.0,
@@ -49,7 +49,7 @@
     {
       "topic": "Canine REM Sleep Dynamics",
       "category": "Sleep",
-      "cgs": 71.25,
+      "cgs": 71.4,
       "ctr": 808.0,
       "apv": 67.44,
       "avd": 9.0,
@@ -58,18 +58,9 @@
   ],
   "losing_topics": [
     {
-      "topic": "Canine Permanent Dental Structure",
-      "category": "Anatomy",
-      "cgs": 52.62,
-      "ctr": 57.0,
-      "apv": 55.7,
-      "avd": 7.0,
-      "views": 57
-    },
-    {
       "topic": "Grape Toxicity in Canine Nutrition",
       "category": "Nutrition",
-      "cgs": 50.59,
+      "cgs": 50.6,
       "ctr": 75.0,
       "apv": 45.33,
       "avd": 6.0,
@@ -78,7 +69,7 @@
     {
       "topic": "Canine Play Bow Communication",
       "category": "Body Language",
-      "cgs": 47.44,
+      "cgs": 47.45,
       "ctr": 43.0,
       "apv": 42.95,
       "avd": 7.0,
@@ -87,7 +78,7 @@
     {
       "topic": "Canine Vestigial Clavicle",
       "category": "Anatomy",
-      "cgs": 46.29,
+      "cgs": 46.3,
       "ctr": 67.0,
       "apv": 37.82,
       "avd": 6.0,
@@ -96,20 +87,23 @@
     {
       "topic": "Canine Paw Pad Thermoregulation",
       "category": "Physiology",
-      "cgs": 42.72,
+      "cgs": 42.71,
       "ctr": 10.0,
       "apv": 44.51,
       "avd": 7.0,
       "views": 10
+    },
+    {
+      "topic": "Canine Gorge Feeding Elasticity",
+      "category": "Digestion",
+      "cgs": 10.0,
+      "ctr": null,
+      "apv": null,
+      "avd": null,
+      "views": 0
     }
   ],
   "winning_title_patterns": [
-    {
-      "pattern": "The Truth About {Topic} Noses",
-      "frequency": 1,
-      "example": "The Truth About Dog Noses",
-      "source": "title_curiosity_patterns"
-    },
     {
       "pattern": "{Topic} Episodic Memory's Deepest Secrets",
       "frequency": 1,
@@ -120,6 +114,12 @@
       "pattern": "{Number} Secrets of {Topic} Hearing Abilities",
       "frequency": 1,
       "example": "5 Secrets of Canine Hearing Abilities",
+      "source": "title_curiosity_patterns"
+    },
+    {
+      "pattern": "{Number} Secrets of {Topic} Vision Perception",
+      "frequency": 1,
+      "example": "5 Secrets of Canine Vision Perception",
       "source": "title_curiosity_patterns"
     }
   ],
@@ -132,6 +132,6 @@
   "exploration_ratio": {
     "reinforce_pct": 80,
     "explore_pct": 20,
-    "adjusted_by": "low_cgs_average_64.5"
+    "adjusted_by": "low_cgs_average_47.7"
   }
 }

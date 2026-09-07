@@ -1,15 +1,6 @@
 {
   "items": [
     {
-      "video_id": "YLjPJ60-U7Q",
-      "title": "Dog Episodic Memory's Deepest Secrets",
-      "ctr": 0.0,
-      "apv": 0.0,
-      "subscribers_gained": 0,
-      "performance_score": 0.0,
-      "recorded_at": "2026-06-20T13:56:29.283650Z"
-    },
-    {
       "video_id": "HXcXSfrEMR4",
       "title": "This Dog Vocal Communication Will Shock You",
       "ctr": 0.0,
@@ -449,6 +440,15 @@
       "subscribers_gained": 0,
       "performance_score": 0.0,
       "recorded_at": "2026-09-07T13:02:43.934170Z"
+    },
+    {
+      "video_id": "otAsNEgc0Kw",
+      "title": "Why Your Dog Photoperiod Dependent Fur Shedding",
+      "ctr": 0.0,
+      "apv": 0.0,
+      "subscribers_gained": 0,
+      "performance_score": 0.0,
+      "recorded_at": "2026-09-07T17:49:51.150427Z"
     }
   ]
 }

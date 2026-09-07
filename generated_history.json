@@ -1,15 +1,5 @@
 [
   {
-    "title": "Understanding Dog Canine Scratch Reflex Mechanism",
-    "topic": "Canine Scratch Reflex Mechanism",
-    "script_content": "Scratching that special spot triggers an involuntary leg kick. This harmless reflex protects them from irritating outdoor insects. Where is your dog's tickle spot?",
-    "video_ids": [
-      7628758
-    ],
-    "local_filenames": [],
-    "timestamp": "2026-08-10T13:41:08.817071"
-  },
-  {
     "title": "Understanding Dog Canine Dewclaw Function",
     "topic": "Canine Dewclaw Function",
     "script_content": "Dewclaws help dogs grip slippery surfaces during quick turns. These extra digits stabilize joints while holding toys securely. Does your dog use their dewclaws?",
@@ -198,5 +188,15 @@
     ],
     "local_filenames": [],
     "timestamp": "2026-09-07T13:02:43.928698"
+  },
+  {
+    "title": "Why Your Dog Photoperiod Dependent Fur Shedding",
+    "topic": "Photoperiod Dependent Fur Shedding",
+    "script_content": "Excessive dog shedding is not caused by indoor heat. Natural daylight controls their coat cycle, making outdoor morning walks helpful. Does your dog shed often?",
+    "video_ids": [
+      9581318
+    ],
+    "local_filenames": [],
+    "timestamp": "2026-09-07T17:49:51.144915"
   }
 ]

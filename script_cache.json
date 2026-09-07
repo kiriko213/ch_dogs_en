@@ -1,7 +1,7 @@
 {
   "channel": "ch_dogs_en",
   "schema_version": 2,
-  "updated_at": "2026-09-07T13:02:43.929292Z",
+  "updated_at": "2026-09-07T17:49:51.145452Z",
   "items": [
     {
       "topic": "Dog episodic memory",
@@ -1367,14 +1367,19 @@
       "development_stage": "Adult",
       "search_query": "dog brushing fur",
       "id": "aq_1788162246_2",
-      "status": "pending",
-      "locked_at": null,
-      "used_at": null,
-      "video_id": null,
+      "status": "uploaded",
+      "locked_at": "2026-09-07T17:47:07.034340Z",
+      "used_at": "2026-09-07T17:49:51.144888Z",
+      "video_id": "otAsNEgc0Kw",
       "original_title": "Why You Should Walk Dogs In Sunlight",
       "hook_score": 10.0,
       "hook_title_score": 20,
-      "hook_opening_score": 0
+      "hook_opening_score": 0,
+      "video_ids": [
+        9581318
+      ],
+      "local_filenames": [],
+      "scheduled_for": "2026-09-07T19:00:00Z"
     }
   ]
 }

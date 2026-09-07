@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-09-07T13:02:43.936152Z",
+  "generated_at": "2026-09-07T17:49:51.152565Z",
   "kpis": {
-    "uploads": 48,
+    "uploads": 49,
     "views": 26387,
     "ctr_average": 549.77,
     "apv_average": 60.3,
     "subscribers_gained": 43,
-    "cgs_average": 62.21,
+    "cgs_average": 61.21,
     "top_topics": [
       "Canine Piloerection Reflex",
       "Frenetic Random Activity Periods",
       "Canine Deep Sighing Meaning"
     ],
     "top_titles": [
-      "Dog Episodic Memory's Deepest Secrets",
       "This Dog Vocal Communication Will Shock You",
-      "5 Secrets of Canine Hearing Abilities"
+      "5 Secrets of Canine Hearing Abilities",
+      "5 Secrets of Canine Vision Perception"
     ]
   },
   "production_metrics": {
-    "success_rate_percent": 84.21,
-    "failure_rate_percent": 15.79,
-    "retry_rate_percent": 3.51,
-    "upload_latency_seconds": 4.85,
-    "generation_latency_seconds": 86.91
+    "success_rate_percent": 80.33,
+    "failure_rate_percent": 19.67,
+    "retry_rate_percent": 8.2,
+    "upload_latency_seconds": 4.54,
+    "generation_latency_seconds": 159.26
   },
   "warnings": []
 }
