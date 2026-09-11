@@ -403,7 +403,7 @@ async def run_auto_post(work_dir=".", topic=None):
         print(f"[CACHE] Active pending items remaining: {len(pending_items)}")
         
         # 先読み補充判定（残り1本以下ならバッチ補充）
-        if len(pending_items) <= 1:
+        if len(pending_items) == 0:
             print(f"[CACHE] Pending items count ({len(pending_items)}) <= 1. Triggering Gemini batch refill...")
             
             gemini_key = (
