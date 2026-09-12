@@ -1,15 +1,5 @@
 [
   {
-    "title": "Understanding Dog Canine Dewclaw Function",
-    "topic": "Canine Dewclaw Function",
-    "script_content": "Dewclaws help dogs grip slippery surfaces during quick turns. These extra digits stabilize joints while holding toys securely. Does your dog use their dewclaws?",
-    "video_ids": [
-      5482269
-    ],
-    "local_filenames": [],
-    "timestamp": "2026-08-11T03:25:25.540405"
-  },
-  {
     "title": "Understanding Dog Canine Social Hierarchy Dynamics",
     "topic": "Canine Social Hierarchy Dynamics",
     "script_content": "Dogs view human families as supportive social groups. Cooperation drives their daily behavior more than dominance. How does your dog bond?",
@@ -198,5 +188,15 @@
     ],
     "local_filenames": [],
     "timestamp": "2026-09-07T17:49:51.144915"
+  },
+  {
+    "title": "Why You Should Elevate Dog Bowls",
+    "topic": "Canine Gastrointestinal Aerophagia Prevention",
+    "script_content": "Eating flat on the floor causes dogs to swallow excess air during fast meals. Raising the bowl aligns their esophagus for smoother digestion and comfort. How do you feed your dog?",
+    "video_ids": [
+      33567553
+    ],
+    "local_filenames": [],
+    "timestamp": "2026-09-12T15:32:48.951117"
   }
 ]

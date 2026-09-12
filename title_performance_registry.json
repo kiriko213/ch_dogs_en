@@ -1,15 +1,6 @@
 {
   "items": [
     {
-      "video_id": "HXcXSfrEMR4",
-      "title": "This Dog Vocal Communication Will Shock You",
-      "ctr": 0.0,
-      "apv": 0.0,
-      "subscribers_gained": 0,
-      "performance_score": 0.0,
-      "recorded_at": "2026-06-22T14:00:53.438318Z"
-    },
-    {
       "video_id": "vid_dryrun_mock_123",
       "title": "5 Secrets of Canine Hearing Abilities",
       "ctr": 0.0,
@@ -449,6 +440,15 @@
       "subscribers_gained": 0,
       "performance_score": 0.0,
       "recorded_at": "2026-09-07T17:49:51.150427Z"
+    },
+    {
+      "video_id": "YRNTikl-pE0",
+      "title": "Why You Should Elevate Dog Bowls",
+      "ctr": 0.0,
+      "apv": 0.0,
+      "subscribers_gained": 0,
+      "performance_score": 0.0,
+      "recorded_at": "2026-09-12T15:32:48.959416Z"
     }
   ]
 }

@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-09-07T17:49:51.152565Z",
+  "generated_at": "2026-09-12T15:32:48.961742Z",
   "kpis": {
-    "uploads": 49,
-    "views": 26387,
-    "ctr_average": 549.77,
-    "apv_average": 60.3,
-    "subscribers_gained": 43,
-    "cgs_average": 61.21,
+    "uploads": 50,
+    "views": 27298,
+    "ctr_average": 546.06,
+    "apv_average": 60.22,
+    "subscribers_gained": 47,
+    "cgs_average": 62.23,
     "top_topics": [
       "Canine Piloerection Reflex",
       "Frenetic Random Activity Periods",
-      "Canine Deep Sighing Meaning"
+      "Canine Gorge Feeding Elasticity"
     ],
     "top_titles": [
-      "This Dog Vocal Communication Will Shock You",
       "5 Secrets of Canine Hearing Abilities",
-      "5 Secrets of Canine Vision Perception"
+      "5 Secrets of Canine Vision Perception",
+      "Why Your Dog Grape Toxicity In Canine Nutrition"
     ]
   },
   "production_metrics": {
-    "success_rate_percent": 80.33,
-    "failure_rate_percent": 19.67,
-    "retry_rate_percent": 8.2,
-    "upload_latency_seconds": 4.54,
-    "generation_latency_seconds": 159.26
+    "success_rate_percent": 80.65,
+    "failure_rate_percent": 19.35,
+    "retry_rate_percent": 8.06,
+    "upload_latency_seconds": 4.49,
+    "generation_latency_seconds": 102.12
   },
   "warnings": []
 }

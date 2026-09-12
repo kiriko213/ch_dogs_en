@@ -1,9 +1,9 @@
 {
   "feedback_version": 2,
-  "generated_at": "2026-09-07T17:44:08.765350Z",
+  "generated_at": "2026-09-12T15:28:30.463110Z",
   "channel": "ch_dogs_en",
   "metadata": {
-    "total_videos_analyzed": 49,
+    "total_videos_analyzed": 50,
     "analytics_api_available": true,
     "cgs_mode": "beta",
     "data_freshness_hours": 72,
@@ -13,8 +13,8 @@
     {
       "topic": "Canine Piloerection Reflex",
       "category": "Dermatology",
-      "cgs": 78.25,
-      "ctr": 585.0,
+      "cgs": 77.64,
+      "ctr": 580.0,
       "apv": 74.5,
       "avd": 11.0,
       "views": 580
@@ -22,17 +22,26 @@
     {
       "topic": "Frenetic Random Activity Periods",
       "category": "Behavior",
-      "cgs": 75.75,
+      "cgs": 75.66,
       "ctr": 1299.0,
       "apv": 61.6,
       "avd": 9.0,
       "views": 1299
     },
     {
+      "topic": "Canine Gorge Feeding Elasticity",
+      "category": "Digestion",
+      "cgs": 75.18,
+      "ctr": 799.0,
+      "apv": 67.65,
+      "avd": 10.0,
+      "views": 794
+    },
+    {
       "topic": "Canine Deep Sighing Meaning",
       "category": "Behavior",
-      "cgs": 73.85,
-      "ctr": 1052.0,
+      "cgs": 73.61,
+      "ctr": 1053.0,
       "apv": 69.66,
       "avd": 11.0,
       "views": 1053
@@ -40,27 +49,27 @@
     {
       "topic": "Canine Starch Digestion",
       "category": "Evolution",
-      "cgs": 71.43,
+      "cgs": 71.23,
       "ctr": 799.0,
       "apv": 65.62,
       "avd": 9.0,
       "views": 799
-    },
-    {
-      "topic": "Canine REM Sleep Dynamics",
-      "category": "Sleep",
-      "cgs": 71.4,
-      "ctr": 808.0,
-      "apv": 67.44,
-      "avd": 9.0,
-      "views": 808
     }
   ],
   "losing_topics": [
     {
+      "topic": "Canine Water and Sweet Receptors",
+      "category": "Nutrition",
+      "cgs": 52.52,
+      "ctr": 150.0,
+      "apv": 51.22,
+      "avd": 8.0,
+      "views": 150
+    },
+    {
       "topic": "Grape Toxicity in Canine Nutrition",
       "category": "Nutrition",
-      "cgs": 50.6,
+      "cgs": 50.51,
       "ctr": 75.0,
       "apv": 45.33,
       "avd": 6.0,
@@ -69,7 +78,7 @@
     {
       "topic": "Canine Play Bow Communication",
       "category": "Body Language",
-      "cgs": 47.45,
+      "cgs": 47.34,
       "ctr": 43.0,
       "apv": 42.95,
       "avd": 7.0,
@@ -78,38 +87,23 @@
     {
       "topic": "Canine Vestigial Clavicle",
       "category": "Anatomy",
-      "cgs": 46.3,
+      "cgs": 46.09,
       "ctr": 67.0,
       "apv": 37.82,
       "avd": 6.0,
-      "views": 67
+      "views": 68
     },
     {
       "topic": "Canine Paw Pad Thermoregulation",
       "category": "Physiology",
-      "cgs": 42.71,
+      "cgs": 42.62,
       "ctr": 10.0,
       "apv": 44.51,
       "avd": 7.0,
       "views": 10
-    },
-    {
-      "topic": "Canine Gorge Feeding Elasticity",
-      "category": "Digestion",
-      "cgs": 10.0,
-      "ctr": null,
-      "apv": null,
-      "avd": null,
-      "views": 0
     }
   ],
   "winning_title_patterns": [
-    {
-      "pattern": "{Topic} Episodic Memory's Deepest Secrets",
-      "frequency": 1,
-      "example": "Dog Episodic Memory's Deepest Secrets",
-      "source": "title_curiosity_patterns"
-    },
     {
       "pattern": "{Number} Secrets of {Topic} Hearing Abilities",
       "frequency": 1,
@@ -126,12 +120,12 @@
   "winning_hook_patterns": [],
   "toxic_combinations": [],
   "growth_signals": {
-    "total_subscribers_gained": 43,
+    "total_subscribers_gained": 47,
     "growth_trend": "growing"
   },
   "exploration_ratio": {
     "reinforce_pct": 80,
     "explore_pct": 20,
-    "adjusted_by": "low_cgs_average_47.7"
+    "adjusted_by": "low_cgs_average_69.7"
   }
 }

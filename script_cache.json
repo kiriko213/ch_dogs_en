@@ -1,7 +1,7 @@
 {
   "channel": "ch_dogs_en",
   "schema_version": 2,
-  "updated_at": "2026-09-07T17:49:51.145452Z",
+  "updated_at": "2026-09-12T15:32:48.951785Z",
   "items": [
     {
       "topic": "Dog episodic memory",
@@ -1380,6 +1380,33 @@
       ],
       "local_filenames": [],
       "scheduled_for": "2026-09-07T19:00:00Z"
+    },
+    {
+      "topic": "Canine Gastrointestinal Aerophagia Prevention",
+      "title": "Why You Should Elevate Dog Bowls",
+      "hook_framework": "Problem & Solution",
+      "script": "Eating flat on the floor causes dogs to swallow excess air during fast meals. Raising the bowl aligns their esophagus for smoother digestion and comfort. How do you feed your dog?",
+      "video_search_query": "dog eating bowl",
+      "category": "Digestion",
+      "subtopic": "Eating Mechanics",
+      "unique_fact": "Elevating feeding stations reduces aerophagia and esophageal strain during canine ingestion.",
+      "angle": "Action",
+      "region": "Global",
+      "development_stage": "Adult",
+      "search_query": "dog eating bowl",
+      "id": "aq_1789227061_0",
+      "status": "uploaded",
+      "locked_at": "2026-09-12T15:31:02.010274Z",
+      "used_at": "2026-09-12T15:32:48.951097Z",
+      "video_id": "YRNTikl-pE0",
+      "hook_score": 10.0,
+      "hook_title_score": 20,
+      "hook_opening_score": 0,
+      "video_ids": [
+        33567553
+      ],
+      "local_filenames": [],
+      "scheduled_for": "2026-09-12T19:00:00Z"
     }
   ]
 }

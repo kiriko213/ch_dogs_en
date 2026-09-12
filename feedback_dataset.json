@@ -1,35 +1,35 @@
 {
   "feedback_version": 1,
-  "generated_at": "2026-09-07T17:44:08.212343Z",
+  "generated_at": "2026-09-12T15:28:29.959565Z",
   "top_topics": [
     {
       "topic": "Canine Piloerection Reflex",
       "category": "Dermatology",
-      "score": 55.24,
+      "score": 52.81,
       "views": 580
     },
     {
       "topic": "Canine Social Allogrooming",
       "category": "Social Bonding",
-      "score": 53.85,
+      "score": 52.75,
       "views": 907
     },
     {
       "topic": "Canine Erythrocyte Antigen System",
       "category": "Biology",
-      "score": 53.75,
+      "score": 52.24,
       "views": 1023
     },
     {
       "topic": "Canine Heartbeat Synchronization",
       "category": "Psychology",
-      "score": 52.76,
+      "score": 52.14,
       "views": 1336
     },
     {
       "topic": "Dog Paddle Biomechanics",
       "category": "Locomotion",
-      "score": 52.47,
+      "score": 52.03,
       "views": 1304
     }
   ],
@@ -37,31 +37,31 @@
     {
       "topic": "Canine Masticatory Safety",
       "category": "Care",
-      "score": 7.01,
+      "score": 6.26,
       "views": 101
     },
     {
       "topic": "Canine Vestigial Clavicle",
       "category": "Anatomy",
-      "score": 6.46,
-      "views": 67
+      "score": 5.61,
+      "views": 68
     },
     {
       "topic": "Canine Permanent Dental Structure",
       "category": "Anatomy",
-      "score": 3.94,
+      "score": 3.52,
       "views": 57
     },
     {
       "topic": "Canine Play Bow Communication",
       "category": "Body Language",
-      "score": 3.36,
+      "score": 2.95,
       "views": 43
     },
     {
       "topic": "Canine Paw Pad Thermoregulation",
       "category": "Physiology",
-      "score": 2.09,
+      "score": 1.72,
       "views": 10
     }
   ]
