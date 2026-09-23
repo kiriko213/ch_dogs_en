@@ -1,7 +1,7 @@
 {
   "channel": "ch_dogs_en",
   "schema_version": 2,
-  "updated_at": "2026-09-12T15:32:48.951785Z",
+  "updated_at": "2026-09-23T16:59:44.298259Z",
   "items": [
     {
       "topic": "Dog episodic memory",
@@ -1407,6 +1407,33 @@
       ],
       "local_filenames": [],
       "scheduled_for": "2026-09-12T19:00:00Z"
+    },
+    {
+      "topic": "Bed Circling Trampling Instinct",
+      "title": "The Fascinating Reason Dogs Circle",
+      "hook_framework": "Curiosity Gap",
+      "script": "When your dog circles before resting, ancient wilderness instincts awaken. Ancestors trampled grass to create secure, comfortable resting spots. Does your dog do this?",
+      "video_search_query": "dog",
+      "category": "Behavior",
+      "subtopic": "Evolution",
+      "unique_fact": "Pre-sleep circling behavior is an ancestral motor pattern originally used to flatten wild foliage into nests",
+      "angle": "History",
+      "region": "Global",
+      "development_stage": "Adult",
+      "search_query": "dog",
+      "id": "aq_1790182681_0",
+      "status": "uploaded",
+      "locked_at": "2026-09-23T16:58:01.087340Z",
+      "used_at": "2026-09-23T16:59:44.297400Z",
+      "video_id": "BX1dSsX3sos",
+      "hook_score": 20.0,
+      "hook_title_score": 20,
+      "hook_opening_score": 20,
+      "video_ids": [
+        29781544
+      ],
+      "local_filenames": [],
+      "scheduled_for": "2026-09-23T19:00:00Z"
     }
   ]
 }

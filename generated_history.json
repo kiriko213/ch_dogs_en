@@ -1,15 +1,5 @@
 [
   {
-    "title": "Understanding Dog Canine Social Hierarchy Dynamics",
-    "topic": "Canine Social Hierarchy Dynamics",
-    "script_content": "Dogs view human families as supportive social groups. Cooperation drives their daily behavior more than dominance. How does your dog bond?",
-    "video_ids": [
-      11110303
-    ],
-    "local_filenames": [],
-    "timestamp": "2026-08-11T06:05:16.169561"
-  },
-  {
     "title": "Understanding Dog Canine Biological Circadian Clock",
     "topic": "Canine Biological Circadian Clock",
     "script_content": "Your dog senses time passing using internal circadian rhythms. Consistent daily routines reduce their anxiety by setting clear expectations. Does your dog wait by the door?",
@@ -198,5 +188,15 @@
     ],
     "local_filenames": [],
     "timestamp": "2026-09-12T15:32:48.951117"
+  },
+  {
+    "title": "The Fascinating Reason Dogs Circle",
+    "topic": "Bed Circling Trampling Instinct",
+    "script_content": "When your dog circles before resting, ancient wilderness instincts awaken. Ancestors trampled grass to create secure, comfortable resting spots. Does your dog do this?",
+    "video_ids": [
+      29781544
+    ],
+    "local_filenames": [],
+    "timestamp": "2026-09-23T16:59:44.297426"
   }
 ]

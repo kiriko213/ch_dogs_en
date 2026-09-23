@@ -1,15 +1,6 @@
 {
   "items": [
     {
-      "video_id": "vid_dryrun_mock_123",
-      "title": "5 Secrets of Canine Hearing Abilities",
-      "ctr": 0.0,
-      "apv": 0.0,
-      "subscribers_gained": 0,
-      "performance_score": 0.0,
-      "recorded_at": "2026-06-25T12:13:52.665886Z"
-    },
-    {
       "video_id": "VRblzN2oDGY",
       "title": "5 Secrets of Canine Vision Perception",
       "ctr": 0.0,
@@ -449,6 +440,15 @@
       "subscribers_gained": 0,
       "performance_score": 0.0,
       "recorded_at": "2026-09-12T15:32:48.959416Z"
+    },
+    {
+      "video_id": "BX1dSsX3sos",
+      "title": "The Fascinating Reason Dogs Circle",
+      "ctr": 0.0,
+      "apv": 0.0,
+      "subscribers_gained": 0,
+      "performance_score": 0.0,
+      "recorded_at": "2026-09-23T16:59:44.300625Z"
     }
   ]
 }

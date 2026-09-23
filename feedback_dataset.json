@@ -1,67 +1,67 @@
 {
   "feedback_version": 1,
-  "generated_at": "2026-09-12T15:28:29.959565Z",
+  "generated_at": "2026-09-23T16:51:22.279626Z",
   "top_topics": [
     {
-      "topic": "Canine Piloerection Reflex",
-      "category": "Dermatology",
-      "score": 52.81,
-      "views": 580
-    },
-    {
-      "topic": "Canine Social Allogrooming",
-      "category": "Social Bonding",
-      "score": 52.75,
-      "views": 907
-    },
-    {
-      "topic": "Canine Erythrocyte Antigen System",
-      "category": "Biology",
-      "score": 52.24,
-      "views": 1023
+      "topic": "Dog Paddle Biomechanics",
+      "category": "Locomotion",
+      "score": 51.35,
+      "views": 1305
     },
     {
       "topic": "Canine Heartbeat Synchronization",
       "category": "Psychology",
-      "score": 52.14,
+      "score": 51.19,
       "views": 1336
     },
     {
-      "topic": "Dog Paddle Biomechanics",
-      "category": "Locomotion",
-      "score": 52.03,
-      "views": 1304
+      "topic": "Canine Social Allogrooming",
+      "category": "Social Bonding",
+      "score": 51.16,
+      "views": 907
+    },
+    {
+      "topic": "Canine Gastrointestinal Aerophagia Prevention",
+      "category": "Digestion",
+      "score": 50.94,
+      "views": 1060
+    },
+    {
+      "topic": "Canine Erythrocyte Antigen System",
+      "category": "Biology",
+      "score": 50.02,
+      "views": 1023
     }
   ],
   "underperforming_topics": [
     {
       "topic": "Canine Masticatory Safety",
       "category": "Care",
-      "score": 6.26,
+      "score": 5.11,
       "views": 101
     },
     {
       "topic": "Canine Vestigial Clavicle",
       "category": "Anatomy",
-      "score": 5.61,
+      "score": 4.25,
       "views": 68
     },
     {
       "topic": "Canine Permanent Dental Structure",
       "category": "Anatomy",
-      "score": 3.52,
+      "score": 2.88,
       "views": 57
     },
     {
       "topic": "Canine Play Bow Communication",
       "category": "Body Language",
-      "score": 2.95,
-      "views": 43
+      "score": 2.38,
+      "views": 44
     },
     {
       "topic": "Canine Paw Pad Thermoregulation",
       "category": "Physiology",
-      "score": 1.72,
+      "score": 1.14,
       "views": 10
     }
   ]
