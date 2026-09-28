@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-09-23T16:59:44.303040Z",
+  "generated_at": "2026-09-28T07:40:06.745537Z",
   "kpis": {
-    "uploads": 51,
-    "views": 28368,
-    "ctr_average": 556.22,
-    "apv_average": 60.18,
-    "subscribers_gained": 47,
-    "cgs_average": 61.98,
+    "uploads": 52,
+    "views": 29590,
+    "ctr_average": 569.04,
+    "apv_average": 60.46,
+    "subscribers_gained": 50,
+    "cgs_average": 62.18,
     "top_topics": [
+      "Bed Circling Trampling Instinct",
       "Canine Piloerection Reflex",
-      "Frenetic Random Activity Periods",
-      "Canine Gorge Feeding Elasticity"
+      "Frenetic Random Activity Periods"
     ],
     "top_titles": [
-      "5 Secrets of Canine Vision Perception",
       "Why Your Dog Grape Toxicity In Canine Nutrition",
-      "Why Your Dog Canine Lapping Mechanics"
+      "Why Your Dog Canine Lapping Mechanics",
+      "Why Your Dog Frenetic Random Activity Periods"
     ]
   },
   "production_metrics": {
-    "success_rate_percent": 79.69,
-    "failure_rate_percent": 20.31,
-    "retry_rate_percent": 9.38,
-    "upload_latency_seconds": 4.76,
-    "generation_latency_seconds": 98.15
+    "success_rate_percent": 77.61,
+    "failure_rate_percent": 22.39,
+    "retry_rate_percent": 11.94,
+    "upload_latency_seconds": 4.63,
+    "generation_latency_seconds": 120.58
   },
   "warnings": []
 }

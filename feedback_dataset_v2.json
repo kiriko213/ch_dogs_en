@@ -1,9 +1,9 @@
 {
   "feedback_version": 2,
-  "generated_at": "2026-09-23T16:51:23.293532Z",
+  "generated_at": "2026-09-28T07:33:17.344898Z",
   "channel": "ch_dogs_en",
   "metadata": {
-    "total_videos_analyzed": 51,
+    "total_videos_analyzed": 52,
     "analytics_api_available": true,
     "cgs_mode": "beta",
     "data_freshness_hours": 72,
@@ -11,9 +11,18 @@
   },
   "winning_topics": [
     {
+      "topic": "Bed Circling Trampling Instinct",
+      "category": "Behavior",
+      "cgs": 77.07,
+      "ctr": 1220.0,
+      "apv": 65.32,
+      "avd": 11.0,
+      "views": 1219
+    },
+    {
       "topic": "Canine Piloerection Reflex",
       "category": "Dermatology",
-      "cgs": 76.21,
+      "cgs": 75.86,
       "ctr": 584.0,
       "apv": 73.14,
       "avd": 11.0,
@@ -22,7 +31,7 @@
     {
       "topic": "Frenetic Random Activity Periods",
       "category": "Behavior",
-      "cgs": 75.52,
+      "cgs": 75.48,
       "ctr": 1299.0,
       "apv": 61.6,
       "avd": 9.0,
@@ -31,7 +40,7 @@
     {
       "topic": "Canine Gorge Feeding Elasticity",
       "category": "Digestion",
-      "cgs": 74.4,
+      "cgs": 74.0,
       "ctr": 792.0,
       "apv": 68.16,
       "avd": 10.0,
@@ -40,36 +49,27 @@
     {
       "topic": "Canine Deep Sighing Meaning",
       "category": "Behavior",
-      "cgs": 73.25,
+      "cgs": 72.99,
       "ctr": 1053.0,
       "apv": 69.66,
       "avd": 11.0,
       "views": 1053
-    },
-    {
-      "topic": "Canine Starch Digestion",
-      "category": "Evolution",
-      "cgs": 70.94,
-      "ctr": 799.0,
-      "apv": 65.62,
-      "avd": 9.0,
-      "views": 799
     }
   ],
   "losing_topics": [
     {
-      "topic": "Canine Masticatory Safety",
-      "category": "Care",
-      "cgs": 50.95,
-      "ctr": 101.0,
-      "apv": 51.12,
+      "topic": "Canine Water and Sweet Receptors",
+      "category": "Nutrition",
+      "cgs": 52.23,
+      "ctr": 150.0,
+      "apv": 51.22,
       "avd": 8.0,
-      "views": 101
+      "views": 150
     },
     {
       "topic": "Grape Toxicity in Canine Nutrition",
       "category": "Nutrition",
-      "cgs": 50.36,
+      "cgs": 50.31,
       "ctr": 75.0,
       "apv": 45.33,
       "avd": 6.0,
@@ -78,7 +78,7 @@
     {
       "topic": "Canine Play Bow Communication",
       "category": "Body Language",
-      "cgs": 48.27,
+      "cgs": 48.22,
       "ctr": 44.0,
       "apv": 45.81,
       "avd": 7.0,
@@ -87,7 +87,7 @@
     {
       "topic": "Canine Vestigial Clavicle",
       "category": "Anatomy",
-      "cgs": 45.72,
+      "cgs": 45.62,
       "ctr": 68.0,
       "apv": 37.76,
       "avd": 6.0,
@@ -96,7 +96,7 @@
     {
       "topic": "Canine Paw Pad Thermoregulation",
       "category": "Physiology",
-      "cgs": 42.48,
+      "cgs": 42.43,
       "ctr": 10.0,
       "apv": 44.51,
       "avd": 7.0,
@@ -104,12 +104,6 @@
     }
   ],
   "winning_title_patterns": [
-    {
-      "pattern": "{Number} Secrets of {Topic} Hearing Abilities",
-      "frequency": 1,
-      "example": "5 Secrets of Canine Hearing Abilities",
-      "source": "title_curiosity_patterns"
-    },
     {
       "pattern": "{Number} Secrets of {Topic} Vision Perception",
       "frequency": 1,
@@ -120,12 +114,12 @@
   "winning_hook_patterns": [],
   "toxic_combinations": [],
   "growth_signals": {
-    "total_subscribers_gained": 47,
+    "total_subscribers_gained": 50,
     "growth_trend": "growing"
   },
   "exploration_ratio": {
     "reinforce_pct": 80,
     "explore_pct": 20,
-    "adjusted_by": "low_cgs_average_65.8"
+    "adjusted_by": "low_cgs_average_66.3"
   }
 }

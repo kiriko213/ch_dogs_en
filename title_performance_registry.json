@@ -1,15 +1,6 @@
 {
   "items": [
     {
-      "video_id": "VRblzN2oDGY",
-      "title": "5 Secrets of Canine Vision Perception",
-      "ctr": 0.0,
-      "apv": 0.0,
-      "subscribers_gained": 0,
-      "performance_score": 0.0,
-      "recorded_at": "2026-07-17T22:12:12.113468Z"
-    },
-    {
       "video_id": "q9RUBk19_QA",
       "title": "Why Your Dog Grape Toxicity In Canine Nutrition",
       "ctr": 0.0,
@@ -449,6 +440,15 @@
       "subscribers_gained": 0,
       "performance_score": 0.0,
       "recorded_at": "2026-09-23T16:59:44.300625Z"
+    },
+    {
+      "video_id": "y-qVMdtg8O0",
+      "title": "The Fascinating Reason Dogs Pant Loudly",
+      "ctr": 0.0,
+      "apv": 0.0,
+      "subscribers_gained": 0,
+      "performance_score": 0.0,
+      "recorded_at": "2026-09-28T07:40:06.743056Z"
     }
   ]
 }

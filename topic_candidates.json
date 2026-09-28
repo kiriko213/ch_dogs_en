@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T16:51:23.353470Z",
+  "generated_at": "2026-09-28T07:33:17.405719Z",
   "top_candidates": [
     {
       "topic": "Frenetic Random Activity Periods",
@@ -9,11 +9,6 @@
     {
       "topic": "Canine Deep Sighing Meaning",
       "score": 90,
-      "category": "dog_facts"
-    },
-    {
-      "topic": "Canine Starch Digestion",
-      "score": 74,
       "category": "dog_facts"
     },
     {
@@ -47,9 +42,14 @@
       "category": "dog_owner_tips"
     },
     {
-      "topic": "The Truth About Amazing dog abilities",
+      "topic": "The Truth About Dog health facts",
       "score": 64,
-      "category": "dog_intelligence"
+      "category": "dog_health"
+    },
+    {
+      "topic": "Dog health facts Most People Don't Know",
+      "score": 64,
+      "category": "dog_health"
     }
   ]
 }
