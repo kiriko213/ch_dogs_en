@@ -1,9 +1,9 @@
 {
   "feedback_version": 2,
-  "generated_at": "2026-09-28T07:33:17.344898Z",
+  "generated_at": "2026-10-03T07:03:45.662844Z",
   "channel": "ch_dogs_en",
   "metadata": {
-    "total_videos_analyzed": 52,
+    "total_videos_analyzed": 53,
     "analytics_api_available": true,
     "cgs_mode": "beta",
     "data_freshness_hours": 72,
@@ -13,8 +13,8 @@
     {
       "topic": "Bed Circling Trampling Instinct",
       "category": "Behavior",
-      "cgs": 77.07,
-      "ctr": 1220.0,
+      "cgs": 76.52,
+      "ctr": 1219.0,
       "apv": 65.32,
       "avd": 11.0,
       "views": 1219
@@ -22,16 +22,16 @@
     {
       "topic": "Canine Piloerection Reflex",
       "category": "Dermatology",
-      "cgs": 75.86,
+      "cgs": 75.76,
       "ctr": 584.0,
       "apv": 73.14,
       "avd": 11.0,
-      "views": 584
+      "views": 585
     },
     {
       "topic": "Frenetic Random Activity Periods",
       "category": "Behavior",
-      "cgs": 75.48,
+      "cgs": 75.45,
       "ctr": 1299.0,
       "apv": 61.6,
       "avd": 9.0,
@@ -40,7 +40,7 @@
     {
       "topic": "Canine Gorge Feeding Elasticity",
       "category": "Digestion",
-      "cgs": 74.0,
+      "cgs": 73.94,
       "ctr": 792.0,
       "apv": 68.16,
       "avd": 10.0,
@@ -49,7 +49,7 @@
     {
       "topic": "Canine Deep Sighing Meaning",
       "category": "Behavior",
-      "cgs": 72.99,
+      "cgs": 73.11,
       "ctr": 1053.0,
       "apv": 69.66,
       "avd": 11.0,
@@ -58,18 +58,9 @@
   ],
   "losing_topics": [
     {
-      "topic": "Canine Water and Sweet Receptors",
-      "category": "Nutrition",
-      "cgs": 52.23,
-      "ctr": 150.0,
-      "apv": 51.22,
-      "avd": 8.0,
-      "views": 150
-    },
-    {
       "topic": "Grape Toxicity in Canine Nutrition",
       "category": "Nutrition",
-      "cgs": 50.31,
+      "cgs": 50.29,
       "ctr": 75.0,
       "apv": 45.33,
       "avd": 6.0,
@@ -78,16 +69,25 @@
     {
       "topic": "Canine Play Bow Communication",
       "category": "Body Language",
-      "cgs": 48.22,
+      "cgs": 48.2,
       "ctr": 44.0,
       "apv": 45.81,
       "avd": 7.0,
       "views": 44
     },
     {
+      "topic": "Canine Heat Exhaustion Panting Limits",
+      "category": "Health",
+      "cgs": 47.84,
+      "ctr": 17.0,
+      "apv": 39.11,
+      "avd": 6.0,
+      "views": 19
+    },
+    {
       "topic": "Canine Vestigial Clavicle",
       "category": "Anatomy",
-      "cgs": 45.62,
+      "cgs": 45.55,
       "ctr": 68.0,
       "apv": 37.76,
       "avd": 6.0,
@@ -96,21 +96,14 @@
     {
       "topic": "Canine Paw Pad Thermoregulation",
       "category": "Physiology",
-      "cgs": 42.43,
+      "cgs": 42.4,
       "ctr": 10.0,
       "apv": 44.51,
       "avd": 7.0,
       "views": 10
     }
   ],
-  "winning_title_patterns": [
-    {
-      "pattern": "{Number} Secrets of {Topic} Vision Perception",
-      "frequency": 1,
-      "example": "5 Secrets of Canine Vision Perception",
-      "source": "title_curiosity_patterns"
-    }
-  ],
+  "winning_title_patterns": [],
   "winning_hook_patterns": [],
   "toxic_combinations": [],
   "growth_signals": {
@@ -120,6 +113,6 @@
   "exploration_ratio": {
     "reinforce_pct": 80,
     "explore_pct": 20,
-    "adjusted_by": "low_cgs_average_66.3"
+    "adjusted_by": "low_cgs_average_63.7"
   }
 }

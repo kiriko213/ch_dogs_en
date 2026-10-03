@@ -1,7 +1,7 @@
 {
   "channel": "ch_dogs_en",
   "schema_version": 2,
-  "updated_at": "2026-09-28T07:40:06.740600Z",
+  "updated_at": "2026-10-03T07:13:06.930631Z",
   "items": [
     {
       "topic": "Dog episodic memory",
@@ -1461,6 +1461,34 @@
       ],
       "local_filenames": [],
       "scheduled_for": "2026-09-28T19:00:00Z"
+    },
+    {
+      "topic": "Autonomic Nervous System Shake-Off",
+      "title": "Why Your Dog Autonomic Nervous System Shake-Off",
+      "hook_framework": "Warning",
+      "script": "Your dog actually shakes while dry to release internal stress. This physical movement instantly resets their nervous system. Does your dog shake off?",
+      "video_search_query": "dog shaking fur",
+      "category": "Neurobiology",
+      "subtopic": "Stress Relief",
+      "unique_fact": "Dry whole-body shaking stimulates the autonomic nervous system to discharge residual adrenaline and physical tension.",
+      "angle": "Science",
+      "region": "Global",
+      "development_stage": "Adult",
+      "search_query": "dog shaking fur",
+      "id": "aq_1791011500_0",
+      "status": "uploaded",
+      "locked_at": "2026-10-03T07:11:40.792029Z",
+      "used_at": "2026-10-03T07:13:06.929961Z",
+      "video_id": "qyRCRBI8Ths",
+      "original_title": "What Your Dog's Body Shake Means",
+      "hook_score": 10.0,
+      "hook_title_score": 20,
+      "hook_opening_score": 0,
+      "video_ids": [
+        35481318
+      ],
+      "local_filenames": [],
+      "scheduled_for": "2026-10-03T19:00:00Z"
     }
   ]
 }

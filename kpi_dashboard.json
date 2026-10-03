@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-09-28T07:40:06.745537Z",
+  "generated_at": "2026-10-03T07:13:06.935278Z",
   "kpis": {
-    "uploads": 52,
-    "views": 29590,
-    "ctr_average": 569.04,
-    "apv_average": 60.46,
+    "uploads": 53,
+    "views": 29620,
+    "ctr_average": 558.75,
+    "apv_average": 60.05,
     "subscribers_gained": 50,
-    "cgs_average": 62.18,
+    "cgs_average": 61.89,
     "top_topics": [
       "Bed Circling Trampling Instinct",
       "Canine Piloerection Reflex",
       "Frenetic Random Activity Periods"
     ],
     "top_titles": [
-      "Why Your Dog Grape Toxicity In Canine Nutrition",
       "Why Your Dog Canine Lapping Mechanics",
-      "Why Your Dog Frenetic Random Activity Periods"
+      "Why Your Dog Frenetic Random Activity Periods",
+      "Understanding Dog Canine Paw Pad Thermoregulation"
     ]
   },
   "production_metrics": {
-    "success_rate_percent": 77.61,
-    "failure_rate_percent": 22.39,
-    "retry_rate_percent": 11.94,
-    "upload_latency_seconds": 4.63,
-    "generation_latency_seconds": 120.58
+    "success_rate_percent": 76.81,
+    "failure_rate_percent": 23.19,
+    "retry_rate_percent": 13.04,
+    "upload_latency_seconds": 4.84,
+    "generation_latency_seconds": 81.21
   },
   "warnings": []
 }
