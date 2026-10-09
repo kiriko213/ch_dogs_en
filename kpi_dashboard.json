@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-10-03T07:13:06.935278Z",
+  "generated_at": "2026-10-09T08:05:52.246758Z",
   "kpis": {
-    "uploads": 53,
-    "views": 29620,
-    "ctr_average": 558.75,
-    "apv_average": 60.05,
-    "subscribers_gained": 50,
-    "cgs_average": 61.89,
+    "uploads": 54,
+    "views": 30764,
+    "ctr_average": 569.5,
+    "apv_average": 60.42,
+    "subscribers_gained": 52,
+    "cgs_average": 62.05,
     "top_topics": [
       "Bed Circling Trampling Instinct",
-      "Canine Piloerection Reflex",
-      "Frenetic Random Activity Periods"
+      "Frenetic Random Activity Periods",
+      "Canine Piloerection Reflex"
     ],
     "top_titles": [
-      "Why Your Dog Canine Lapping Mechanics",
       "Why Your Dog Frenetic Random Activity Periods",
-      "Understanding Dog Canine Paw Pad Thermoregulation"
+      "Understanding Dog Canine Paw Pad Thermoregulation",
+      "Understanding Dog Canine Rem Sleep Dynamics"
     ]
   },
   "production_metrics": {
-    "success_rate_percent": 76.81,
-    "failure_rate_percent": 23.19,
-    "retry_rate_percent": 13.04,
-    "upload_latency_seconds": 4.84,
-    "generation_latency_seconds": 81.21
+    "success_rate_percent": 77.14,
+    "failure_rate_percent": 22.86,
+    "retry_rate_percent": 12.86,
+    "upload_latency_seconds": 5.2,
+    "generation_latency_seconds": 104.89
   },
   "warnings": []
 }

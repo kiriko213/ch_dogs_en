@@ -1,7 +1,7 @@
 {
   "channel": "ch_dogs_en",
   "schema_version": 2,
-  "updated_at": "2026-10-03T07:13:06.930631Z",
+  "updated_at": "2026-10-09T08:05:52.241822Z",
   "items": [
     {
       "topic": "Dog episodic memory",
@@ -1489,6 +1489,57 @@
       ],
       "local_filenames": [],
       "scheduled_for": "2026-10-03T19:00:00Z"
+    },
+    {
+      "topic": "Canine Microchipping Biocompatibility",
+      "title": "Understanding Dog Canine Microchipping Biocompatibility",
+      "hook_framework": "Problem & Solution",
+      "script": "Lost collars easily slip away, but microchips provide permanent biocompatible radio frequency identification. A simple scan safely reunites lost companions with families everywhere. Is your dog microchipped yet?",
+      "video_search_query": "dog vet exam",
+      "category": "Safety",
+      "subtopic": "Identification Technology",
+      "unique_fact": "Canine microchips utilize passive radio-frequency identification encased in biocompatible silicate glass.",
+      "angle": "Action",
+      "region": "Global",
+      "development_stage": "Adult",
+      "search_query": "dog vet exam",
+      "id": "aq_1791533041_0",
+      "status": "uploaded",
+      "locked_at": "2026-10-09T08:04:01.816330Z",
+      "used_at": "2026-10-09T08:05:52.241226Z",
+      "video_id": "8-2Zorl0GX8",
+      "original_title": "Why You Should Microchip With Your Dog",
+      "hook_score": 0.0,
+      "hook_title_score": 0,
+      "hook_opening_score": 0,
+      "video_ids": [
+        36215085
+      ],
+      "local_filenames": [],
+      "scheduled_for": "2026-10-09T19:00:00Z"
+    },
+    {
+      "topic": "Theobromine Hepatic Clearance",
+      "title": "Understanding Dog Theobromine Hepatic Clearance",
+      "hook_framework": "Warning",
+      "script": "Your dog actually metabolizes chocolate compounds four times slower than humans. Their liver lacks key enzymes, so theobromine accumulates easily. Did you know this fact?",
+      "video_search_query": "dog resting kitchen",
+      "category": "Toxicology",
+      "subtopic": "Hepatic Metabolism",
+      "unique_fact": "Canine liver enzymes metabolize theobromine at a fraction of the rate seen in humans, causing prolonged systemic accumulation.",
+      "angle": "Science",
+      "region": "Global",
+      "development_stage": "Adult",
+      "search_query": "dog resting kitchen",
+      "id": "aq_1791533041_1",
+      "status": "pending",
+      "locked_at": null,
+      "used_at": null,
+      "video_id": null,
+      "original_title": "The Fascinating Reason Dogs Avoid Cocoa",
+      "hook_score": 10.0,
+      "hook_title_score": 20,
+      "hook_opening_score": 0
     }
   ]
 }

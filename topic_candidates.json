@@ -1,14 +1,9 @@
 {
-  "generated_at": "2026-10-03T07:03:45.722382Z",
+  "generated_at": "2026-10-09T07:58:44.270430Z",
   "top_candidates": [
     {
       "topic": "Frenetic Random Activity Periods",
       "score": 100,
-      "category": "dog_facts"
-    },
-    {
-      "topic": "Canine Deep Sighing Meaning",
-      "score": 90,
       "category": "dog_facts"
     },
     {
@@ -42,14 +37,19 @@
       "category": "dog_owner_tips"
     },
     {
-      "topic": "The Truth About Dog health facts",
+      "topic": "The Truth About Dog owner tips",
       "score": 64,
-      "category": "dog_health"
+      "category": "dog_owner_tips"
     },
     {
-      "topic": "Dog health facts Most People Don't Know",
+      "topic": "Dog owner tips Most People Don't Know",
       "score": 64,
-      "category": "dog_health"
+      "category": "dog_owner_tips"
+    },
+    {
+      "topic": "The Truth About Dog life hacks",
+      "score": 64,
+      "category": "dog_owner_tips"
     }
   ]
 }

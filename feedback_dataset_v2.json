@@ -1,9 +1,9 @@
 {
   "feedback_version": 2,
-  "generated_at": "2026-10-03T07:03:45.662844Z",
+  "generated_at": "2026-10-09T07:58:44.206695Z",
   "channel": "ch_dogs_en",
   "metadata": {
-    "total_videos_analyzed": 53,
+    "total_videos_analyzed": 54,
     "analytics_api_available": true,
     "cgs_mode": "beta",
     "data_freshness_hours": 72,
@@ -13,81 +13,81 @@
     {
       "topic": "Bed Circling Trampling Instinct",
       "category": "Behavior",
-      "cgs": 76.52,
+      "cgs": 76.02,
       "ctr": 1219.0,
       "apv": 65.32,
       "avd": 11.0,
       "views": 1219
     },
     {
-      "topic": "Canine Piloerection Reflex",
-      "category": "Dermatology",
-      "cgs": 75.76,
-      "ctr": 584.0,
-      "apv": 73.14,
-      "avd": 11.0,
-      "views": 585
-    },
-    {
       "topic": "Frenetic Random Activity Periods",
       "category": "Behavior",
-      "cgs": 75.45,
+      "cgs": 75.42,
       "ctr": 1299.0,
       "apv": 61.6,
       "avd": 9.0,
       "views": 1299
     },
     {
+      "topic": "Canine Piloerection Reflex",
+      "category": "Dermatology",
+      "cgs": 75.37,
+      "ctr": 586.0,
+      "apv": 72.85,
+      "avd": 11.0,
+      "views": 586
+    },
+    {
+      "topic": "Autonomic Nervous System Shake-Off",
+      "category": "Neurobiology",
+      "cgs": 74.58,
+      "ctr": 1118.0,
+      "apv": 70.82,
+      "avd": 10.0,
+      "views": 1118
+    },
+    {
       "topic": "Canine Gorge Feeding Elasticity",
       "category": "Digestion",
-      "cgs": 73.94,
+      "cgs": 73.62,
       "ctr": 792.0,
       "apv": 68.16,
       "avd": 10.0,
       "views": 792
-    },
-    {
-      "topic": "Canine Deep Sighing Meaning",
-      "category": "Behavior",
-      "cgs": 73.11,
-      "ctr": 1053.0,
-      "apv": 69.66,
-      "avd": 11.0,
-      "views": 1053
     }
   ],
   "losing_topics": [
     {
       "topic": "Grape Toxicity in Canine Nutrition",
       "category": "Nutrition",
-      "cgs": 50.29,
+      "cgs": 50.24,
       "ctr": 75.0,
       "apv": 45.33,
       "avd": 6.0,
       "views": 75
     },
     {
+      "topic": "Canine Heat Exhaustion Panting Limits",
+      "category": "Health",
+      "cgs": 49.82,
+      "ctr": 19.0,
+      "apv": 46.14,
+      "avd": 7.0,
+      "views": 19
+    },
+    {
       "topic": "Canine Play Bow Communication",
       "category": "Body Language",
-      "cgs": 48.2,
+      "cgs": 48.16,
       "ctr": 44.0,
       "apv": 45.81,
       "avd": 7.0,
       "views": 44
     },
     {
-      "topic": "Canine Heat Exhaustion Panting Limits",
-      "category": "Health",
-      "cgs": 47.84,
-      "ctr": 17.0,
-      "apv": 39.11,
-      "avd": 6.0,
-      "views": 19
-    },
-    {
       "topic": "Canine Vestigial Clavicle",
       "category": "Anatomy",
-      "cgs": 45.55,
+      "cgs": 45.46,
       "ctr": 68.0,
       "apv": 37.76,
       "avd": 6.0,
@@ -96,7 +96,7 @@
     {
       "topic": "Canine Paw Pad Thermoregulation",
       "category": "Physiology",
-      "cgs": 42.4,
+      "cgs": 42.37,
       "ctr": 10.0,
       "apv": 44.51,
       "avd": 7.0,
@@ -107,12 +107,12 @@
   "winning_hook_patterns": [],
   "toxic_combinations": [],
   "growth_signals": {
-    "total_subscribers_gained": 50,
+    "total_subscribers_gained": 52,
     "growth_trend": "growing"
   },
   "exploration_ratio": {
     "reinforce_pct": 80,
     "explore_pct": 20,
-    "adjusted_by": "low_cgs_average_63.7"
+    "adjusted_by": "low_cgs_average_66.8"
   }
 }
