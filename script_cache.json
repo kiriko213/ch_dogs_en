@@ -1,7 +1,7 @@
 {
   "channel": "ch_dogs_en",
   "schema_version": 2,
-  "updated_at": "2026-10-09T08:05:52.241822Z",
+  "updated_at": "2026-10-09T11:54:53.323500Z",
   "items": [
     {
       "topic": "Dog episodic memory",
@@ -1532,14 +1532,19 @@
       "development_stage": "Adult",
       "search_query": "dog resting kitchen",
       "id": "aq_1791533041_1",
-      "status": "pending",
-      "locked_at": null,
-      "used_at": null,
-      "video_id": null,
+      "status": "uploaded",
+      "locked_at": "2026-10-09T11:53:05.419386Z",
+      "used_at": "2026-10-09T11:54:53.322040Z",
+      "video_id": "9xtIFkUKs1Q",
       "original_title": "The Fascinating Reason Dogs Avoid Cocoa",
       "hook_score": 10.0,
       "hook_title_score": 20,
-      "hook_opening_score": 0
+      "hook_opening_score": 0,
+      "video_ids": [
+        18216633
+      ],
+      "local_filenames": [],
+      "scheduled_for": "2026-10-09T19:00:00Z"
     }
   ]
 }

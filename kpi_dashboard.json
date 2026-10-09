@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-10-09T08:05:52.246758Z",
+  "generated_at": "2026-10-09T11:54:53.331881Z",
   "kpis": {
-    "uploads": 54,
-    "views": 30764,
-    "ctr_average": 569.5,
+    "uploads": 55,
+    "views": 30765,
+    "ctr_average": 569.48,
     "apv_average": 60.42,
     "subscribers_gained": 52,
-    "cgs_average": 62.05,
+    "cgs_average": 61.16,
     "top_topics": [
       "Bed Circling Trampling Instinct",
-      "Frenetic Random Activity Periods",
-      "Canine Piloerection Reflex"
+      "Canine Piloerection Reflex",
+      "Frenetic Random Activity Periods"
     ],
     "top_titles": [
-      "Why Your Dog Frenetic Random Activity Periods",
       "Understanding Dog Canine Paw Pad Thermoregulation",
-      "Understanding Dog Canine Rem Sleep Dynamics"
+      "Understanding Dog Canine Rem Sleep Dynamics",
+      "Why Your Dog Canine Play Bow Communication"
     ]
   },
   "production_metrics": {
-    "success_rate_percent": 77.14,
-    "failure_rate_percent": 22.86,
-    "retry_rate_percent": 12.86,
-    "upload_latency_seconds": 5.2,
-    "generation_latency_seconds": 104.89
+    "success_rate_percent": 77.46,
+    "failure_rate_percent": 22.54,
+    "retry_rate_percent": 12.68,
+    "upload_latency_seconds": 4.55,
+    "generation_latency_seconds": 103.1
   },
   "warnings": []
 }

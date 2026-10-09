@@ -1,15 +1,6 @@
 {
   "items": [
     {
-      "video_id": "OJFt1ByU_FA",
-      "title": "Why Your Dog Frenetic Random Activity Periods",
-      "ctr": 0.0,
-      "apv": 0.0,
-      "subscribers_gained": 0,
-      "performance_score": 0.0,
-      "recorded_at": "2026-08-02T07:44:18.082351Z"
-    },
-    {
       "video_id": "7v1QhfHpoOY",
       "title": "Understanding Dog Canine Paw Pad Thermoregulation",
       "ctr": 0.0,
@@ -449,6 +440,15 @@
       "subscribers_gained": 0,
       "performance_score": 0.0,
       "recorded_at": "2026-10-09T08:05:52.244333Z"
+    },
+    {
+      "video_id": "9xtIFkUKs1Q",
+      "title": "Understanding Dog Theobromine Hepatic Clearance",
+      "ctr": 0.0,
+      "apv": 0.0,
+      "subscribers_gained": 0,
+      "performance_score": 0.0,
+      "recorded_at": "2026-10-09T11:54:53.328284Z"
     }
   ]
 }
