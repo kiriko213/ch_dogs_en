@@ -1,15 +1,5 @@
 [
   {
-    "title": "Understanding Dog Canine Heartbeat Synchronization",
-    "topic": "Canine Heartbeat Synchronization",
-    "script_content": "When you gently pet your dog, your heart rates can align naturally. This soothing physiological sync lowers stress for both of you instantly. Does your dog cuddle often?",
-    "video_ids": [
-      35390209
-    ],
-    "local_filenames": [],
-    "timestamp": "2026-08-13T06:48:32.021547"
-  },
-  {
     "title": "Why Your Dog Canine Social Allogrooming",
     "topic": "Canine Social Allogrooming",
     "script_content": "When your dog licks your hands, they are sharing affection. Grooming you releases soothing endorphins that strengthen your emotional connection. Does your dog lick your hands?",
@@ -198,5 +188,15 @@
     ],
     "local_filenames": [],
     "timestamp": "2026-10-10T07:54:27.879014"
+  },
+  {
+    "title": "Understanding Dog Canine Resource Caching Instinct",
+    "topic": "Canine Resource Caching Instinct",
+    "script_content": "When your dog buries toys, they are following an ancient wild survival instinct. Hoarding prized items keeps valuables secure. Where does your dog hide treasures?",
+    "video_ids": [
+      7481862
+    ],
+    "local_filenames": [],
+    "timestamp": "2026-10-10T11:11:20.092035"
   }
 ]

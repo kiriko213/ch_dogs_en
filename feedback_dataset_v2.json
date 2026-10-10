@@ -1,9 +1,9 @@
 {
   "feedback_version": 2,
-  "generated_at": "2026-10-10T07:43:00.306672Z",
+  "generated_at": "2026-10-10T11:09:29.963846Z",
   "channel": "ch_dogs_en",
   "metadata": {
-    "total_videos_analyzed": 56,
+    "total_videos_analyzed": 57,
     "analytics_api_available": true,
     "cgs_mode": "beta",
     "data_freshness_hours": 72,
@@ -13,7 +13,7 @@
     {
       "topic": "Bed Circling Trampling Instinct",
       "category": "Behavior",
-      "cgs": 75.95,
+      "cgs": 75.94,
       "ctr": 1219.0,
       "apv": 65.32,
       "avd": 11.0,
@@ -31,7 +31,7 @@
     {
       "topic": "Canine Piloerection Reflex",
       "category": "Dermatology",
-      "cgs": 75.27,
+      "cgs": 75.34,
       "ctr": 586.0,
       "apv": 72.85,
       "avd": 11.0,
@@ -40,7 +40,7 @@
     {
       "topic": "Autonomic Nervous System Shake-Off",
       "category": "Neurobiology",
-      "cgs": 74.38,
+      "cgs": 74.51,
       "ctr": 1117.0,
       "apv": 70.89,
       "avd": 10.0,
@@ -49,7 +49,7 @@
     {
       "topic": "Canine Gorge Feeding Elasticity",
       "category": "Digestion",
-      "cgs": 73.5,
+      "cgs": 73.6,
       "ctr": 792.0,
       "apv": 68.16,
       "avd": 10.0,
@@ -58,18 +58,9 @@
   ],
   "losing_topics": [
     {
-      "topic": "Canine Microchipping Biocompatibility",
-      "category": "Safety",
-      "cgs": 49.86,
-      "ctr": null,
-      "apv": null,
-      "avd": null,
-      "views": 372
-    },
-    {
       "topic": "Canine Heat Exhaustion Panting Limits",
       "category": "Health",
-      "cgs": 49.75,
+      "cgs": 49.74,
       "ctr": 19.0,
       "apv": 46.14,
       "avd": 7.0,
@@ -101,6 +92,15 @@
       "apv": 44.51,
       "avd": 7.0,
       "views": 10
+    },
+    {
+      "topic": "Canine Salivary Amylase Absence",
+      "category": "Dental",
+      "cgs": 10.0,
+      "ctr": null,
+      "apv": null,
+      "avd": null,
+      "views": 0
     }
   ],
   "winning_title_patterns": [],
@@ -113,6 +113,6 @@
   "exploration_ratio": {
     "reinforce_pct": 80,
     "explore_pct": 20,
-    "adjusted_by": "low_cgs_average_62.7"
+    "adjusted_by": "low_cgs_average_42.2"
   }
 }

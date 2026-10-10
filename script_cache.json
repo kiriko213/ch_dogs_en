@@ -1,7 +1,7 @@
 {
   "channel": "ch_dogs_en",
   "schema_version": 2,
-  "updated_at": "2026-10-10T07:54:27.879512Z",
+  "updated_at": "2026-10-10T11:11:20.092787Z",
   "items": [
     {
       "topic": "Dog episodic memory",
@@ -1588,14 +1588,19 @@
       "development_stage": "Adult",
       "search_query": "dog playing toys",
       "id": "aq_1791618808_1",
-      "status": "pending",
-      "locked_at": null,
-      "used_at": null,
-      "video_id": null,
+      "status": "uploaded",
+      "locked_at": "2026-10-10T11:09:30.034887Z",
+      "used_at": "2026-10-10T11:11:20.092014Z",
+      "video_id": "QTSD7gZ7g3A",
       "original_title": "What Your Dog's Hiding Really Means",
       "hook_score": 10.0,
       "hook_title_score": 20,
-      "hook_opening_score": 0
+      "hook_opening_score": 0,
+      "video_ids": [
+        7481862
+      ],
+      "local_filenames": [],
+      "scheduled_for": "2026-10-10T19:00:00Z"
     }
   ]
 }

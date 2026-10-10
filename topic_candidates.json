@@ -1,9 +1,14 @@
 {
-  "generated_at": "2026-10-10T07:43:00.339624Z",
+  "generated_at": "2026-10-10T11:09:30.031592Z",
   "top_candidates": [
     {
       "topic": "Frenetic Random Activity Periods",
       "score": 100,
+      "category": "dog_facts"
+    },
+    {
+      "topic": "Canine Piloerection Reflex",
+      "score": 90,
       "category": "dog_facts"
     },
     {
@@ -37,19 +42,14 @@
       "category": "dog_owner_tips"
     },
     {
-      "topic": "The Truth About Dog owner tips",
+      "topic": "The Truth About Dog health facts",
       "score": 64,
-      "category": "dog_owner_tips"
+      "category": "dog_health"
     },
     {
-      "topic": "Dog owner tips Most People Don't Know",
+      "topic": "Dog health facts Most People Don't Know",
       "score": 64,
-      "category": "dog_owner_tips"
-    },
-    {
-      "topic": "The Truth About Dog life hacks",
-      "score": 64,
-      "category": "dog_owner_tips"
+      "category": "dog_health"
     }
   ]
 }
