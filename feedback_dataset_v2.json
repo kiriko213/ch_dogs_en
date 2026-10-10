@@ -1,9 +1,9 @@
 {
   "feedback_version": 2,
-  "generated_at": "2026-10-10T11:09:29.963846Z",
+  "generated_at": "2026-10-10T17:19:30.239020Z",
   "channel": "ch_dogs_en",
   "metadata": {
-    "total_videos_analyzed": 57,
+    "total_videos_analyzed": 58,
     "analytics_api_available": true,
     "cgs_mode": "beta",
     "data_freshness_hours": 72,
@@ -13,11 +13,20 @@
     {
       "topic": "Bed Circling Trampling Instinct",
       "category": "Behavior",
-      "cgs": 75.94,
+      "cgs": 75.92,
       "ctr": 1219.0,
       "apv": 65.32,
       "avd": 11.0,
       "views": 1220
+    },
+    {
+      "topic": "Canine Piloerection Reflex",
+      "category": "Dermatology",
+      "cgs": 75.43,
+      "ctr": 586.0,
+      "apv": 72.85,
+      "avd": 11.0,
+      "views": 587
     },
     {
       "topic": "Frenetic Random Activity Periods",
@@ -29,18 +38,9 @@
       "views": 1299
     },
     {
-      "topic": "Canine Piloerection Reflex",
-      "category": "Dermatology",
-      "cgs": 75.34,
-      "ctr": 586.0,
-      "apv": 72.85,
-      "avd": 11.0,
-      "views": 587
-    },
-    {
       "topic": "Autonomic Nervous System Shake-Off",
       "category": "Neurobiology",
-      "cgs": 74.51,
+      "cgs": 74.62,
       "ctr": 1117.0,
       "apv": 70.89,
       "avd": 10.0,
@@ -49,7 +49,7 @@
     {
       "topic": "Canine Gorge Feeding Elasticity",
       "category": "Digestion",
-      "cgs": 73.6,
+      "cgs": 73.72,
       "ctr": 792.0,
       "apv": 68.16,
       "avd": 10.0,
@@ -58,18 +58,9 @@
   ],
   "losing_topics": [
     {
-      "topic": "Canine Heat Exhaustion Panting Limits",
-      "category": "Health",
-      "cgs": 49.74,
-      "ctr": 19.0,
-      "apv": 46.14,
-      "avd": 7.0,
-      "views": 21
-    },
-    {
       "topic": "Canine Play Bow Communication",
       "category": "Body Language",
-      "cgs": 48.15,
+      "cgs": 48.16,
       "ctr": 44.0,
       "apv": 45.81,
       "avd": 7.0,
@@ -78,7 +69,7 @@
     {
       "topic": "Canine Vestigial Clavicle",
       "category": "Anatomy",
-      "cgs": 45.45,
+      "cgs": 45.46,
       "ctr": 68.0,
       "apv": 37.76,
       "avd": 6.0,
@@ -94,9 +85,18 @@
       "views": 10
     },
     {
+      "topic": "Canine Resource Caching Instinct",
+      "category": "Behavior",
+      "cgs": 10.0,
+      "ctr": null,
+      "apv": null,
+      "avd": null,
+      "views": 0
+    },
+    {
       "topic": "Canine Salivary Amylase Absence",
       "category": "Dental",
-      "cgs": 10.0,
+      "cgs": 9.88,
       "ctr": null,
       "apv": null,
       "avd": null,
@@ -113,6 +113,6 @@
   "exploration_ratio": {
     "reinforce_pct": 80,
     "explore_pct": 20,
-    "adjusted_by": "low_cgs_average_42.2"
+    "adjusted_by": "low_cgs_average_27.8"
   }
 }

@@ -1,7 +1,7 @@
 {
   "channel": "ch_dogs_en",
   "schema_version": 2,
-  "updated_at": "2026-10-10T11:11:20.092787Z",
+  "updated_at": "2026-10-10T17:29:14.490387Z",
   "items": [
     {
       "topic": "Dog episodic memory",
@@ -1601,6 +1601,57 @@
       ],
       "local_filenames": [],
       "scheduled_for": "2026-10-10T19:00:00Z"
+    },
+    {
+      "topic": "Canine Umbilical Scar Anatomy",
+      "title": "Why Your Dog Canine Umbilical Scar Anatomy",
+      "hook_framework": "Secret Meaning",
+      "script": "Your dog actually has a belly button. That subtle flat tummy seam marks where maternal nutrients entered. Can you find your dog's navel?",
+      "video_search_query": "happy dog",
+      "category": "Development",
+      "subtopic": "Physical Landmarks",
+      "unique_fact": "All dogs have a belly button that heals as a flat, inconspicuous fibrous seam rather than an indented knot.",
+      "angle": "Science",
+      "region": "Global",
+      "development_stage": "Adult",
+      "search_query": "happy dog",
+      "id": "aq_1791653256_0",
+      "status": "uploaded",
+      "locked_at": "2026-10-10T17:27:36.442863Z",
+      "used_at": "2026-10-10T17:29:14.489562Z",
+      "video_id": "eS7QqU_7DwM",
+      "original_title": "Why You Should Check Your Dog's Belly",
+      "hook_score": 10.0,
+      "hook_title_score": 20,
+      "hook_opening_score": 0,
+      "video_ids": [
+        29174972
+      ],
+      "local_filenames": [],
+      "scheduled_for": "2026-10-10T19:00:00Z"
+    },
+    {
+      "topic": "Canine Domestication Neural Crest Changes",
+      "title": "Why Your Dog Canine Domestication Neural Crest Changes",
+      "hook_framework": "Curiosity Gap",
+      "script": "Your dog actually grew fur patches through domestication. Ancient tameness slowed embryonic stem cells, creating light spots. Does your dog have white patches?",
+      "video_search_query": "dog playing",
+      "category": "Genetics",
+      "subtopic": "Coat Pigmentation",
+      "unique_fact": "Selecting for tameness in ancient canines altered neural crest cell migration, creating signature piebald coat patches.",
+      "angle": "Evolution",
+      "region": "Global",
+      "development_stage": "Adult",
+      "search_query": "dog playing",
+      "id": "aq_1791653256_1",
+      "status": "pending",
+      "locked_at": null,
+      "used_at": null,
+      "video_id": null,
+      "original_title": "The Fascinating Reason Dogs Have Spots",
+      "hook_score": 0.0,
+      "hook_title_score": 0,
+      "hook_opening_score": 0
     }
   ]
 }

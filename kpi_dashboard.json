@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-10-10T11:11:20.100276Z",
+  "generated_at": "2026-10-10T17:29:14.495134Z",
   "kpis": {
-    "uploads": 57,
+    "uploads": 58,
     "views": 32440,
     "ctr_average": 569.56,
     "apv_average": 60.41,
     "subscribers_gained": 52,
-    "cgs_average": 61.0,
+    "cgs_average": 60.17,
     "top_topics": [
       "Bed Circling Trampling Instinct",
-      "Frenetic Random Activity Periods",
-      "Canine Piloerection Reflex"
+      "Canine Piloerection Reflex",
+      "Frenetic Random Activity Periods"
     ],
     "top_titles": [
-      "Why Your Dog Canine Play Bow Communication",
       "Understanding Dog Dog Reward Association Timing",
-      "The Reason Dogs Have 42 Teeth"
+      "The Reason Dogs Have 42 Teeth",
+      "Understanding Dog Canine Starch Digestion"
     ]
   },
   "production_metrics": {
-    "success_rate_percent": 78.08,
-    "failure_rate_percent": 21.92,
-    "retry_rate_percent": 12.33,
-    "upload_latency_seconds": 4.98,
-    "generation_latency_seconds": 104.76
+    "success_rate_percent": 78.38,
+    "failure_rate_percent": 21.62,
+    "retry_rate_percent": 12.16,
+    "upload_latency_seconds": 5.05,
+    "generation_latency_seconds": 92.93
   },
   "warnings": []
 }
