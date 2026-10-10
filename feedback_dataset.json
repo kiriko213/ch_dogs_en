@@ -1,67 +1,67 @@
 {
   "feedback_version": 1,
-  "generated_at": "2026-10-09T11:53:04.343874Z",
+  "generated_at": "2026-10-10T07:42:58.680538Z",
   "top_topics": [
+    {
+      "topic": "Theobromine Hepatic Clearance",
+      "category": "Toxicology",
+      "score": 66.64,
+      "views": 1190
+    },
     {
       "topic": "Bed Circling Trampling Instinct",
       "category": "Behavior",
-      "score": 58.05,
-      "views": 1219
+      "score": 57.81,
+      "views": 1220
     },
     {
       "topic": "Autonomic Nervous System Shake-Off",
       "category": "Neurobiology",
-      "score": 54.72,
-      "views": 1118
+      "score": 53.18,
+      "views": 1122
+    },
+    {
+      "topic": "Canine Microchipping Biocompatibility",
+      "category": "Safety",
+      "score": 52.48,
+      "views": 372
     },
     {
       "topic": "Dog Paddle Biomechanics",
       "category": "Locomotion",
-      "score": 50.84,
+      "score": 50.83,
       "views": 1305
-    },
-    {
-      "topic": "Canine Heartbeat Synchronization",
-      "category": "Psychology",
-      "score": 50.48,
-      "views": 1336
-    },
-    {
-      "topic": "Canine Social Allogrooming",
-      "category": "Social Bonding",
-      "score": 50.26,
-      "views": 908
     }
   ],
   "underperforming_topics": [
     {
       "topic": "Canine Masticatory Safety",
       "category": "Care",
-      "score": 4.29,
+      "score": 4.15,
       "views": 101
     },
     {
       "topic": "Canine Vestigial Clavicle",
       "category": "Anatomy",
-      "score": 3.26,
+      "score": 3.15,
       "views": 68
     },
     {
       "topic": "Canine Permanent Dental Structure",
       "category": "Anatomy",
-      "score": 2.42,
+      "score": 2.34,
       "views": 57
     },
     {
       "topic": "Canine Play Bow Communication",
       "category": "Body Language",
-      "score": 1.94,
+      "score": 1.87,
       "views": 44
     },
     {
       "topic": "Canine Paw Pad Thermoregulation",
       "category": "Physiology",
-      "score": 0.72,
+      "score": 0.69,
       "views": 10
     }
   ]

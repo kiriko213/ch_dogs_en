@@ -1,9 +1,9 @@
 {
   "feedback_version": 2,
-  "generated_at": "2026-10-09T11:53:05.306933Z",
+  "generated_at": "2026-10-10T07:43:00.306672Z",
   "channel": "ch_dogs_en",
   "metadata": {
-    "total_videos_analyzed": 55,
+    "total_videos_analyzed": 56,
     "analytics_api_available": true,
     "cgs_mode": "beta",
     "data_freshness_hours": 72,
@@ -13,63 +13,72 @@
     {
       "topic": "Bed Circling Trampling Instinct",
       "category": "Behavior",
-      "cgs": 76.01,
+      "cgs": 75.95,
       "ctr": 1219.0,
       "apv": 65.32,
       "avd": 11.0,
-      "views": 1219
-    },
-    {
-      "topic": "Canine Piloerection Reflex",
-      "category": "Dermatology",
-      "cgs": 75.46,
-      "ctr": 586.0,
-      "apv": 72.85,
-      "avd": 11.0,
-      "views": 586
+      "views": 1220
     },
     {
       "topic": "Frenetic Random Activity Periods",
       "category": "Behavior",
-      "cgs": 75.42,
+      "cgs": 75.41,
       "ctr": 1299.0,
       "apv": 61.6,
       "avd": 9.0,
       "views": 1299
     },
     {
+      "topic": "Canine Piloerection Reflex",
+      "category": "Dermatology",
+      "cgs": 75.27,
+      "ctr": 586.0,
+      "apv": 72.85,
+      "avd": 11.0,
+      "views": 587
+    },
+    {
       "topic": "Autonomic Nervous System Shake-Off",
       "category": "Neurobiology",
-      "cgs": 74.76,
+      "cgs": 74.38,
       "ctr": 1117.0,
       "apv": 70.89,
       "avd": 10.0,
-      "views": 1118
+      "views": 1122
     },
     {
       "topic": "Canine Gorge Feeding Elasticity",
       "category": "Digestion",
-      "cgs": 73.74,
+      "cgs": 73.5,
       "ctr": 792.0,
       "apv": 68.16,
       "avd": 10.0,
-      "views": 792
+      "views": 793
     }
   ],
   "losing_topics": [
     {
+      "topic": "Canine Microchipping Biocompatibility",
+      "category": "Safety",
+      "cgs": 49.86,
+      "ctr": null,
+      "apv": null,
+      "avd": null,
+      "views": 372
+    },
+    {
       "topic": "Canine Heat Exhaustion Panting Limits",
       "category": "Health",
-      "cgs": 49.81,
+      "cgs": 49.75,
       "ctr": 19.0,
       "apv": 46.14,
       "avd": 7.0,
-      "views": 19
+      "views": 21
     },
     {
       "topic": "Canine Play Bow Communication",
       "category": "Body Language",
-      "cgs": 48.16,
+      "cgs": 48.15,
       "ctr": 44.0,
       "apv": 45.81,
       "avd": 7.0,
@@ -78,7 +87,7 @@
     {
       "topic": "Canine Vestigial Clavicle",
       "category": "Anatomy",
-      "cgs": 45.47,
+      "cgs": 45.45,
       "ctr": 68.0,
       "apv": 37.76,
       "avd": 6.0,
@@ -87,20 +96,11 @@
     {
       "topic": "Canine Paw Pad Thermoregulation",
       "category": "Physiology",
-      "cgs": 42.37,
+      "cgs": 42.36,
       "ctr": 10.0,
       "apv": 44.51,
       "avd": 7.0,
       "views": 10
-    },
-    {
-      "topic": "Canine Microchipping Biocompatibility",
-      "category": "Safety",
-      "cgs": 9.5,
-      "ctr": null,
-      "apv": null,
-      "avd": null,
-      "views": 0
     }
   ],
   "winning_title_patterns": [],
@@ -113,6 +113,6 @@
   "exploration_ratio": {
     "reinforce_pct": 80,
     "explore_pct": 20,
-    "adjusted_by": "low_cgs_average_44.7"
+    "adjusted_by": "low_cgs_average_62.7"
   }
 }

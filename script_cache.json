@@ -1,7 +1,7 @@
 {
   "channel": "ch_dogs_en",
   "schema_version": 2,
-  "updated_at": "2026-10-09T11:54:53.323500Z",
+  "updated_at": "2026-10-10T07:54:27.879512Z",
   "items": [
     {
       "topic": "Dog episodic memory",
@@ -1545,6 +1545,57 @@
       ],
       "local_filenames": [],
       "scheduled_for": "2026-10-09T19:00:00Z"
+    },
+    {
+      "topic": "Canine Salivary Amylase Absence",
+      "title": "Understanding Dog Canine Salivary Amylase Absence",
+      "hook_framework": "Myth vs Fact",
+      "script": "To protect your dog's teeth, brush them gently every week. Dog saliva lacks digestive enzymes, allowing rapid mineral buildup. Do you brush their teeth?",
+      "video_search_query": "dog owner",
+      "category": "Dental",
+      "subtopic": "Hygiene",
+      "unique_fact": "Canine saliva contains no salivary amylase and has an alkaline pH that accelerates calculus formation",
+      "angle": "Action",
+      "region": "Global",
+      "development_stage": "Adult",
+      "search_query": "dog owner",
+      "id": "aq_1791618808_0",
+      "status": "uploaded",
+      "locked_at": "2026-10-10T07:53:28.234233Z",
+      "used_at": "2026-10-10T07:54:27.878996Z",
+      "video_id": "Mryeit7s-zs",
+      "original_title": "Why You Should Brush Dog Teeth Daily",
+      "hook_score": 10.0,
+      "hook_title_score": 20,
+      "hook_opening_score": 0,
+      "video_ids": [
+        27875229
+      ],
+      "local_filenames": [],
+      "scheduled_for": "2026-10-10T19:00:00Z"
+    },
+    {
+      "topic": "Canine Resource Caching Instinct",
+      "title": "Understanding Dog Canine Resource Caching Instinct",
+      "hook_framework": "Secret Meaning",
+      "script": "When your dog buries toys, they are following an ancient wild survival instinct. Hoarding prized items keeps valuables secure. Where does your dog hide treasures?",
+      "video_search_query": "dog playing toys",
+      "category": "Behavior",
+      "subtopic": "Instinct",
+      "unique_fact": "Dogs hide toys or food items due to an ancient caching drive meant to conceal surplus resources from rival scavengers.",
+      "angle": "Evolution",
+      "region": "Global",
+      "development_stage": "Adult",
+      "search_query": "dog playing toys",
+      "id": "aq_1791618808_1",
+      "status": "pending",
+      "locked_at": null,
+      "used_at": null,
+      "video_id": null,
+      "original_title": "What Your Dog's Hiding Really Means",
+      "hook_score": 10.0,
+      "hook_title_score": 20,
+      "hook_opening_score": 0
     }
   ]
 }
