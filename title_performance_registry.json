@@ -1,15 +1,6 @@
 {
   "items": [
     {
-      "video_id": "lRQ5hyKnc0c",
-      "title": "Understanding Dog Canine Starch Digestion",
-      "ctr": 0.0,
-      "apv": 0.0,
-      "subscribers_gained": 0,
-      "performance_score": 0.0,
-      "recorded_at": "2026-08-04T07:50:01.282483Z"
-    },
-    {
       "video_id": "b1CnFm706_c",
       "title": "Understanding Dog Physical Weight Leaning Behavior",
       "ctr": 0.0,
@@ -449,6 +440,15 @@
       "subscribers_gained": 0,
       "performance_score": 0.0,
       "recorded_at": "2026-10-11T11:39:50.410895Z"
+    },
+    {
+      "video_id": "6U29jDi-DJc",
+      "title": "Why Your Dog Canine Splenic Erythrocyte Contraction",
+      "ctr": 0.0,
+      "apv": 0.0,
+      "subscribers_gained": 0,
+      "performance_score": 0.0,
+      "recorded_at": "2026-10-11T17:42:36.656484Z"
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "feedback_version": 2,
-  "generated_at": "2026-10-11T11:23:43.140607Z",
+  "generated_at": "2026-10-11T17:40:45.121789Z",
   "channel": "ch_dogs_en",
   "metadata": {
-    "total_videos_analyzed": 60,
+    "total_videos_analyzed": 61,
     "analytics_api_available": true,
     "cgs_mode": "beta",
     "data_freshness_hours": 72,
@@ -13,7 +13,7 @@
     {
       "topic": "Bed Circling Trampling Instinct",
       "category": "Behavior",
-      "cgs": 75.87,
+      "cgs": 75.85,
       "ctr": 1219.0,
       "apv": 65.32,
       "avd": 11.0,
@@ -22,7 +22,7 @@
     {
       "topic": "Canine Piloerection Reflex",
       "category": "Dermatology",
-      "cgs": 75.59,
+      "cgs": 75.67,
       "ctr": 586.0,
       "apv": 72.85,
       "avd": 11.0,
@@ -40,7 +40,7 @@
     {
       "topic": "Autonomic Nervous System Shake-Off",
       "category": "Neurobiology",
-      "cgs": 74.54,
+      "cgs": 74.51,
       "ctr": 1118.0,
       "apv": 70.89,
       "avd": 10.0,
@@ -49,7 +49,7 @@
     {
       "topic": "Canine Gorge Feeding Elasticity",
       "category": "Digestion",
-      "cgs": 73.94,
+      "cgs": 74.05,
       "ctr": 792.0,
       "apv": 68.16,
       "avd": 10.0,
@@ -58,27 +58,18 @@
   ],
   "losing_topics": [
     {
-      "topic": "Canine Paw Pad Thermoregulation",
-      "category": "Physiology",
-      "cgs": 42.36,
-      "ctr": 10.0,
-      "apv": 44.51,
-      "avd": 7.0,
-      "views": 10
-    },
-    {
       "topic": "Canine Umbilical Scar Anatomy",
       "category": "Development",
-      "cgs": 10.87,
+      "cgs": 10.85,
       "ctr": null,
       "apv": null,
       "avd": null,
-      "views": 27
+      "views": 29
     },
     {
-      "topic": "Canine Resource Caching Instinct",
-      "category": "Behavior",
-      "cgs": 9.65,
+      "topic": "Canine Sebaceous Fur Coating",
+      "category": "Dermatology",
+      "cgs": 10.0,
       "ctr": null,
       "apv": null,
       "avd": null,
@@ -87,16 +78,25 @@
     {
       "topic": "Canine Salivary Amylase Absence",
       "category": "Dental",
-      "cgs": 9.64,
+      "cgs": 9.56,
       "ctr": null,
       "apv": null,
       "avd": null,
-      "views": 3
+      "views": 4
+    },
+    {
+      "topic": "Canine Resource Caching Instinct",
+      "category": "Behavior",
+      "cgs": 9.53,
+      "ctr": null,
+      "apv": null,
+      "avd": null,
+      "views": 0
     },
     {
       "topic": "Canine Domestication Neural Crest Changes",
       "category": "Genetics",
-      "cgs": 9.5,
+      "cgs": 9.38,
       "ctr": null,
       "apv": null,
       "avd": null,
@@ -113,6 +113,6 @@
   "exploration_ratio": {
     "reinforce_pct": 80,
     "explore_pct": 20,
-    "adjusted_by": "low_cgs_average_10.0"
+    "adjusted_by": "low_cgs_average_10.1"
   }
 }

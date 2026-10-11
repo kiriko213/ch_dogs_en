@@ -1,6 +1,11 @@
 {
-  "generated_at": "2026-10-11T11:23:43.211043Z",
+  "generated_at": "2026-10-11T17:40:45.195671Z",
   "top_candidates": [
+    {
+      "topic": "Bed Circling Trampling Instinct",
+      "score": 100,
+      "category": "dog_psychology"
+    },
     {
       "topic": "Canine Piloerection Reflex",
       "score": 100,
@@ -12,44 +17,39 @@
       "category": "dog_facts"
     },
     {
-      "topic": "Canine Gorge Feeding Elasticity",
-      "score": 74,
+      "topic": "Autonomic Nervous System Shake-Off",
+      "score": 80,
       "category": "dog_facts"
     },
     {
-      "topic": "dog psychology",
+      "topic": "Canine Gorge Feeding Elasticity",
       "score": 70,
-      "category": "dog_psychology"
+      "category": "dog_facts"
     },
     {
       "topic": "dog communication",
-      "score": 64,
+      "score": 70,
       "category": "dog_communication"
     },
     {
       "topic": "amazing dog abilities",
-      "score": 64,
+      "score": 70,
       "category": "dog_intelligence"
     },
     {
       "topic": "dog health facts",
-      "score": 64,
+      "score": 70,
       "category": "dog_health"
     },
     {
       "topic": "dog owner tips",
-      "score": 64,
+      "score": 70,
       "category": "dog_owner_tips"
     },
     {
       "topic": "dog life hacks",
-      "score": 64,
+      "score": 70,
       "category": "dog_owner_tips"
-    },
-    {
-      "topic": "The Truth About Amazing dog abilities",
-      "score": 64,
-      "category": "dog_intelligence"
     }
   ]
 }

@@ -1,15 +1,5 @@
 [
   {
-    "title": "Understanding Dog Canine Rotary Gallop Biomechanics",
-    "topic": "Canine Rotary Gallop Biomechanics",
-    "script_content": "Your dog uses a special rotary gallop to sprint. Their spine flexes like a spring to propel every stride forward. How fast is your dog?",
-    "video_ids": [
-      19089752
-    ],
-    "local_filenames": [],
-    "timestamp": "2026-08-16T02:48:51.686709"
-  },
-  {
     "title": "Understanding Dog Canine Vestigial Clavicle",
     "topic": "Canine Vestigial Clavicle",
     "script_content": "Dogs actually lack a true collarbone. Their shoulder blades attach purely through flexible muscles to dramatically increase running stride length. Have you seen your dog sprint?",
@@ -198,5 +188,15 @@
     ],
     "local_filenames": [],
     "timestamp": "2026-10-11T11:39:50.407422"
+  },
+  {
+    "title": "Why Your Dog Canine Splenic Erythrocyte Contraction",
+    "topic": "Canine Splenic Erythrocyte Contraction",
+    "script_content": "Your dog actually stores reserve blood inside their spleen. During sprints, it releases oxygen to energize muscles. Does your dog love sprinting outside?",
+    "video_ids": [
+      13260790
+    ],
+    "local_filenames": [],
+    "timestamp": "2026-10-11T17:42:36.648974"
   }
 ]

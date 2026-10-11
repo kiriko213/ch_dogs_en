@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-10-11T11:39:50.413942Z",
+  "generated_at": "2026-10-11T17:42:36.659087Z",
   "kpis": {
-    "uploads": 60,
-    "views": 32469,
+    "uploads": 61,
+    "views": 32482,
     "ctr_average": 569.72,
     "apv_average": 60.42,
     "subscribers_gained": 52,
-    "cgs_average": 58.59,
+    "cgs_average": 57.83,
     "top_topics": [
       "Bed Circling Trampling Instinct",
       "Canine Piloerection Reflex",
       "Frenetic Random Activity Periods"
     ],
     "top_titles": [
-      "Understanding Dog Canine Starch Digestion",
       "Understanding Dog Physical Weight Leaning Behavior",
-      "Why Your Dog Canine Geomagnetic Orientation"
+      "Why Your Dog Canine Geomagnetic Orientation",
+      "Understanding Dog Hind Leg Sploot Posture Mechanics"
     ]
   },
   "production_metrics": {
-    "success_rate_percent": 78.95,
-    "failure_rate_percent": 21.05,
-    "retry_rate_percent": 11.84,
-    "upload_latency_seconds": 5.52,
-    "generation_latency_seconds": 95.18
+    "success_rate_percent": 79.22,
+    "failure_rate_percent": 20.78,
+    "retry_rate_percent": 11.69,
+    "upload_latency_seconds": 5.21,
+    "generation_latency_seconds": 105.86
   },
   "warnings": []
 }

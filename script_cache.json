@@ -1,7 +1,7 @@
 {
   "channel": "ch_dogs_en",
   "schema_version": 2,
-  "updated_at": "2026-10-11T11:39:50.408202Z",
+  "updated_at": "2026-10-11T17:42:36.651370Z",
   "items": [
     {
       "topic": "Dog episodic memory",
@@ -1700,14 +1700,19 @@
       "development_stage": "Adult",
       "search_query": "dog running fast",
       "id": "aq_1791718689_1",
-      "status": "pending",
-      "locked_at": null,
-      "used_at": null,
-      "video_id": null,
+      "status": "uploaded",
+      "locked_at": "2026-10-11T17:40:45.266774Z",
+      "used_at": "2026-10-11T17:42:36.648956Z",
+      "video_id": "6U29jDi-DJc",
       "original_title": "The Fascinating Reason Dogs Sprint",
       "hook_score": 0.0,
       "hook_title_score": 0,
-      "hook_opening_score": 0
+      "hook_opening_score": 0,
+      "video_ids": [
+        13260790
+      ],
+      "local_filenames": [],
+      "scheduled_for": "2026-10-11T19:00:00Z"
     },
     {
       "topic": "Canine Endogenous Ascorbate Synthesis",
