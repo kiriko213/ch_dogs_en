@@ -1,9 +1,9 @@
 {
   "feedback_version": 2,
-  "generated_at": "2026-10-11T07:47:39.300751Z",
+  "generated_at": "2026-10-11T11:23:43.140607Z",
   "channel": "ch_dogs_en",
   "metadata": {
-    "total_videos_analyzed": 59,
+    "total_videos_analyzed": 60,
     "analytics_api_available": true,
     "cgs_mode": "beta",
     "data_freshness_hours": 72,
@@ -13,7 +13,7 @@
     {
       "topic": "Bed Circling Trampling Instinct",
       "category": "Behavior",
-      "cgs": 75.88,
+      "cgs": 75.87,
       "ctr": 1219.0,
       "apv": 65.32,
       "avd": 11.0,
@@ -22,7 +22,7 @@
     {
       "topic": "Canine Piloerection Reflex",
       "category": "Dermatology",
-      "cgs": 75.5,
+      "cgs": 75.59,
       "ctr": 586.0,
       "apv": 72.85,
       "avd": 11.0,
@@ -40,7 +40,7 @@
     {
       "topic": "Autonomic Nervous System Shake-Off",
       "category": "Neurobiology",
-      "cgs": 74.55,
+      "cgs": 74.54,
       "ctr": 1118.0,
       "apv": 70.89,
       "avd": 10.0,
@@ -49,7 +49,7 @@
     {
       "topic": "Canine Gorge Feeding Elasticity",
       "category": "Digestion",
-      "cgs": 73.82,
+      "cgs": 73.94,
       "ctr": 792.0,
       "apv": 68.16,
       "avd": 10.0,
@@ -57,15 +57,6 @@
     }
   ],
   "losing_topics": [
-    {
-      "topic": "Canine Vestigial Clavicle",
-      "category": "Anatomy",
-      "cgs": 45.47,
-      "ctr": 68.0,
-      "apv": 37.76,
-      "avd": 6.0,
-      "views": 68
-    },
     {
       "topic": "Canine Paw Pad Thermoregulation",
       "category": "Physiology",
@@ -78,16 +69,16 @@
     {
       "topic": "Canine Umbilical Scar Anatomy",
       "category": "Development",
-      "cgs": 10.66,
+      "cgs": 10.87,
       "ctr": null,
       "apv": null,
       "avd": null,
-      "views": 19
+      "views": 27
     },
     {
       "topic": "Canine Resource Caching Instinct",
       "category": "Behavior",
-      "cgs": 9.72,
+      "cgs": 9.65,
       "ctr": null,
       "apv": null,
       "avd": null,
@@ -96,11 +87,20 @@
     {
       "topic": "Canine Salivary Amylase Absence",
       "category": "Dental",
-      "cgs": 9.71,
+      "cgs": 9.64,
       "ctr": null,
       "apv": null,
       "avd": null,
       "views": 3
+    },
+    {
+      "topic": "Canine Domestication Neural Crest Changes",
+      "category": "Genetics",
+      "cgs": 9.5,
+      "ctr": null,
+      "apv": null,
+      "avd": null,
+      "views": 0
     }
   ],
   "winning_title_patterns": [],

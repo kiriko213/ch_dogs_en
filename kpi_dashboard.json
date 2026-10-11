@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-10-11T07:50:04.135360Z",
+  "generated_at": "2026-10-11T11:39:50.413942Z",
   "kpis": {
-    "uploads": 59,
-    "views": 32472,
+    "uploads": 60,
+    "views": 32469,
     "ctr_average": 569.72,
     "apv_average": 60.42,
     "subscribers_gained": 52,
-    "cgs_average": 59.36,
+    "cgs_average": 58.59,
     "top_topics": [
       "Bed Circling Trampling Instinct",
       "Canine Piloerection Reflex",
       "Frenetic Random Activity Periods"
     ],
     "top_titles": [
-      "The Reason Dogs Have 42 Teeth",
       "Understanding Dog Canine Starch Digestion",
-      "Understanding Dog Physical Weight Leaning Behavior"
+      "Understanding Dog Physical Weight Leaning Behavior",
+      "Why Your Dog Canine Geomagnetic Orientation"
     ]
   },
   "production_metrics": {
-    "success_rate_percent": 78.67,
-    "failure_rate_percent": 21.33,
-    "retry_rate_percent": 12.0,
-    "upload_latency_seconds": 5.47,
-    "generation_latency_seconds": 138.98
+    "success_rate_percent": 78.95,
+    "failure_rate_percent": 21.05,
+    "retry_rate_percent": 11.84,
+    "upload_latency_seconds": 5.52,
+    "generation_latency_seconds": 95.18
   },
   "warnings": []
 }
