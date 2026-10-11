@@ -1,15 +1,6 @@
 {
   "items": [
     {
-      "video_id": "MsUF_nBempI",
-      "title": "Understanding Dog Dog Reward Association Timing",
-      "ctr": 0.0,
-      "apv": 0.0,
-      "subscribers_gained": 0,
-      "performance_score": 0.0,
-      "recorded_at": "2026-08-03T15:15:43.182441Z"
-    },
-    {
       "video_id": "si1teOx1sT8",
       "title": "The Reason Dogs Have 42 Teeth",
       "ctr": 0.0,
@@ -449,6 +440,15 @@
       "subscribers_gained": 0,
       "performance_score": 0.0,
       "recorded_at": "2026-10-10T17:29:14.492779Z"
+    },
+    {
+      "video_id": "wF1-_bPQ9GQ",
+      "title": "Why Your Dog Canine Domestication Neural Crest Changes",
+      "ctr": 0.0,
+      "apv": 0.0,
+      "subscribers_gained": 0,
+      "performance_score": 0.0,
+      "recorded_at": "2026-10-11T07:50:04.132906Z"
     }
   ]
 }

@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-10-10T17:29:14.495134Z",
+  "generated_at": "2026-10-11T07:50:04.135360Z",
   "kpis": {
-    "uploads": 58,
-    "views": 32440,
-    "ctr_average": 569.56,
-    "apv_average": 60.41,
+    "uploads": 59,
+    "views": 32472,
+    "ctr_average": 569.72,
+    "apv_average": 60.42,
     "subscribers_gained": 52,
-    "cgs_average": 60.17,
+    "cgs_average": 59.36,
     "top_topics": [
       "Bed Circling Trampling Instinct",
       "Canine Piloerection Reflex",
       "Frenetic Random Activity Periods"
     ],
     "top_titles": [
-      "Understanding Dog Dog Reward Association Timing",
       "The Reason Dogs Have 42 Teeth",
-      "Understanding Dog Canine Starch Digestion"
+      "Understanding Dog Canine Starch Digestion",
+      "Understanding Dog Physical Weight Leaning Behavior"
     ]
   },
   "production_metrics": {
-    "success_rate_percent": 78.38,
-    "failure_rate_percent": 21.62,
-    "retry_rate_percent": 12.16,
-    "upload_latency_seconds": 5.05,
-    "generation_latency_seconds": 92.93
+    "success_rate_percent": 78.67,
+    "failure_rate_percent": 21.33,
+    "retry_rate_percent": 12.0,
+    "upload_latency_seconds": 5.47,
+    "generation_latency_seconds": 138.98
   },
   "warnings": []
 }

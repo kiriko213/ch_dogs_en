@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T17:19:30.365398Z",
+  "generated_at": "2026-10-11T07:47:39.370099Z",
   "top_candidates": [
     {
       "topic": "Canine Piloerection Reflex",
@@ -9,6 +9,11 @@
     {
       "topic": "Frenetic Random Activity Periods",
       "score": 90,
+      "category": "dog_facts"
+    },
+    {
+      "topic": "Canine Gorge Feeding Elasticity",
+      "score": 74,
       "category": "dog_facts"
     },
     {
@@ -42,14 +47,9 @@
       "category": "dog_owner_tips"
     },
     {
-      "topic": "The Truth About Dog health facts",
+      "topic": "The Truth About Amazing dog abilities",
       "score": 64,
-      "category": "dog_health"
-    },
-    {
-      "topic": "Dog health facts Most People Don't Know",
-      "score": 64,
-      "category": "dog_health"
+      "category": "dog_intelligence"
     }
   ]
 }

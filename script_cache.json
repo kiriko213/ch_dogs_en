@@ -1,7 +1,7 @@
 {
   "channel": "ch_dogs_en",
   "schema_version": 2,
-  "updated_at": "2026-10-10T17:29:14.490387Z",
+  "updated_at": "2026-10-11T07:50:04.127621Z",
   "items": [
     {
       "topic": "Dog episodic memory",
@@ -1644,14 +1644,19 @@
       "development_stage": "Adult",
       "search_query": "dog playing",
       "id": "aq_1791653256_1",
-      "status": "pending",
-      "locked_at": null,
-      "used_at": null,
-      "video_id": null,
+      "status": "uploaded",
+      "locked_at": "2026-10-11T07:47:39.373497Z",
+      "used_at": "2026-10-11T07:50:04.127027Z",
+      "video_id": "wF1-_bPQ9GQ",
       "original_title": "The Fascinating Reason Dogs Have Spots",
       "hook_score": 0.0,
       "hook_title_score": 0,
-      "hook_opening_score": 0
+      "hook_opening_score": 0,
+      "video_ids": [
+        5730239
+      ],
+      "local_filenames": [],
+      "scheduled_for": "2026-10-11T19:00:00Z"
     }
   ]
 }

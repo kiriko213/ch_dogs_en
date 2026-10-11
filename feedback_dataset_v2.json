@@ -1,9 +1,9 @@
 {
   "feedback_version": 2,
-  "generated_at": "2026-10-10T17:19:30.239020Z",
+  "generated_at": "2026-10-11T07:47:39.300751Z",
   "channel": "ch_dogs_en",
   "metadata": {
-    "total_videos_analyzed": 58,
+    "total_videos_analyzed": 59,
     "analytics_api_available": true,
     "cgs_mode": "beta",
     "data_freshness_hours": 72,
@@ -13,7 +13,7 @@
     {
       "topic": "Bed Circling Trampling Instinct",
       "category": "Behavior",
-      "cgs": 75.92,
+      "cgs": 75.88,
       "ctr": 1219.0,
       "apv": 65.32,
       "avd": 11.0,
@@ -22,7 +22,7 @@
     {
       "topic": "Canine Piloerection Reflex",
       "category": "Dermatology",
-      "cgs": 75.43,
+      "cgs": 75.5,
       "ctr": 586.0,
       "apv": 72.85,
       "avd": 11.0,
@@ -40,8 +40,8 @@
     {
       "topic": "Autonomic Nervous System Shake-Off",
       "category": "Neurobiology",
-      "cgs": 74.62,
-      "ctr": 1117.0,
+      "cgs": 74.55,
+      "ctr": 1118.0,
       "apv": 70.89,
       "avd": 10.0,
       "views": 1122
@@ -49,7 +49,7 @@
     {
       "topic": "Canine Gorge Feeding Elasticity",
       "category": "Digestion",
-      "cgs": 73.72,
+      "cgs": 73.82,
       "ctr": 792.0,
       "apv": 68.16,
       "avd": 10.0,
@@ -58,18 +58,9 @@
   ],
   "losing_topics": [
     {
-      "topic": "Canine Play Bow Communication",
-      "category": "Body Language",
-      "cgs": 48.16,
-      "ctr": 44.0,
-      "apv": 45.81,
-      "avd": 7.0,
-      "views": 44
-    },
-    {
       "topic": "Canine Vestigial Clavicle",
       "category": "Anatomy",
-      "cgs": 45.46,
+      "cgs": 45.47,
       "ctr": 68.0,
       "apv": 37.76,
       "avd": 6.0,
@@ -85,9 +76,18 @@
       "views": 10
     },
     {
+      "topic": "Canine Umbilical Scar Anatomy",
+      "category": "Development",
+      "cgs": 10.66,
+      "ctr": null,
+      "apv": null,
+      "avd": null,
+      "views": 19
+    },
+    {
       "topic": "Canine Resource Caching Instinct",
       "category": "Behavior",
-      "cgs": 10.0,
+      "cgs": 9.72,
       "ctr": null,
       "apv": null,
       "avd": null,
@@ -96,11 +96,11 @@
     {
       "topic": "Canine Salivary Amylase Absence",
       "category": "Dental",
-      "cgs": 9.88,
+      "cgs": 9.71,
       "ctr": null,
       "apv": null,
       "avd": null,
-      "views": 0
+      "views": 3
     }
   ],
   "winning_title_patterns": [],
@@ -113,6 +113,6 @@
   "exploration_ratio": {
     "reinforce_pct": 80,
     "explore_pct": 20,
-    "adjusted_by": "low_cgs_average_27.8"
+    "adjusted_by": "low_cgs_average_10.0"
   }
 }
