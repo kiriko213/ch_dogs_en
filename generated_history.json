@@ -1,15 +1,5 @@
 [
   {
-    "title": "The Fascinating Reason Dogs Walk on Toes",
-    "topic": "Canine Digitigrade Locomotion",
-    "script_content": "Dogs naturally walk on toes instead of heels. This digitigrade design maximizes sprinting speed and absorbs ground impact. Does your dog run super fast?",
-    "video_ids": [
-      35172441
-    ],
-    "local_filenames": [],
-    "timestamp": "2026-08-23T02:51:29.351121"
-  },
-  {
     "title": "Why Your Dog Canine Play Bite Inhibition",
     "topic": "Canine Play Bite Inhibition",
     "script_content": "Gentle mouth pressure during play shows incredible canine self-control. Dogs soften their bite so playtime stays safe and enjoyable. Does your dog play gently with you?",
@@ -198,5 +188,15 @@
     ],
     "local_filenames": [],
     "timestamp": "2026-10-12T13:08:55.750533"
+  },
+  {
+    "title": "Understanding Dog Canine Xylitol Pancreatic Response",
+    "topic": "Canine Xylitol Pancreatic Response",
+    "script_content": "To protect your dog, check human peanut butter for xylitol. This common sweetener triggers an immediate insulin surge in canines. Do you check treat labels?",
+    "video_ids": [
+      37389133
+    ],
+    "local_filenames": [],
+    "timestamp": "2026-10-12T21:33:53.626538"
   }
 ]

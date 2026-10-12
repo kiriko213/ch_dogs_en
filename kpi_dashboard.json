@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-12T13:08:55.758062Z",
+  "generated_at": "2026-10-12T21:33:53.632526Z",
   "kpis": {
-    "uploads": 63,
-    "views": 32535,
-    "ctr_average": 579.09,
-    "apv_average": 61.12,
+    "uploads": 64,
+    "views": 32691,
+    "ctr_average": 559.71,
+    "apv_average": 59.74,
     "subscribers_gained": 59,
     "cgs_average": 57.05,
     "top_topics": [
@@ -13,17 +13,17 @@
       "Bed Circling Trampling Instinct"
     ],
     "top_titles": [
-      "Understanding Dog Hind Leg Sploot Posture Mechanics",
       "Why Your Dog Canine Tactile Whiskers",
-      "Understanding Dog Eyebrow Muscle Facial Evolution"
+      "Understanding Dog Eyebrow Muscle Facial Evolution",
+      "Why Your Dog Dog Paddle Biomechanics"
     ]
   },
   "production_metrics": {
-    "success_rate_percent": 79.75,
-    "failure_rate_percent": 20.25,
-    "retry_rate_percent": 11.39,
-    "upload_latency_seconds": 5.81,
-    "generation_latency_seconds": 97.22
+    "success_rate_percent": 79.01,
+    "failure_rate_percent": 20.99,
+    "retry_rate_percent": 12.35,
+    "upload_latency_seconds": 5.31,
+    "generation_latency_seconds": 92.76
   },
   "warnings": []
 }
