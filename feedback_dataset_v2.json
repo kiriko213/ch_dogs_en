@@ -1,9 +1,9 @@
 {
   "feedback_version": 2,
-  "generated_at": "2026-10-11T17:40:45.121789Z",
+  "generated_at": "2026-10-12T07:56:53.378066Z",
   "channel": "ch_dogs_en",
   "metadata": {
-    "total_videos_analyzed": 61,
+    "total_videos_analyzed": 62,
     "analytics_api_available": true,
     "cgs_mode": "beta",
     "data_freshness_hours": 72,
@@ -11,10 +11,19 @@
   },
   "winning_topics": [
     {
+      "topic": "Theobromine Hepatic Clearance",
+      "category": "Toxicology",
+      "cgs": 80.86,
+      "ctr": 1188.0,
+      "apv": 95.51,
+      "avd": 16.0,
+      "views": 1207
+    },
+    {
       "topic": "Bed Circling Trampling Instinct",
       "category": "Behavior",
-      "cgs": 75.85,
-      "ctr": 1219.0,
+      "cgs": 75.82,
+      "ctr": 1220.0,
       "apv": 65.32,
       "avd": 11.0,
       "views": 1220
@@ -22,8 +31,8 @@
     {
       "topic": "Canine Piloerection Reflex",
       "category": "Dermatology",
-      "cgs": 75.67,
-      "ctr": 586.0,
+      "cgs": 75.74,
+      "ctr": 587.0,
       "apv": 72.85,
       "avd": 11.0,
       "views": 587
@@ -40,63 +49,54 @@
     {
       "topic": "Autonomic Nervous System Shake-Off",
       "category": "Neurobiology",
-      "cgs": 74.51,
-      "ctr": 1118.0,
-      "apv": 70.89,
+      "cgs": 74.52,
+      "ctr": 1122.0,
+      "apv": 71.09,
       "avd": 10.0,
-      "views": 1122
-    },
-    {
-      "topic": "Canine Gorge Feeding Elasticity",
-      "category": "Digestion",
-      "cgs": 74.05,
-      "ctr": 792.0,
-      "apv": 68.16,
-      "avd": 10.0,
-      "views": 793
+      "views": 1123
     }
   ],
   "losing_topics": [
     {
-      "topic": "Canine Umbilical Scar Anatomy",
-      "category": "Development",
-      "cgs": 10.85,
-      "ctr": null,
-      "apv": null,
-      "avd": null,
-      "views": 29
-    },
-    {
       "topic": "Canine Sebaceous Fur Coating",
       "category": "Dermatology",
-      "cgs": 10.0,
+      "cgs": 9.9,
       "ctr": null,
       "apv": null,
       "avd": null,
-      "views": 0
+      "views": 5
+    },
+    {
+      "topic": "Canine Splenic Erythrocyte Contraction",
+      "category": "Hematology",
+      "cgs": 9.54,
+      "ctr": null,
+      "apv": null,
+      "avd": null,
+      "views": 1
     },
     {
       "topic": "Canine Salivary Amylase Absence",
       "category": "Dental",
-      "cgs": 9.56,
+      "cgs": 9.45,
       "ctr": null,
       "apv": null,
       "avd": null,
-      "views": 4
-    },
-    {
-      "topic": "Canine Resource Caching Instinct",
-      "category": "Behavior",
-      "cgs": 9.53,
-      "ctr": null,
-      "apv": null,
-      "avd": null,
-      "views": 0
+      "views": 8
     },
     {
       "topic": "Canine Domestication Neural Crest Changes",
       "category": "Genetics",
-      "cgs": 9.38,
+      "cgs": 9.43,
+      "ctr": null,
+      "apv": null,
+      "avd": null,
+      "views": 9
+    },
+    {
+      "topic": "Canine Resource Caching Instinct",
+      "category": "Behavior",
+      "cgs": 9.27,
       "ctr": null,
       "apv": null,
       "avd": null,
@@ -104,15 +104,22 @@
     }
   ],
   "winning_title_patterns": [],
-  "winning_hook_patterns": [],
+  "winning_hook_patterns": [
+    {
+      "hook_type": "questioning",
+      "frequency": 1,
+      "example_opening": "Your dog actually metabolizes chocolate compounds four times slower than humans.",
+      "source": "opening_hook_patterns"
+    }
+  ],
   "toxic_combinations": [],
   "growth_signals": {
-    "total_subscribers_gained": 52,
+    "total_subscribers_gained": 59,
     "growth_trend": "growing"
   },
   "exploration_ratio": {
     "reinforce_pct": 80,
     "explore_pct": 20,
-    "adjusted_by": "low_cgs_average_10.1"
+    "adjusted_by": "low_cgs_average_9.6"
   }
 }

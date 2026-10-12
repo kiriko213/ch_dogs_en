@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-10-11T17:42:36.659087Z",
+  "generated_at": "2026-10-12T07:57:55.768884Z",
   "kpis": {
-    "uploads": 61,
-    "views": 32482,
-    "ctr_average": 569.72,
-    "apv_average": 60.42,
-    "subscribers_gained": 52,
-    "cgs_average": 57.83,
+    "uploads": 62,
+    "views": 32520,
+    "ctr_average": 579.09,
+    "apv_average": 61.12,
+    "subscribers_gained": 59,
+    "cgs_average": 57.78,
     "top_topics": [
+      "Theobromine Hepatic Clearance",
       "Bed Circling Trampling Instinct",
-      "Canine Piloerection Reflex",
-      "Frenetic Random Activity Periods"
+      "Canine Piloerection Reflex"
     ],
     "top_titles": [
-      "Understanding Dog Physical Weight Leaning Behavior",
       "Why Your Dog Canine Geomagnetic Orientation",
-      "Understanding Dog Hind Leg Sploot Posture Mechanics"
+      "Understanding Dog Hind Leg Sploot Posture Mechanics",
+      "Why Your Dog Canine Tactile Whiskers"
     ]
   },
   "production_metrics": {
-    "success_rate_percent": 79.22,
-    "failure_rate_percent": 20.78,
-    "retry_rate_percent": 11.69,
-    "upload_latency_seconds": 5.21,
-    "generation_latency_seconds": 105.86
+    "success_rate_percent": 79.49,
+    "failure_rate_percent": 20.51,
+    "retry_rate_percent": 11.54,
+    "upload_latency_seconds": 4.63,
+    "generation_latency_seconds": 57.4
   },
   "warnings": []
 }

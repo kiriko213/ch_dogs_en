@@ -1,7 +1,7 @@
 {
   "channel": "ch_dogs_en",
   "schema_version": 2,
-  "updated_at": "2026-10-11T17:42:36.651370Z",
+  "updated_at": "2026-10-12T07:57:55.762377Z",
   "items": [
     {
       "topic": "Dog episodic memory",
@@ -1728,14 +1728,19 @@
       "development_stage": "Adult",
       "search_query": "cute dog eating",
       "id": "aq_1791718689_2",
-      "status": "pending",
-      "locked_at": null,
-      "used_at": null,
-      "video_id": null,
+      "status": "uploaded",
+      "locked_at": "2026-10-12T07:56:53.480440Z",
+      "used_at": "2026-10-12T07:57:55.761778Z",
+      "video_id": "s59SvRSTauk",
       "original_title": "The Fascinating Reason Dogs Skip Fruit",
       "hook_score": 0.0,
       "hook_title_score": 0,
-      "hook_opening_score": 0
+      "hook_opening_score": 0,
+      "video_ids": [
+        8434087
+      ],
+      "local_filenames": [],
+      "scheduled_for": "2026-10-12T19:00:00Z"
     },
     {
       "topic": "Canine Tracheal Cartilage Compression",

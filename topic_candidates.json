@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T17:40:45.195671Z",
+  "generated_at": "2026-10-12T07:56:53.433440Z",
   "top_candidates": [
     {
       "topic": "Bed Circling Trampling Instinct",
@@ -22,34 +22,34 @@
       "category": "dog_facts"
     },
     {
-      "topic": "Canine Gorge Feeding Elasticity",
-      "score": 70,
-      "category": "dog_facts"
-    },
-    {
       "topic": "dog communication",
-      "score": 70,
+      "score": 64,
       "category": "dog_communication"
     },
     {
       "topic": "amazing dog abilities",
-      "score": 70,
+      "score": 64,
       "category": "dog_intelligence"
     },
     {
       "topic": "dog health facts",
-      "score": 70,
+      "score": 64,
       "category": "dog_health"
     },
     {
       "topic": "dog owner tips",
-      "score": 70,
+      "score": 64,
       "category": "dog_owner_tips"
     },
     {
       "topic": "dog life hacks",
-      "score": 70,
+      "score": 64,
       "category": "dog_owner_tips"
+    },
+    {
+      "topic": "The Truth About Dog communication",
+      "score": 64,
+      "category": "dog_communication"
     }
   ]
 }
