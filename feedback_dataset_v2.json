@@ -1,9 +1,9 @@
 {
   "feedback_version": 2,
-  "generated_at": "2026-10-12T07:56:53.378066Z",
+  "generated_at": "2026-10-12T13:07:12.403052Z",
   "channel": "ch_dogs_en",
   "metadata": {
-    "total_videos_analyzed": 62,
+    "total_videos_analyzed": 63,
     "analytics_api_available": true,
     "cgs_mode": "beta",
     "data_freshness_hours": 72,
@@ -13,29 +13,29 @@
     {
       "topic": "Theobromine Hepatic Clearance",
       "category": "Toxicology",
-      "cgs": 80.86,
+      "cgs": 80.84,
       "ctr": 1188.0,
       "apv": 95.51,
       "avd": 16.0,
       "views": 1207
     },
     {
+      "topic": "Canine Piloerection Reflex",
+      "category": "Dermatology",
+      "cgs": 75.82,
+      "ctr": 587.0,
+      "apv": 72.85,
+      "avd": 11.0,
+      "views": 588
+    },
+    {
       "topic": "Bed Circling Trampling Instinct",
       "category": "Behavior",
-      "cgs": 75.82,
+      "cgs": 75.8,
       "ctr": 1220.0,
       "apv": 65.32,
       "avd": 11.0,
       "views": 1220
-    },
-    {
-      "topic": "Canine Piloerection Reflex",
-      "category": "Dermatology",
-      "cgs": 75.74,
-      "ctr": 587.0,
-      "apv": 72.85,
-      "avd": 11.0,
-      "views": 587
     },
     {
       "topic": "Frenetic Random Activity Periods",
@@ -49,7 +49,7 @@
     {
       "topic": "Autonomic Nervous System Shake-Off",
       "category": "Neurobiology",
-      "cgs": 74.52,
+      "cgs": 74.49,
       "ctr": 1122.0,
       "apv": 71.09,
       "avd": 10.0,
@@ -58,45 +58,45 @@
   ],
   "losing_topics": [
     {
-      "topic": "Canine Sebaceous Fur Coating",
-      "category": "Dermatology",
-      "cgs": 9.9,
+      "topic": "Canine Endogenous Ascorbate Synthesis",
+      "category": "Biochemistry",
+      "cgs": 9.5,
       "ctr": null,
       "apv": null,
       "avd": null,
-      "views": 5
+      "views": 0
+    },
+    {
+      "topic": "Canine Domestication Neural Crest Changes",
+      "category": "Genetics",
+      "cgs": 9.49,
+      "ctr": null,
+      "apv": null,
+      "avd": null,
+      "views": 13
     },
     {
       "topic": "Canine Splenic Erythrocyte Contraction",
       "category": "Hematology",
-      "cgs": 9.54,
+      "cgs": 9.47,
       "ctr": null,
       "apv": null,
       "avd": null,
-      "views": 1
+      "views": 2
     },
     {
       "topic": "Canine Salivary Amylase Absence",
       "category": "Dental",
-      "cgs": 9.45,
+      "cgs": 9.36,
       "ctr": null,
       "apv": null,
       "avd": null,
       "views": 8
     },
     {
-      "topic": "Canine Domestication Neural Crest Changes",
-      "category": "Genetics",
-      "cgs": 9.43,
-      "ctr": null,
-      "apv": null,
-      "avd": null,
-      "views": 9
-    },
-    {
       "topic": "Canine Resource Caching Instinct",
       "category": "Behavior",
-      "cgs": 9.27,
+      "cgs": 9.18,
       "ctr": null,
       "apv": null,
       "avd": null,

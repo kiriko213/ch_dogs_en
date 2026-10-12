@@ -1,7 +1,7 @@
 {
   "channel": "ch_dogs_en",
   "schema_version": 2,
-  "updated_at": "2026-10-12T07:57:55.762377Z",
+  "updated_at": "2026-10-12T13:08:55.751110Z",
   "items": [
     {
       "topic": "Dog episodic memory",
@@ -1756,14 +1756,19 @@
       "development_stage": "Adult",
       "search_query": "dog walking leash",
       "id": "aq_1791718689_3",
-      "status": "pending",
-      "locked_at": null,
-      "used_at": null,
-      "video_id": null,
+      "status": "uploaded",
+      "locked_at": "2026-10-12T13:07:12.460665Z",
+      "used_at": "2026-10-12T13:08:55.750513Z",
+      "video_id": "TjJHvgjhur8",
       "original_title": "Why You Should Walk Gently With Dogs",
       "hook_score": 0.0,
       "hook_title_score": 0,
-      "hook_opening_score": 0
+      "hook_opening_score": 0,
+      "video_ids": [
+        5365075
+      ],
+      "local_filenames": [],
+      "scheduled_for": "2026-10-12T19:00:00Z"
     }
   ]
 }

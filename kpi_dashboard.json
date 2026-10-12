@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-10-12T07:57:55.768884Z",
+  "generated_at": "2026-10-12T13:08:55.758062Z",
   "kpis": {
-    "uploads": 62,
-    "views": 32520,
+    "uploads": 63,
+    "views": 32535,
     "ctr_average": 579.09,
     "apv_average": 61.12,
     "subscribers_gained": 59,
-    "cgs_average": 57.78,
+    "cgs_average": 57.05,
     "top_topics": [
       "Theobromine Hepatic Clearance",
-      "Bed Circling Trampling Instinct",
-      "Canine Piloerection Reflex"
+      "Canine Piloerection Reflex",
+      "Bed Circling Trampling Instinct"
     ],
     "top_titles": [
-      "Why Your Dog Canine Geomagnetic Orientation",
       "Understanding Dog Hind Leg Sploot Posture Mechanics",
-      "Why Your Dog Canine Tactile Whiskers"
+      "Why Your Dog Canine Tactile Whiskers",
+      "Understanding Dog Eyebrow Muscle Facial Evolution"
     ]
   },
   "production_metrics": {
-    "success_rate_percent": 79.49,
-    "failure_rate_percent": 20.51,
-    "retry_rate_percent": 11.54,
-    "upload_latency_seconds": 4.63,
-    "generation_latency_seconds": 57.4
+    "success_rate_percent": 79.75,
+    "failure_rate_percent": 20.25,
+    "retry_rate_percent": 11.39,
+    "upload_latency_seconds": 5.81,
+    "generation_latency_seconds": 97.22
   },
   "warnings": []
 }

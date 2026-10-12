@@ -1,15 +1,6 @@
 {
   "items": [
     {
-      "video_id": "rh7saz8wyM0",
-      "title": "Why Your Dog Canine Geomagnetic Orientation",
-      "ctr": 0.0,
-      "apv": 0.0,
-      "subscribers_gained": 0,
-      "performance_score": 0.0,
-      "recorded_at": "2026-08-05T04:50:12.127558Z"
-    },
-    {
       "video_id": "9ofCY-O2WLo",
       "title": "Understanding Dog Hind Leg Sploot Posture Mechanics",
       "ctr": 0.0,
@@ -449,6 +440,15 @@
       "subscribers_gained": 0,
       "performance_score": 0.0,
       "recorded_at": "2026-10-12T07:57:55.766885Z"
+    },
+    {
+      "video_id": "TjJHvgjhur8",
+      "title": "Understanding Dog Canine Tracheal Cartilage Compression",
+      "ctr": 0.0,
+      "apv": 0.0,
+      "subscribers_gained": 0,
+      "performance_score": 0.0,
+      "recorded_at": "2026-10-12T13:08:55.755890Z"
     }
   ]
 }
