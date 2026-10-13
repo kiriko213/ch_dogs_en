@@ -1,7 +1,7 @@
 {
   "channel": "ch_dogs_en",
   "schema_version": 2,
-  "updated_at": "2026-10-12T21:33:53.627166Z",
+  "updated_at": "2026-10-13T08:24:25.512407Z",
   "items": [
     {
       "topic": "Dog episodic memory",
@@ -1812,14 +1812,19 @@
       "development_stage": "Adult",
       "search_query": "dog being petted",
       "id": "aq_1791840735_1",
-      "status": "pending",
-      "locked_at": null,
-      "used_at": null,
-      "video_id": null,
+      "status": "uploaded",
+      "locked_at": "2026-10-13T08:23:02.011652Z",
+      "used_at": "2026-10-13T08:24:25.511746Z",
+      "video_id": "wVe_tBFn9nc",
       "original_title": "What Your Dog's Twitch Really Means",
       "hook_score": 10.0,
       "hook_title_score": 20,
-      "hook_opening_score": 0
+      "hook_opening_score": 0,
+      "video_ids": [
+        8498462
+      ],
+      "local_filenames": [],
+      "scheduled_for": "2026-10-13T19:00:00Z"
     },
     {
       "topic": "Canine Henle Loop Hyperosmolality",

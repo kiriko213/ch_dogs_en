@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-10-12T21:33:53.632526Z",
+  "generated_at": "2026-10-13T08:24:25.520573Z",
   "kpis": {
-    "uploads": 64,
-    "views": 32691,
+    "uploads": 65,
+    "views": 32740,
     "ctr_average": 559.71,
     "apv_average": 59.74,
     "subscribers_gained": 59,
-    "cgs_average": 57.05,
+    "cgs_average": 56.79,
     "top_topics": [
       "Theobromine Hepatic Clearance",
       "Canine Piloerection Reflex",
       "Bed Circling Trampling Instinct"
     ],
     "top_titles": [
-      "Why Your Dog Canine Tactile Whiskers",
       "Understanding Dog Eyebrow Muscle Facial Evolution",
-      "Why Your Dog Dog Paddle Biomechanics"
+      "Why Your Dog Dog Paddle Biomechanics",
+      "Why Your Dog Canine Grass Eating"
     ]
   },
   "production_metrics": {
-    "success_rate_percent": 79.01,
-    "failure_rate_percent": 20.99,
-    "retry_rate_percent": 12.35,
-    "upload_latency_seconds": 5.31,
-    "generation_latency_seconds": 92.76
+    "success_rate_percent": 79.27,
+    "failure_rate_percent": 20.73,
+    "retry_rate_percent": 12.2,
+    "upload_latency_seconds": 5.43,
+    "generation_latency_seconds": 77.84
   },
   "warnings": []
 }

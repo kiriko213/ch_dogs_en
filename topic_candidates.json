@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-12T21:14:55.289494Z",
+  "generated_at": "2026-10-13T08:23:02.008084Z",
   "top_candidates": [
     {
-      "topic": "Canine Piloerection Reflex",
+      "topic": "Theobromine Hepatic Clearance",
       "score": 100,
       "category": "dog_facts"
     },
@@ -12,44 +12,44 @@
       "category": "dog_psychology"
     },
     {
-      "topic": "Frenetic Random Activity Periods",
+      "topic": "Canine Piloerection Reflex",
       "score": 90,
       "category": "dog_facts"
     },
     {
-      "topic": "Autonomic Nervous System Shake-Off",
+      "topic": "Frenetic Random Activity Periods",
       "score": 80,
       "category": "dog_facts"
     },
     {
+      "topic": "Autonomic Nervous System Shake-Off",
+      "score": 70,
+      "category": "dog_facts"
+    },
+    {
       "topic": "dog communication",
-      "score": 64,
+      "score": 70,
       "category": "dog_communication"
     },
     {
       "topic": "amazing dog abilities",
-      "score": 64,
+      "score": 70,
       "category": "dog_intelligence"
     },
     {
       "topic": "dog health facts",
-      "score": 64,
+      "score": 70,
       "category": "dog_health"
     },
     {
       "topic": "dog owner tips",
-      "score": 64,
+      "score": 70,
       "category": "dog_owner_tips"
     },
     {
       "topic": "dog life hacks",
-      "score": 64,
+      "score": 70,
       "category": "dog_owner_tips"
-    },
-    {
-      "topic": "The Truth About Dog communication",
-      "score": 64,
-      "category": "dog_communication"
     }
   ]
 }
