@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-10-13T12:43:00.308878Z",
+  "generated_at": "2026-10-13T19:31:26.272225Z",
   "kpis": {
-    "uploads": 66,
-    "views": 32751,
-    "ctr_average": 559.71,
-    "apv_average": 59.74,
+    "uploads": 67,
+    "views": 32830,
+    "ctr_average": 533.18,
+    "apv_average": 66.59,
     "subscribers_gained": 59,
-    "cgs_average": 56.12,
+    "cgs_average": 56.97,
     "top_topics": [
       "Theobromine Hepatic Clearance",
       "Canine Piloerection Reflex",
       "Bed Circling Trampling Instinct"
     ],
     "top_titles": [
-      "Why Your Dog Dog Paddle Biomechanics",
       "Why Your Dog Canine Grass Eating",
-      "Understanding Dog Canine Deep Sighing Meaning"
+      "Understanding Dog Canine Deep Sighing Meaning",
+      "Why Your Dog Canine Contagious Yawning"
     ]
   },
   "production_metrics": {
-    "success_rate_percent": 79.52,
-    "failure_rate_percent": 20.48,
-    "retry_rate_percent": 12.05,
-    "upload_latency_seconds": 4.94,
-    "generation_latency_seconds": 89.62
+    "success_rate_percent": 79.76,
+    "failure_rate_percent": 20.24,
+    "retry_rate_percent": 11.9,
+    "upload_latency_seconds": 4.78,
+    "generation_latency_seconds": 79.59
   },
   "warnings": []
 }

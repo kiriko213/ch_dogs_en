@@ -1,9 +1,9 @@
 {
   "feedback_version": 2,
-  "generated_at": "2026-10-13T12:41:25.288362Z",
+  "generated_at": "2026-10-13T19:22:26.223515Z",
   "channel": "ch_dogs_en",
   "metadata": {
-    "total_videos_analyzed": 66,
+    "total_videos_analyzed": 67,
     "analytics_api_available": true,
     "cgs_mode": "beta",
     "data_freshness_hours": 72,
@@ -13,16 +13,16 @@
     {
       "topic": "Theobromine Hepatic Clearance",
       "category": "Toxicology",
-      "cgs": 80.73,
-      "ctr": 1195.0,
-      "apv": 95.39,
+      "cgs": 80.7,
+      "ctr": 1207.0,
+      "apv": 95.23,
       "avd": 16.0,
       "views": 1207
     },
     {
       "topic": "Canine Piloerection Reflex",
       "category": "Dermatology",
-      "cgs": 76.03,
+      "cgs": 76.1,
       "ctr": 587.0,
       "apv": 72.85,
       "avd": 11.0,
@@ -31,7 +31,7 @@
     {
       "topic": "Bed Circling Trampling Instinct",
       "category": "Behavior",
-      "cgs": 75.75,
+      "cgs": 75.73,
       "ctr": 1220.0,
       "apv": 65.32,
       "avd": 11.0,
@@ -49,7 +49,7 @@
     {
       "topic": "Canine Gorge Feeding Elasticity",
       "category": "Digestion",
-      "cgs": 74.5,
+      "cgs": 74.6,
       "ctr": 793.0,
       "apv": 68.01,
       "avd": 10.0,
@@ -58,27 +58,36 @@
   ],
   "losing_topics": [
     {
-      "topic": "Canine Domestication Neural Crest Changes",
-      "category": "Genetics",
-      "cgs": 9.77,
+      "topic": "Canine Xylitol Pancreatic Response",
+      "category": "Toxicology",
+      "cgs": 11.69,
       "ctr": null,
       "apv": null,
       "avd": null,
-      "views": 31
+      "views": 62
     },
     {
-      "topic": "Canine Sebaceous Fur Coating",
-      "category": "Dermatology",
-      "cgs": 9.73,
+      "topic": "Canine Cutaneous Trunci Twitch",
+      "category": "Neurology",
+      "cgs": 10.41,
       "ctr": null,
       "apv": null,
       "avd": null,
       "views": 14
     },
     {
-      "topic": "Canine Xylitol Pancreatic Response",
-      "category": "Toxicology",
-      "cgs": 9.41,
+      "topic": "Canine Tracheal Cartilage Compression",
+      "category": "Biomechanics",
+      "cgs": 9.85,
+      "ctr": null,
+      "apv": null,
+      "avd": null,
+      "views": 20
+    },
+    {
+      "topic": "Canine Henle Loop Hyperosmolality",
+      "category": "Nephrology",
+      "cgs": 9.5,
       "ctr": null,
       "apv": null,
       "avd": null,
@@ -87,20 +96,11 @@
     {
       "topic": "Canine Resource Caching Instinct",
       "category": "Behavior",
-      "cgs": 8.8,
+      "cgs": 8.69,
       "ctr": null,
       "apv": null,
       "avd": null,
       "views": 1
-    },
-    {
-      "topic": "Canine Salivary Amylase Absence",
-      "category": "Dental",
-      "cgs": 7.78,
-      "ctr": 2.0,
-      "apv": 0.0,
-      "avd": 0.0,
-      "views": 13
     }
   ],
   "winning_title_patterns": [],
@@ -112,15 +112,7 @@
       "source": "opening_hook_patterns"
     }
   ],
-  "toxic_combinations": [
-    {
-      "topic_category": "Dental",
-      "hook_type": "low_retention_proxy",
-      "reason": "swipe_away_proxy",
-      "avg_apv_proxy": 0.0,
-      "blacklisted_at": "2026-10-13T12:41:25.288420Z"
-    }
-  ],
+  "toxic_combinations": [],
   "growth_signals": {
     "total_subscribers_gained": 59,
     "growth_trend": "growing"
@@ -128,6 +120,6 @@
   "exploration_ratio": {
     "reinforce_pct": 80,
     "explore_pct": 20,
-    "adjusted_by": "low_cgs_average_9.8"
+    "adjusted_by": "low_cgs_average_10.5"
   }
 }
