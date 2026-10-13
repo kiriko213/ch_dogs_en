@@ -1,15 +1,5 @@
 [
   {
-    "title": "The Fascinating Reason Dogs Count",
-    "topic": "Canine Numerical Competence",
-    "script_content": "Dogs actually notice when small treat quantities change during mealtime. Their sharp numerical sense easily tracks basic amounts throughout the day. Is your dog smart?",
-    "video_ids": [
-      27808232
-    ],
-    "local_filenames": [],
-    "timestamp": "2026-08-25T02:47:41.951626"
-  },
-  {
     "title": "Why Your Dog Canine Piloerection Reflex",
     "topic": "Canine Piloerection Reflex",
     "script_content": "Raised back fur does not mean aggression. An involuntary adrenaline surge lifts dog hackles during surprise or intense excitement. Does your dog ever raise hackles?",
@@ -198,5 +188,15 @@
     ],
     "local_filenames": [],
     "timestamp": "2026-10-13T08:24:25.511767"
+  },
+  {
+    "title": "Understanding Dog Canine Henle Loop Hyperosmolality",
+    "topic": "Canine Henle Loop Hyperosmolality",
+    "script_content": "Your dog actually conserves water far more efficiently than humans. Specialized kidney loops reabsorb moisture during long outdoor runs. Does your dog drink often?",
+    "video_ids": [
+      30432348
+    ],
+    "local_filenames": [],
+    "timestamp": "2026-10-13T12:43:00.298795"
   }
 ]

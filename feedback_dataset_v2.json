@@ -1,9 +1,9 @@
 {
   "feedback_version": 2,
-  "generated_at": "2026-10-13T08:23:01.931985Z",
+  "generated_at": "2026-10-13T12:41:25.288362Z",
   "channel": "ch_dogs_en",
   "metadata": {
-    "total_videos_analyzed": 65,
+    "total_videos_analyzed": 66,
     "analytics_api_available": true,
     "cgs_mode": "beta",
     "data_freshness_hours": 72,
@@ -13,7 +13,7 @@
     {
       "topic": "Theobromine Hepatic Clearance",
       "category": "Toxicology",
-      "cgs": 80.75,
+      "cgs": 80.73,
       "ctr": 1195.0,
       "apv": 95.39,
       "avd": 16.0,
@@ -22,7 +22,7 @@
     {
       "topic": "Canine Piloerection Reflex",
       "category": "Dermatology",
-      "cgs": 75.95,
+      "cgs": 76.03,
       "ctr": 587.0,
       "apv": 72.85,
       "avd": 11.0,
@@ -31,7 +31,7 @@
     {
       "topic": "Bed Circling Trampling Instinct",
       "category": "Behavior",
-      "cgs": 75.76,
+      "cgs": 75.75,
       "ctr": 1220.0,
       "apv": 65.32,
       "avd": 11.0,
@@ -47,38 +47,38 @@
       "views": 1299
     },
     {
-      "topic": "Autonomic Nervous System Shake-Off",
-      "category": "Neurobiology",
-      "cgs": 74.41,
-      "ctr": 1122.0,
-      "apv": 71.09,
+      "topic": "Canine Gorge Feeding Elasticity",
+      "category": "Digestion",
+      "cgs": 74.5,
+      "ctr": 793.0,
+      "apv": 68.01,
       "avd": 10.0,
-      "views": 1123
+      "views": 793
     }
   ],
   "losing_topics": [
     {
       "topic": "Canine Domestication Neural Crest Changes",
       "category": "Genetics",
-      "cgs": 9.72,
+      "cgs": 9.77,
       "ctr": null,
       "apv": null,
       "avd": null,
-      "views": 28
+      "views": 31
     },
     {
       "topic": "Canine Sebaceous Fur Coating",
       "category": "Dermatology",
-      "cgs": 9.72,
+      "cgs": 9.73,
       "ctr": null,
       "apv": null,
       "avd": null,
-      "views": 12
+      "views": 14
     },
     {
       "topic": "Canine Xylitol Pancreatic Response",
       "category": "Toxicology",
-      "cgs": 9.5,
+      "cgs": 9.41,
       "ctr": null,
       "apv": null,
       "avd": null,
@@ -87,7 +87,7 @@
     {
       "topic": "Canine Resource Caching Instinct",
       "category": "Behavior",
-      "cgs": 8.88,
+      "cgs": 8.8,
       "ctr": null,
       "apv": null,
       "avd": null,
@@ -96,7 +96,7 @@
     {
       "topic": "Canine Salivary Amylase Absence",
       "category": "Dental",
-      "cgs": 7.8,
+      "cgs": 7.78,
       "ctr": 2.0,
       "apv": 0.0,
       "avd": 0.0,
@@ -118,7 +118,7 @@
       "hook_type": "low_retention_proxy",
       "reason": "swipe_away_proxy",
       "avg_apv_proxy": 0.0,
-      "blacklisted_at": "2026-10-13T08:23:01.932044Z"
+      "blacklisted_at": "2026-10-13T12:41:25.288420Z"
     }
   ],
   "growth_signals": {
@@ -128,6 +128,6 @@
   "exploration_ratio": {
     "reinforce_pct": 80,
     "explore_pct": 20,
-    "adjusted_by": "low_cgs_average_12.6"
+    "adjusted_by": "low_cgs_average_9.8"
   }
 }

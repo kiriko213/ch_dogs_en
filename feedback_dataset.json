@@ -1,35 +1,35 @@
 {
   "feedback_version": 1,
-  "generated_at": "2026-10-13T08:23:00.982260Z",
+  "generated_at": "2026-10-13T12:41:24.619868Z",
   "top_topics": [
     {
       "topic": "Theobromine Hepatic Clearance",
       "category": "Toxicology",
-      "score": 65.01,
+      "score": 64.94,
       "views": 1207
     },
     {
       "topic": "Bed Circling Trampling Instinct",
       "category": "Behavior",
-      "score": 57.05,
+      "score": 57.0,
       "views": 1220
     },
     {
       "topic": "Canine Microchipping Biocompatibility",
       "category": "Safety",
-      "score": 56.49,
+      "score": 56.69,
       "views": 459
     },
     {
       "topic": "Canine Social Allogrooming",
       "category": "Social Bonding",
-      "score": 53.74,
+      "score": 54.28,
       "views": 908
     },
     {
       "topic": "Autonomic Nervous System Shake-Off",
       "category": "Neurobiology",
-      "score": 53.01,
+      "score": 52.93,
       "views": 1123
     }
   ],
@@ -37,31 +37,31 @@
     {
       "topic": "Canine Masticatory Safety",
       "category": "Care",
-      "score": 4.57,
+      "score": 4.63,
       "views": 101
     },
     {
       "topic": "Canine Vestigial Clavicle",
       "category": "Anatomy",
-      "score": 3.42,
+      "score": 3.46,
       "views": 69
     },
     {
       "topic": "Canine Permanent Dental Structure",
       "category": "Anatomy",
-      "score": 2.58,
+      "score": 2.61,
       "views": 57
     },
     {
       "topic": "Canine Play Bow Communication",
       "category": "Body Language",
-      "score": 2.05,
+      "score": 2.07,
       "views": 44
     },
     {
       "topic": "Canine Paw Pad Thermoregulation",
       "category": "Physiology",
-      "score": 0.69,
+      "score": 0.7,
       "views": 10
     }
   ]

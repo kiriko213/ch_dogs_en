@@ -1,7 +1,7 @@
 {
   "channel": "ch_dogs_en",
   "schema_version": 2,
-  "updated_at": "2026-10-13T08:24:25.512407Z",
+  "updated_at": "2026-10-13T12:43:00.299615Z",
   "items": [
     {
       "topic": "Dog episodic memory",
@@ -1840,14 +1840,19 @@
       "development_stage": "Adult",
       "search_query": "dog drinking water",
       "id": "aq_1791840735_2",
-      "status": "pending",
-      "locked_at": null,
-      "used_at": null,
-      "video_id": null,
+      "status": "uploaded",
+      "locked_at": "2026-10-13T12:41:25.370509Z",
+      "used_at": "2026-10-13T12:43:00.298767Z",
+      "video_id": "blac9SNhT00",
       "original_title": "The Fascinating Reason Dogs Drink",
       "hook_score": 0.0,
       "hook_title_score": 0,
-      "hook_opening_score": 0
+      "hook_opening_score": 0,
+      "video_ids": [
+        30432348
+      ],
+      "local_filenames": [],
+      "scheduled_for": "2026-10-13T19:00:00Z"
     }
   ]
 }
