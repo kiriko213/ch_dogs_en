@@ -1,7 +1,7 @@
 {
   "channel": "ch_dogs_en",
   "schema_version": 2,
-  "updated_at": "2026-10-14T06:41:46.547709Z",
+  "updated_at": "2026-10-14T10:10:26.229035Z",
   "items": [
     {
       "topic": "Dog episodic memory",
@@ -1924,14 +1924,19 @@
       "development_stage": "Adult",
       "search_query": "cute dog",
       "id": "aq_1791919801_2",
-      "status": "pending",
-      "locked_at": null,
-      "used_at": null,
-      "video_id": null,
+      "status": "uploaded",
+      "locked_at": "2026-10-14T10:08:59.761632Z",
+      "used_at": "2026-10-14T10:10:26.228388Z",
+      "video_id": "R7hRh4dSjfE",
       "original_title": "What Your Dog's Energy Really Means",
       "hook_score": 0.0,
       "hook_title_score": 0,
-      "hook_opening_score": 0
+      "hook_opening_score": 0,
+      "video_ids": [
+        39617687
+      ],
+      "local_filenames": [],
+      "scheduled_for": "2026-10-14T19:00:00Z"
     },
     {
       "topic": "Canine Pancreatic Lipase Sensitivity",

@@ -1,9 +1,9 @@
 {
   "feedback_version": 2,
-  "generated_at": "2026-10-14T06:40:08.854561Z",
+  "generated_at": "2026-10-14T10:08:59.678753Z",
   "channel": "ch_dogs_en",
   "metadata": {
-    "total_videos_analyzed": 68,
+    "total_videos_analyzed": 69,
     "analytics_api_available": true,
     "cgs_mode": "beta",
     "data_freshness_hours": 72,
@@ -13,7 +13,7 @@
     {
       "topic": "Theobromine Hepatic Clearance",
       "category": "Toxicology",
-      "cgs": 80.66,
+      "cgs": 80.64,
       "ctr": 1207.0,
       "apv": 95.23,
       "avd": 16.0,
@@ -22,7 +22,7 @@
     {
       "topic": "Canine Piloerection Reflex",
       "category": "Dermatology",
-      "cgs": 76.16,
+      "cgs": 76.25,
       "ctr": 587.0,
       "apv": 72.85,
       "avd": 11.0,
@@ -31,7 +31,7 @@
     {
       "topic": "Bed Circling Trampling Instinct",
       "category": "Behavior",
-      "cgs": 75.7,
+      "cgs": 75.69,
       "ctr": 1220.0,
       "apv": 65.32,
       "avd": 11.0,
@@ -49,7 +49,7 @@
     {
       "topic": "Canine Gorge Feeding Elasticity",
       "category": "Digestion",
-      "cgs": 74.68,
+      "cgs": 74.8,
       "ctr": 793.0,
       "apv": 68.01,
       "avd": 10.0,
@@ -69,25 +69,25 @@
     {
       "topic": "Canine Xylitol Pancreatic Response",
       "category": "Toxicology",
-      "cgs": 12.02,
+      "cgs": 12.07,
       "ctr": null,
       "apv": null,
       "avd": null,
-      "views": 75
+      "views": 77
     },
     {
-      "topic": "Canine Henle Loop Hyperosmolality",
-      "category": "Nephrology",
-      "cgs": 9.56,
+      "topic": "Canine Gut Microbiome Serotonin Synthesis",
+      "category": "Microbiology",
+      "cgs": 9.5,
       "ctr": null,
       "apv": null,
       "avd": null,
-      "views": 7
+      "views": 0
     },
     {
       "topic": "Canine Fatty Acid Muscle Metabolism",
       "category": "Exercise Physiology",
-      "cgs": 9.5,
+      "cgs": 9.43,
       "ctr": null,
       "apv": null,
       "avd": null,
@@ -96,7 +96,7 @@
     {
       "topic": "Canine Resource Caching Instinct",
       "category": "Behavior",
-      "cgs": 8.51,
+      "cgs": 8.45,
       "ctr": null,
       "apv": null,
       "avd": null,
@@ -120,6 +120,6 @@
   "exploration_ratio": {
     "reinforce_pct": 80,
     "explore_pct": 20,
-    "adjusted_by": "low_cgs_average_20.6"
+    "adjusted_by": "low_cgs_average_19.0"
   }
 }
