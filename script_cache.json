@@ -1,7 +1,7 @@
 {
   "channel": "ch_dogs_en",
   "schema_version": 2,
-  "updated_at": "2026-10-13T19:31:26.266640Z",
+  "updated_at": "2026-10-14T06:41:46.547709Z",
   "items": [
     {
       "topic": "Dog episodic memory",
@@ -1896,14 +1896,19 @@
       "development_stage": "Adult",
       "search_query": "happy dog",
       "id": "aq_1791919801_1",
-      "status": "pending",
-      "locked_at": null,
-      "used_at": null,
-      "video_id": null,
+      "status": "uploaded",
+      "locked_at": "2026-10-14T06:40:08.937703Z",
+      "used_at": "2026-10-14T06:41:46.546816Z",
+      "video_id": "_bVpVjw0O38",
       "original_title": "The Fascinating Reason Dogs Stay Calm",
       "hook_score": 0.0,
       "hook_title_score": 0,
-      "hook_opening_score": 0
+      "hook_opening_score": 0,
+      "video_ids": [
+        10884663
+      ],
+      "local_filenames": [],
+      "scheduled_for": "2026-10-14T19:00:00Z"
     },
     {
       "topic": "Canine Kleiber Metabolic Body Mass Scaling",

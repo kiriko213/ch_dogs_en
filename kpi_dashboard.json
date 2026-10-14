@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-10-13T19:31:26.272225Z",
+  "generated_at": "2026-10-14T06:41:46.556773Z",
   "kpis": {
-    "uploads": 67,
-    "views": 32830,
+    "uploads": 68,
+    "views": 32933,
     "ctr_average": 533.18,
     "apv_average": 66.59,
     "subscribers_gained": 59,
-    "cgs_average": 56.97,
+    "cgs_average": 57.11,
     "top_topics": [
       "Theobromine Hepatic Clearance",
       "Canine Piloerection Reflex",
       "Bed Circling Trampling Instinct"
     ],
     "top_titles": [
-      "Why Your Dog Canine Grass Eating",
       "Understanding Dog Canine Deep Sighing Meaning",
-      "Why Your Dog Canine Contagious Yawning"
+      "Why Your Dog Canine Contagious Yawning",
+      "Understanding Dog Premature Graying In Canines"
     ]
   },
   "production_metrics": {
-    "success_rate_percent": 79.76,
-    "failure_rate_percent": 20.24,
-    "retry_rate_percent": 11.9,
-    "upload_latency_seconds": 4.78,
-    "generation_latency_seconds": 79.59
+    "success_rate_percent": 80.0,
+    "failure_rate_percent": 20.0,
+    "retry_rate_percent": 11.76,
+    "upload_latency_seconds": 5.39,
+    "generation_latency_seconds": 91.96
   },
   "warnings": []
 }
