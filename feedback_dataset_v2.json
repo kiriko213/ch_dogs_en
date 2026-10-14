@@ -1,9 +1,9 @@
 {
   "feedback_version": 2,
-  "generated_at": "2026-10-14T10:08:59.678753Z",
+  "generated_at": "2026-10-14T17:05:09.244472Z",
   "channel": "ch_dogs_en",
   "metadata": {
-    "total_videos_analyzed": 69,
+    "total_videos_analyzed": 70,
     "analytics_api_available": true,
     "cgs_mode": "beta",
     "data_freshness_hours": 72,
@@ -13,7 +13,7 @@
     {
       "topic": "Theobromine Hepatic Clearance",
       "category": "Toxicology",
-      "cgs": 80.64,
+      "cgs": 80.61,
       "ctr": 1207.0,
       "apv": 95.23,
       "avd": 16.0,
@@ -22,7 +22,7 @@
     {
       "topic": "Canine Piloerection Reflex",
       "category": "Dermatology",
-      "cgs": 76.25,
+      "cgs": 76.33,
       "ctr": 587.0,
       "apv": 72.85,
       "avd": 11.0,
@@ -31,7 +31,7 @@
     {
       "topic": "Bed Circling Trampling Instinct",
       "category": "Behavior",
-      "cgs": 75.69,
+      "cgs": 75.68,
       "ctr": 1220.0,
       "apv": 65.32,
       "avd": 11.0,
@@ -49,7 +49,7 @@
     {
       "topic": "Canine Gorge Feeding Elasticity",
       "category": "Digestion",
-      "cgs": 74.8,
+      "cgs": 74.91,
       "ctr": 793.0,
       "apv": 68.01,
       "avd": 10.0,
@@ -58,27 +58,27 @@
   ],
   "losing_topics": [
     {
-      "topic": "Canine Endogenous Ascorbate Synthesis",
-      "category": "Biochemistry",
-      "cgs": 18.24,
-      "ctr": null,
-      "apv": null,
-      "avd": null,
-      "views": 107
-    },
-    {
       "topic": "Canine Xylitol Pancreatic Response",
       "category": "Toxicology",
-      "cgs": 12.07,
+      "cgs": 12.15,
       "ctr": null,
       "apv": null,
       "avd": null,
-      "views": 77
+      "views": 81
+    },
+    {
+      "topic": "Canine Kleiber Metabolic Body Mass Scaling",
+      "category": "Bioenergetics",
+      "cgs": 9.5,
+      "ctr": null,
+      "apv": null,
+      "avd": null,
+      "views": 0
     },
     {
       "topic": "Canine Gut Microbiome Serotonin Synthesis",
       "category": "Microbiology",
-      "cgs": 9.5,
+      "cgs": 9.37,
       "ctr": null,
       "apv": null,
       "avd": null,
@@ -87,7 +87,7 @@
     {
       "topic": "Canine Fatty Acid Muscle Metabolism",
       "category": "Exercise Physiology",
-      "cgs": 9.43,
+      "cgs": 9.3,
       "ctr": null,
       "apv": null,
       "avd": null,
@@ -96,7 +96,7 @@
     {
       "topic": "Canine Resource Caching Instinct",
       "category": "Behavior",
-      "cgs": 8.45,
+      "cgs": 8.34,
       "ctr": null,
       "apv": null,
       "avd": null,
@@ -120,6 +120,6 @@
   "exploration_ratio": {
     "reinforce_pct": 80,
     "explore_pct": 20,
-    "adjusted_by": "low_cgs_average_19.0"
+    "adjusted_by": "low_cgs_average_9.4"
   }
 }

@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-10-14T10:10:26.237471Z",
+  "generated_at": "2026-10-14T17:06:45.664190Z",
   "kpis": {
-    "uploads": 69,
-    "views": 32941,
+    "uploads": 70,
+    "views": 32952,
     "ctr_average": 533.18,
     "apv_average": 66.59,
     "subscribers_gained": 59,
-    "cgs_average": 56.83,
+    "cgs_average": 56.17,
     "top_topics": [
       "Theobromine Hepatic Clearance",
       "Canine Piloerection Reflex",
       "Bed Circling Trampling Instinct"
     ],
     "top_titles": [
-      "Why Your Dog Canine Contagious Yawning",
       "Understanding Dog Premature Graying In Canines",
-      "Understanding Dog Canine Water And Sweet Receptors"
+      "Understanding Dog Canine Water And Sweet Receptors",
+      "Why Your Dog Canine Dichromatic Color Vision"
     ]
   },
   "production_metrics": {
-    "success_rate_percent": 80.23,
-    "failure_rate_percent": 19.77,
-    "retry_rate_percent": 11.63,
-    "upload_latency_seconds": 4.99,
-    "generation_latency_seconds": 81.16
+    "success_rate_percent": 80.46,
+    "failure_rate_percent": 19.54,
+    "retry_rate_percent": 11.49,
+    "upload_latency_seconds": 5.2,
+    "generation_latency_seconds": 90.82
   },
   "warnings": []
 }

@@ -1,7 +1,7 @@
 {
   "channel": "ch_dogs_en",
   "schema_version": 2,
-  "updated_at": "2026-10-14T10:10:26.229035Z",
+  "updated_at": "2026-10-14T17:06:45.654511Z",
   "items": [
     {
       "topic": "Dog episodic memory",
@@ -1952,14 +1952,19 @@
       "development_stage": "Adult",
       "search_query": "dog owner",
       "id": "aq_1791919801_3",
-      "status": "pending",
-      "locked_at": null,
-      "used_at": null,
-      "video_id": null,
+      "status": "uploaded",
+      "locked_at": "2026-10-14T17:05:09.327777Z",
+      "used_at": "2026-10-14T17:06:45.653720Z",
+      "video_id": "nySH9NZqGP8",
       "original_title": "Why You Should Avoid Fat With Your Dog",
       "hook_score": 10.0,
       "hook_title_score": 20,
-      "hook_opening_score": 0
+      "hook_opening_score": 0,
+      "video_ids": [
+        8498674
+      ],
+      "local_filenames": [],
+      "scheduled_for": "2026-10-14T19:00:00Z"
     }
   ]
 }
