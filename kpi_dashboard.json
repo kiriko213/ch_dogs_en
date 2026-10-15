@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-10-15T06:36:53.979211Z",
+  "generated_at": "2026-10-15T09:53:12.398161Z",
   "kpis": {
-    "uploads": 71,
-    "views": 33086,
+    "uploads": 72,
+    "views": 33094,
     "ctr_average": 511.23,
     "apv_average": 61.81,
     "subscribers_gained": 59,
-    "cgs_average": 58.59,
+    "cgs_average": 57.95,
     "top_topics": [
       "Theobromine Hepatic Clearance",
       "Canine Piloerection Reflex",
       "Bed Circling Trampling Instinct"
     ],
     "top_titles": [
-      "Understanding Dog Canine Water And Sweet Receptors",
       "Why Your Dog Canine Dichromatic Color Vision",
-      "Why Your Dog Canine Hypersociability Genetics"
+      "Why Your Dog Canine Hypersociability Genetics",
+      "Why Your Dog Canine Pseudopregnancy Hormones"
     ]
   },
   "production_metrics": {
-    "success_rate_percent": 80.68,
-    "failure_rate_percent": 19.32,
-    "retry_rate_percent": 11.36,
-    "upload_latency_seconds": 5.08,
-    "generation_latency_seconds": 101.71
+    "success_rate_percent": 80.9,
+    "failure_rate_percent": 19.1,
+    "retry_rate_percent": 11.24,
+    "upload_latency_seconds": 4.97,
+    "generation_latency_seconds": 88.95
   },
   "warnings": []
 }

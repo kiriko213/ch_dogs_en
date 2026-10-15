@@ -1,7 +1,7 @@
 {
   "channel": "ch_dogs_en",
   "schema_version": 2,
-  "updated_at": "2026-10-15T06:36:53.974140Z",
+  "updated_at": "2026-10-15T09:53:12.389558Z",
   "items": [
     {
       "topic": "Dog episodic memory",
@@ -2008,14 +2008,19 @@
       "development_stage": "Adult",
       "search_query": "dog owner washing",
       "id": "aq_1792046107_1",
-      "status": "pending",
-      "locked_at": null,
-      "used_at": null,
-      "video_id": null,
+      "status": "uploaded",
+      "locked_at": "2026-10-15T09:51:38.211518Z",
+      "used_at": "2026-10-15T09:53:12.388825Z",
+      "video_id": "-8otj3vbV3c",
       "original_title": "Why You Should Wash Your Dog Right",
       "hook_score": 10.0,
       "hook_title_score": 20,
-      "hook_opening_score": 0
+      "hook_opening_score": 0,
+      "video_ids": [
+        32208335
+      ],
+      "local_filenames": [],
+      "scheduled_for": "2026-10-15T19:00:00Z"
     }
   ]
 }

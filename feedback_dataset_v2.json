@@ -1,9 +1,9 @@
 {
   "feedback_version": 2,
-  "generated_at": "2026-10-15T06:22:58.829192Z",
+  "generated_at": "2026-10-15T09:51:38.124093Z",
   "channel": "ch_dogs_en",
   "metadata": {
-    "total_videos_analyzed": 71,
+    "total_videos_analyzed": 72,
     "analytics_api_available": true,
     "cgs_mode": "beta",
     "data_freshness_hours": 72,
@@ -13,7 +13,7 @@
     {
       "topic": "Theobromine Hepatic Clearance",
       "category": "Toxicology",
-      "cgs": 80.56,
+      "cgs": 80.55,
       "ctr": 1207.0,
       "apv": 95.23,
       "avd": 16.0,
@@ -22,7 +22,7 @@
     {
       "topic": "Canine Piloerection Reflex",
       "category": "Dermatology",
-      "cgs": 76.49,
+      "cgs": 76.57,
       "ctr": 588.0,
       "apv": 73.14,
       "avd": 11.0,
@@ -31,7 +31,7 @@
     {
       "topic": "Bed Circling Trampling Instinct",
       "category": "Behavior",
-      "cgs": 75.65,
+      "cgs": 75.64,
       "ctr": 1220.0,
       "apv": 65.32,
       "avd": 11.0,
@@ -49,7 +49,7 @@
     {
       "topic": "Canine Gorge Feeding Elasticity",
       "category": "Digestion",
-      "cgs": 74.98,
+      "cgs": 75.1,
       "ctr": 793.0,
       "apv": 68.01,
       "avd": 10.0,
@@ -58,18 +58,9 @@
   ],
   "losing_topics": [
     {
-      "topic": "Canine Henle Loop Hyperosmolality",
-      "category": "Nephrology",
-      "cgs": 38.11,
-      "ctr": null,
-      "apv": null,
-      "avd": null,
-      "views": 19
-    },
-    {
       "topic": "Canine Splenic Erythrocyte Contraction",
       "category": "Hematology",
-      "cgs": 36.39,
+      "cgs": 36.37,
       "ctr": 5.0,
       "apv": 37.56,
       "avd": 6.0,
@@ -78,16 +69,25 @@
     {
       "topic": "Canine Xylitol Pancreatic Response",
       "category": "Toxicology",
-      "cgs": 18.93,
+      "cgs": 18.91,
       "ctr": null,
       "apv": null,
       "avd": null,
       "views": 82
     },
     {
+      "topic": "Canine Diaphragmatic Spasms",
+      "category": "Physiology",
+      "cgs": 10.0,
+      "ctr": null,
+      "apv": null,
+      "avd": null,
+      "views": 0
+    },
+    {
       "topic": "Canine Fatty Acid Muscle Metabolism",
       "category": "Exercise Physiology",
-      "cgs": 9.49,
+      "cgs": 9.43,
       "ctr": null,
       "apv": null,
       "avd": null,
@@ -96,7 +96,7 @@
     {
       "topic": "Canine Resource Caching Instinct",
       "category": "Behavior",
-      "cgs": 5.01,
+      "cgs": 4.99,
       "ctr": 1.0,
       "apv": 0.0,
       "avd": 0.0,
@@ -118,7 +118,7 @@
       "hook_type": "low_retention_proxy",
       "reason": "swipe_away_proxy",
       "avg_apv_proxy": 0.0,
-      "blacklisted_at": "2026-10-15T06:22:58.829233Z"
+      "blacklisted_at": "2026-10-15T09:51:38.124148Z"
     }
   ],
   "growth_signals": {
@@ -128,6 +128,6 @@
   "exploration_ratio": {
     "reinforce_pct": 80,
     "explore_pct": 20,
-    "adjusted_by": "low_cgs_average_39.3"
+    "adjusted_by": "low_cgs_average_29.4"
   }
 }
