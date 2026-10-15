@@ -1,15 +1,5 @@
 [
   {
-    "title": "The Fascinating Reason Dogs Circle",
-    "topic": "Bed Circling Trampling Instinct",
-    "script_content": "When your dog circles before resting, ancient wilderness instincts awaken. Ancestors trampled grass to create secure, comfortable resting spots. Does your dog do this?",
-    "video_ids": [
-      29781544
-    ],
-    "local_filenames": [],
-    "timestamp": "2026-09-23T16:59:44.297426"
-  },
-  {
     "title": "The Fascinating Reason Dogs Pant Loudly",
     "topic": "Canine Heat Exhaustion Panting Limits",
     "script_content": "Heavy shallow panting is your dog primary cooling system since they lack human sweat glands. High humidity can quickly overload this evaporative cooling process. How does your dog stay cool?",
@@ -198,5 +188,15 @@
     ],
     "local_filenames": [],
     "timestamp": "2026-10-14T17:06:45.653753"
+  },
+  {
+    "title": "Why Your Dog Canine Diaphragmatic Spasms",
+    "topic": "Canine Diaphragmatic Spasms",
+    "script_content": "When your dog hiccups, stay calm. Gentle belly rubs relax their diaphragm and soothe these harmless muscle spasms. Does your dog get hiccups?",
+    "video_ids": [
+      35637296
+    ],
+    "local_filenames": [],
+    "timestamp": "2026-10-15T06:36:53.973290"
   }
 ]

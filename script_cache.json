@@ -1,7 +1,7 @@
 {
   "channel": "ch_dogs_en",
   "schema_version": 2,
-  "updated_at": "2026-10-14T17:06:45.654511Z",
+  "updated_at": "2026-10-15T06:36:53.974140Z",
   "items": [
     {
       "topic": "Dog episodic memory",
@@ -1965,6 +1965,57 @@
       ],
       "local_filenames": [],
       "scheduled_for": "2026-10-14T19:00:00Z"
+    },
+    {
+      "topic": "Canine Diaphragmatic Spasms",
+      "title": "Why Your Dog Canine Diaphragmatic Spasms",
+      "hook_framework": "Problem & Solution",
+      "script": "When your dog hiccups, stay calm. Gentle belly rubs relax their diaphragm and soothe these harmless muscle spasms. Does your dog get hiccups?",
+      "video_search_query": "happy dog",
+      "category": "Physiology",
+      "subtopic": "Respiratory Reflex",
+      "unique_fact": "Canine hiccups are involuntary spasms of the diaphragm that occur commonly during growth to help develop respiratory muscles.",
+      "angle": "Action",
+      "region": "Global",
+      "development_stage": "Puppy",
+      "search_query": "happy dog",
+      "id": "aq_1792046107_0",
+      "status": "uploaded",
+      "locked_at": "2026-10-15T06:35:07.125781Z",
+      "used_at": "2026-10-15T06:36:53.973270Z",
+      "video_id": "GWqmG8Z1FdQ",
+      "original_title": "What Your Dog's Hiccup Really Means",
+      "hook_score": 10.0,
+      "hook_title_score": 20,
+      "hook_opening_score": 0,
+      "video_ids": [
+        35637296
+      ],
+      "local_filenames": [],
+      "scheduled_for": "2026-10-15T19:00:00Z"
+    },
+    {
+      "topic": "Canine Epidermal Acid Mantle",
+      "title": "Why Your Dog Canine Epidermal Acid Mantle",
+      "hook_framework": "Warning",
+      "script": "Your dog actually has delicate skin that human soaps dry out. Gentle dog shampoos protect their natural moisture. How does your dog handle baths?",
+      "video_search_query": "dog owner washing",
+      "category": "Health",
+      "subtopic": "Dermatology",
+      "unique_fact": "Dog skin has a neutral pH making human acidic soaps irritating",
+      "angle": "Care",
+      "region": "Global",
+      "development_stage": "Adult",
+      "search_query": "dog owner washing",
+      "id": "aq_1792046107_1",
+      "status": "pending",
+      "locked_at": null,
+      "used_at": null,
+      "video_id": null,
+      "original_title": "Why You Should Wash Your Dog Right",
+      "hook_score": 10.0,
+      "hook_title_score": 20,
+      "hook_opening_score": 0
     }
   ]
 }

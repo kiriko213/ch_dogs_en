@@ -1,15 +1,6 @@
 {
   "items": [
     {
-      "video_id": "53pNaGmaIvs",
-      "title": "Understanding Dog Premature Graying In Canines",
-      "ctr": 0.0,
-      "apv": 0.0,
-      "subscribers_gained": 0,
-      "performance_score": 0.0,
-      "recorded_at": "2026-08-08T03:17:06.313041Z"
-    },
-    {
       "video_id": "XAYTQOgsPck",
       "title": "Understanding Dog Canine Water And Sweet Receptors",
       "ctr": 0.0,
@@ -449,6 +440,15 @@
       "subscribers_gained": 0,
       "performance_score": 0.0,
       "recorded_at": "2026-10-14T17:06:45.661221Z"
+    },
+    {
+      "video_id": "GWqmG8Z1FdQ",
+      "title": "Why Your Dog Canine Diaphragmatic Spasms",
+      "ctr": 0.0,
+      "apv": 0.0,
+      "subscribers_gained": 0,
+      "performance_score": 0.0,
+      "recorded_at": "2026-10-15T06:36:53.976555Z"
     }
   ]
 }
