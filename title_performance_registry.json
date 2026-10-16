@@ -1,15 +1,6 @@
 {
   "items": [
     {
-      "video_id": "YmmyFJiuX08",
-      "title": "Why Your Dog Canine Dichromatic Color Vision",
-      "ctr": 0.0,
-      "apv": 0.0,
-      "subscribers_gained": 0,
-      "performance_score": 0.0,
-      "recorded_at": "2026-08-08T13:11:59.843127Z"
-    },
-    {
       "video_id": "E2pS9Sm8OF0",
       "title": "Why Your Dog Canine Hypersociability Genetics",
       "ctr": 0.0,
@@ -449,6 +440,15 @@
       "subscribers_gained": 0,
       "performance_score": 0.0,
       "recorded_at": "2026-10-15T09:53:12.395587Z"
+    },
+    {
+      "video_id": "q57vGD13Bf0",
+      "title": "Why Your Dog Canine Critical Socialization Window",
+      "ctr": 0.0,
+      "apv": 0.0,
+      "subscribers_gained": 0,
+      "performance_score": 0.0,
+      "recorded_at": "2026-10-16T09:51:43.480640Z"
     }
   ]
 }

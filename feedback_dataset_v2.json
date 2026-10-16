@@ -1,9 +1,9 @@
 {
   "feedback_version": 2,
-  "generated_at": "2026-10-15T09:51:38.124093Z",
+  "generated_at": "2026-10-16T09:45:16.632370Z",
   "channel": "ch_dogs_en",
   "metadata": {
-    "total_videos_analyzed": 72,
+    "total_videos_analyzed": 73,
     "analytics_api_available": true,
     "cgs_mode": "beta",
     "data_freshness_hours": 72,
@@ -13,7 +13,7 @@
     {
       "topic": "Theobromine Hepatic Clearance",
       "category": "Toxicology",
-      "cgs": 80.55,
+      "cgs": 80.45,
       "ctr": 1207.0,
       "apv": 95.23,
       "avd": 16.0,
@@ -22,16 +22,16 @@
     {
       "topic": "Canine Piloerection Reflex",
       "category": "Dermatology",
-      "cgs": 76.57,
+      "cgs": 76.62,
       "ctr": 588.0,
       "apv": 73.14,
       "avd": 11.0,
-      "views": 588
+      "views": 590
     },
     {
       "topic": "Bed Circling Trampling Instinct",
       "category": "Behavior",
-      "cgs": 75.64,
+      "cgs": 75.59,
       "ctr": 1220.0,
       "apv": 65.32,
       "avd": 11.0,
@@ -40,7 +40,7 @@
     {
       "topic": "Frenetic Random Activity Periods",
       "category": "Behavior",
-      "cgs": 75.4,
+      "cgs": 75.39,
       "ctr": 1299.0,
       "apv": 61.6,
       "avd": 9.0,
@@ -49,7 +49,7 @@
     {
       "topic": "Canine Gorge Feeding Elasticity",
       "category": "Digestion",
-      "cgs": 75.1,
+      "cgs": 75.17,
       "ctr": 793.0,
       "apv": 68.01,
       "avd": 10.0,
@@ -58,45 +58,45 @@
   ],
   "losing_topics": [
     {
-      "topic": "Canine Splenic Erythrocyte Contraction",
-      "category": "Hematology",
-      "cgs": 36.37,
-      "ctr": 5.0,
-      "apv": 37.56,
-      "avd": 6.0,
-      "views": 13
-    },
-    {
-      "topic": "Canine Xylitol Pancreatic Response",
-      "category": "Toxicology",
-      "cgs": 18.91,
+      "topic": "Canine Pancreatic Lipase Sensitivity",
+      "category": "Digestion",
+      "cgs": 39.65,
       "ctr": null,
       "apv": null,
       "avd": null,
-      "views": 82
+      "views": 40
+    },
+    {
+      "topic": "Canine Kleiber Metabolic Body Mass Scaling",
+      "category": "Bioenergetics",
+      "cgs": 38.45,
+      "ctr": null,
+      "apv": null,
+      "avd": null,
+      "views": 29
     },
     {
       "topic": "Canine Diaphragmatic Spasms",
       "category": "Physiology",
-      "cgs": 10.0,
+      "cgs": 31.78,
       "ctr": null,
       "apv": null,
       "avd": null,
-      "views": 0
+      "views": 27
     },
     {
       "topic": "Canine Fatty Acid Muscle Metabolism",
       "category": "Exercise Physiology",
-      "cgs": 9.43,
+      "cgs": 9.34,
       "ctr": null,
       "apv": null,
       "avd": null,
-      "views": 11
+      "views": 19
     },
     {
       "topic": "Canine Resource Caching Instinct",
       "category": "Behavior",
-      "cgs": 4.99,
+      "cgs": 4.9,
       "ctr": 1.0,
       "apv": 0.0,
       "avd": 0.0,
@@ -118,16 +118,16 @@
       "hook_type": "low_retention_proxy",
       "reason": "swipe_away_proxy",
       "avg_apv_proxy": 0.0,
-      "blacklisted_at": "2026-10-15T09:51:38.124148Z"
+      "blacklisted_at": "2026-10-16T09:45:16.632421Z"
     }
   ],
   "growth_signals": {
-    "total_subscribers_gained": 59,
+    "total_subscribers_gained": 60,
     "growth_trend": "growing"
   },
   "exploration_ratio": {
     "reinforce_pct": 80,
     "explore_pct": 20,
-    "adjusted_by": "low_cgs_average_29.4"
+    "adjusted_by": "low_cgs_average_37.3"
   }
 }

@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-10-15T09:53:12.398161Z",
+  "generated_at": "2026-10-16T09:51:43.483503Z",
   "kpis": {
-    "uploads": 72,
-    "views": 33094,
-    "ctr_average": 511.23,
-    "apv_average": 61.81,
-    "subscribers_gained": 59,
-    "cgs_average": 57.95,
+    "uploads": 73,
+    "views": 33221,
+    "ctr_average": 491.61,
+    "apv_average": 61.17,
+    "subscribers_gained": 60,
+    "cgs_average": 59.22,
     "top_topics": [
       "Theobromine Hepatic Clearance",
       "Canine Piloerection Reflex",
       "Bed Circling Trampling Instinct"
     ],
     "top_titles": [
-      "Why Your Dog Canine Dichromatic Color Vision",
       "Why Your Dog Canine Hypersociability Genetics",
-      "Why Your Dog Canine Pseudopregnancy Hormones"
+      "Why Your Dog Canine Pseudopregnancy Hormones",
+      "The Fascinating Reason Dogs Eat Bones"
     ]
   },
   "production_metrics": {
-    "success_rate_percent": 80.9,
-    "failure_rate_percent": 19.1,
-    "retry_rate_percent": 11.24,
-    "upload_latency_seconds": 4.97,
-    "generation_latency_seconds": 88.95
+    "success_rate_percent": 81.11,
+    "failure_rate_percent": 18.89,
+    "retry_rate_percent": 11.11,
+    "upload_latency_seconds": 5.43,
+    "generation_latency_seconds": 96.58
   },
   "warnings": []
 }
