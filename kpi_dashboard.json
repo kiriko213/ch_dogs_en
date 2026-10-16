@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-10-16T09:51:43.483503Z",
+  "generated_at": "2026-10-16T16:35:27.449450Z",
   "kpis": {
-    "uploads": 73,
-    "views": 33221,
+    "uploads": 74,
+    "views": 33238,
     "ctr_average": 491.61,
     "apv_average": 61.17,
     "subscribers_gained": 60,
-    "cgs_average": 59.22,
+    "cgs_average": 58.56,
     "top_topics": [
       "Theobromine Hepatic Clearance",
       "Canine Piloerection Reflex",
       "Bed Circling Trampling Instinct"
     ],
     "top_titles": [
-      "Why Your Dog Canine Hypersociability Genetics",
       "Why Your Dog Canine Pseudopregnancy Hormones",
-      "The Fascinating Reason Dogs Eat Bones"
+      "The Fascinating Reason Dogs Eat Bones",
+      "Understanding Dog Canine Double Coat Thermal Insulation"
     ]
   },
   "production_metrics": {
-    "success_rate_percent": 81.11,
-    "failure_rate_percent": 18.89,
-    "retry_rate_percent": 11.11,
-    "upload_latency_seconds": 5.43,
-    "generation_latency_seconds": 96.58
+    "success_rate_percent": 81.32,
+    "failure_rate_percent": 18.68,
+    "retry_rate_percent": 10.99,
+    "upload_latency_seconds": 4.95,
+    "generation_latency_seconds": 97.68
   },
   "warnings": []
 }

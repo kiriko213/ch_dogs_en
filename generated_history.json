@@ -1,15 +1,5 @@
 [
   {
-    "title": "Understanding Dog Canine Microchipping Biocompatibility",
-    "topic": "Canine Microchipping Biocompatibility",
-    "script_content": "Lost collars easily slip away, but microchips provide permanent biocompatible radio frequency identification. A simple scan safely reunites lost companions with families everywhere. Is your dog microchipped yet?",
-    "video_ids": [
-      36215085
-    ],
-    "local_filenames": [],
-    "timestamp": "2026-10-09T08:05:52.241248"
-  },
-  {
     "title": "Understanding Dog Theobromine Hepatic Clearance",
     "topic": "Theobromine Hepatic Clearance",
     "script_content": "Your dog actually metabolizes chocolate compounds four times slower than humans. Their liver lacks key enzymes, so theobromine accumulates easily. Did you know this fact?",
@@ -198,5 +188,15 @@
     ],
     "local_filenames": [],
     "timestamp": "2026-10-16T09:51:43.476892"
+  },
+  {
+    "title": "Understanding Dog Canine Thermogenic Shivering Reflex",
+    "topic": "Canine Thermogenic Shivering Reflex",
+    "script_content": "When your dog shivers indoors, low core temperature triggers rapid tremors. Involuntary muscle contractions burn glycogen to generate warmth. Does your dog get cold?",
+    "video_ids": [
+      34277956
+    ],
+    "local_filenames": [],
+    "timestamp": "2026-10-16T16:35:27.436233"
   }
 ]

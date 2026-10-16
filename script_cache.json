@@ -1,7 +1,7 @@
 {
   "channel": "ch_dogs_en",
   "schema_version": 2,
-  "updated_at": "2026-10-16T09:51:43.477589Z",
+  "updated_at": "2026-10-16T16:35:27.438128Z",
   "items": [
     {
       "topic": "Dog episodic memory",
@@ -2064,14 +2064,19 @@
       "development_stage": "Adult",
       "search_query": "dog shivering blanket",
       "id": "aq_1792144201_1",
-      "status": "pending",
-      "locked_at": null,
-      "used_at": null,
-      "video_id": null,
+      "status": "uploaded",
+      "locked_at": "2026-10-16T16:33:44.502651Z",
+      "used_at": "2026-10-16T16:35:27.436211Z",
+      "video_id": "UV9vORDGrTM",
       "original_title": "What Your Dog's Shivering Really Means",
       "hook_score": 0.0,
       "hook_title_score": 0,
-      "hook_opening_score": 0
+      "hook_opening_score": 0,
+      "video_ids": [
+        34277956
+      ],
+      "local_filenames": [],
+      "scheduled_for": "2026-10-16T19:00:00Z"
     },
     {
       "topic": "Canine Passive Synovial Mobilization",
