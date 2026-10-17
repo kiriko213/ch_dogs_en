@@ -1,7 +1,7 @@
 {
   "channel": "ch_dogs_en",
   "schema_version": 2,
-  "updated_at": "2026-10-17T09:30:58.220251Z",
+  "updated_at": "2026-10-17T15:29:35.717383Z",
   "items": [
     {
       "topic": "Dog episodic memory",
@@ -2148,14 +2148,19 @@
       "development_stage": "Adult",
       "search_query": "cute dog",
       "id": "aq_1792229367_1",
-      "status": "pending",
-      "locked_at": null,
-      "used_at": null,
-      "video_id": null,
+      "status": "uploaded",
+      "locked_at": "2026-10-17T15:28:16.158686Z",
+      "used_at": "2026-10-17T15:29:35.716774Z",
+      "video_id": "_7jRBoWH_-o",
       "original_title": "The Fascinating Reason Dogs Heal Fast",
       "hook_score": 0.0,
       "hook_title_score": 0,
-      "hook_opening_score": 0
+      "hook_opening_score": 0,
+      "video_ids": [
+        34848456
+      ],
+      "local_filenames": [],
+      "scheduled_for": "2026-10-17T19:00:00Z"
     }
   ]
 }
