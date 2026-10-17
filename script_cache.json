@@ -1,7 +1,7 @@
 {
   "channel": "ch_dogs_en",
   "schema_version": 2,
-  "updated_at": "2026-10-17T06:08:45.085451Z",
+  "updated_at": "2026-10-17T09:30:58.220251Z",
   "items": [
     {
       "topic": "Dog episodic memory",
@@ -2105,6 +2105,57 @@
       ],
       "local_filenames": [],
       "scheduled_for": "2026-10-17T19:00:00Z"
+    },
+    {
+      "topic": "Canine Footpad Epidermal Papillae",
+      "title": "Why Your Dog Canine Footpad Epidermal Papillae",
+      "hook_framework": "Secret Meaning",
+      "script": "A fascinating fact shows dog paws contain microscopic ridges. These tiny textures act like tire treads to ensure steady traction. Does your dog slip indoors?",
+      "video_search_query": "dog walking floor",
+      "category": "Dermatology",
+      "subtopic": "Morphology",
+      "unique_fact": "Microscopic conical epidermal papillae on paw pads increase frictional surface contact on slippery terrain.",
+      "angle": "Science",
+      "region": "Global",
+      "development_stage": "Adult",
+      "search_query": "dog walking floor",
+      "id": "aq_1792229367_0",
+      "status": "uploaded",
+      "locked_at": "2026-10-17T09:29:27.840139Z",
+      "used_at": "2026-10-17T09:30:58.219648Z",
+      "video_id": "Pi8HYAgWspM",
+      "original_title": "What Your Dog's Paw Grip Really Means",
+      "hook_score": 10.0,
+      "hook_title_score": 20,
+      "hook_opening_score": 0,
+      "video_ids": [
+        5384645
+      ],
+      "local_filenames": [],
+      "scheduled_for": "2026-10-17T19:00:00Z"
+    },
+    {
+      "topic": "Canine Cutaneous Wound Contraction",
+      "title": "Understanding Dog Canine Cutaneous Wound Contraction",
+      "hook_framework": "Myth vs Fact",
+      "script": "Your dog actually closes cuts differently than humans do. Specialized cells pull their loose skin edges together rapidly. Does your dog heal quickly?",
+      "video_search_query": "cute dog",
+      "category": "Cellular Biology",
+      "subtopic": "Dermatology",
+      "unique_fact": "Canine wounds heal primarily via myofibroblast contraction of mobile loose skin rather than re-epithelialization.",
+      "angle": "Science",
+      "region": "Global",
+      "development_stage": "Adult",
+      "search_query": "cute dog",
+      "id": "aq_1792229367_1",
+      "status": "pending",
+      "locked_at": null,
+      "used_at": null,
+      "video_id": null,
+      "original_title": "The Fascinating Reason Dogs Heal Fast",
+      "hook_score": 0.0,
+      "hook_title_score": 0,
+      "hook_opening_score": 0
     }
   ]
 }
