@@ -1,15 +1,5 @@
 [
   {
-    "title": "Understanding Dog Theobromine Hepatic Clearance",
-    "topic": "Theobromine Hepatic Clearance",
-    "script_content": "Your dog actually metabolizes chocolate compounds four times slower than humans. Their liver lacks key enzymes, so theobromine accumulates easily. Did you know this fact?",
-    "video_ids": [
-      18216633
-    ],
-    "local_filenames": [],
-    "timestamp": "2026-10-09T11:54:53.322062"
-  },
-  {
     "title": "Understanding Dog Canine Salivary Amylase Absence",
     "topic": "Canine Salivary Amylase Absence",
     "script_content": "To protect your dog's teeth, brush them gently every week. Dog saliva lacks digestive enzymes, allowing rapid mineral buildup. Do you brush their teeth?",
@@ -198,5 +188,15 @@
     ],
     "local_filenames": [],
     "timestamp": "2026-10-16T16:35:27.436233"
+  },
+  {
+    "title": "Why Your Dog Canine Passive Synovial Mobilization",
+    "topic": "Canine Passive Synovial Mobilization",
+    "script_content": "To support your dog's mobility, gentle daily stretching circulates joint fluids. These safe passive motions protect cartilage and prevent stiffness. Does your dog stretch daily?",
+    "video_ids": [
+      34989186
+    ],
+    "local_filenames": [],
+    "timestamp": "2026-10-17T06:08:45.084669"
   }
 ]

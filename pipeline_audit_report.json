@@ -1,7 +1,12 @@
 {
-  "timestamp": "2026-10-16T16:35:27.443563Z",
+  "timestamp": "2026-10-17T06:08:45.097522Z",
   "audit_status": "PASS",
   "findings": [
+    {
+      "category": "cache",
+      "severity": "WARNING",
+      "message": "Script cache is empty. Next run will force batch refill."
+    },
     {
       "category": "stability",
       "severity": "WARNING",

@@ -1,9 +1,9 @@
 {
   "feedback_version": 2,
-  "generated_at": "2026-10-16T16:33:44.435267Z",
+  "generated_at": "2026-10-17T06:06:38.702581Z",
   "channel": "ch_dogs_en",
   "metadata": {
-    "total_videos_analyzed": 74,
+    "total_videos_analyzed": 75,
     "analytics_api_available": true,
     "cgs_mode": "beta",
     "data_freshness_hours": 72,
@@ -13,7 +13,7 @@
     {
       "topic": "Theobromine Hepatic Clearance",
       "category": "Toxicology",
-      "cgs": 80.42,
+      "cgs": 80.38,
       "ctr": 1207.0,
       "apv": 95.23,
       "avd": 16.0,
@@ -22,7 +22,7 @@
     {
       "topic": "Canine Piloerection Reflex",
       "category": "Dermatology",
-      "cgs": 76.7,
+      "cgs": 76.5,
       "ctr": 588.0,
       "apv": 73.14,
       "avd": 11.0,
@@ -31,7 +31,7 @@
     {
       "topic": "Bed Circling Trampling Instinct",
       "category": "Behavior",
-      "cgs": 75.58,
+      "cgs": 75.55,
       "ctr": 1220.0,
       "apv": 65.32,
       "avd": 11.0,
@@ -49,7 +49,7 @@
     {
       "topic": "Canine Gorge Feeding Elasticity",
       "category": "Digestion",
-      "cgs": 75.28,
+      "cgs": 75.0,
       "ctr": 793.0,
       "apv": 68.01,
       "avd": 10.0,
@@ -58,45 +58,45 @@
   ],
   "losing_topics": [
     {
-      "topic": "Canine Kleiber Metabolic Body Mass Scaling",
-      "category": "Bioenergetics",
-      "cgs": 38.6,
+      "topic": "Canine Salivary Amylase Absence",
+      "category": "Dental",
+      "cgs": 44.84,
+      "ctr": 13.0,
+      "apv": 33.1,
+      "avd": 5.0,
+      "views": 13
+    },
+    {
+      "topic": "Canine Paw Pad Thermoregulation",
+      "category": "Physiology",
+      "cgs": 42.36,
+      "ctr": 10.0,
+      "apv": 44.51,
+      "avd": 7.0,
+      "views": 10
+    },
+    {
+      "topic": "Canine Epidermal Acid Mantle",
+      "category": "Health",
+      "cgs": 40.32,
       "ctr": null,
       "apv": null,
       "avd": null,
-      "views": 35
+      "views": 54
     },
     {
       "topic": "Canine Diaphragmatic Spasms",
       "category": "Physiology",
-      "cgs": 30.3,
+      "cgs": 27.33,
       "ctr": null,
       "apv": null,
       "avd": null,
-      "views": 29
-    },
-    {
-      "topic": "Canine Critical Socialization Window",
-      "category": "Development",
-      "cgs": 10.0,
-      "ctr": null,
-      "apv": null,
-      "avd": null,
-      "views": 0
-    },
-    {
-      "topic": "Canine Fatty Acid Muscle Metabolism",
-      "category": "Exercise Physiology",
-      "cgs": 9.23,
-      "ctr": null,
-      "apv": null,
-      "avd": null,
-      "views": 19
+      "views": 34
     },
     {
       "topic": "Canine Resource Caching Instinct",
       "category": "Behavior",
-      "cgs": 4.87,
+      "cgs": 4.82,
       "ctr": 1.0,
       "apv": 0.0,
       "avd": 0.0,
@@ -118,16 +118,16 @@
       "hook_type": "low_retention_proxy",
       "reason": "swipe_away_proxy",
       "avg_apv_proxy": 0.0,
-      "blacklisted_at": "2026-10-16T16:33:44.435342Z"
+      "blacklisted_at": "2026-10-17T06:06:38.702649Z"
     }
   ],
   "growth_signals": {
-    "total_subscribers_gained": 60,
+    "total_subscribers_gained": 62,
     "growth_trend": "growing"
   },
   "exploration_ratio": {
     "reinforce_pct": 80,
     "explore_pct": 20,
-    "adjusted_by": "low_cgs_average_26.9"
+    "adjusted_by": "low_cgs_average_47.8"
   }
 }

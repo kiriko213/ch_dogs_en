@@ -1,7 +1,7 @@
 {
   "channel": "ch_dogs_en",
   "schema_version": 2,
-  "updated_at": "2026-10-16T16:35:27.438128Z",
+  "updated_at": "2026-10-17T06:08:45.085451Z",
   "items": [
     {
       "topic": "Dog episodic memory",
@@ -2092,14 +2092,19 @@
       "development_stage": "Senior",
       "search_query": "dog stretching carpet",
       "id": "aq_1792144201_2",
-      "status": "pending",
-      "locked_at": null,
-      "used_at": null,
-      "video_id": null,
+      "status": "uploaded",
+      "locked_at": "2026-10-17T06:06:38.786483Z",
+      "used_at": "2026-10-17T06:08:45.084643Z",
+      "video_id": "f48Gr-mVRyM",
       "original_title": "Why You Should Stretch With Your Dog",
       "hook_score": 10.0,
       "hook_title_score": 20,
-      "hook_opening_score": 0
+      "hook_opening_score": 0,
+      "video_ids": [
+        34989186
+      ],
+      "local_filenames": [],
+      "scheduled_for": "2026-10-17T19:00:00Z"
     }
   ]
 }
