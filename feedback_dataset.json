@@ -1,61 +1,61 @@
 {
   "feedback_version": 1,
-  "generated_at": "2026-10-18T06:33:19.077851Z",
+  "generated_at": "2026-10-18T09:32:29.340326Z",
   "top_topics": [
     {
       "topic": "Theobromine Hepatic Clearance",
       "category": "Toxicology",
-      "score": 63.15,
+      "score": 63.11,
       "views": 1207
     },
     {
       "topic": "Canine Thermogenic Shivering Reflex",
       "category": "Thermoregulation",
-      "score": 62.51,
-      "views": 969
+      "score": 62.99,
+      "views": 975
     },
     {
       "topic": "Canine Cutaneous Wound Contraction",
       "category": "Cellular Biology",
-      "score": 57.72,
-      "views": 1010
+      "score": 57.64,
+      "views": 1013
+    },
+    {
+      "topic": "Canine Critical Socialization Window",
+      "category": "Development",
+      "score": 56.87,
+      "views": 925
     },
     {
       "topic": "Canine Social Allogrooming",
       "category": "Social Bonding",
-      "score": 56.33,
+      "score": 56.74,
       "views": 908
-    },
-    {
-      "topic": "Bed Circling Trampling Instinct",
-      "category": "Behavior",
-      "score": 56.02,
-      "views": 1220
     }
   ],
   "underperforming_topics": [
     {
       "topic": "Canine Masticatory Safety",
       "category": "Care",
-      "score": 4.75,
+      "score": 4.79,
       "views": 101
     },
     {
       "topic": "Canine Vestigial Clavicle",
       "category": "Anatomy",
-      "score": 3.48,
+      "score": 3.51,
       "views": 69
     },
     {
       "topic": "Canine Permanent Dental Structure",
       "category": "Anatomy",
-      "score": 2.68,
+      "score": 2.7,
       "views": 57
     },
     {
       "topic": "Canine Play Bow Communication",
       "category": "Body Language",
-      "score": 2.11,
+      "score": 2.13,
       "views": 44
     },
     {

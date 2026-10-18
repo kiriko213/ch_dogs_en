@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-10-18T06:46:34.496666Z",
+  "generated_at": "2026-10-18T09:34:12.372225Z",
   "kpis": {
-    "uploads": 78,
-    "views": 36554,
+    "uploads": 79,
+    "views": 36629,
     "ctr_average": 455.1,
     "apv_average": 62.33,
     "subscribers_gained": 62,
-    "cgs_average": 61.2,
+    "cgs_average": 60.54,
     "top_topics": [
       "Theobromine Hepatic Clearance",
       "Canine Piloerection Reflex",
       "Bed Circling Trampling Instinct"
     ],
     "top_titles": [
-      "Understanding Dog Canine Scratch Reflex Mechanism",
       "Understanding Dog Canine Dewclaw Function",
-      "Understanding Dog Canine Social Hierarchy Dynamics"
+      "Understanding Dog Canine Social Hierarchy Dynamics",
+      "Understanding Dog Canine Biological Circadian Clock"
     ]
   },
   "production_metrics": {
-    "success_rate_percent": 82.11,
-    "failure_rate_percent": 17.89,
-    "retry_rate_percent": 10.53,
-    "upload_latency_seconds": 5.21,
-    "generation_latency_seconds": 56.46
+    "success_rate_percent": 82.29,
+    "failure_rate_percent": 17.71,
+    "retry_rate_percent": 10.42,
+    "upload_latency_seconds": 5.04,
+    "generation_latency_seconds": 96.8
   },
   "warnings": []
 }

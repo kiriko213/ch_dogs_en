@@ -1,9 +1,9 @@
 {
   "feedback_version": 2,
-  "generated_at": "2026-10-18T06:33:20.149206Z",
+  "generated_at": "2026-10-18T09:32:30.135828Z",
   "channel": "ch_dogs_en",
   "metadata": {
-    "total_videos_analyzed": 78,
+    "total_videos_analyzed": 79,
     "analytics_api_available": true,
     "cgs_mode": "beta",
     "data_freshness_hours": 72,
@@ -13,7 +13,7 @@
     {
       "topic": "Theobromine Hepatic Clearance",
       "category": "Toxicology",
-      "cgs": 80.29,
+      "cgs": 80.28,
       "ctr": 1207.0,
       "apv": 95.23,
       "avd": 16.0,
@@ -22,7 +22,7 @@
     {
       "topic": "Canine Piloerection Reflex",
       "category": "Dermatology",
-      "cgs": 76.54,
+      "cgs": 76.6,
       "ctr": 590.0,
       "apv": 73.49,
       "avd": 11.0,
@@ -31,7 +31,7 @@
     {
       "topic": "Bed Circling Trampling Instinct",
       "category": "Behavior",
-      "cgs": 75.5,
+      "cgs": 75.49,
       "ctr": 1220.0,
       "apv": 65.32,
       "avd": 11.0,
@@ -49,7 +49,7 @@
     {
       "topic": "Canine Gorge Feeding Elasticity",
       "category": "Digestion",
-      "cgs": 74.88,
+      "cgs": 74.97,
       "ctr": 793.0,
       "apv": 68.01,
       "avd": 10.0,
@@ -60,20 +60,11 @@
     {
       "topic": "Canine Salivary Amylase Absence",
       "category": "Dental",
-      "cgs": 44.76,
+      "cgs": 44.75,
       "ctr": 13.0,
       "apv": 33.1,
       "avd": 5.0,
       "views": 14
-    },
-    {
-      "topic": "Canine Passive Synovial Mobilization",
-      "category": "Orthopedics",
-      "cgs": 44.66,
-      "ctr": null,
-      "apv": null,
-      "avd": null,
-      "views": 162
     },
     {
       "topic": "Canine Paw Pad Thermoregulation",
@@ -87,16 +78,25 @@
     {
       "topic": "Canine Footpad Epidermal Papillae",
       "category": "Dermatology",
-      "cgs": 40.68,
+      "cgs": 36.53,
       "ctr": null,
       "apv": null,
       "avd": null,
-      "views": 164
+      "views": 227
+    },
+    {
+      "topic": "Canine Gastric Hydrochloric Secretion",
+      "category": "Digestion",
+      "cgs": 10.0,
+      "ctr": null,
+      "apv": null,
+      "avd": null,
+      "views": 0
     },
     {
       "topic": "Canine Resource Caching Instinct",
       "category": "Behavior",
-      "cgs": 4.73,
+      "cgs": 4.72,
       "ctr": 1.0,
       "apv": 0.0,
       "avd": 0.0,
@@ -118,7 +118,7 @@
       "hook_type": "low_retention_proxy",
       "reason": "swipe_away_proxy",
       "avg_apv_proxy": 0.0,
-      "blacklisted_at": "2026-10-18T06:33:20.149240Z"
+      "blacklisted_at": "2026-10-18T09:32:30.135902Z"
     }
   ],
   "growth_signals": {
@@ -128,6 +128,6 @@
   "exploration_ratio": {
     "reinforce_pct": 80,
     "explore_pct": 20,
-    "adjusted_by": "low_cgs_average_46.7"
+    "adjusted_by": "low_cgs_average_33.8"
   }
 }
