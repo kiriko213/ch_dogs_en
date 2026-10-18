@@ -1,15 +1,6 @@
 {
   "items": [
     {
-      "video_id": "h16yFEz1XK4",
-      "title": "Understanding Dog Canine Dewclaw Function",
-      "ctr": 0.0,
-      "apv": 0.0,
-      "subscribers_gained": 0,
-      "performance_score": 0.0,
-      "recorded_at": "2026-08-11T03:25:25.543072Z"
-    },
-    {
       "video_id": "Exg8G9mnbzQ",
       "title": "Understanding Dog Canine Social Hierarchy Dynamics",
       "ctr": 0.0,
@@ -449,6 +440,15 @@
       "subscribers_gained": 0,
       "performance_score": 0.0,
       "recorded_at": "2026-10-18T09:34:12.369430Z"
+    },
+    {
+      "video_id": "nUUe-_LksEA",
+      "title": "Understanding Dog Canine Nictitating Membrane Mobility",
+      "ctr": 0.0,
+      "apv": 0.0,
+      "subscribers_gained": 0,
+      "performance_score": 0.0,
+      "recorded_at": "2026-10-18T15:55:15.716236Z"
     }
   ]
 }

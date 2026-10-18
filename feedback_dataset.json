@@ -1,62 +1,62 @@
 {
   "feedback_version": 1,
-  "generated_at": "2026-10-18T09:32:29.340326Z",
+  "generated_at": "2026-10-18T15:48:07.245283Z",
   "top_topics": [
-    {
-      "topic": "Theobromine Hepatic Clearance",
-      "category": "Toxicology",
-      "score": 63.11,
-      "views": 1207
-    },
     {
       "topic": "Canine Thermogenic Shivering Reflex",
       "category": "Thermoregulation",
-      "score": 62.99,
-      "views": 975
+      "score": 65.44,
+      "views": 1018
+    },
+    {
+      "topic": "Theobromine Hepatic Clearance",
+      "category": "Toxicology",
+      "score": 63.02,
+      "views": 1207
     },
     {
       "topic": "Canine Cutaneous Wound Contraction",
       "category": "Cellular Biology",
-      "score": 57.64,
-      "views": 1013
-    },
-    {
-      "topic": "Canine Critical Socialization Window",
-      "category": "Development",
-      "score": 56.87,
-      "views": 925
+      "score": 57.49,
+      "views": 1016
     },
     {
       "topic": "Canine Social Allogrooming",
       "category": "Social Bonding",
-      "score": 56.74,
+      "score": 57.0,
       "views": 908
+    },
+    {
+      "topic": "Canine Microchipping Biocompatibility",
+      "category": "Safety",
+      "score": 56.15,
+      "views": 456
     }
   ],
   "underperforming_topics": [
     {
       "topic": "Canine Masticatory Safety",
       "category": "Care",
-      "score": 4.79,
+      "score": 4.82,
       "views": 101
     },
     {
       "topic": "Canine Vestigial Clavicle",
       "category": "Anatomy",
-      "score": 3.51,
+      "score": 3.52,
       "views": 69
     },
     {
       "topic": "Canine Permanent Dental Structure",
       "category": "Anatomy",
-      "score": 2.7,
+      "score": 2.71,
       "views": 57
     },
     {
       "topic": "Canine Play Bow Communication",
       "category": "Body Language",
-      "score": 2.13,
-      "views": 44
+      "score": 2.23,
+      "views": 46
     },
     {
       "topic": "Canine Paw Pad Thermoregulation",
