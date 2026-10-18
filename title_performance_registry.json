@@ -1,15 +1,6 @@
 {
   "items": [
     {
-      "video_id": "rue5PQbVjk4",
-      "title": "Why You Should Add Water With Dog Food",
-      "ctr": 0.0,
-      "apv": 0.0,
-      "subscribers_gained": 0,
-      "performance_score": 0.0,
-      "recorded_at": "2026-08-10T06:24:10.799659Z"
-    },
-    {
       "video_id": "xh6BzA7D0Ik",
       "title": "Understanding Dog Canine Scratch Reflex Mechanism",
       "ctr": 0.0,
@@ -449,6 +440,15 @@
       "subscribers_gained": 0,
       "performance_score": 0.0,
       "recorded_at": "2026-10-17T15:29:35.726426Z"
+    },
+    {
+      "video_id": "dy6ZVnE2CQA",
+      "title": "Understanding Dog Canine Gastric Hydrochloric Secretion",
+      "ctr": 0.0,
+      "apv": 0.0,
+      "subscribers_gained": 0,
+      "performance_score": 0.0,
+      "recorded_at": "2026-10-18T06:46:34.494730Z"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "channel": "ch_dogs_en",
   "schema_version": 2,
-  "updated_at": "2026-10-17T15:29:35.717383Z",
+  "updated_at": "2026-10-18T06:46:34.492614Z",
   "items": [
     {
       "topic": "Dog episodic memory",
@@ -2161,6 +2161,57 @@
       ],
       "local_filenames": [],
       "scheduled_for": "2026-10-17T19:00:00Z"
+    },
+    {
+      "topic": "Canine Gastric Hydrochloric Secretion",
+      "title": "Understanding Dog Canine Gastric Hydrochloric Secretion",
+      "hook_framework": "Myth vs Fact",
+      "script": "Your dog actually produces potent stomach acid to dissolve raw food. This powerful digestive fluid neutralizes bacteria quickly. What does your dog love eating most?",
+      "video_search_query": "dog eating meat",
+      "category": "Digestion",
+      "subtopic": "Physiology",
+      "unique_fact": "Canine stomach acid maintains an ultra-low pH of one to dissolve raw bones and neutralize harmful bacteria.",
+      "angle": "Biology",
+      "region": "Global",
+      "development_stage": "Adult",
+      "search_query": "dog eating meat",
+      "id": "aq_1792305932_0",
+      "status": "uploaded",
+      "locked_at": "2026-10-18T06:45:32.767815Z",
+      "used_at": "2026-10-18T06:46:34.492016Z",
+      "video_id": "dy6ZVnE2CQA",
+      "original_title": "The Fascinating Reason Dogs Crave Meat",
+      "hook_score": 10.0,
+      "hook_title_score": 20,
+      "hook_opening_score": 0,
+      "video_ids": [
+        35243950
+      ],
+      "local_filenames": [],
+      "scheduled_for": "2026-10-18T19:00:00Z"
+    },
+    {
+      "topic": "Canine Pandiculation Myofascial Reset",
+      "title": "Why Your Dog Canine Pandiculation Myofascial Reset",
+      "hook_framework": "Secret Meaning",
+      "script": "When your dog stretches forward, they are practicing pandiculation. This natural reflex actively restores muscle elasticity and circulation. Does your dog stretch after waking?",
+      "video_search_query": "dog stretching grass",
+      "category": "Behavior",
+      "subtopic": "Movement",
+      "unique_fact": "Morning stretching in dogs is pandiculation, an involuntary muscular contraction that resets resting muscle tone and restores fascia elasticity.",
+      "angle": "Physiology",
+      "region": "Global",
+      "development_stage": "Adult",
+      "search_query": "dog stretching grass",
+      "id": "aq_1792305932_1",
+      "status": "pending",
+      "locked_at": null,
+      "used_at": null,
+      "video_id": null,
+      "original_title": "What Your Dog's Stretch Really Means",
+      "hook_score": 10.0,
+      "hook_title_score": 20,
+      "hook_opening_score": 0
     }
   ]
 }

@@ -1,67 +1,67 @@
 {
   "feedback_version": 1,
-  "generated_at": "2026-10-17T15:28:15.222453Z",
+  "generated_at": "2026-10-18T06:33:19.077851Z",
   "top_topics": [
     {
       "topic": "Theobromine Hepatic Clearance",
       "category": "Toxicology",
-      "score": 63.36,
+      "score": 63.15,
       "views": 1207
     },
     {
       "topic": "Canine Thermogenic Shivering Reflex",
       "category": "Thermoregulation",
-      "score": 63.07,
-      "views": 950
+      "score": 62.51,
+      "views": 969
+    },
+    {
+      "topic": "Canine Cutaneous Wound Contraction",
+      "category": "Cellular Biology",
+      "score": 57.72,
+      "views": 1010
     },
     {
       "topic": "Canine Social Allogrooming",
       "category": "Social Bonding",
-      "score": 57.33,
+      "score": 56.33,
       "views": 908
     },
     {
-      "topic": "Canine Microchipping Biocompatibility",
-      "category": "Safety",
-      "score": 56.64,
-      "views": 456
-    },
-    {
-      "topic": "Canine Critical Socialization Window",
-      "category": "Development",
-      "score": 56.64,
-      "views": 929
+      "topic": "Bed Circling Trampling Instinct",
+      "category": "Behavior",
+      "score": 56.02,
+      "views": 1220
     }
   ],
   "underperforming_topics": [
     {
       "topic": "Canine Masticatory Safety",
       "category": "Care",
-      "score": 4.87,
+      "score": 4.75,
       "views": 101
     },
     {
       "topic": "Canine Vestigial Clavicle",
       "category": "Anatomy",
-      "score": 3.62,
-      "views": 70
+      "score": 3.48,
+      "views": 69
     },
     {
       "topic": "Canine Permanent Dental Structure",
       "category": "Anatomy",
-      "score": 2.75,
+      "score": 2.68,
       "views": 57
     },
     {
       "topic": "Canine Play Bow Communication",
       "category": "Body Language",
-      "score": 2.17,
+      "score": 2.11,
       "views": 44
     },
     {
       "topic": "Canine Paw Pad Thermoregulation",
       "category": "Physiology",
-      "score": 0.68,
+      "score": 0.66,
       "views": 10
     }
   ]
