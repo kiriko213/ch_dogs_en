@@ -1,15 +1,6 @@
 {
   "items": [
     {
-      "video_id": "JouwELOTZhY",
-      "title": "Understanding Dog Canine Nesting Digging Instinct",
-      "ctr": 0.0,
-      "apv": 0.0,
-      "subscribers_gained": 0,
-      "performance_score": 0.0,
-      "recorded_at": "2026-08-12T03:53:33.118090Z"
-    },
-    {
       "video_id": "mHX0YDkqlqI",
       "title": "Understanding Dog Canine Skin Elasticity Hydration Test",
       "ctr": 0.0,
@@ -449,6 +440,15 @@
       "subscribers_gained": 0,
       "performance_score": 0.0,
       "recorded_at": "2026-10-19T10:44:52.621128Z"
+    },
+    {
+      "video_id": "XZMX4VLuszk",
+      "title": "Why Your Dog Canine Age-Related Sarcopenia",
+      "ctr": 0.0,
+      "apv": 0.0,
+      "subscribers_gained": 0,
+      "performance_score": 0.0,
+      "recorded_at": "2026-10-19T18:44:10.422304Z"
     }
   ]
 }

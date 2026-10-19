@@ -1,61 +1,61 @@
 {
   "feedback_version": 1,
-  "generated_at": "2026-10-19T10:43:20.262454Z",
+  "generated_at": "2026-10-19T18:42:04.575833Z",
   "top_topics": [
     {
       "topic": "Canine Thermogenic Shivering Reflex",
       "category": "Thermoregulation",
-      "score": 65.18,
-      "views": 1049
+      "score": 64.86,
+      "views": 1060
     },
     {
       "topic": "Theobromine Hepatic Clearance",
       "category": "Toxicology",
-      "score": 62.77,
+      "score": 62.67,
       "views": 1207
-    },
-    {
-      "topic": "Canine Cutaneous Wound Contraction",
-      "category": "Cellular Biology",
-      "score": 57.1,
-      "views": 1018
     },
     {
       "topic": "Canine Social Allogrooming",
       "category": "Social Bonding",
-      "score": 56.65,
+      "score": 57.07,
       "views": 908
     },
     {
-      "topic": "Bed Circling Trampling Instinct",
-      "category": "Behavior",
-      "score": 55.81,
-      "views": 1220
+      "topic": "Canine Cutaneous Wound Contraction",
+      "category": "Cellular Biology",
+      "score": 56.93,
+      "views": 1020
+    },
+    {
+      "topic": "Canine Microchipping Biocompatibility",
+      "category": "Safety",
+      "score": 55.86,
+      "views": 456
     }
   ],
   "underperforming_topics": [
     {
       "topic": "Canine Masticatory Safety",
       "category": "Care",
-      "score": 4.76,
+      "score": 4.8,
       "views": 101
     },
     {
       "topic": "Canine Vestigial Clavicle",
       "category": "Anatomy",
-      "score": 3.47,
+      "score": 3.5,
       "views": 69
     },
     {
       "topic": "Canine Permanent Dental Structure",
       "category": "Anatomy",
-      "score": 2.68,
+      "score": 2.71,
       "views": 57
     },
     {
       "topic": "Canine Play Bow Communication",
       "category": "Body Language",
-      "score": 2.2,
+      "score": 2.22,
       "views": 46
     },
     {

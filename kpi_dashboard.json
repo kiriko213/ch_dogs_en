@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-10-19T10:44:52.630677Z",
+  "generated_at": "2026-10-19T18:44:10.425397Z",
   "kpis": {
-    "uploads": 82,
-    "views": 38094,
+    "uploads": 83,
+    "views": 38140,
     "ctr_average": 468.79,
     "apv_average": 61.94,
     "subscribers_gained": 65,
-    "cgs_average": 59.7,
+    "cgs_average": 59.14,
     "top_topics": [
       "Theobromine Hepatic Clearance",
       "Canine Piloerection Reflex",
       "Bed Circling Trampling Instinct"
     ],
     "top_titles": [
-      "Understanding Dog Canine Nesting Digging Instinct",
       "Understanding Dog Canine Skin Elasticity Hydration Test",
-      "Why Your Dog Canine Paw Preference Ambidexterity"
+      "Why Your Dog Canine Paw Preference Ambidexterity",
+      "Why Your Dog Canine Reverse Sneezing Reflex"
     ]
   },
   "production_metrics": {
-    "success_rate_percent": 82.83,
-    "failure_rate_percent": 17.17,
-    "retry_rate_percent": 10.1,
-    "upload_latency_seconds": 4.81,
-    "generation_latency_seconds": 86.22
+    "success_rate_percent": 83.0,
+    "failure_rate_percent": 17.0,
+    "retry_rate_percent": 10.0,
+    "upload_latency_seconds": 5.62,
+    "generation_latency_seconds": 118.81
   },
   "warnings": []
 }

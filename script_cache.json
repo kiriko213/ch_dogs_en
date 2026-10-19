@@ -1,7 +1,7 @@
 {
   "channel": "ch_dogs_en",
   "schema_version": 2,
-  "updated_at": "2026-10-19T10:44:52.614836Z",
+  "updated_at": "2026-10-19T18:44:10.412303Z",
   "items": [
     {
       "topic": "Dog episodic memory",
@@ -2316,14 +2316,19 @@
       "development_stage": "Senior",
       "search_query": "dog walking park",
       "id": "aq_1792338817_3",
-      "status": "pending",
-      "locked_at": null,
-      "used_at": null,
-      "video_id": null,
+      "status": "uploaded",
+      "locked_at": "2026-10-19T18:42:05.726420Z",
+      "used_at": "2026-10-19T18:44:10.411479Z",
+      "video_id": "XZMX4VLuszk",
       "original_title": "Why You Should Walk Senior Dogs Daily",
       "hook_score": 10.0,
       "hook_title_score": 20,
-      "hook_opening_score": 0
+      "hook_opening_score": 0,
+      "video_ids": [
+        38978481
+      ],
+      "local_filenames": [],
+      "scheduled_for": "2026-10-19T19:00:00Z"
     }
   ]
 }
