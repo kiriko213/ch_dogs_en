@@ -1,7 +1,7 @@
 {
   "channel": "ch_dogs_en",
   "schema_version": 2,
-  "updated_at": "2026-10-18T15:55:15.713089Z",
+  "updated_at": "2026-10-19T06:46:11.974638Z",
   "items": [
     {
       "topic": "Dog episodic memory",
@@ -2260,14 +2260,19 @@
       "development_stage": "Adult",
       "search_query": "dog nudging hand",
       "id": "aq_1792338817_1",
-      "status": "pending",
-      "locked_at": null,
-      "used_at": null,
-      "video_id": null,
+      "status": "uploaded",
+      "locked_at": "2026-10-19T06:45:13.077677Z",
+      "used_at": "2026-10-19T06:46:11.974070Z",
+      "video_id": "F9OTJvEQTu4",
       "original_title": "How to Tell if Your Dog Trusts You",
       "hook_score": 10.0,
       "hook_title_score": 20,
-      "hook_opening_score": 0
+      "hook_opening_score": 0,
+      "video_ids": [
+        20485427
+      ],
+      "local_filenames": [],
+      "scheduled_for": "2026-10-19T19:00:00Z"
     },
     {
       "topic": "Canine Salivary Bicarbonate Buffering",
