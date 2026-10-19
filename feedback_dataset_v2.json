@@ -1,9 +1,9 @@
 {
   "feedback_version": 2,
-  "generated_at": "2026-10-19T06:45:13.026862Z",
+  "generated_at": "2026-10-19T10:43:21.172779Z",
   "channel": "ch_dogs_en",
   "metadata": {
-    "total_videos_analyzed": 81,
+    "total_videos_analyzed": 82,
     "analytics_api_available": true,
     "cgs_mode": "beta",
     "data_freshness_hours": 72,
@@ -13,7 +13,7 @@
     {
       "topic": "Theobromine Hepatic Clearance",
       "category": "Toxicology",
-      "cgs": 80.2,
+      "cgs": 80.19,
       "ctr": 1207.0,
       "apv": 95.23,
       "avd": 16.0,
@@ -22,7 +22,7 @@
     {
       "topic": "Canine Piloerection Reflex",
       "category": "Dermatology",
-      "cgs": 76.5,
+      "cgs": 76.57,
       "ctr": 590.0,
       "apv": 73.49,
       "avd": 11.0,
@@ -49,7 +49,7 @@
     {
       "topic": "Canine Gorge Feeding Elasticity",
       "category": "Digestion",
-      "cgs": 74.84,
+      "cgs": 74.94,
       "ctr": 793.0,
       "apv": 68.01,
       "avd": 10.0,
@@ -58,45 +58,45 @@
   ],
   "losing_topics": [
     {
-      "topic": "Canine Paw Pad Thermoregulation",
-      "category": "Physiology",
-      "cgs": 42.35,
-      "ctr": 10.0,
-      "apv": 44.51,
-      "avd": 7.0,
-      "views": 10
-    },
-    {
       "topic": "Canine Footpad Epidermal Papillae",
       "category": "Dermatology",
-      "cgs": 38.07,
+      "cgs": 38.16,
       "ctr": null,
       "apv": null,
       "avd": null,
-      "views": 348
+      "views": 357
     },
     {
       "topic": "Canine Nictitating Membrane Mobility",
       "category": "Ophthalmology",
-      "cgs": 30.73,
+      "cgs": 30.89,
       "ctr": null,
       "apv": null,
       "avd": null,
-      "views": 426
+      "views": 427
     },
     {
       "topic": "Canine Gastric Hydrochloric Secretion",
       "category": "Digestion",
-      "cgs": 19.81,
+      "cgs": 19.48,
       "ctr": null,
       "apv": null,
       "avd": null,
-      "views": 83
+      "views": 92
+    },
+    {
+      "topic": "Canine Affiliative Muzzle Nudge",
+      "category": "Behavior",
+      "cgs": 10.0,
+      "ctr": null,
+      "apv": null,
+      "avd": null,
+      "views": 0
     },
     {
       "topic": "Canine Resource Caching Instinct",
       "category": "Behavior",
-      "cgs": 4.65,
+      "cgs": 4.63,
       "ctr": 1.0,
       "apv": 0.0,
       "avd": 0.0,
@@ -118,7 +118,7 @@
       "hook_type": "low_retention_proxy",
       "reason": "swipe_away_proxy",
       "avg_apv_proxy": 0.0,
-      "blacklisted_at": "2026-10-19T06:45:13.026903Z"
+      "blacklisted_at": "2026-10-19T10:43:21.172844Z"
     }
   ],
   "growth_signals": {
@@ -128,6 +128,6 @@
   "exploration_ratio": {
     "reinforce_pct": 80,
     "explore_pct": 20,
-    "adjusted_by": "low_cgs_average_33.0"
+    "adjusted_by": "low_cgs_average_29.9"
   }
 }
