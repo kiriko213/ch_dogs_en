@@ -1,15 +1,6 @@
 {
   "items": [
     {
-      "video_id": "xmYcrUx8l1o",
-      "title": "Why Your Dog Canine Reverse Sneezing Reflex",
-      "ctr": 0.0,
-      "apv": 0.0,
-      "subscribers_gained": 0,
-      "performance_score": 0.0,
-      "recorded_at": "2026-08-13T03:57:17.131702Z"
-    },
-    {
       "video_id": "annC9Ddd0xs",
       "title": "Understanding Dog Canine Heartbeat Synchronization",
       "ctr": 0.0,
@@ -449,6 +440,15 @@
       "subscribers_gained": 0,
       "performance_score": 0.0,
       "recorded_at": "2026-10-20T10:01:59.223746Z"
+    },
+    {
+      "video_id": "eS-2bjHd3eA",
+      "title": "Understanding Dog Canine Heartworm Transmission",
+      "ctr": 0.0,
+      "apv": 0.0,
+      "subscribers_gained": 0,
+      "performance_score": 0.0,
+      "recorded_at": "2026-10-20T17:46:08.539183Z"
     }
   ]
 }

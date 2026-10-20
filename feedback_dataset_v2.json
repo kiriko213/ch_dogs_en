@@ -1,9 +1,9 @@
 {
   "feedback_version": 2,
-  "generated_at": "2026-10-20T10:00:12.566977Z",
+  "generated_at": "2026-10-20T16:55:10.833300Z",
   "channel": "ch_dogs_en",
   "metadata": {
-    "total_videos_analyzed": 85,
+    "total_videos_analyzed": 86,
     "analytics_api_available": true,
     "cgs_mode": "beta",
     "data_freshness_hours": 72,
@@ -13,16 +13,16 @@
     {
       "topic": "Theobromine Hepatic Clearance",
       "category": "Toxicology",
-      "cgs": 80.12,
+      "cgs": 80.09,
       "ctr": 1207.0,
       "apv": 95.23,
       "avd": 16.0,
-      "views": 1207
+      "views": 1208
     },
     {
       "topic": "Canine Piloerection Reflex",
       "category": "Dermatology",
-      "cgs": 76.53,
+      "cgs": 76.56,
       "ctr": 592.0,
       "apv": 73.23,
       "avd": 11.0,
@@ -31,7 +31,7 @@
     {
       "topic": "Bed Circling Trampling Instinct",
       "category": "Behavior",
-      "cgs": 75.41,
+      "cgs": 75.39,
       "ctr": 1220.0,
       "apv": 65.32,
       "avd": 11.0,
@@ -49,7 +49,7 @@
     {
       "topic": "Canine Gorge Feeding Elasticity",
       "category": "Digestion",
-      "cgs": 75.02,
+      "cgs": 75.05,
       "ctr": 793.0,
       "apv": 68.01,
       "avd": 10.0,
@@ -58,36 +58,36 @@
   ],
   "losing_topics": [
     {
-      "topic": "Canine Age-Related Sarcopenia",
-      "category": "Aging",
-      "cgs": 40.27,
-      "ctr": null,
-      "apv": null,
-      "avd": null,
-      "views": 211
-    },
-    {
       "topic": "Canine Salivary Bicarbonate Buffering",
       "category": "Oral Biology",
-      "cgs": 28.84,
+      "cgs": 28.22,
       "ctr": null,
       "apv": null,
       "avd": null,
-      "views": 32
+      "views": 33
     },
     {
       "topic": "Canine Gastric Hydrochloric Secretion",
       "category": "Digestion",
-      "cgs": 18.82,
+      "cgs": 18.71,
       "ctr": null,
       "apv": null,
       "avd": null,
-      "views": 114
+      "views": 117
+    },
+    {
+      "topic": "Adult Canine Lactase Deficiency",
+      "category": "Nutrition",
+      "cgs": 10.0,
+      "ctr": null,
+      "apv": null,
+      "avd": null,
+      "views": 0
     },
     {
       "topic": "Canine Carnassial Shearing Mechanism",
       "category": "Dental Anatomy",
-      "cgs": 10.0,
+      "cgs": 9.87,
       "ctr": null,
       "apv": null,
       "avd": null,
@@ -96,7 +96,7 @@
     {
       "topic": "Canine Resource Caching Instinct",
       "category": "Behavior",
-      "cgs": 4.56,
+      "cgs": 4.53,
       "ctr": 1.0,
       "apv": 0.0,
       "avd": 0.0,
@@ -118,7 +118,7 @@
       "hook_type": "low_retention_proxy",
       "reason": "swipe_away_proxy",
       "avg_apv_proxy": 0.0,
-      "blacklisted_at": "2026-10-20T10:00:12.567037Z"
+      "blacklisted_at": "2026-10-20T16:55:10.833354Z"
     }
   ],
   "growth_signals": {
@@ -128,6 +128,6 @@
   "exploration_ratio": {
     "reinforce_pct": 80,
     "explore_pct": 20,
-    "adjusted_by": "low_cgs_average_26.4"
+    "adjusted_by": "low_cgs_average_19.9"
   }
 }
