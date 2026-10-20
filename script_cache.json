@@ -1,7 +1,7 @@
 {
   "channel": "ch_dogs_en",
   "schema_version": 2,
-  "updated_at": "2026-10-20T06:45:18.006588Z",
+  "updated_at": "2026-10-20T10:01:59.210176Z",
   "items": [
     {
       "topic": "Dog episodic memory",
@@ -2372,14 +2372,19 @@
       "development_stage": "Adult",
       "search_query": "dog drinking water",
       "id": "aq_1792478618_1",
-      "status": "pending",
-      "locked_at": null,
-      "used_at": null,
-      "video_id": null,
+      "status": "uploaded",
+      "locked_at": "2026-10-20T10:00:12.667569Z",
+      "used_at": "2026-10-20T10:01:59.209313Z",
+      "video_id": "le4dVwkyuzg",
       "original_title": "Why You Should Skip Milk With Your Dog",
       "hook_score": 10.0,
       "hook_title_score": 20,
-      "hook_opening_score": 0
+      "hook_opening_score": 0,
+      "video_ids": [
+        38087081
+      ],
+      "local_filenames": [],
+      "scheduled_for": "2026-10-20T19:00:00Z"
     }
   ]
 }

@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-10-20T06:45:18.012721Z",
+  "generated_at": "2026-10-20T10:01:59.226703Z",
   "kpis": {
-    "uploads": 84,
-    "views": 38904,
+    "uploads": 85,
+    "views": 39043,
     "ctr_average": 469.35,
     "apv_average": 61.71,
     "subscribers_gained": 69,
-    "cgs_average": 60.4,
+    "cgs_average": 59.88,
     "top_topics": [
       "Theobromine Hepatic Clearance",
       "Canine Piloerection Reflex",
       "Bed Circling Trampling Instinct"
     ],
     "top_titles": [
-      "Why Your Dog Canine Paw Preference Ambidexterity",
       "Why Your Dog Canine Reverse Sneezing Reflex",
-      "Understanding Dog Canine Heartbeat Synchronization"
+      "Understanding Dog Canine Heartbeat Synchronization",
+      "Why Your Dog Canine Social Allogrooming"
     ]
   },
   "production_metrics": {
-    "success_rate_percent": 83.17,
-    "failure_rate_percent": 16.83,
-    "retry_rate_percent": 9.9,
-    "upload_latency_seconds": 4.9,
-    "generation_latency_seconds": 94.06
+    "success_rate_percent": 83.33,
+    "failure_rate_percent": 16.67,
+    "retry_rate_percent": 9.8,
+    "upload_latency_seconds": 5.35,
+    "generation_latency_seconds": 100.91
   },
   "warnings": []
 }
