@@ -1,9 +1,9 @@
 {
   "feedback_version": 2,
-  "generated_at": "2026-10-19T18:42:05.634561Z",
+  "generated_at": "2026-10-20T06:32:21.758917Z",
   "channel": "ch_dogs_en",
   "metadata": {
-    "total_videos_analyzed": 83,
+    "total_videos_analyzed": 84,
     "analytics_api_available": true,
     "cgs_mode": "beta",
     "data_freshness_hours": 72,
@@ -13,7 +13,7 @@
     {
       "topic": "Theobromine Hepatic Clearance",
       "category": "Toxicology",
-      "cgs": 80.17,
+      "cgs": 80.13,
       "ctr": 1207.0,
       "apv": 95.23,
       "avd": 16.0,
@@ -22,16 +22,16 @@
     {
       "topic": "Canine Piloerection Reflex",
       "category": "Dermatology",
-      "cgs": 76.64,
-      "ctr": 590.0,
-      "apv": 73.49,
+      "cgs": 76.48,
+      "ctr": 592.0,
+      "apv": 73.23,
       "avd": 11.0,
       "views": 592
     },
     {
       "topic": "Bed Circling Trampling Instinct",
       "category": "Behavior",
-      "cgs": 75.43,
+      "cgs": 75.41,
       "ctr": 1220.0,
       "apv": 65.32,
       "avd": 11.0,
@@ -49,7 +49,7 @@
     {
       "topic": "Canine Gorge Feeding Elasticity",
       "category": "Digestion",
-      "cgs": 75.02,
+      "cgs": 74.95,
       "ctr": 793.0,
       "apv": 68.01,
       "avd": 10.0,
@@ -58,45 +58,45 @@
   ],
   "losing_topics": [
     {
-      "topic": "Canine Nictitating Membrane Mobility",
-      "category": "Ophthalmology",
-      "cgs": 31.03,
+      "topic": "Canine Age-Related Sarcopenia",
+      "category": "Aging",
+      "cgs": 40.27,
       "ctr": null,
       "apv": null,
       "avd": null,
-      "views": 430
+      "views": 211
     },
     {
-      "topic": "Canine Gastric Hydrochloric Secretion",
-      "category": "Digestion",
-      "cgs": 19.21,
+      "topic": "Canine Nictitating Membrane Mobility",
+      "category": "Ophthalmology",
+      "cgs": 40.19,
       "ctr": null,
       "apv": null,
       "avd": null,
-      "views": 100
+      "views": 653
     },
     {
       "topic": "Canine Salivary Bicarbonate Buffering",
       "category": "Oral Biology",
-      "cgs": 10.0,
+      "cgs": 30.0,
       "ctr": null,
       "apv": null,
       "avd": null,
-      "views": 0
+      "views": 30
     },
     {
-      "topic": "Canine Affiliative Muzzle Nudge",
-      "category": "Behavior",
-      "cgs": 9.85,
+      "topic": "Canine Gastric Hydrochloric Secretion",
+      "category": "Digestion",
+      "cgs": 18.84,
       "ctr": null,
       "apv": null,
       "avd": null,
-      "views": 0
+      "views": 113
     },
     {
       "topic": "Canine Resource Caching Instinct",
       "category": "Behavior",
-      "cgs": 4.61,
+      "cgs": 4.57,
       "ctr": 1.0,
       "apv": 0.0,
       "avd": 0.0,
@@ -118,16 +118,16 @@
       "hook_type": "low_retention_proxy",
       "reason": "swipe_away_proxy",
       "avg_apv_proxy": 0.0,
-      "blacklisted_at": "2026-10-19T18:42:05.634637Z"
+      "blacklisted_at": "2026-10-20T06:32:21.758977Z"
     }
   ],
   "growth_signals": {
-    "total_subscribers_gained": 65,
+    "total_subscribers_gained": 69,
     "growth_trend": "growing"
   },
   "exploration_ratio": {
     "reinforce_pct": 80,
     "explore_pct": 20,
-    "adjusted_by": "low_cgs_average_17.0"
+    "adjusted_by": "low_cgs_average_38.3"
   }
 }
