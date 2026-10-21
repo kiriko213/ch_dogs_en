@@ -1,7 +1,7 @@
 {
   "channel": "ch_dogs_en",
   "schema_version": 2,
-  "updated_at": "2026-10-21T10:33:06.264753Z",
+  "updated_at": "2026-10-21T17:08:31.781106Z",
   "items": [
     {
       "topic": "Dog episodic memory",
@@ -2484,14 +2484,19 @@
       "development_stage": "Adult",
       "search_query": "happy dog",
       "id": "aq_1792578682_1",
-      "status": "pending",
-      "locked_at": null,
-      "used_at": null,
-      "video_id": null,
+      "status": "uploaded",
+      "locked_at": "2026-10-21T17:06:49.800703Z",
+      "used_at": "2026-10-21T17:08:31.780392Z",
+      "video_id": "HDv-SF1CKVQ",
       "original_title": "How to Tell if Your Dog Trusts You",
       "hook_score": 0.0,
       "hook_title_score": 0,
-      "hook_opening_score": 0
+      "hook_opening_score": 0,
+      "video_ids": [
+        7085357
+      ],
+      "local_filenames": [],
+      "scheduled_for": "2026-10-21T19:00:00Z"
     },
     {
       "topic": "Canine Self Domestication Flight Distance",

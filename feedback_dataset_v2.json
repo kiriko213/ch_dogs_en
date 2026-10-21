@@ -1,9 +1,9 @@
 {
   "feedback_version": 2,
-  "generated_at": "2026-10-21T10:05:35.669060Z",
+  "generated_at": "2026-10-21T17:06:49.696920Z",
   "channel": "ch_dogs_en",
   "metadata": {
-    "total_videos_analyzed": 88,
+    "total_videos_analyzed": 89,
     "analytics_api_available": true,
     "cgs_mode": "beta",
     "data_freshness_hours": 72,
@@ -13,7 +13,7 @@
     {
       "topic": "Theobromine Hepatic Clearance",
       "category": "Toxicology",
-      "cgs": 80.04,
+      "cgs": 80.02,
       "ctr": 1207.0,
       "apv": 95.23,
       "avd": 16.0,
@@ -22,7 +22,7 @@
     {
       "topic": "Canine Piloerection Reflex",
       "category": "Dermatology",
-      "cgs": 76.61,
+      "cgs": 76.67,
       "ctr": 592.0,
       "apv": 73.23,
       "avd": 11.0,
@@ -40,7 +40,7 @@
     {
       "topic": "Bed Circling Trampling Instinct",
       "category": "Behavior",
-      "cgs": 75.36,
+      "cgs": 75.35,
       "ctr": 1220.0,
       "apv": 65.32,
       "avd": 11.0,
@@ -49,7 +49,7 @@
     {
       "topic": "Canine Gorge Feeding Elasticity",
       "category": "Digestion",
-      "cgs": 75.14,
+      "cgs": 75.21,
       "ctr": 793.0,
       "apv": 68.01,
       "avd": 10.0,
@@ -58,36 +58,36 @@
   ],
   "losing_topics": [
     {
-      "topic": "Canine Carnassial Shearing Mechanism",
-      "category": "Dental Anatomy",
-      "cgs": 41.73,
-      "ctr": null,
-      "apv": null,
-      "avd": null,
-      "views": 88
-    },
-    {
       "topic": "Canine Salivary Bicarbonate Buffering",
       "category": "Oral Biology",
-      "cgs": 25.7,
+      "cgs": 35.8,
       "ctr": null,
       "apv": null,
       "avd": null,
-      "views": 90
+      "views": 102
     },
     {
       "topic": "Canine Heartworm Transmission",
       "category": "Parasitology",
-      "cgs": 10.23,
+      "cgs": 10.22,
       "ctr": null,
       "apv": null,
       "avd": null,
-      "views": 7
+      "views": 10
     },
     {
       "topic": "Canine Kennel Cough Transmission",
       "category": "Infectious Disease",
-      "cgs": 10.0,
+      "cgs": 9.87,
+      "ctr": null,
+      "apv": null,
+      "avd": null,
+      "views": 0
+    },
+    {
+      "topic": "Canine Cutaneous Thermal Pad Vulnerability",
+      "category": "Environmental Safety",
+      "cgs": 9.5,
       "ctr": null,
       "apv": null,
       "avd": null,
@@ -96,7 +96,7 @@
     {
       "topic": "Canine Resource Caching Instinct",
       "category": "Behavior",
-      "cgs": 4.48,
+      "cgs": 4.46,
       "ctr": 1.0,
       "apv": 0.0,
       "avd": 0.0,
@@ -118,7 +118,7 @@
       "hook_type": "low_retention_proxy",
       "reason": "swipe_away_proxy",
       "avg_apv_proxy": 0.0,
-      "blacklisted_at": "2026-10-21T10:05:35.669119Z"
+      "blacklisted_at": "2026-10-21T17:06:49.696991Z"
     }
   ],
   "growth_signals": {
@@ -128,6 +128,6 @@
   "exploration_ratio": {
     "reinforce_pct": 80,
     "explore_pct": 20,
-    "adjusted_by": "low_cgs_average_21.1"
+    "adjusted_by": "low_cgs_average_9.9"
   }
 }
