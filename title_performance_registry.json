@@ -1,15 +1,6 @@
 {
   "items": [
     {
-      "video_id": "OxqsnuKvlrs",
-      "title": "Why Your Dog Canine Social Allogrooming",
-      "ctr": 0.0,
-      "apv": 0.0,
-      "subscribers_gained": 0,
-      "performance_score": 0.0,
-      "recorded_at": "2026-08-13T13:44:33.749795Z"
-    },
-    {
       "video_id": "0TfiiIlj-Og",
       "title": "Understanding Dog Canine Colostrum Antibody Transfer",
       "ctr": 0.0,
@@ -449,6 +440,15 @@
       "subscribers_gained": 0,
       "performance_score": 0.0,
       "recorded_at": "2026-10-21T06:32:16.798076Z"
+    },
+    {
+      "video_id": "7LKi0BsPrRI",
+      "title": "Why Your Dog Canine Cutaneous Thermal Pad Vulnerability",
+      "ctr": 0.0,
+      "apv": 0.0,
+      "subscribers_gained": 0,
+      "performance_score": 0.0,
+      "recorded_at": "2026-10-21T10:33:06.268039Z"
     }
   ]
 }

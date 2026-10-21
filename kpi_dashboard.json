@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-10-21T06:32:16.806316Z",
+  "generated_at": "2026-10-21T10:33:06.270981Z",
   "kpis": {
-    "uploads": 87,
-    "views": 39786,
+    "uploads": 88,
+    "views": 39855,
     "ctr_average": 470.44,
     "apv_average": 62.24,
     "subscribers_gained": 70,
-    "cgs_average": 60.39,
+    "cgs_average": 59.94,
     "top_topics": [
       "Theobromine Hepatic Clearance",
       "Canine Piloerection Reflex",
       "Frenetic Random Activity Periods"
     ],
     "top_titles": [
-      "Why Your Dog Canine Social Allogrooming",
       "Understanding Dog Canine Colostrum Antibody Transfer",
-      "Why You Should Pick Safe Dog Toys"
+      "Why You Should Pick Safe Dog Toys",
+      "Understanding Dog Canine Rotary Gallop Biomechanics"
     ]
   },
   "production_metrics": {
-    "success_rate_percent": 83.65,
-    "failure_rate_percent": 16.35,
-    "retry_rate_percent": 9.62,
-    "upload_latency_seconds": 5.48,
-    "generation_latency_seconds": 56.4
+    "success_rate_percent": 83.02,
+    "failure_rate_percent": 16.98,
+    "retry_rate_percent": 10.38,
+    "upload_latency_seconds": 5.12,
+    "generation_latency_seconds": 98.47
   },
   "warnings": []
 }
