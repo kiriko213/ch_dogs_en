@@ -1,15 +1,6 @@
 {
   "items": [
     {
-      "video_id": "annC9Ddd0xs",
-      "title": "Understanding Dog Canine Heartbeat Synchronization",
-      "ctr": 0.0,
-      "apv": 0.0,
-      "subscribers_gained": 0,
-      "performance_score": 0.0,
-      "recorded_at": "2026-08-13T06:48:32.023098Z"
-    },
-    {
       "video_id": "OxqsnuKvlrs",
       "title": "Why Your Dog Canine Social Allogrooming",
       "ctr": 0.0,
@@ -449,6 +440,15 @@
       "subscribers_gained": 0,
       "performance_score": 0.0,
       "recorded_at": "2026-10-20T17:46:08.539183Z"
+    },
+    {
+      "video_id": "n6hzRR07OPA",
+      "title": "Why Your Dog Canine Kennel Cough Transmission",
+      "ctr": 0.0,
+      "apv": 0.0,
+      "subscribers_gained": 0,
+      "performance_score": 0.0,
+      "recorded_at": "2026-10-21T06:32:16.798076Z"
     }
   ]
 }

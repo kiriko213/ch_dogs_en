@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-10-20T17:46:08.542225Z",
+  "generated_at": "2026-10-21T06:32:16.806316Z",
   "kpis": {
-    "uploads": 86,
-    "views": 39318,
-    "ctr_average": 469.35,
-    "apv_average": 61.71,
-    "subscribers_gained": 69,
-    "cgs_average": 59.39,
+    "uploads": 87,
+    "views": 39786,
+    "ctr_average": 470.44,
+    "apv_average": 62.24,
+    "subscribers_gained": 70,
+    "cgs_average": 60.39,
     "top_topics": [
       "Theobromine Hepatic Clearance",
       "Canine Piloerection Reflex",
-      "Bed Circling Trampling Instinct"
+      "Frenetic Random Activity Periods"
     ],
     "top_titles": [
-      "Understanding Dog Canine Heartbeat Synchronization",
       "Why Your Dog Canine Social Allogrooming",
-      "Understanding Dog Canine Colostrum Antibody Transfer"
+      "Understanding Dog Canine Colostrum Antibody Transfer",
+      "Why You Should Pick Safe Dog Toys"
     ]
   },
   "production_metrics": {
-    "success_rate_percent": 83.5,
-    "failure_rate_percent": 16.5,
-    "retry_rate_percent": 9.71,
-    "upload_latency_seconds": 4.64,
-    "generation_latency_seconds": 95.14
+    "success_rate_percent": 83.65,
+    "failure_rate_percent": 16.35,
+    "retry_rate_percent": 9.62,
+    "upload_latency_seconds": 5.48,
+    "generation_latency_seconds": 56.4
   },
   "warnings": []
 }

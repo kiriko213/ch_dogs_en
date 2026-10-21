@@ -1,9 +1,9 @@
 {
   "feedback_version": 2,
-  "generated_at": "2026-10-20T16:55:10.833300Z",
+  "generated_at": "2026-10-21T06:31:14.594232Z",
   "channel": "ch_dogs_en",
   "metadata": {
-    "total_videos_analyzed": 86,
+    "total_videos_analyzed": 87,
     "analytics_api_available": true,
     "cgs_mode": "beta",
     "data_freshness_hours": 72,
@@ -13,7 +13,7 @@
     {
       "topic": "Theobromine Hepatic Clearance",
       "category": "Toxicology",
-      "cgs": 80.09,
+      "cgs": 80.05,
       "ctr": 1207.0,
       "apv": 95.23,
       "avd": 16.0,
@@ -22,20 +22,11 @@
     {
       "topic": "Canine Piloerection Reflex",
       "category": "Dermatology",
-      "cgs": 76.56,
+      "cgs": 76.55,
       "ctr": 592.0,
       "apv": 73.23,
       "avd": 11.0,
       "views": 592
-    },
-    {
-      "topic": "Bed Circling Trampling Instinct",
-      "category": "Behavior",
-      "cgs": 75.39,
-      "ctr": 1220.0,
-      "apv": 65.32,
-      "avd": 11.0,
-      "views": 1220
     },
     {
       "topic": "Frenetic Random Activity Periods",
@@ -47,56 +38,65 @@
       "views": 1299
     },
     {
+      "topic": "Bed Circling Trampling Instinct",
+      "category": "Behavior",
+      "cgs": 75.37,
+      "ctr": 1220.0,
+      "apv": 65.32,
+      "avd": 11.0,
+      "views": 1220
+    },
+    {
       "topic": "Canine Gorge Feeding Elasticity",
       "category": "Digestion",
       "cgs": 75.05,
       "ctr": 793.0,
       "apv": 68.01,
       "avd": 10.0,
-      "views": 793
+      "views": 794
     }
   ],
   "losing_topics": [
     {
-      "topic": "Canine Salivary Bicarbonate Buffering",
-      "category": "Oral Biology",
-      "cgs": 28.22,
-      "ctr": null,
-      "apv": null,
-      "avd": null,
-      "views": 33
-    },
-    {
-      "topic": "Canine Gastric Hydrochloric Secretion",
-      "category": "Digestion",
-      "cgs": 18.71,
-      "ctr": null,
-      "apv": null,
-      "avd": null,
-      "views": 117
-    },
-    {
-      "topic": "Adult Canine Lactase Deficiency",
-      "category": "Nutrition",
-      "cgs": 10.0,
-      "ctr": null,
-      "apv": null,
-      "avd": null,
-      "views": 0
+      "topic": "Canine Paw Pad Thermoregulation",
+      "category": "Physiology",
+      "cgs": 42.35,
+      "ctr": 10.0,
+      "apv": 44.51,
+      "avd": 7.0,
+      "views": 10
     },
     {
       "topic": "Canine Carnassial Shearing Mechanism",
       "category": "Dental Anatomy",
-      "cgs": 9.87,
+      "cgs": 41.3,
       "ctr": null,
       "apv": null,
       "avd": null,
-      "views": 0
+      "views": 77
+    },
+    {
+      "topic": "Canine Salivary Bicarbonate Buffering",
+      "category": "Oral Biology",
+      "cgs": 19.73,
+      "ctr": null,
+      "apv": null,
+      "avd": null,
+      "views": 81
+    },
+    {
+      "topic": "Canine Heartworm Transmission",
+      "category": "Parasitology",
+      "cgs": 10.16,
+      "ctr": null,
+      "apv": null,
+      "avd": null,
+      "views": 4
     },
     {
       "topic": "Canine Resource Caching Instinct",
       "category": "Behavior",
-      "cgs": 4.53,
+      "cgs": 4.49,
       "ctr": 1.0,
       "apv": 0.0,
       "avd": 0.0,
@@ -118,16 +118,16 @@
       "hook_type": "low_retention_proxy",
       "reason": "swipe_away_proxy",
       "avg_apv_proxy": 0.0,
-      "blacklisted_at": "2026-10-20T16:55:10.833354Z"
+      "blacklisted_at": "2026-10-21T06:31:14.594272Z"
     }
   ],
   "growth_signals": {
-    "total_subscribers_gained": 69,
+    "total_subscribers_gained": 70,
     "growth_trend": "growing"
   },
   "exploration_ratio": {
     "reinforce_pct": 80,
     "explore_pct": 20,
-    "adjusted_by": "low_cgs_average_19.9"
+    "adjusted_by": "low_cgs_average_31.3"
   }
 }
