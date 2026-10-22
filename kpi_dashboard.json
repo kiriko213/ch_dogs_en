@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-10-21T17:08:31.794720Z",
+  "generated_at": "2026-10-22T06:34:31.459008Z",
   "kpis": {
-    "uploads": 89,
-    "views": 39940,
-    "ctr_average": 470.27,
-    "apv_average": 62.24,
-    "subscribers_gained": 70,
-    "cgs_average": 59.55,
+    "uploads": 90,
+    "views": 42026,
+    "ctr_average": 464.98,
+    "apv_average": 62.25,
+    "subscribers_gained": 71,
+    "cgs_average": 60.74,
     "top_topics": [
       "Theobromine Hepatic Clearance",
-      "Canine Piloerection Reflex",
-      "Frenetic Random Activity Periods"
+      "Canine Pandiculation Myofascial Reset",
+      "Canine Piloerection Reflex"
     ],
     "top_titles": [
-      "Why You Should Pick Safe Dog Toys",
       "Understanding Dog Canine Rotary Gallop Biomechanics",
-      "Understanding Dog Canine Vestigial Clavicle"
+      "Understanding Dog Canine Vestigial Clavicle",
+      "Why Your Dog Canine Erythrocyte Antigen System"
     ]
   },
   "production_metrics": {
-    "success_rate_percent": 83.18,
-    "failure_rate_percent": 16.82,
-    "retry_rate_percent": 10.28,
-    "upload_latency_seconds": 7.28,
-    "generation_latency_seconds": 94.4
+    "success_rate_percent": 83.33,
+    "failure_rate_percent": 16.67,
+    "retry_rate_percent": 10.19,
+    "upload_latency_seconds": 5.75,
+    "generation_latency_seconds": 57.9
   },
   "warnings": []
 }

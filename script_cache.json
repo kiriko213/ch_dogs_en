@@ -1,7 +1,7 @@
 {
   "channel": "ch_dogs_en",
   "schema_version": 2,
-  "updated_at": "2026-10-21T17:08:31.781106Z",
+  "updated_at": "2026-10-22T06:34:31.447938Z",
   "items": [
     {
       "topic": "Dog episodic memory",
@@ -2512,14 +2512,19 @@
       "development_stage": "Adult",
       "search_query": "happy dog outdoor",
       "id": "aq_1792578682_2",
-      "status": "pending",
-      "locked_at": null,
-      "used_at": null,
-      "video_id": null,
+      "status": "uploaded",
+      "locked_at": "2026-10-22T06:33:27.474867Z",
+      "used_at": "2026-10-22T06:34:31.447363Z",
+      "video_id": "8ipH5ANr49s",
       "original_title": "The Fascinating Reason Dogs Chose Us",
       "hook_score": 10.0,
       "hook_title_score": 0,
-      "hook_opening_score": 20
+      "hook_opening_score": 20,
+      "video_ids": [
+        28896834
+      ],
+      "local_filenames": [],
+      "scheduled_for": "2026-10-22T19:00:00Z"
     }
   ]
 }

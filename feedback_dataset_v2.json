@@ -1,9 +1,9 @@
 {
   "feedback_version": 2,
-  "generated_at": "2026-10-21T17:06:49.696920Z",
+  "generated_at": "2026-10-22T06:33:27.421576Z",
   "channel": "ch_dogs_en",
   "metadata": {
-    "total_videos_analyzed": 89,
+    "total_videos_analyzed": 90,
     "analytics_api_available": true,
     "cgs_mode": "beta",
     "data_freshness_hours": 72,
@@ -13,16 +13,25 @@
     {
       "topic": "Theobromine Hepatic Clearance",
       "category": "Toxicology",
-      "cgs": 80.02,
+      "cgs": 79.98,
       "ctr": 1207.0,
       "apv": 95.23,
       "avd": 16.0,
       "views": 1208
     },
     {
+      "topic": "Canine Pandiculation Myofascial Reset",
+      "category": "Behavior",
+      "cgs": 77.17,
+      "ctr": 772.0,
+      "apv": 80.59,
+      "avd": 13.0,
+      "views": 915
+    },
+    {
       "topic": "Canine Piloerection Reflex",
       "category": "Dermatology",
-      "cgs": 76.67,
+      "cgs": 76.4,
       "ctr": 592.0,
       "apv": 73.23,
       "avd": 11.0,
@@ -40,63 +49,54 @@
     {
       "topic": "Bed Circling Trampling Instinct",
       "category": "Behavior",
-      "cgs": 75.35,
+      "cgs": 75.33,
       "ctr": 1220.0,
       "apv": 65.32,
       "avd": 11.0,
       "views": 1220
-    },
-    {
-      "topic": "Canine Gorge Feeding Elasticity",
-      "category": "Digestion",
-      "cgs": 75.21,
-      "ctr": 793.0,
-      "apv": 68.01,
-      "avd": 10.0,
-      "views": 794
     }
   ],
   "losing_topics": [
     {
-      "topic": "Canine Salivary Bicarbonate Buffering",
-      "category": "Oral Biology",
-      "cgs": 35.8,
+      "topic": "Canine Paw Pad Thermoregulation",
+      "category": "Physiology",
+      "cgs": 42.35,
+      "ctr": 10.0,
+      "apv": 44.51,
+      "avd": 7.0,
+      "views": 10
+    },
+    {
+      "topic": "Canine Carnassial Shearing Mechanism",
+      "category": "Dental Anatomy",
+      "cgs": 42.35,
       "ctr": null,
       "apv": null,
       "avd": null,
-      "views": 102
+      "views": 115
     },
     {
       "topic": "Canine Heartworm Transmission",
       "category": "Parasitology",
-      "cgs": 10.22,
+      "cgs": 10.4,
       "ctr": null,
       "apv": null,
       "avd": null,
-      "views": 10
+      "views": 21
     },
     {
-      "topic": "Canine Kennel Cough Transmission",
-      "category": "Infectious Disease",
-      "cgs": 9.87,
+      "topic": "Canine Secure Base Attachment Effect",
+      "category": "Psychology",
+      "cgs": 9.59,
       "ctr": null,
       "apv": null,
       "avd": null,
-      "views": 0
-    },
-    {
-      "topic": "Canine Cutaneous Thermal Pad Vulnerability",
-      "category": "Environmental Safety",
-      "cgs": 9.5,
-      "ctr": null,
-      "apv": null,
-      "avd": null,
-      "views": 0
+      "views": 2
     },
     {
       "topic": "Canine Resource Caching Instinct",
       "category": "Behavior",
-      "cgs": 4.46,
+      "cgs": 4.42,
       "ctr": 1.0,
       "apv": 0.0,
       "avd": 0.0,
@@ -118,16 +118,16 @@
       "hook_type": "low_retention_proxy",
       "reason": "swipe_away_proxy",
       "avg_apv_proxy": 0.0,
-      "blacklisted_at": "2026-10-21T17:06:49.696991Z"
+      "blacklisted_at": "2026-10-22T06:33:27.421620Z"
     }
   ],
   "growth_signals": {
-    "total_subscribers_gained": 70,
+    "total_subscribers_gained": 71,
     "growth_trend": "growing"
   },
   "exploration_ratio": {
     "reinforce_pct": 80,
     "explore_pct": 20,
-    "adjusted_by": "low_cgs_average_9.9"
+    "adjusted_by": "low_cgs_average_42.0"
   }
 }
