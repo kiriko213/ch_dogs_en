@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-10-23T10:51:10.352067Z",
+  "generated_at": "2026-10-23T17:01:51.557226Z",
   "kpis": {
-    "uploads": 91,
-    "views": 43020,
-    "ctr_average": 458.02,
+    "uploads": 92,
+    "views": 43121,
+    "ctr_average": 457.92,
     "apv_average": 63.96,
     "subscribers_gained": 72,
-    "cgs_average": 61.75,
+    "cgs_average": 61.2,
     "top_topics": [
       "Theobromine Hepatic Clearance",
       "Canine Pandiculation Myofascial Reset",
       "Canine Piloerection Reflex"
     ],
     "top_titles": [
-      "Understanding Dog Canine Vestigial Clavicle",
       "Why Your Dog Canine Erythrocyte Antigen System",
-      "The Fascinating Reason Dogs Walk on Toes"
+      "The Fascinating Reason Dogs Walk on Toes",
+      "Why Your Dog Canine Play Bite Inhibition"
     ]
   },
   "production_metrics": {
-    "success_rate_percent": 81.98,
-    "failure_rate_percent": 18.02,
-    "retry_rate_percent": 11.71,
-    "upload_latency_seconds": 4.72,
-    "generation_latency_seconds": 96.58
+    "success_rate_percent": 82.14,
+    "failure_rate_percent": 17.86,
+    "retry_rate_percent": 11.61,
+    "upload_latency_seconds": 5.23,
+    "generation_latency_seconds": 102.45
   },
   "warnings": []
 }

@@ -1,7 +1,7 @@
 {
   "channel": "ch_dogs_en",
   "schema_version": 2,
-  "updated_at": "2026-10-23T10:51:10.345441Z",
+  "updated_at": "2026-10-23T17:01:51.541758Z",
   "items": [
     {
       "topic": "Dog episodic memory",
@@ -2568,14 +2568,19 @@
       "development_stage": "Adult",
       "search_query": "happy dog",
       "id": "aq_1792752568_1",
-      "status": "pending",
-      "locked_at": null,
-      "used_at": null,
-      "video_id": null,
+      "status": "uploaded",
+      "locked_at": "2026-10-23T17:00:03.538859Z",
+      "used_at": "2026-10-23T17:01:51.541078Z",
+      "video_id": "1l8fwTnUYfU",
       "original_title": "The Fascinating Reason Dogs Eat Dirt",
       "hook_score": 10.0,
       "hook_title_score": 20,
-      "hook_opening_score": 0
+      "hook_opening_score": 0,
+      "video_ids": [
+        17029728
+      ],
+      "local_filenames": [],
+      "scheduled_for": "2026-10-23T19:00:00Z"
     }
   ]
 }
