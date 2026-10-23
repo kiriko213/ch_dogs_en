@@ -1,7 +1,7 @@
 {
   "channel": "ch_dogs_en",
   "schema_version": 2,
-  "updated_at": "2026-10-22T06:34:31.447938Z",
+  "updated_at": "2026-10-23T10:51:10.345441Z",
   "items": [
     {
       "topic": "Dog episodic memory",
@@ -2525,6 +2525,57 @@
       ],
       "local_filenames": [],
       "scheduled_for": "2026-10-22T19:00:00Z"
+    },
+    {
+      "topic": "Canine Epiphyseal Plate Ossification",
+      "title": "Why Your Dog Canine Epiphyseal Plate Ossification",
+      "hook_framework": "Problem & Solution",
+      "script": "To build a stronger bond, gentle play protects soft developing joints. Growth plates remain fragile until bones finish fusing completely. Does your dog love relaxing?",
+      "video_search_query": "dog playing",
+      "category": "Orthopedics",
+      "subtopic": "Development",
+      "unique_fact": "Canine growth plates consist of vulnerable cartilage bridges that do not fully ossify until maturity.",
+      "angle": "Action",
+      "region": "Global",
+      "development_stage": "Adult",
+      "search_query": "dog playing",
+      "id": "aq_1792752568_0",
+      "status": "uploaded",
+      "locked_at": "2026-10-23T10:49:28.978171Z",
+      "used_at": "2026-10-23T10:51:10.344732Z",
+      "video_id": "S68FCyP__Ew",
+      "original_title": "Why You Should Walk Gently With Dogs",
+      "hook_score": 10.0,
+      "hook_title_score": 20,
+      "hook_opening_score": 0,
+      "video_ids": [
+        11920146
+      ],
+      "local_filenames": [],
+      "scheduled_for": "2026-10-23T19:00:00Z"
+    },
+    {
+      "topic": "Canine Geophagia Soil Ingestion",
+      "title": "Why Your Dog Canine Geophagia Soil Ingestion",
+      "hook_framework": "Myth vs Fact",
+      "script": "Your dog actually nibbles garden dirt to gain natural minerals. Clay compounds soothe sensitive digestion while supplementing important daily nutrients. Does your dog do this?",
+      "video_search_query": "happy dog",
+      "category": "Gastroenterology",
+      "subtopic": "Behavior",
+      "unique_fact": "Dogs instinctively ingest small quantities of clay-rich soil to detoxify gastrointestinal irritants and absorb trace elements.",
+      "angle": "Science",
+      "region": "Global",
+      "development_stage": "Adult",
+      "search_query": "happy dog",
+      "id": "aq_1792752568_1",
+      "status": "pending",
+      "locked_at": null,
+      "used_at": null,
+      "video_id": null,
+      "original_title": "The Fascinating Reason Dogs Eat Dirt",
+      "hook_score": 10.0,
+      "hook_title_score": 20,
+      "hook_opening_score": 0
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "feedback_version": 2,
-  "generated_at": "2026-10-22T06:33:27.421576Z",
+  "generated_at": "2026-10-23T10:00:54.658037Z",
   "channel": "ch_dogs_en",
   "metadata": {
-    "total_videos_analyzed": 90,
+    "total_videos_analyzed": 91,
     "analytics_api_available": true,
     "cgs_mode": "beta",
     "data_freshness_hours": 72,
@@ -13,8 +13,8 @@
     {
       "topic": "Theobromine Hepatic Clearance",
       "category": "Toxicology",
-      "cgs": 79.98,
-      "ctr": 1207.0,
+      "cgs": 79.91,
+      "ctr": 1208.0,
       "apv": 95.23,
       "avd": 16.0,
       "views": 1208
@@ -22,16 +22,16 @@
     {
       "topic": "Canine Pandiculation Myofascial Reset",
       "category": "Behavior",
-      "cgs": 77.17,
-      "ctr": 772.0,
-      "apv": 80.59,
-      "avd": 13.0,
-      "views": 915
+      "cgs": 76.95,
+      "ctr": 913.0,
+      "apv": 133.05,
+      "avd": 22.0,
+      "views": 917
     },
     {
       "topic": "Canine Piloerection Reflex",
       "category": "Dermatology",
-      "cgs": 76.4,
+      "cgs": 76.31,
       "ctr": 592.0,
       "apv": 73.23,
       "avd": 11.0,
@@ -49,7 +49,7 @@
     {
       "topic": "Bed Circling Trampling Instinct",
       "category": "Behavior",
-      "cgs": 75.33,
+      "cgs": 75.29,
       "ctr": 1220.0,
       "apv": 65.32,
       "avd": 11.0,
@@ -58,36 +58,36 @@
   ],
   "losing_topics": [
     {
+      "topic": "Canine Salivary Amylase Absence",
+      "category": "Dental",
+      "cgs": 44.43,
+      "ctr": 19.0,
+      "apv": 33.1,
+      "avd": 5.0,
+      "views": 19
+    },
+    {
       "topic": "Canine Paw Pad Thermoregulation",
       "category": "Physiology",
-      "cgs": 42.35,
+      "cgs": 42.34,
       "ctr": 10.0,
       "apv": 44.51,
       "avd": 7.0,
       "views": 10
     },
     {
-      "topic": "Canine Carnassial Shearing Mechanism",
-      "category": "Dental Anatomy",
-      "cgs": 42.35,
-      "ctr": null,
-      "apv": null,
-      "avd": null,
-      "views": 115
-    },
-    {
       "topic": "Canine Heartworm Transmission",
       "category": "Parasitology",
-      "cgs": 10.4,
-      "ctr": null,
-      "apv": null,
-      "avd": null,
-      "views": 21
+      "cgs": 37.07,
+      "ctr": 7.0,
+      "apv": 43.75,
+      "avd": 7.0,
+      "views": 39
     },
     {
       "topic": "Canine Secure Base Attachment Effect",
       "category": "Psychology",
-      "cgs": 9.59,
+      "cgs": 9.05,
       "ctr": null,
       "apv": null,
       "avd": null,
@@ -96,7 +96,7 @@
     {
       "topic": "Canine Resource Caching Instinct",
       "category": "Behavior",
-      "cgs": 4.42,
+      "cgs": 4.34,
       "ctr": 1.0,
       "apv": 0.0,
       "avd": 0.0,
@@ -118,16 +118,16 @@
       "hook_type": "low_retention_proxy",
       "reason": "swipe_away_proxy",
       "avg_apv_proxy": 0.0,
-      "blacklisted_at": "2026-10-22T06:33:27.421620Z"
+      "blacklisted_at": "2026-10-23T10:00:54.658094Z"
     }
   ],
   "growth_signals": {
-    "total_subscribers_gained": 71,
+    "total_subscribers_gained": 72,
     "growth_trend": "growing"
   },
   "exploration_ratio": {
     "reinforce_pct": 80,
     "explore_pct": 20,
-    "adjusted_by": "low_cgs_average_42.0"
+    "adjusted_by": "low_cgs_average_46.4"
   }
 }
