@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-10-23T17:01:51.557226Z",
+  "generated_at": "2026-10-24T16:09:09.859246Z",
   "kpis": {
-    "uploads": 92,
-    "views": 43121,
-    "ctr_average": 457.92,
-    "apv_average": 63.96,
-    "subscribers_gained": 72,
-    "cgs_average": 61.2,
+    "uploads": 93,
+    "views": 44046,
+    "ctr_average": 467.07,
+    "apv_average": 62.84,
+    "subscribers_gained": 79,
+    "cgs_average": 61.98,
     "top_topics": [
       "Theobromine Hepatic Clearance",
-      "Canine Pandiculation Myofascial Reset",
-      "Canine Piloerection Reflex"
+      "Canine Affiliative Muzzle Nudge",
+      "Canine Pandiculation Myofascial Reset"
     ],
     "top_titles": [
-      "Why Your Dog Canine Erythrocyte Antigen System",
       "The Fascinating Reason Dogs Walk on Toes",
-      "Why Your Dog Canine Play Bite Inhibition"
+      "Why Your Dog Canine Play Bite Inhibition",
+      "The Fascinating Reason Dogs Count"
     ]
   },
   "production_metrics": {
-    "success_rate_percent": 82.14,
-    "failure_rate_percent": 17.86,
-    "retry_rate_percent": 11.61,
-    "upload_latency_seconds": 5.23,
-    "generation_latency_seconds": 102.45
+    "success_rate_percent": 82.3,
+    "failure_rate_percent": 17.7,
+    "retry_rate_percent": 11.5,
+    "upload_latency_seconds": 5.07,
+    "generation_latency_seconds": 98.34
   },
   "warnings": []
 }
