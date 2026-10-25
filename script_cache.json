@@ -1,7 +1,7 @@
 {
   "channel": "ch_dogs_en",
   "schema_version": 2,
-  "updated_at": "2026-10-25T10:22:15.582612Z",
+  "updated_at": "2026-10-25T16:07:40.398821Z",
   "items": [
     {
       "topic": "Dog episodic memory",
@@ -2680,14 +2680,19 @@
       "development_stage": "Adult",
       "search_query": "dog lying sick",
       "id": "aq_1792923639_1",
-      "status": "pending",
-      "locked_at": null,
-      "used_at": null,
-      "video_id": null,
+      "status": "uploaded",
+      "locked_at": "2026-10-25T16:06:20.975231Z",
+      "used_at": "2026-10-25T16:07:40.398107Z",
+      "video_id": "8mIttvvvo0Y",
       "original_title": "What Your Dog's Morning Foam Means",
       "hook_score": 10.0,
       "hook_title_score": 20,
-      "hook_opening_score": 0
+      "hook_opening_score": 0,
+      "video_ids": [
+        7719462
+      ],
+      "local_filenames": [],
+      "scheduled_for": "2026-10-25T19:00:00Z"
     }
   ]
 }

@@ -1,15 +1,6 @@
 {
   "items": [
     {
-      "video_id": "qeoBfOtvnIQ",
-      "title": "The Fascinating Reason Dogs Count",
-      "ctr": 0.0,
-      "apv": 0.0,
-      "subscribers_gained": 0,
-      "performance_score": 0.0,
-      "recorded_at": "2026-08-25T02:47:41.953291Z"
-    },
-    {
       "video_id": "viDjc2nfhFo",
       "title": "Why Your Dog Canine Piloerection Reflex",
       "ctr": 0.0,
@@ -449,6 +440,15 @@
       "subscribers_gained": 0,
       "performance_score": 0.0,
       "recorded_at": "2026-10-25T10:22:15.586242Z"
+    },
+    {
+      "video_id": "8mIttvvvo0Y",
+      "title": "Why Your Dog Canine Bilious Vomiting Syndrome",
+      "ctr": 0.0,
+      "apv": 0.0,
+      "subscribers_gained": 0,
+      "performance_score": 0.0,
+      "recorded_at": "2026-10-25T16:07:40.404343Z"
     }
   ]
 }

@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-10-25T10:22:15.589330Z",
+  "generated_at": "2026-10-25T16:07:40.406761Z",
   "kpis": {
-    "uploads": 95,
-    "views": 44300,
+    "uploads": 96,
+    "views": 44469,
     "ctr_average": 472.7,
     "apv_average": 62.93,
     "subscribers_gained": 81,
-    "cgs_average": 61.39,
+    "cgs_average": 60.93,
     "top_topics": [
       "Theobromine Hepatic Clearance",
       "Canine Self Domestication Flight Distance",
       "Canine Pandiculation Myofascial Reset"
     ],
     "top_titles": [
-      "The Fascinating Reason Dogs Count",
       "Why Your Dog Canine Piloerection Reflex",
-      "Why Your Dog Canine Gorge Feeding Elasticity"
+      "Why Your Dog Canine Gorge Feeding Elasticity",
+      "Why Your Dog Photoperiod Dependent Fur Shedding"
     ]
   },
   "production_metrics": {
-    "success_rate_percent": 82.61,
-    "failure_rate_percent": 17.39,
-    "retry_rate_percent": 11.3,
-    "upload_latency_seconds": 5.01,
-    "generation_latency_seconds": 91.4
+    "success_rate_percent": 82.76,
+    "failure_rate_percent": 17.24,
+    "retry_rate_percent": 11.21,
+    "upload_latency_seconds": 5.02,
+    "generation_latency_seconds": 74.12
   },
   "warnings": []
 }
