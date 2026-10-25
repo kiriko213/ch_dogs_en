@@ -1,9 +1,9 @@
 {
   "feedback_version": 2,
-  "generated_at": "2026-10-24T15:51:48.286255Z",
+  "generated_at": "2026-10-25T06:45:23.058868Z",
   "channel": "ch_dogs_en",
   "metadata": {
-    "total_videos_analyzed": 93,
+    "total_videos_analyzed": 94,
     "analytics_api_available": true,
     "cgs_mode": "beta",
     "data_freshness_hours": 72,
@@ -13,18 +13,27 @@
     {
       "topic": "Theobromine Hepatic Clearance",
       "category": "Toxicology",
-      "cgs": 79.83,
+      "cgs": 79.79,
       "ctr": 1208.0,
       "apv": 95.23,
       "avd": 16.0,
       "views": 1208
     },
     {
+      "topic": "Canine Self Domestication Flight Distance",
+      "category": "History",
+      "cgs": 77.84,
+      "ctr": 872.0,
+      "apv": 67.54,
+      "avd": 10.0,
+      "views": 995
+    },
+    {
       "topic": "Canine Affiliative Muzzle Nudge",
       "category": "Behavior",
-      "cgs": 76.88,
-      "ctr": 275.0,
-      "apv": 83.8,
+      "cgs": 76.84,
+      "ctr": 276.0,
+      "apv": 82.5,
       "avd": 12.0,
       "views": 279
     },
@@ -32,48 +41,39 @@
       "topic": "Canine Pandiculation Myofascial Reset",
       "category": "Behavior",
       "cgs": 76.82,
-      "ctr": 914.0,
-      "apv": 132.22,
+      "ctr": 917.0,
+      "apv": 131.24,
       "avd": 22.0,
       "views": 917
     },
     {
       "topic": "Canine Piloerection Reflex",
       "category": "Dermatology",
-      "cgs": 76.28,
+      "cgs": 76.31,
       "ctr": 592.0,
       "apv": 73.23,
       "avd": 11.0,
       "views": 592
-    },
-    {
-      "topic": "Frenetic Random Activity Periods",
-      "category": "Behavior",
-      "cgs": 75.37,
-      "ctr": 1299.0,
-      "apv": 61.6,
-      "avd": 9.0,
-      "views": 1299
     }
   ],
   "losing_topics": [
     {
       "topic": "Canine Salivary Amylase Absence",
       "category": "Dental",
-      "cgs": 44.35,
+      "cgs": 44.32,
       "ctr": 19.0,
       "apv": 33.1,
       "avd": 5.0,
       "views": 19
     },
     {
-      "topic": "Canine Heartworm Transmission",
-      "category": "Parasitology",
-      "cgs": 44.04,
-      "ctr": 20.0,
-      "apv": 29.38,
-      "avd": 4.0,
-      "views": 39
+      "topic": "Allium Toxicosis Heinz Bodies",
+      "category": "Toxicology",
+      "cgs": 43.95,
+      "ctr": null,
+      "apv": null,
+      "avd": null,
+      "views": 135
     },
     {
       "topic": "Canine Paw Pad Thermoregulation",
@@ -87,7 +87,7 @@
     {
       "topic": "Canine Secure Base Attachment Effect",
       "category": "Psychology",
-      "cgs": 7.24,
+      "cgs": 7.17,
       "ctr": 2.0,
       "apv": 0.0,
       "avd": 0.0,
@@ -96,7 +96,7 @@
     {
       "topic": "Canine Resource Caching Instinct",
       "category": "Behavior",
-      "cgs": 4.26,
+      "cgs": 4.23,
       "ctr": 1.0,
       "apv": 0.0,
       "avd": 0.0,
@@ -118,23 +118,23 @@
       "hook_type": "low_retention_proxy",
       "reason": "swipe_away_proxy",
       "avg_apv_proxy": 0.0,
-      "blacklisted_at": "2026-10-24T15:51:48.286324Z"
+      "blacklisted_at": "2026-10-25T06:45:23.058937Z"
     },
     {
       "topic_category": "Behavior",
       "hook_type": "low_retention_proxy",
       "reason": "swipe_away_proxy",
       "avg_apv_proxy": 0.0,
-      "blacklisted_at": "2026-10-24T15:51:48.286328Z"
+      "blacklisted_at": "2026-10-25T06:45:23.058942Z"
     }
   ],
   "growth_signals": {
-    "total_subscribers_gained": 79,
+    "total_subscribers_gained": 81,
     "growth_trend": "growing"
   },
   "exploration_ratio": {
     "reinforce_pct": 80,
     "explore_pct": 20,
-    "adjusted_by": "low_cgs_average_59.8"
+    "adjusted_by": "low_cgs_average_52.1"
   }
 }

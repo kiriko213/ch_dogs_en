@@ -1,15 +1,6 @@
 {
   "items": [
     {
-      "video_id": "VvRtV-l5nTM",
-      "title": "The Fascinating Reason Dogs Walk on Toes",
-      "ctr": 0.0,
-      "apv": 0.0,
-      "subscribers_gained": 0,
-      "performance_score": 0.0,
-      "recorded_at": "2026-08-23T02:51:29.353573Z"
-    },
-    {
       "video_id": "o-ePhLLAK6I",
       "title": "Why Your Dog Canine Play Bite Inhibition",
       "ctr": 0.0,
@@ -449,6 +440,15 @@
       "subscribers_gained": 0,
       "performance_score": 0.0,
       "recorded_at": "2026-10-24T16:09:09.856060Z"
+    },
+    {
+      "video_id": "WfTpWxPzSMM",
+      "title": "Understanding Dog Crossed Extensor Balance Reflex",
+      "ctr": 0.0,
+      "apv": 0.0,
+      "subscribers_gained": 0,
+      "performance_score": 0.0,
+      "recorded_at": "2026-10-25T06:47:00.167703Z"
     }
   ]
 }

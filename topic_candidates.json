@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T15:51:48.379060Z",
+  "generated_at": "2026-10-25T06:45:23.160960Z",
   "top_candidates": [
     {
       "topic": "Theobromine Hepatic Clearance",
@@ -22,33 +22,33 @@
       "category": "dog_facts"
     },
     {
-      "topic": "Frenetic Random Activity Periods",
-      "score": 70,
-      "category": "dog_facts"
-    },
-    {
       "topic": "dog psychology",
       "score": 70,
       "category": "dog_psychology"
     },
     {
       "topic": "dog communication",
-      "score": 70,
+      "score": 64,
       "category": "dog_communication"
     },
     {
       "topic": "amazing dog abilities",
-      "score": 70,
+      "score": 64,
       "category": "dog_intelligence"
     },
     {
       "topic": "dog health facts",
-      "score": 70,
+      "score": 64,
       "category": "dog_health"
     },
     {
       "topic": "dog owner tips",
-      "score": 70,
+      "score": 64,
+      "category": "dog_owner_tips"
+    },
+    {
+      "topic": "dog life hacks",
+      "score": 64,
       "category": "dog_owner_tips"
     }
   ]
