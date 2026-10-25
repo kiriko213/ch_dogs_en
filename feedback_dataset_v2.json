@@ -1,9 +1,9 @@
 {
   "feedback_version": 2,
-  "generated_at": "2026-10-25T06:45:23.058868Z",
+  "generated_at": "2026-10-25T09:47:13.165492Z",
   "channel": "ch_dogs_en",
   "metadata": {
-    "total_videos_analyzed": 94,
+    "total_videos_analyzed": 95,
     "analytics_api_available": true,
     "cgs_mode": "beta",
     "data_freshness_hours": 72,
@@ -13,7 +13,7 @@
     {
       "topic": "Theobromine Hepatic Clearance",
       "category": "Toxicology",
-      "cgs": 79.79,
+      "cgs": 79.78,
       "ctr": 1208.0,
       "apv": 95.23,
       "avd": 16.0,
@@ -22,34 +22,34 @@
     {
       "topic": "Canine Self Domestication Flight Distance",
       "category": "History",
-      "cgs": 77.84,
+      "cgs": 77.82,
       "ctr": 872.0,
       "apv": 67.54,
       "avd": 10.0,
       "views": 995
     },
     {
-      "topic": "Canine Affiliative Muzzle Nudge",
-      "category": "Behavior",
-      "cgs": 76.84,
-      "ctr": 276.0,
-      "apv": 82.5,
-      "avd": 12.0,
-      "views": 279
-    },
-    {
       "topic": "Canine Pandiculation Myofascial Reset",
       "category": "Behavior",
-      "cgs": 76.82,
+      "cgs": 76.9,
       "ctr": 917.0,
       "apv": 131.24,
       "avd": 22.0,
       "views": 917
     },
     {
+      "topic": "Canine Affiliative Muzzle Nudge",
+      "category": "Behavior",
+      "cgs": 76.85,
+      "ctr": 276.0,
+      "apv": 82.5,
+      "avd": 12.0,
+      "views": 279
+    },
+    {
       "topic": "Canine Piloerection Reflex",
       "category": "Dermatology",
-      "cgs": 76.31,
+      "cgs": 76.37,
       "ctr": 592.0,
       "apv": 73.23,
       "avd": 11.0,
@@ -60,20 +60,11 @@
     {
       "topic": "Canine Salivary Amylase Absence",
       "category": "Dental",
-      "cgs": 44.32,
+      "cgs": 44.31,
       "ctr": 19.0,
       "apv": 33.1,
       "avd": 5.0,
       "views": 19
-    },
-    {
-      "topic": "Allium Toxicosis Heinz Bodies",
-      "category": "Toxicology",
-      "cgs": 43.95,
-      "ctr": null,
-      "apv": null,
-      "avd": null,
-      "views": 135
     },
     {
       "topic": "Canine Paw Pad Thermoregulation",
@@ -85,9 +76,18 @@
       "views": 10
     },
     {
+      "topic": "Crossed Extensor Balance Reflex",
+      "category": "Neurology",
+      "cgs": 10.0,
+      "ctr": null,
+      "apv": null,
+      "avd": null,
+      "views": 0
+    },
+    {
       "topic": "Canine Secure Base Attachment Effect",
       "category": "Psychology",
-      "cgs": 7.17,
+      "cgs": 7.16,
       "ctr": 2.0,
       "apv": 0.0,
       "avd": 0.0,
@@ -96,7 +96,7 @@
     {
       "topic": "Canine Resource Caching Instinct",
       "category": "Behavior",
-      "cgs": 4.23,
+      "cgs": 4.22,
       "ctr": 1.0,
       "apv": 0.0,
       "avd": 0.0,
@@ -118,14 +118,14 @@
       "hook_type": "low_retention_proxy",
       "reason": "swipe_away_proxy",
       "avg_apv_proxy": 0.0,
-      "blacklisted_at": "2026-10-25T06:45:23.058937Z"
+      "blacklisted_at": "2026-10-25T09:47:13.165547Z"
     },
     {
       "topic_category": "Behavior",
       "hook_type": "low_retention_proxy",
       "reason": "swipe_away_proxy",
       "avg_apv_proxy": 0.0,
-      "blacklisted_at": "2026-10-25T06:45:23.058942Z"
+      "blacklisted_at": "2026-10-25T09:47:13.165552Z"
     }
   ],
   "growth_signals": {
@@ -135,6 +135,6 @@
   "exploration_ratio": {
     "reinforce_pct": 80,
     "explore_pct": 20,
-    "adjusted_by": "low_cgs_average_52.1"
+    "adjusted_by": "low_cgs_average_39.9"
   }
 }

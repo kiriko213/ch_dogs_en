@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-10-25T06:47:00.170576Z",
+  "generated_at": "2026-10-25T10:22:15.589330Z",
   "kpis": {
-    "uploads": 94,
-    "views": 44248,
+    "uploads": 95,
+    "views": 44300,
     "ctr_average": 472.7,
     "apv_average": 62.93,
     "subscribers_gained": 81,
-    "cgs_average": 61.89,
+    "cgs_average": 61.39,
     "top_topics": [
       "Theobromine Hepatic Clearance",
       "Canine Self Domestication Flight Distance",
-      "Canine Affiliative Muzzle Nudge"
+      "Canine Pandiculation Myofascial Reset"
     ],
     "top_titles": [
-      "Why Your Dog Canine Play Bite Inhibition",
       "The Fascinating Reason Dogs Count",
-      "Why Your Dog Canine Piloerection Reflex"
+      "Why Your Dog Canine Piloerection Reflex",
+      "Why Your Dog Canine Gorge Feeding Elasticity"
     ]
   },
   "production_metrics": {
-    "success_rate_percent": 82.46,
-    "failure_rate_percent": 17.54,
-    "retry_rate_percent": 11.4,
-    "upload_latency_seconds": 5.2,
-    "generation_latency_seconds": 91.51
+    "success_rate_percent": 82.61,
+    "failure_rate_percent": 17.39,
+    "retry_rate_percent": 11.3,
+    "upload_latency_seconds": 5.01,
+    "generation_latency_seconds": 91.4
   },
   "warnings": []
 }

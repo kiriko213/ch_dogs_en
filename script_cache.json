@@ -1,7 +1,7 @@
 {
   "channel": "ch_dogs_en",
   "schema_version": 2,
-  "updated_at": "2026-10-25T06:47:00.160835Z",
+  "updated_at": "2026-10-25T10:22:15.582612Z",
   "items": [
     {
       "topic": "Dog episodic memory",
@@ -2637,6 +2637,57 @@
       ],
       "local_filenames": [],
       "scheduled_for": "2026-10-25T19:00:00Z"
+    },
+    {
+      "topic": "Canine Social Self-Handicapping Play",
+      "title": "Why Your Dog Canine Social Self-Handicapping Play",
+      "hook_framework": "Curiosity Gap",
+      "script": "When your dog flops down during play, they voluntarily hold back. This polite ritual reassures friends to keep games going. Does your dog do this?",
+      "video_search_query": "dog playing grass",
+      "category": "Ethology",
+      "subtopic": "Social Interaction",
+      "unique_fact": "Canines deliberately put themselves into vulnerable physical positions during play to foster mutual trust and prolong social play sessions.",
+      "angle": "Science",
+      "region": "Global",
+      "development_stage": "Adult",
+      "search_query": "dog playing grass",
+      "id": "aq_1792923639_0",
+      "status": "uploaded",
+      "locked_at": "2026-10-25T10:20:39.092470Z",
+      "used_at": "2026-10-25T10:22:15.581939Z",
+      "video_id": "w862P0y_TOU",
+      "original_title": "What Your Dog's Play Flops Really Mean",
+      "hook_score": 10.0,
+      "hook_title_score": 20,
+      "hook_opening_score": 0,
+      "video_ids": [
+        17921122
+      ],
+      "local_filenames": [],
+      "scheduled_for": "2026-10-25T19:00:00Z"
+    },
+    {
+      "topic": "Canine Bilious Vomiting Syndrome",
+      "title": "Why Your Dog Canine Bilious Vomiting Syndrome",
+      "hook_framework": "Problem & Solution",
+      "script": "Yellow morning froth usually indicates an overly empty stomach. A small evening snack absorbs pooled bile to prevent morning nausea. Do you offer bedtime biscuits?",
+      "video_search_query": "dog lying sick",
+      "category": "Gastroenterology",
+      "subtopic": "Nutrition",
+      "unique_fact": "Bilious vomiting syndrome happens when prolonged overnight fasting allows digestive bile to irritate an empty stomach lining.",
+      "angle": "Action",
+      "region": "Global",
+      "development_stage": "Adult",
+      "search_query": "dog lying sick",
+      "id": "aq_1792923639_1",
+      "status": "pending",
+      "locked_at": null,
+      "used_at": null,
+      "video_id": null,
+      "original_title": "What Your Dog's Morning Foam Means",
+      "hook_score": 10.0,
+      "hook_title_score": 20,
+      "hook_opening_score": 0
     }
   ]
 }

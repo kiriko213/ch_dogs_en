@@ -1,15 +1,6 @@
 {
   "items": [
     {
-      "video_id": "o-ePhLLAK6I",
-      "title": "Why Your Dog Canine Play Bite Inhibition",
-      "ctr": 0.0,
-      "apv": 0.0,
-      "subscribers_gained": 0,
-      "performance_score": 0.0,
-      "recorded_at": "2026-08-23T13:02:43.683878Z"
-    },
-    {
       "video_id": "qeoBfOtvnIQ",
       "title": "The Fascinating Reason Dogs Count",
       "ctr": 0.0,
@@ -449,6 +440,15 @@
       "subscribers_gained": 0,
       "performance_score": 0.0,
       "recorded_at": "2026-10-25T06:47:00.167703Z"
+    },
+    {
+      "video_id": "w862P0y_TOU",
+      "title": "Why Your Dog Canine Social Self-Handicapping Play",
+      "ctr": 0.0,
+      "apv": 0.0,
+      "subscribers_gained": 0,
+      "performance_score": 0.0,
+      "recorded_at": "2026-10-25T10:22:15.586242Z"
     }
   ]
 }
