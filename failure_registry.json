@@ -139,6 +139,20 @@
       "error_type": "GENERATION_FAILURE",
       "error_message": "504 Deadline Exceeded",
       "recovery_action": "Retrying Gemini generation (attempt 2/3)..."
+    },
+    {
+      "timestamp": "2026-10-26T07:04:06.160936Z",
+      "component": "Gemini_API",
+      "error_type": "GENERATION_FAILURE",
+      "error_message": "504 Deadline expired before operation could complete.",
+      "recovery_action": "Retrying Gemini generation (attempt 1/3)..."
+    },
+    {
+      "timestamp": "2026-10-26T07:14:20.988582Z",
+      "component": "Gemini_API",
+      "error_type": "GENERATION_FAILURE",
+      "error_message": "504 Deadline expired before operation could complete.",
+      "recovery_action": "Retrying Gemini generation (attempt 2/3)..."
     }
   ]
 }

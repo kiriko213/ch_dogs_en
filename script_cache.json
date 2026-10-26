@@ -1,7 +1,7 @@
 {
   "channel": "ch_dogs_en",
   "schema_version": 2,
-  "updated_at": "2026-10-25T16:07:40.398821Z",
+  "updated_at": "2026-10-26T07:46:25.904656Z",
   "items": [
     {
       "topic": "Dog episodic memory",
@@ -2693,6 +2693,34 @@
       ],
       "local_filenames": [],
       "scheduled_for": "2026-10-25T19:00:00Z"
+    },
+    {
+      "topic": "Canine Anticipatory Paw Lift Freeze",
+      "title": "Understanding Dog Canine Anticipatory Paw Lift Freeze",
+      "hook_framework": "Secret Meaning",
+      "script": "When your dog lifts one paw, they are deeply concentrating. This freeze stance pauses body motion to evaluate unexpected stimuli. Does your dog lift paws?",
+      "video_search_query": "dog standing still",
+      "category": "Behavior",
+      "subtopic": "Posture",
+      "unique_fact": "Lifting a single forelimb during stillness reduces motor interference to accelerate visual and cognitive evaluation",
+      "angle": "Behavior",
+      "region": "Global",
+      "development_stage": "Adult",
+      "search_query": "dog standing still",
+      "id": "aq_1793000677_0",
+      "status": "uploaded",
+      "locked_at": "2026-10-26T07:44:37.326429Z",
+      "used_at": "2026-10-26T07:46:25.904075Z",
+      "video_id": "iIWSzykA8nU",
+      "original_title": "What Your Dog's Paw Lift Really Means",
+      "hook_score": 0.0,
+      "hook_title_score": 0,
+      "hook_opening_score": 0,
+      "video_ids": [
+        4936277
+      ],
+      "local_filenames": [],
+      "scheduled_for": "2026-10-26T19:00:00Z"
     }
   ]
 }

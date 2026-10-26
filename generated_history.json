@@ -1,15 +1,5 @@
 [
   {
-    "title": "Understanding Dog Canine Cutaneous Wound Contraction",
-    "topic": "Canine Cutaneous Wound Contraction",
-    "script_content": "Your dog actually closes cuts differently than humans do. Specialized cells pull their loose skin edges together rapidly. Does your dog heal quickly?",
-    "video_ids": [
-      34848456
-    ],
-    "local_filenames": [],
-    "timestamp": "2026-10-17T15:29:35.716793"
-  },
-  {
     "title": "Understanding Dog Canine Gastric Hydrochloric Secretion",
     "topic": "Canine Gastric Hydrochloric Secretion",
     "script_content": "Your dog actually produces potent stomach acid to dissolve raw food. This powerful digestive fluid neutralizes bacteria quickly. What does your dog love eating most?",
@@ -198,5 +188,15 @@
     ],
     "local_filenames": [],
     "timestamp": "2026-10-25T16:07:40.398131"
+  },
+  {
+    "title": "Understanding Dog Canine Anticipatory Paw Lift Freeze",
+    "topic": "Canine Anticipatory Paw Lift Freeze",
+    "script_content": "When your dog lifts one paw, they are deeply concentrating. This freeze stance pauses body motion to evaluate unexpected stimuli. Does your dog lift paws?",
+    "video_ids": [
+      4936277
+    ],
+    "local_filenames": [],
+    "timestamp": "2026-10-26T07:46:25.904096"
   }
 ]
