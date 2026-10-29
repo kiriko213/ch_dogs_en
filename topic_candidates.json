@@ -1,9 +1,19 @@
 {
-  "generated_at": "2026-10-29T11:29:34.634890Z",
+  "generated_at": "2026-10-29T18:25:36.002630Z",
   "top_candidates": [
     {
       "topic": "Theobromine Hepatic Clearance",
       "score": 100,
+      "category": "dog_facts"
+    },
+    {
+      "topic": "Canine Self Domestication Flight Distance",
+      "score": 90,
+      "category": "dog_facts"
+    },
+    {
+      "topic": "Canine Epiphyseal Plate Ossification",
+      "score": 74,
       "category": "dog_facts"
     },
     {
@@ -37,19 +47,9 @@
       "category": "dog_owner_tips"
     },
     {
-      "topic": "The Truth About Dog owner tips",
+      "topic": "The Truth About Amazing dog abilities",
       "score": 64,
-      "category": "dog_owner_tips"
-    },
-    {
-      "topic": "Dog owner tips Most People Don't Know",
-      "score": 64,
-      "category": "dog_owner_tips"
-    },
-    {
-      "topic": "The Truth About Dog life hacks",
-      "score": 64,
-      "category": "dog_owner_tips"
+      "category": "dog_intelligence"
     }
   ]
 }

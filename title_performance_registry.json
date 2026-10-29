@@ -1,15 +1,6 @@
 {
   "items": [
     {
-      "video_id": "YRNTikl-pE0",
-      "title": "Why You Should Elevate Dog Bowls",
-      "ctr": 0.0,
-      "apv": 0.0,
-      "subscribers_gained": 0,
-      "performance_score": 0.0,
-      "recorded_at": "2026-09-12T15:32:48.959416Z"
-    },
-    {
       "video_id": "BX1dSsX3sos",
       "title": "The Fascinating Reason Dogs Circle",
       "ctr": 0.0,
@@ -449,6 +440,15 @@
       "subscribers_gained": 0,
       "performance_score": 0.0,
       "recorded_at": "2026-10-29T11:49:09.995786Z"
+    },
+    {
+      "video_id": "NJurJvzlr6Q",
+      "title": "Why Your Dog Predatory Motor Sequence Truncation",
+      "ctr": 0.0,
+      "apv": 0.0,
+      "subscribers_gained": 0,
+      "performance_score": 0.0,
+      "recorded_at": "2026-10-29T18:27:22.900000Z"
     }
   ]
 }
