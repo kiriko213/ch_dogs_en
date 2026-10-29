@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-10-26T07:46:25.909513Z",
+  "generated_at": "2026-10-29T08:11:15.835302Z",
   "kpis": {
-    "uploads": 97,
-    "views": 46407,
-    "ctr_average": 471.19,
-    "apv_average": 63.31,
-    "subscribers_gained": 86,
-    "cgs_average": 62.1,
+    "uploads": 98,
+    "views": 47684,
+    "ctr_average": 485.76,
+    "apv_average": 64.87,
+    "subscribers_gained": 98,
+    "cgs_average": 62.97,
     "top_topics": [
       "Theobromine Hepatic Clearance",
       "Canine Self Domestication Flight Distance",
-      "Canine Affiliative Muzzle Nudge"
+      "Canine Social Self-Handicapping Play"
     ],
     "top_titles": [
-      "Why Your Dog Canine Gorge Feeding Elasticity",
       "Why Your Dog Photoperiod Dependent Fur Shedding",
-      "Why You Should Elevate Dog Bowls"
+      "Why You Should Elevate Dog Bowls",
+      "The Fascinating Reason Dogs Circle"
     ]
   },
   "production_metrics": {
-    "success_rate_percent": 81.51,
-    "failure_rate_percent": 18.49,
-    "retry_rate_percent": 12.61,
-    "upload_latency_seconds": 5.23,
-    "generation_latency_seconds": 103.29
+    "success_rate_percent": 80.33,
+    "failure_rate_percent": 19.67,
+    "retry_rate_percent": 13.93,
+    "upload_latency_seconds": 4.86,
+    "generation_latency_seconds": 104.17
   },
   "warnings": []
 }

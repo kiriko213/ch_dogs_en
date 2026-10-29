@@ -1,9 +1,9 @@
 {
   "feedback_version": 2,
-  "generated_at": "2026-10-26T06:54:07.185065Z",
+  "generated_at": "2026-10-29T07:39:23.382632Z",
   "channel": "ch_dogs_en",
   "metadata": {
-    "total_videos_analyzed": 97,
+    "total_videos_analyzed": 98,
     "analytics_api_available": true,
     "cgs_mode": "beta",
     "data_freshness_hours": 72,
@@ -13,7 +13,7 @@
     {
       "topic": "Theobromine Hepatic Clearance",
       "category": "Toxicology",
-      "cgs": 79.73,
+      "cgs": 79.57,
       "ctr": 1208.0,
       "apv": 95.23,
       "avd": 16.0,
@@ -22,58 +22,58 @@
     {
       "topic": "Canine Self Domestication Flight Distance",
       "category": "History",
-      "cgs": 79.18,
-      "ctr": 925.0,
-      "apv": 66.09,
+      "cgs": 78.62,
+      "ctr": 995.0,
+      "apv": 65.4,
       "avd": 10.0,
       "views": 995
     },
     {
-      "topic": "Canine Affiliative Muzzle Nudge",
-      "category": "Behavior",
-      "cgs": 76.7,
-      "ctr": 277.0,
-      "apv": 82.5,
-      "avd": 12.0,
-      "views": 279
-    },
-    {
-      "topic": "Canine Pandiculation Myofascial Reset",
-      "category": "Behavior",
-      "cgs": 76.59,
-      "ctr": 917.0,
-      "apv": 131.24,
-      "avd": 22.0,
-      "views": 918
-    },
-    {
-      "topic": "Canine Piloerection Reflex",
-      "category": "Dermatology",
-      "cgs": 76.2,
-      "ctr": 592.0,
-      "apv": 73.23,
+      "topic": "Canine Social Self-Handicapping Play",
+      "category": "Ethology",
+      "cgs": 77.75,
+      "ctr": 925.0,
+      "apv": 69.98,
       "avd": 11.0,
-      "views": 592
+      "views": 926
+    },
+    {
+      "topic": "Allium Toxicosis Heinz Bodies",
+      "category": "Toxicology",
+      "cgs": 76.98,
+      "ctr": 486.0,
+      "apv": 239.96,
+      "avd": 35.0,
+      "views": 480
+    },
+    {
+      "topic": "Canine Epiphyseal Plate Ossification",
+      "category": "Orthopedics",
+      "cgs": 76.61,
+      "ctr": 379.0,
+      "apv": 76.76,
+      "avd": 13.0,
+      "views": 383
     }
   ],
   "losing_topics": [
     {
-      "topic": "Canine Heartworm Transmission",
-      "category": "Parasitology",
-      "cgs": 44.64,
-      "ctr": 39.0,
-      "apv": 31.379999999999995,
-      "avd": 5.0,
-      "views": 41
-    },
-    {
       "topic": "Canine Salivary Amylase Absence",
       "category": "Dental",
-      "cgs": 44.25,
+      "cgs": 44.09,
       "ctr": 19.0,
       "apv": 33.1,
       "avd": 5.0,
       "views": 19
+    },
+    {
+      "topic": "Canine Heartworm Transmission",
+      "category": "Parasitology",
+      "cgs": 43.75,
+      "ctr": 41.0,
+      "apv": 29.69,
+      "avd": 4.0,
+      "views": 43
     },
     {
       "topic": "Canine Paw Pad Thermoregulation",
@@ -87,7 +87,7 @@
     {
       "topic": "Canine Secure Base Attachment Effect",
       "category": "Psychology",
-      "cgs": 7.07,
+      "cgs": 6.78,
       "ctr": 2.0,
       "apv": 0.0,
       "avd": 0.0,
@@ -96,7 +96,7 @@
     {
       "topic": "Canine Resource Caching Instinct",
       "category": "Behavior",
-      "cgs": 4.17,
+      "cgs": 4.0,
       "ctr": 1.0,
       "apv": 0.0,
       "avd": 0.0,
@@ -118,23 +118,23 @@
       "hook_type": "low_retention_proxy",
       "reason": "swipe_away_proxy",
       "avg_apv_proxy": 0.0,
-      "blacklisted_at": "2026-10-26T06:54:07.185110Z"
+      "blacklisted_at": "2026-10-29T07:39:23.382705Z"
     },
     {
       "topic_category": "Behavior",
       "hook_type": "low_retention_proxy",
       "reason": "swipe_away_proxy",
       "avg_apv_proxy": 0.0,
-      "blacklisted_at": "2026-10-26T06:54:07.185113Z"
+      "blacklisted_at": "2026-10-29T07:39:23.382734Z"
     }
   ],
   "growth_signals": {
-    "total_subscribers_gained": 86,
+    "total_subscribers_gained": 98,
     "growth_trend": "growing"
   },
   "exploration_ratio": {
     "reinforce_pct": 80,
     "explore_pct": 20,
-    "adjusted_by": "low_cgs_average_53.3"
+    "adjusted_by": "low_cgs_average_74.8"
   }
 }

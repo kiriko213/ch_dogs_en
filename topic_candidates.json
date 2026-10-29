@@ -1,24 +1,9 @@
 {
-  "generated_at": "2026-10-26T06:54:07.244117Z",
+  "generated_at": "2026-10-29T07:39:23.493008Z",
   "top_candidates": [
     {
       "topic": "Theobromine Hepatic Clearance",
       "score": 100,
-      "category": "dog_facts"
-    },
-    {
-      "topic": "Canine Affiliative Muzzle Nudge",
-      "score": 90,
-      "category": "dog_facts"
-    },
-    {
-      "topic": "Canine Pandiculation Myofascial Reset",
-      "score": 74,
-      "category": "dog_facts"
-    },
-    {
-      "topic": "Canine Piloerection Reflex",
-      "score": 70,
       "category": "dog_facts"
     },
     {
@@ -48,6 +33,21 @@
     },
     {
       "topic": "dog life hacks",
+      "score": 64,
+      "category": "dog_owner_tips"
+    },
+    {
+      "topic": "The Truth About Dog owner tips",
+      "score": 64,
+      "category": "dog_owner_tips"
+    },
+    {
+      "topic": "Dog owner tips Most People Don't Know",
+      "score": 64,
+      "category": "dog_owner_tips"
+    },
+    {
+      "topic": "The Truth About Dog life hacks",
       "score": 64,
       "category": "dog_owner_tips"
     }

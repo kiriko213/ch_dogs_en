@@ -1,7 +1,7 @@
 {
   "channel": "ch_dogs_en",
   "schema_version": 2,
-  "updated_at": "2026-10-26T07:46:25.904656Z",
+  "updated_at": "2026-10-29T08:11:15.827830Z",
   "items": [
     {
       "topic": "Dog episodic memory",
@@ -2721,6 +2721,34 @@
       ],
       "local_filenames": [],
       "scheduled_for": "2026-10-26T19:00:00Z"
+    },
+    {
+      "topic": "Canine Inguinal Belly Presentation",
+      "title": "Understanding Dog Canine Inguinal Belly Presentation",
+      "hook_framework": "Problem & Solution",
+      "script": "When your dog rolls over, they often request gentle reassurance. Exposing their vulnerable stomach diffuses tension by signaling complete surrender. Does your dog do this?",
+      "video_search_query": "happy dog",
+      "category": "Communication",
+      "subtopic": "Ethology",
+      "unique_fact": "Belly exposure is often a social appeasement signal designed to diffuse conflict rather than an invitation for petting",
+      "angle": "Science",
+      "region": "Global",
+      "development_stage": "Adult",
+      "search_query": "happy dog",
+      "id": "aq_1793261366_0",
+      "status": "uploaded",
+      "locked_at": "2026-10-29T08:09:26.448775Z",
+      "used_at": "2026-10-29T08:11:15.826896Z",
+      "video_id": "YgzyiKlOmM4",
+      "original_title": "What Your Dog's Belly Show Really Means",
+      "hook_score": 0.0,
+      "hook_title_score": 0,
+      "hook_opening_score": 0,
+      "video_ids": [
+        25839070
+      ],
+      "local_filenames": [],
+      "scheduled_for": "2026-10-29T19:00:00Z"
     }
   ]
 }
