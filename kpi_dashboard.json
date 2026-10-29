@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-10-29T08:11:15.835302Z",
+  "generated_at": "2026-10-29T11:49:10.006632Z",
   "kpis": {
-    "uploads": 98,
-    "views": 47684,
-    "ctr_average": 485.76,
+    "uploads": 99,
+    "views": 47685,
+    "ctr_average": 485.69,
     "apv_average": 64.87,
     "subscribers_gained": 98,
-    "cgs_average": 62.97,
+    "cgs_average": 62.46,
     "top_topics": [
       "Theobromine Hepatic Clearance",
       "Canine Self Domestication Flight Distance",
       "Canine Social Self-Handicapping Play"
     ],
     "top_titles": [
-      "Why Your Dog Photoperiod Dependent Fur Shedding",
       "Why You Should Elevate Dog Bowls",
-      "The Fascinating Reason Dogs Circle"
+      "The Fascinating Reason Dogs Circle",
+      "The Fascinating Reason Dogs Pant Loudly"
     ]
   },
   "production_metrics": {
-    "success_rate_percent": 80.33,
-    "failure_rate_percent": 19.67,
-    "retry_rate_percent": 13.93,
-    "upload_latency_seconds": 4.86,
-    "generation_latency_seconds": 104.17
+    "success_rate_percent": 80.49,
+    "failure_rate_percent": 19.51,
+    "retry_rate_percent": 13.82,
+    "upload_latency_seconds": 5.23,
+    "generation_latency_seconds": 63.52
   },
   "warnings": []
 }

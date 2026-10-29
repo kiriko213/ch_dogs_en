@@ -1,9 +1,9 @@
 {
   "feedback_version": 2,
-  "generated_at": "2026-10-29T07:39:23.382632Z",
+  "generated_at": "2026-10-29T11:29:34.578031Z",
   "channel": "ch_dogs_en",
   "metadata": {
-    "total_videos_analyzed": 98,
+    "total_videos_analyzed": 99,
     "analytics_api_available": true,
     "cgs_mode": "beta",
     "data_freshness_hours": 72,
@@ -13,7 +13,7 @@
     {
       "topic": "Theobromine Hepatic Clearance",
       "category": "Toxicology",
-      "cgs": 79.57,
+      "cgs": 79.56,
       "ctr": 1208.0,
       "apv": 95.23,
       "avd": 16.0,
@@ -22,7 +22,7 @@
     {
       "topic": "Canine Self Domestication Flight Distance",
       "category": "History",
-      "cgs": 78.62,
+      "cgs": 78.61,
       "ctr": 995.0,
       "apv": 65.4,
       "avd": 10.0,
@@ -31,7 +31,7 @@
     {
       "topic": "Canine Social Self-Handicapping Play",
       "category": "Ethology",
-      "cgs": 77.75,
+      "cgs": 77.83,
       "ctr": 925.0,
       "apv": 69.98,
       "avd": 11.0,
@@ -40,8 +40,8 @@
     {
       "topic": "Allium Toxicosis Heinz Bodies",
       "category": "Toxicology",
-      "cgs": 76.98,
-      "ctr": 486.0,
+      "cgs": 77.01,
+      "ctr": 480.0,
       "apv": 239.96,
       "avd": 35.0,
       "views": 480
@@ -49,7 +49,7 @@
     {
       "topic": "Canine Epiphyseal Plate Ossification",
       "category": "Orthopedics",
-      "cgs": 76.61,
+      "cgs": 76.64,
       "ctr": 379.0,
       "apv": 76.76,
       "avd": 13.0,
@@ -57,15 +57,6 @@
     }
   ],
   "losing_topics": [
-    {
-      "topic": "Canine Salivary Amylase Absence",
-      "category": "Dental",
-      "cgs": 44.09,
-      "ctr": 19.0,
-      "apv": 33.1,
-      "avd": 5.0,
-      "views": 19
-    },
     {
       "topic": "Canine Heartworm Transmission",
       "category": "Parasitology",
@@ -85,9 +76,18 @@
       "views": 10
     },
     {
+      "topic": "Canine Inguinal Belly Presentation",
+      "category": "Communication",
+      "cgs": 9.5,
+      "ctr": null,
+      "apv": null,
+      "avd": null,
+      "views": 0
+    },
+    {
       "topic": "Canine Secure Base Attachment Effect",
       "category": "Psychology",
-      "cgs": 6.78,
+      "cgs": 6.77,
       "ctr": 2.0,
       "apv": 0.0,
       "avd": 0.0,
@@ -118,14 +118,14 @@
       "hook_type": "low_retention_proxy",
       "reason": "swipe_away_proxy",
       "avg_apv_proxy": 0.0,
-      "blacklisted_at": "2026-10-29T07:39:23.382705Z"
+      "blacklisted_at": "2026-10-29T11:29:34.578074Z"
     },
     {
       "topic_category": "Behavior",
       "hook_type": "low_retention_proxy",
       "reason": "swipe_away_proxy",
       "avg_apv_proxy": 0.0,
-      "blacklisted_at": "2026-10-29T07:39:23.382734Z"
+      "blacklisted_at": "2026-10-29T11:29:34.578076Z"
     }
   ],
   "growth_signals": {
@@ -135,6 +135,6 @@
   "exploration_ratio": {
     "reinforce_pct": 80,
     "explore_pct": 20,
-    "adjusted_by": "low_cgs_average_74.8"
+    "adjusted_by": "low_cgs_average_52.0"
   }
 }
