@@ -1,9 +1,9 @@
 {
   "feedback_version": 2,
-  "generated_at": "2026-10-30T07:42:17.187072Z",
+  "generated_at": "2026-10-30T11:22:01.704011Z",
   "channel": "ch_dogs_en",
   "metadata": {
-    "total_videos_analyzed": 101,
+    "total_videos_analyzed": 102,
     "analytics_api_available": true,
     "cgs_mode": "beta",
     "data_freshness_hours": 72,
@@ -13,7 +13,7 @@
     {
       "topic": "Theobromine Hepatic Clearance",
       "category": "Toxicology",
-      "cgs": 79.53,
+      "cgs": 79.52,
       "ctr": 1208.0,
       "apv": 95.23,
       "avd": 16.0,
@@ -22,7 +22,7 @@
     {
       "topic": "Canine Self Domestication Flight Distance",
       "category": "History",
-      "cgs": 78.53,
+      "cgs": 78.52,
       "ctr": 995.0,
       "apv": 65.4,
       "avd": 10.0,
@@ -31,7 +31,7 @@
     {
       "topic": "Canine Social Self-Handicapping Play",
       "category": "Ethology",
-      "cgs": 77.44,
+      "cgs": 77.52,
       "ctr": 926.0,
       "apv": 69.98,
       "avd": 11.0,
@@ -40,7 +40,7 @@
     {
       "topic": "Canine Epiphyseal Plate Ossification",
       "category": "Orthopedics",
-      "cgs": 76.81,
+      "cgs": 76.84,
       "ctr": 383.0,
       "apv": 77.76,
       "avd": 13.0,
@@ -49,7 +49,7 @@
     {
       "topic": "Allium Toxicosis Heinz Bodies",
       "category": "Toxicology",
-      "cgs": 76.78,
+      "cgs": 76.81,
       "ctr": 480.0,
       "apv": 239.96,
       "avd": 35.0,
@@ -57,15 +57,6 @@
     }
   ],
   "losing_topics": [
-    {
-      "topic": "Canine Heartworm Transmission",
-      "category": "Parasitology",
-      "cgs": 43.66,
-      "ctr": 41.0,
-      "apv": 29.69,
-      "avd": 4.0,
-      "views": 43
-    },
     {
       "topic": "Canine Paw Pad Thermoregulation",
       "category": "Physiology",
@@ -78,16 +69,25 @@
     {
       "topic": "Canine Inguinal Belly Presentation",
       "category": "Communication",
-      "cgs": 34.73,
+      "cgs": 36.0,
       "ctr": null,
       "apv": null,
       "avd": null,
-      "views": 565
+      "views": 569
+    },
+    {
+      "topic": "Canine Hypothermic Snow Ingestion",
+      "category": "Thermoregulation",
+      "cgs": 10.0,
+      "ctr": null,
+      "apv": null,
+      "avd": null,
+      "views": 0
     },
     {
       "topic": "Canine Secure Base Attachment Effect",
       "category": "Psychology",
-      "cgs": 6.7,
+      "cgs": 6.68,
       "ctr": 2.0,
       "apv": 0.0,
       "avd": 0.0,
@@ -96,7 +96,7 @@
     {
       "topic": "Canine Resource Caching Instinct",
       "category": "Behavior",
-      "cgs": 3.96,
+      "cgs": 3.95,
       "ctr": 1.0,
       "apv": 0.0,
       "avd": 0.0,
@@ -118,14 +118,14 @@
       "hook_type": "low_retention_proxy",
       "reason": "swipe_away_proxy",
       "avg_apv_proxy": 0.0,
-      "blacklisted_at": "2026-10-30T07:42:17.187167Z"
+      "blacklisted_at": "2026-10-30T11:22:01.704053Z"
     },
     {
       "topic_category": "Behavior",
       "hook_type": "low_retention_proxy",
       "reason": "swipe_away_proxy",
       "avg_apv_proxy": 0.0,
-      "blacklisted_at": "2026-10-30T07:42:17.187172Z"
+      "blacklisted_at": "2026-10-30T11:22:01.704055Z"
     }
   ],
   "growth_signals": {
@@ -135,6 +135,6 @@
   "exploration_ratio": {
     "reinforce_pct": 80,
     "explore_pct": 20,
-    "adjusted_by": "low_cgs_average_47.3"
+    "adjusted_by": "low_cgs_average_39.3"
   }
 }

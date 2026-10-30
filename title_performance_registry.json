@@ -1,15 +1,6 @@
 {
   "items": [
     {
-      "video_id": "y-qVMdtg8O0",
-      "title": "The Fascinating Reason Dogs Pant Loudly",
-      "ctr": 0.0,
-      "apv": 0.0,
-      "subscribers_gained": 0,
-      "performance_score": 0.0,
-      "recorded_at": "2026-09-28T07:40:06.743056Z"
-    },
-    {
       "video_id": "qyRCRBI8Ths",
       "title": "Why Your Dog Autonomic Nervous System Shake-Off",
       "ctr": 0.0,
@@ -449,6 +440,15 @@
       "subscribers_gained": 0,
       "performance_score": 0.0,
       "recorded_at": "2026-10-30T07:44:03.635439Z"
+    },
+    {
+      "video_id": "517zKHd8Ygg",
+      "title": "Why Your Dog Canine Macadamia Toxicosis Mechanism",
+      "ctr": 0.0,
+      "apv": 0.0,
+      "subscribers_gained": 0,
+      "performance_score": 0.0,
+      "recorded_at": "2026-10-30T11:36:38.746321Z"
     }
   ]
 }
