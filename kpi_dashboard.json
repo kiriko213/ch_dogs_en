@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-10-29T18:27:22.903074Z",
+  "generated_at": "2026-10-30T07:44:03.638492Z",
   "kpis": {
-    "uploads": 100,
-    "views": 47686,
-    "ctr_average": 485.69,
-    "apv_average": 64.87,
+    "uploads": 101,
+    "views": 50230,
+    "ctr_average": 486.39,
+    "apv_average": 65.2,
     "subscribers_gained": 98,
-    "cgs_average": 61.95,
+    "cgs_average": 62.45,
     "top_topics": [
       "Theobromine Hepatic Clearance",
       "Canine Self Domestication Flight Distance",
       "Canine Social Self-Handicapping Play"
     ],
     "top_titles": [
-      "The Fascinating Reason Dogs Circle",
       "The Fascinating Reason Dogs Pant Loudly",
-      "Why Your Dog Autonomic Nervous System Shake-Off"
+      "Why Your Dog Autonomic Nervous System Shake-Off",
+      "Understanding Dog Canine Microchipping Biocompatibility"
     ]
   },
   "production_metrics": {
-    "success_rate_percent": 80.65,
-    "failure_rate_percent": 19.35,
-    "retry_rate_percent": 13.71,
-    "upload_latency_seconds": 4.5,
-    "generation_latency_seconds": 102.02
+    "success_rate_percent": 80.8,
+    "failure_rate_percent": 19.2,
+    "retry_rate_percent": 13.6,
+    "upload_latency_seconds": 4.75,
+    "generation_latency_seconds": 101.22
   },
   "warnings": []
 }

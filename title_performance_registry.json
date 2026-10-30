@@ -1,15 +1,6 @@
 {
   "items": [
     {
-      "video_id": "BX1dSsX3sos",
-      "title": "The Fascinating Reason Dogs Circle",
-      "ctr": 0.0,
-      "apv": 0.0,
-      "subscribers_gained": 0,
-      "performance_score": 0.0,
-      "recorded_at": "2026-09-23T16:59:44.300625Z"
-    },
-    {
       "video_id": "y-qVMdtg8O0",
       "title": "The Fascinating Reason Dogs Pant Loudly",
       "ctr": 0.0,
@@ -449,6 +440,15 @@
       "subscribers_gained": 0,
       "performance_score": 0.0,
       "recorded_at": "2026-10-29T18:27:22.900000Z"
+    },
+    {
+      "video_id": "sYSrel8ksPs",
+      "title": "Why Your Dog Canine Hypothermic Snow Ingestion",
+      "ctr": 0.0,
+      "apv": 0.0,
+      "subscribers_gained": 0,
+      "performance_score": 0.0,
+      "recorded_at": "2026-10-30T07:44:03.635439Z"
     }
   ]
 }

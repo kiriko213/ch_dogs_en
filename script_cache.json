@@ -1,7 +1,7 @@
 {
   "channel": "ch_dogs_en",
   "schema_version": 2,
-  "updated_at": "2026-10-29T18:27:22.893247Z",
+  "updated_at": "2026-10-30T07:44:03.628718Z",
   "items": [
     {
       "topic": "Dog episodic memory",
@@ -2820,14 +2820,19 @@
       "development_stage": "Adult",
       "search_query": "dog eating snow",
       "id": "aq_1793274481_2",
-      "status": "pending",
-      "locked_at": null,
-      "used_at": null,
-      "video_id": null,
+      "status": "uploaded",
+      "locked_at": "2026-10-30T07:42:17.303679Z",
+      "used_at": "2026-10-30T07:44:03.628192Z",
+      "video_id": "sYSrel8ksPs",
       "original_title": "The Fascinating Reason Dogs Eat Snow",
       "hook_score": 10.0,
       "hook_title_score": 20,
-      "hook_opening_score": 0
+      "hook_opening_score": 0,
+      "video_ids": [
+        39796223
+      ],
+      "local_filenames": [],
+      "scheduled_for": "2026-10-30T19:00:00Z"
     }
   ]
 }
