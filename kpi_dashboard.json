@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-10-31T08:12:43.259925Z",
+  "generated_at": "2026-10-31T10:56:05.505610Z",
   "kpis": {
-    "uploads": 103,
-    "views": 51341,
+    "uploads": 104,
+    "views": 51547,
     "ctr_average": 486.57,
     "apv_average": 65.28,
     "subscribers_gained": 98,
-    "cgs_average": 61.99,
+    "cgs_average": 61.58,
     "top_topics": [
       "Theobromine Hepatic Clearance",
       "Canine Self Domestication Flight Distance",
       "Canine Social Self-Handicapping Play"
     ],
     "top_titles": [
-      "Understanding Dog Canine Microchipping Biocompatibility",
       "Understanding Dog Theobromine Hepatic Clearance",
-      "Understanding Dog Canine Salivary Amylase Absence"
+      "Understanding Dog Canine Salivary Amylase Absence",
+      "Understanding Dog Canine Resource Caching Instinct"
     ]
   },
   "production_metrics": {
-    "success_rate_percent": 81.1,
-    "failure_rate_percent": 18.9,
-    "retry_rate_percent": 13.39,
-    "upload_latency_seconds": 6.38,
-    "generation_latency_seconds": 60.72
+    "success_rate_percent": 81.25,
+    "failure_rate_percent": 18.75,
+    "retry_rate_percent": 13.28,
+    "upload_latency_seconds": 5.61,
+    "generation_latency_seconds": 104.75
   },
   "warnings": []
 }

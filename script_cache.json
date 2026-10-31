@@ -1,7 +1,7 @@
 {
   "channel": "ch_dogs_en",
   "schema_version": 2,
-  "updated_at": "2026-10-31T08:12:43.255312Z",
+  "updated_at": "2026-10-31T10:56:05.495406Z",
   "items": [
     {
       "topic": "Dog episodic memory",
@@ -2904,14 +2904,19 @@
       "development_stage": "Adult",
       "search_query": "dog playing",
       "id": "aq_1793434295_1",
-      "status": "pending",
-      "locked_at": null,
-      "used_at": null,
-      "video_id": null,
+      "status": "uploaded",
+      "locked_at": "2026-10-31T10:54:14.894351Z",
+      "used_at": "2026-10-31T10:56:05.494446Z",
+      "video_id": "ojY6fPmrHxg",
       "original_title": "The Fascinating Reason Dogs Keep Bones",
       "hook_score": 10.0,
       "hook_title_score": 20,
-      "hook_opening_score": 0
+      "hook_opening_score": 0,
+      "video_ids": [
+        36413850
+      ],
+      "local_filenames": [],
+      "scheduled_for": "2026-10-31T19:00:00Z"
     },
     {
       "topic": "Canine Endothelial Chorioallantoic Placentation",

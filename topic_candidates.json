@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T07:28:06.948352Z",
+  "generated_at": "2026-10-31T10:54:14.888685Z",
   "top_candidates": [
     {
       "topic": "Theobromine Hepatic Clearance",
@@ -12,8 +12,18 @@
       "category": "dog_facts"
     },
     {
+      "topic": "Canine Social Self-Handicapping Play",
+      "score": 70,
+      "category": "dog_facts"
+    },
+    {
       "topic": "Canine Epiphyseal Plate Ossification",
-      "score": 74,
+      "score": 70,
+      "category": "dog_facts"
+    },
+    {
+      "topic": "Allium Toxicosis Heinz Bodies",
+      "score": 70,
       "category": "dog_facts"
     },
     {
@@ -23,33 +33,23 @@
     },
     {
       "topic": "dog communication",
-      "score": 64,
+      "score": 70,
       "category": "dog_communication"
     },
     {
       "topic": "amazing dog abilities",
-      "score": 64,
+      "score": 70,
       "category": "dog_intelligence"
     },
     {
       "topic": "dog health facts",
-      "score": 64,
+      "score": 70,
       "category": "dog_health"
     },
     {
       "topic": "dog owner tips",
-      "score": 64,
+      "score": 70,
       "category": "dog_owner_tips"
-    },
-    {
-      "topic": "dog life hacks",
-      "score": 64,
-      "category": "dog_owner_tips"
-    },
-    {
-      "topic": "The Truth About Amazing dog abilities",
-      "score": 64,
-      "category": "dog_intelligence"
     }
   ]
 }
