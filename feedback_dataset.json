@@ -1,35 +1,35 @@
 {
   "feedback_version": 1,
-  "generated_at": "2026-10-30T11:22:00.606094Z",
+  "generated_at": "2026-10-31T07:28:05.386353Z",
   "top_topics": [
     {
       "topic": "Canine Self Domestication Flight Distance",
       "category": "History",
-      "score": 69.97,
+      "score": 69.6,
       "views": 995
     },
     {
       "topic": "Crossed Extensor Balance Reflex",
       "category": "Neurology",
-      "score": 65.2,
+      "score": 64.88,
       "views": 999
     },
     {
       "topic": "Canine Geophagia Soil Ingestion",
       "category": "Gastroenterology",
-      "score": 64.99,
-      "views": 677
+      "score": 64.4,
+      "views": 678
     },
     {
       "topic": "Canine Cutaneous Thermal Pad Vulnerability",
       "category": "Environmental Safety",
-      "score": 60.68,
+      "score": 60.42,
       "views": 1028
     },
     {
       "topic": "Canine Thermogenic Shivering Reflex",
       "category": "Thermoregulation",
-      "score": 60.61,
+      "score": 60.4,
       "views": 1064
     }
   ],
@@ -37,31 +37,31 @@
     {
       "topic": "Canine Heat Exhaustion Panting Limits",
       "category": "Health",
-      "score": 3.46,
+      "score": 3.34,
       "views": 21
     },
     {
       "topic": "Canine Vestigial Clavicle",
       "category": "Anatomy",
-      "score": 3.13,
+      "score": 3.09,
       "views": 70
     },
     {
       "topic": "Canine Permanent Dental Structure",
       "category": "Anatomy",
-      "score": 2.45,
+      "score": 2.42,
       "views": 57
     },
     {
       "topic": "Canine Play Bow Communication",
       "category": "Body Language",
-      "score": 2.08,
+      "score": 2.05,
       "views": 48
     },
     {
       "topic": "Canine Paw Pad Thermoregulation",
       "category": "Physiology",
-      "score": 0.53,
+      "score": 0.52,
       "views": 10
     }
   ]

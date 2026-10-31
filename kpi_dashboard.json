@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-10-30T11:36:38.748722Z",
+  "generated_at": "2026-10-31T08:12:43.259925Z",
   "kpis": {
-    "uploads": 102,
-    "views": 50235,
-    "ctr_average": 486.39,
-    "apv_average": 65.2,
+    "uploads": 103,
+    "views": 51341,
+    "ctr_average": 486.57,
+    "apv_average": 65.28,
     "subscribers_gained": 98,
-    "cgs_average": 61.97,
+    "cgs_average": 61.99,
     "top_topics": [
       "Theobromine Hepatic Clearance",
       "Canine Self Domestication Flight Distance",
       "Canine Social Self-Handicapping Play"
     ],
     "top_titles": [
-      "Why Your Dog Autonomic Nervous System Shake-Off",
       "Understanding Dog Canine Microchipping Biocompatibility",
-      "Understanding Dog Theobromine Hepatic Clearance"
+      "Understanding Dog Theobromine Hepatic Clearance",
+      "Understanding Dog Canine Salivary Amylase Absence"
     ]
   },
   "production_metrics": {
-    "success_rate_percent": 80.95,
-    "failure_rate_percent": 19.05,
-    "retry_rate_percent": 13.49,
-    "upload_latency_seconds": 5.65,
-    "generation_latency_seconds": 58.5
+    "success_rate_percent": 81.1,
+    "failure_rate_percent": 18.9,
+    "retry_rate_percent": 13.39,
+    "upload_latency_seconds": 6.38,
+    "generation_latency_seconds": 60.72
   },
   "warnings": []
 }
