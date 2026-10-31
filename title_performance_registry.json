@@ -1,15 +1,6 @@
 {
   "items": [
     {
-      "video_id": "9xtIFkUKs1Q",
-      "title": "Understanding Dog Theobromine Hepatic Clearance",
-      "ctr": 0.0,
-      "apv": 0.0,
-      "subscribers_gained": 0,
-      "performance_score": 0.0,
-      "recorded_at": "2026-10-09T11:54:53.328284Z"
-    },
-    {
       "video_id": "Mryeit7s-zs",
       "title": "Understanding Dog Canine Salivary Amylase Absence",
       "ctr": 0.0,
@@ -449,6 +440,15 @@
       "subscribers_gained": 0,
       "performance_score": 0.0,
       "recorded_at": "2026-10-31T10:56:05.502193Z"
+    },
+    {
+      "video_id": "nlJSW-bAHjg",
+      "title": "Understanding Dog Canine Endothelial Chorioallantoic Placentation",
+      "ctr": 0.0,
+      "apv": 0.0,
+      "subscribers_gained": 0,
+      "performance_score": 0.0,
+      "recorded_at": "2026-10-31T17:16:10.565716Z"
     }
   ]
 }

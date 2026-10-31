@@ -1,7 +1,7 @@
 {
   "channel": "ch_dogs_en",
   "schema_version": 2,
-  "updated_at": "2026-10-31T10:56:05.495406Z",
+  "updated_at": "2026-10-31T17:16:10.561157Z",
   "items": [
     {
       "topic": "Dog episodic memory",
@@ -2932,14 +2932,19 @@
       "development_stage": "Adult",
       "search_query": "dog owner",
       "id": "aq_1793434295_2",
-      "status": "pending",
-      "locked_at": null,
-      "used_at": null,
-      "video_id": null,
+      "status": "uploaded",
+      "locked_at": "2026-10-31T17:14:39.088481Z",
+      "used_at": "2026-10-31T17:16:10.560573Z",
+      "video_id": "nlJSW-bAHjg",
       "original_title": "The Fascinating Reason Puppies Form",
       "hook_score": 0.0,
       "hook_title_score": 0,
-      "hook_opening_score": 0
+      "hook_opening_score": 0,
+      "video_ids": [
+        20399672
+      ],
+      "local_filenames": [],
+      "scheduled_for": "2026-10-31T19:00:00Z"
     }
   ]
 }

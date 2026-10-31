@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-10-31T10:56:05.505610Z",
+  "generated_at": "2026-10-31T17:16:10.567996Z",
   "kpis": {
-    "uploads": 104,
-    "views": 51547,
+    "uploads": 105,
+    "views": 51614,
     "ctr_average": 486.57,
     "apv_average": 65.28,
     "subscribers_gained": 98,
-    "cgs_average": 61.58,
+    "cgs_average": 61.12,
     "top_topics": [
       "Theobromine Hepatic Clearance",
       "Canine Self Domestication Flight Distance",
       "Canine Social Self-Handicapping Play"
     ],
     "top_titles": [
-      "Understanding Dog Theobromine Hepatic Clearance",
       "Understanding Dog Canine Salivary Amylase Absence",
-      "Understanding Dog Canine Resource Caching Instinct"
+      "Understanding Dog Canine Resource Caching Instinct",
+      "Why Your Dog Canine Umbilical Scar Anatomy"
     ]
   },
   "production_metrics": {
-    "success_rate_percent": 81.25,
-    "failure_rate_percent": 18.75,
-    "retry_rate_percent": 13.28,
-    "upload_latency_seconds": 5.61,
-    "generation_latency_seconds": 104.75
+    "success_rate_percent": 81.4,
+    "failure_rate_percent": 18.6,
+    "retry_rate_percent": 13.18,
+    "upload_latency_seconds": 5.05,
+    "generation_latency_seconds": 86.1
   },
   "warnings": []
 }

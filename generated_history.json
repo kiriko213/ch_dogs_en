@@ -1,15 +1,5 @@
 [
   {
-    "title": "Understanding Dog Adult Canine Lactase Deficiency",
-    "topic": "Adult Canine Lactase Deficiency",
-    "script_content": "Most adult dogs cannot actually digest ordinary cow milk safely. Their intestines cease producing lactase enzymes after weaning finishes. Does your dog love cheese?",
-    "video_ids": [
-      38087081
-    ],
-    "local_filenames": [],
-    "timestamp": "2026-10-20T10:01:59.209343"
-  },
-  {
     "title": "Understanding Dog Canine Heartworm Transmission",
     "topic": "Canine Heartworm Transmission",
     "script_content": "Your dog can easily catch heartworms from common garden mosquitoes. Simple monthly preventive chews protect canine lungs completely. Does your dog take regular preventives?",
@@ -198,5 +188,15 @@
     ],
     "local_filenames": [],
     "timestamp": "2026-10-31T10:56:05.494467"
+  },
+  {
+    "title": "Understanding Dog Canine Endothelial Chorioallantoic Placentation",
+    "topic": "Canine Endothelial Chorioallantoic Placentation",
+    "script_content": "Your dog developed within a unique banded embryonic sac. This tissue produces green uteroverdin pigment while transferring maternal nutrients. Did you know this fascinating fact?",
+    "video_ids": [
+      20399672
+    ],
+    "local_filenames": [],
+    "timestamp": "2026-10-31T17:16:10.560592"
   }
 ]
