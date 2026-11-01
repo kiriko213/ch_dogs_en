@@ -1,7 +1,7 @@
 {
   "channel": "ch_dogs_en",
   "schema_version": 2,
-  "updated_at": "2026-10-31T17:16:10.561157Z",
+  "updated_at": "2026-11-01T11:58:31.040242Z",
   "items": [
     {
       "topic": "Dog episodic memory",
@@ -2945,6 +2945,57 @@
       ],
       "local_filenames": [],
       "scheduled_for": "2026-10-31T19:00:00Z"
+    },
+    {
+      "topic": "Canine Esophageal Striated Musculature",
+      "title": "Why Your Dog Canine Esophageal Striated Musculature",
+      "hook_framework": "Myth vs Fact",
+      "script": "Your dog actually regurgitates food without being truly sick. Full esophageal muscle control lets them easily reverse swallowed items. Does your dog eat fast?",
+      "video_search_query": "dog eating food",
+      "category": "Digestive Anatomy",
+      "subtopic": "Gastrointestinal Physiology",
+      "unique_fact": "Dogs possess striated skeletal muscle throughout the entire length of their esophagus, allowing rapid voluntary retro-peristaltic ejection.",
+      "angle": "Science",
+      "region": "Global",
+      "development_stage": "Adult",
+      "search_query": "dog eating food",
+      "id": "aq_1793534244_0",
+      "status": "uploaded",
+      "locked_at": "2026-11-01T11:57:24.588969Z",
+      "used_at": "2026-11-01T11:58:31.036982Z",
+      "video_id": "YYsoXTGRlk8",
+      "original_title": "The Fascinating Reason Dogs Spit Up",
+      "hook_score": 0.0,
+      "hook_title_score": 0,
+      "hook_opening_score": 0,
+      "video_ids": [
+        31147377
+      ],
+      "local_filenames": [],
+      "scheduled_for": "2026-11-01T20:00:00Z"
+    },
+    {
+      "topic": "Canine Respiratory Sinus Arrhythmia",
+      "title": "Why Your Dog Canine Respiratory Sinus Arrhythmia",
+      "hook_framework": "Problem & Solution",
+      "script": "When your dog rests, an uneven heartbeat is completely normal. Breathing naturally speeds and slows their pulse, showing strong tone. Have you felt this rhythm?",
+      "video_search_query": "dog resting couch",
+      "category": "Cardiovascular Physiology",
+      "subtopic": "Autonomic Regulation",
+      "unique_fact": "Pronounced respiratory sinus arrhythmia in resting canines is a physiological hallmark of healthy high parasympathetic vagal activity.",
+      "angle": "Science",
+      "region": "Global",
+      "development_stage": "Adult",
+      "search_query": "dog resting couch",
+      "id": "aq_1793534244_1",
+      "status": "pending",
+      "locked_at": null,
+      "used_at": null,
+      "video_id": null,
+      "original_title": "What Your Dog's Shift in Pulse Means",
+      "hook_score": 10.0,
+      "hook_title_score": 20,
+      "hook_opening_score": 0
     }
   ]
 }

@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-10-31T17:16:10.567996Z",
+  "generated_at": "2026-11-01T11:58:31.045346Z",
   "kpis": {
-    "uploads": 105,
-    "views": 51614,
-    "ctr_average": 486.57,
-    "apv_average": 65.28,
-    "subscribers_gained": 98,
-    "cgs_average": 61.12,
+    "uploads": 106,
+    "views": 53032,
+    "ctr_average": 497.39,
+    "apv_average": 65.95,
+    "subscribers_gained": 103,
+    "cgs_average": 62.3,
     "top_topics": [
+      "Predatory Motor Sequence Truncation",
       "Theobromine Hepatic Clearance",
-      "Canine Self Domestication Flight Distance",
-      "Canine Social Self-Handicapping Play"
+      "Canine Self Domestication Flight Distance"
     ],
     "top_titles": [
-      "Understanding Dog Canine Salivary Amylase Absence",
       "Understanding Dog Canine Resource Caching Instinct",
-      "Why Your Dog Canine Umbilical Scar Anatomy"
+      "Why Your Dog Canine Umbilical Scar Anatomy",
+      "Why Your Dog Canine Domestication Neural Crest Changes"
     ]
   },
   "production_metrics": {
-    "success_rate_percent": 81.4,
-    "failure_rate_percent": 18.6,
-    "retry_rate_percent": 13.18,
-    "upload_latency_seconds": 5.05,
-    "generation_latency_seconds": 86.1
+    "success_rate_percent": 81.54,
+    "failure_rate_percent": 18.46,
+    "retry_rate_percent": 13.08,
+    "upload_latency_seconds": 5.45,
+    "generation_latency_seconds": 60.94
   },
   "warnings": []
 }
