@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-11-01T11:58:31.045346Z",
+  "generated_at": "2026-11-01T17:56:37.068063Z",
   "kpis": {
-    "uploads": 106,
-    "views": 53032,
+    "uploads": 107,
+    "views": 53108,
     "ctr_average": 497.39,
     "apv_average": 65.95,
     "subscribers_gained": 103,
-    "cgs_average": 62.3,
+    "cgs_average": 61.8,
     "top_topics": [
       "Predatory Motor Sequence Truncation",
       "Theobromine Hepatic Clearance",
       "Canine Self Domestication Flight Distance"
     ],
     "top_titles": [
-      "Understanding Dog Canine Resource Caching Instinct",
       "Why Your Dog Canine Umbilical Scar Anatomy",
-      "Why Your Dog Canine Domestication Neural Crest Changes"
+      "Why Your Dog Canine Domestication Neural Crest Changes",
+      "Why Your Dog Canine Sebaceous Fur Coating"
     ]
   },
   "production_metrics": {
-    "success_rate_percent": 81.54,
-    "failure_rate_percent": 18.46,
-    "retry_rate_percent": 13.08,
-    "upload_latency_seconds": 5.45,
-    "generation_latency_seconds": 60.94
+    "success_rate_percent": 81.68,
+    "failure_rate_percent": 18.32,
+    "retry_rate_percent": 12.98,
+    "upload_latency_seconds": 4.63,
+    "generation_latency_seconds": 91.85
   },
   "warnings": []
 }

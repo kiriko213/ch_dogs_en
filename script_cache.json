@@ -1,7 +1,7 @@
 {
   "channel": "ch_dogs_en",
   "schema_version": 2,
-  "updated_at": "2026-11-01T11:58:31.040242Z",
+  "updated_at": "2026-11-01T17:56:37.057583Z",
   "items": [
     {
       "topic": "Dog episodic memory",
@@ -2988,14 +2988,19 @@
       "development_stage": "Adult",
       "search_query": "dog resting couch",
       "id": "aq_1793534244_1",
-      "status": "pending",
-      "locked_at": null,
-      "used_at": null,
-      "video_id": null,
+      "status": "uploaded",
+      "locked_at": "2026-11-01T17:55:00.292588Z",
+      "used_at": "2026-11-01T17:56:37.056929Z",
+      "video_id": "Walnz0eFWPs",
       "original_title": "What Your Dog's Shift in Pulse Means",
       "hook_score": 10.0,
       "hook_title_score": 20,
-      "hook_opening_score": 0
+      "hook_opening_score": 0,
+      "video_ids": [
+        7197977
+      ],
+      "local_filenames": [],
+      "scheduled_for": "2026-11-01T20:00:00Z"
     }
   ]
 }
