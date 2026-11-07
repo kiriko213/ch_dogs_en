@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-11-01T17:56:37.068063Z",
+  "generated_at": "2026-11-07T07:55:40.485917Z",
   "kpis": {
-    "uploads": 107,
-    "views": 53108,
-    "ctr_average": 497.39,
-    "apv_average": 65.95,
-    "subscribers_gained": 103,
-    "cgs_average": 61.8,
+    "uploads": 108,
+    "views": 53935,
+    "ctr_average": 499.28,
+    "apv_average": 65.99,
+    "subscribers_gained": 118,
+    "cgs_average": 63.45,
     "top_topics": [
-      "Predatory Motor Sequence Truncation",
-      "Theobromine Hepatic Clearance",
-      "Canine Self Domestication Flight Distance"
+      "Canine Late Pleistocene Wolf Divergence",
+      "Canine Respiratory Sinus Arrhythmia",
+      "Predatory Motor Sequence Truncation"
     ],
     "top_titles": [
-      "Why Your Dog Canine Umbilical Scar Anatomy",
       "Why Your Dog Canine Domestication Neural Crest Changes",
-      "Why Your Dog Canine Sebaceous Fur Coating"
+      "Why Your Dog Canine Sebaceous Fur Coating",
+      "Why Your Dog Canine Splenic Erythrocyte Contraction"
     ]
   },
   "production_metrics": {
-    "success_rate_percent": 81.68,
-    "failure_rate_percent": 18.32,
-    "retry_rate_percent": 12.98,
-    "upload_latency_seconds": 4.63,
-    "generation_latency_seconds": 91.85
+    "success_rate_percent": 81.82,
+    "failure_rate_percent": 18.18,
+    "retry_rate_percent": 12.88,
+    "upload_latency_seconds": 5.06,
+    "generation_latency_seconds": 90.39
   },
   "warnings": []
 }

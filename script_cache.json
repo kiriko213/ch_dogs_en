@@ -1,7 +1,7 @@
 {
   "channel": "ch_dogs_en",
   "schema_version": 2,
-  "updated_at": "2026-11-01T17:56:37.057583Z",
+  "updated_at": "2026-11-07T07:55:40.472174Z",
   "items": [
     {
       "topic": "Dog episodic memory",
@@ -3001,6 +3001,34 @@
       ],
       "local_filenames": [],
       "scheduled_for": "2026-11-01T20:00:00Z"
+    },
+    {
+      "topic": "Canine Flicker Fusion Rate",
+      "title": "Why Your Dog Canine Flicker Fusion Rate",
+      "hook_framework": "Curiosity Gap",
+      "script": "Your dog actually perceives motion faster than humans. Their high refresh rate makes older screens appear like flickering slideshows. Does your dog watch modern screens?",
+      "video_search_query": "dog watching screen",
+      "category": "Sensory Perception",
+      "subtopic": "Vision",
+      "unique_fact": "Canine flicker fusion rate reaches up to eighty hertz, allowing them to perceive individual frames on older television monitors",
+      "angle": "Science",
+      "region": "Global",
+      "development_stage": "Adult",
+      "search_query": "dog watching screen",
+      "id": "aq_1794038044_0",
+      "status": "uploaded",
+      "locked_at": "2026-11-07T07:54:04.677040Z",
+      "used_at": "2026-11-07T07:55:40.471435Z",
+      "video_id": "9pLzVDHkQEE",
+      "original_title": "The Fascinating Reason Dogs Watch TV",
+      "hook_score": 10.0,
+      "hook_title_score": 20,
+      "hook_opening_score": 0,
+      "video_ids": [
+        37397007
+      ],
+      "local_filenames": [],
+      "scheduled_for": "2026-11-07T20:00:00Z"
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "feedback_version": 2,
-  "generated_at": "2026-11-01T17:55:00.168548Z",
+  "generated_at": "2026-11-07T07:44:27.888025Z",
   "channel": "ch_dogs_en",
   "metadata": {
-    "total_videos_analyzed": 107,
+    "total_videos_analyzed": 108,
     "analytics_api_available": true,
     "cgs_mode": "beta",
     "data_freshness_hours": 72,
@@ -11,18 +11,36 @@
   },
   "winning_topics": [
     {
+      "topic": "Canine Late Pleistocene Wolf Divergence",
+      "category": "Genetics",
+      "cgs": 86.15,
+      "ctr": 1006.0,
+      "apv": 136.94,
+      "avd": 23.0,
+      "views": 1007
+    },
+    {
+      "topic": "Canine Respiratory Sinus Arrhythmia",
+      "category": "Cardiovascular Physiology",
+      "cgs": 80.64,
+      "ctr": 508.0,
+      "apv": 72.15,
+      "avd": 12.0,
+      "views": 508
+    },
+    {
       "topic": "Predatory Motor Sequence Truncation",
       "category": "Ethology",
-      "cgs": 80.03,
-      "ctr": 999.0,
-      "apv": 98.38,
+      "cgs": 79.49,
+      "ctr": 1031.0,
+      "apv": 96.01,
       "avd": 16.0,
-      "views": 1030
+      "views": 1031
     },
     {
       "topic": "Theobromine Hepatic Clearance",
       "category": "Toxicology",
-      "cgs": 79.42,
+      "cgs": 79.22,
       "ctr": 1208.0,
       "apv": 95.23,
       "avd": 16.0,
@@ -31,63 +49,45 @@
     {
       "topic": "Canine Self Domestication Flight Distance",
       "category": "History",
-      "cgs": 78.33,
+      "cgs": 77.91,
       "ctr": 995.0,
       "apv": 65.4,
       "avd": 10.0,
       "views": 995
-    },
-    {
-      "topic": "Canine Social Self-Handicapping Play",
-      "category": "Ethology",
-      "cgs": 77.24,
-      "ctr": 926.0,
-      "apv": 69.98,
-      "avd": 11.0,
-      "views": 927
-    },
-    {
-      "topic": "Canine Epiphyseal Plate Ossification",
-      "category": "Orthopedics",
-      "cgs": 76.63,
-      "ctr": 383.0,
-      "apv": 77.76,
-      "avd": 13.0,
-      "views": 384
     }
   ],
   "losing_topics": [
     {
-      "topic": "Canine Calcitonin Bone Protection",
-      "category": "Endocrinology",
-      "cgs": 37.23,
-      "ctr": null,
-      "apv": null,
-      "avd": null,
-      "views": 158
+      "topic": "Canine Heartworm Transmission",
+      "category": "Parasitology",
+      "cgs": 45.33,
+      "ctr": 43.0,
+      "apv": 35.53,
+      "avd": 5.0,
+      "views": 43
     },
     {
-      "topic": "Canine Macadamia Toxicosis Mechanism",
-      "category": "Toxicology",
-      "cgs": 30.05,
-      "ctr": null,
-      "apv": null,
-      "avd": null,
-      "views": 154
+      "topic": "Canine Salivary Amylase Absence",
+      "category": "Dental",
+      "cgs": 43.73,
+      "ctr": 19.0,
+      "apv": 33.1,
+      "avd": 5.0,
+      "views": 19
     },
     {
-      "topic": "Canine Esophageal Striated Musculature",
-      "category": "Digestive Anatomy",
-      "cgs": 9.5,
-      "ctr": null,
-      "apv": null,
-      "avd": null,
-      "views": 0
+      "topic": "Canine Paw Pad Thermoregulation",
+      "category": "Physiology",
+      "cgs": 42.31,
+      "ctr": 10.0,
+      "apv": 44.51,
+      "avd": 7.0,
+      "views": 10
     },
     {
       "topic": "Canine Secure Base Attachment Effect",
       "category": "Psychology",
-      "cgs": 6.51,
+      "cgs": 6.15,
       "ctr": 2.0,
       "apv": 0.0,
       "avd": 0.0,
@@ -96,7 +96,7 @@
     {
       "topic": "Canine Resource Caching Instinct",
       "category": "Behavior",
-      "cgs": 3.85,
+      "cgs": 3.65,
       "ctr": 1.0,
       "apv": 0.0,
       "avd": 0.0,
@@ -118,23 +118,23 @@
       "hook_type": "low_retention_proxy",
       "reason": "swipe_away_proxy",
       "avg_apv_proxy": 0.0,
-      "blacklisted_at": "2026-11-01T17:55:00.168611Z"
+      "blacklisted_at": "2026-11-07T07:44:27.888095Z"
     },
     {
       "topic_category": "Behavior",
       "hook_type": "low_retention_proxy",
       "reason": "swipe_away_proxy",
       "avg_apv_proxy": 0.0,
-      "blacklisted_at": "2026-11-01T17:55:00.168616Z"
+      "blacklisted_at": "2026-11-07T07:44:27.888100Z"
     }
   ],
   "growth_signals": {
-    "total_subscribers_gained": 103,
+    "total_subscribers_gained": 118,
     "growth_trend": "growing"
   },
   "exploration_ratio": {
     "reinforce_pct": 80,
     "explore_pct": 20,
-    "adjusted_by": "low_cgs_average_28.0"
+    "adjusted_by": "low_cgs_average_69.2"
   }
 }
