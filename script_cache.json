@@ -1,7 +1,7 @@
 {
   "channel": "ch_dogs_en",
   "schema_version": 2,
-  "updated_at": "2026-11-07T07:55:40.472174Z",
+  "updated_at": "2026-11-07T17:54:55.349915Z",
   "items": [
     {
       "topic": "Dog episodic memory",
@@ -3029,6 +3029,57 @@
       ],
       "local_filenames": [],
       "scheduled_for": "2026-11-07T20:00:00Z"
+    },
+    {
+      "topic": "Canine Prey Shake Motor Pattern",
+      "title": "Understanding Dog Canine Prey Shake Motor Pattern",
+      "hook_framework": "Secret Meaning",
+      "script": "When your dog thrashes toys, ancient predatory instincts activate. Rapid head acceleration historically neutralized wild prey without repeated biting. Does your dog do this?",
+      "video_search_query": "dog playing toy",
+      "category": "Ethology",
+      "subtopic": "Motor Patterns",
+      "unique_fact": "The rapid side-to-side head shaking reflex in dogs is a hardwired motor action to quickly incapacitate prey without jaw fatigue.",
+      "angle": "Evolutionary Science",
+      "region": "Global",
+      "development_stage": "Adult",
+      "search_query": "dog playing toy",
+      "id": "aq_1794073964_0",
+      "status": "uploaded",
+      "locked_at": "2026-11-07T17:52:44.820457Z",
+      "used_at": "2026-11-07T17:54:55.348942Z",
+      "video_id": "glaub_tBgOs",
+      "original_title": "What Your Dog's Shake Really Means",
+      "hook_score": 20.0,
+      "hook_title_score": 20,
+      "hook_opening_score": 20,
+      "video_ids": [
+        6568968
+      ],
+      "local_filenames": [],
+      "scheduled_for": "2026-11-07T20:00:00Z"
+    },
+    {
+      "topic": "Canine IGF1 Allelic Size Variation",
+      "title": "Understanding Dog Canine Igf1 Allelic Size Variation",
+      "hook_framework": "Myth vs Fact",
+      "script": "People assume canine size requires hundreds of separate genes. Actually, one single IGF1 gene variant directs most skeletal proportions. Is your dog big?",
+      "video_search_query": "happy dog running",
+      "category": "Genetics",
+      "subtopic": "Morphological Divergence",
+      "unique_fact": "A single nucleotide variant in the IGF1 gene regulates insulin-like growth factor levels, accounting for the massive size divergence across domestic canines.",
+      "angle": "Evolutionary Science",
+      "region": "Global",
+      "development_stage": "Adult",
+      "search_query": "happy dog running",
+      "id": "aq_1794073964_1",
+      "status": "pending",
+      "locked_at": null,
+      "used_at": null,
+      "video_id": null,
+      "original_title": "The Fascinating Reason Dogs Differ",
+      "hook_score": 5.0,
+      "hook_title_score": 10,
+      "hook_opening_score": 0
     }
   ]
 }

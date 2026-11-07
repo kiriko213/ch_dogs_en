@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-11-07T07:55:40.485917Z",
+  "generated_at": "2026-11-07T17:54:55.362489Z",
   "kpis": {
-    "uploads": 108,
-    "views": 53935,
+    "uploads": 109,
+    "views": 53937,
     "ctr_average": 499.28,
     "apv_average": 65.99,
     "subscribers_gained": 118,
-    "cgs_average": 63.45,
+    "cgs_average": 62.97,
     "top_topics": [
       "Canine Late Pleistocene Wolf Divergence",
       "Canine Respiratory Sinus Arrhythmia",
       "Predatory Motor Sequence Truncation"
     ],
     "top_titles": [
-      "Why Your Dog Canine Domestication Neural Crest Changes",
       "Why Your Dog Canine Sebaceous Fur Coating",
-      "Why Your Dog Canine Splenic Erythrocyte Contraction"
+      "Why Your Dog Canine Splenic Erythrocyte Contraction",
+      "Understanding Dog Canine Endogenous Ascorbate Synthesis"
     ]
   },
   "production_metrics": {
-    "success_rate_percent": 81.82,
-    "failure_rate_percent": 18.18,
-    "retry_rate_percent": 12.88,
-    "upload_latency_seconds": 5.06,
-    "generation_latency_seconds": 90.39
+    "success_rate_percent": 81.95,
+    "failure_rate_percent": 18.05,
+    "retry_rate_percent": 12.78,
+    "upload_latency_seconds": 4.83,
+    "generation_latency_seconds": 125.32
   },
   "warnings": []
 }
