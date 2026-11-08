@@ -1,61 +1,61 @@
 {
   "feedback_version": 1,
-  "generated_at": "2026-11-08T11:55:10.007583Z",
+  "generated_at": "2026-11-08T17:54:30.653886Z",
   "top_topics": [
     {
       "topic": "Canine Prey Shake Motor Pattern",
       "category": "Ethology",
-      "score": 73.72,
-      "views": 907
+      "score": 73.97,
+      "views": 912
     },
     {
       "topic": "Canine Self Domestication Flight Distance",
       "category": "History",
-      "score": 67.4,
+      "score": 67.35,
       "views": 996
     },
     {
       "topic": "Canine Late Pleistocene Wolf Divergence",
       "category": "Genetics",
-      "score": 64.19,
+      "score": 64.11,
       "views": 1007
-    },
-    {
-      "topic": "Crossed Extensor Balance Reflex",
-      "category": "Neurology",
-      "score": 62.31,
-      "views": 1004
     },
     {
       "topic": "Canine Geophagia Soil Ingestion",
       "category": "Gastroenterology",
-      "score": 62.25,
+      "score": 62.43,
       "views": 679
+    },
+    {
+      "topic": "Crossed Extensor Balance Reflex",
+      "category": "Neurology",
+      "score": 62.25,
+      "views": 1004
     }
   ],
   "underperforming_topics": [
     {
       "topic": "Canine Heat Exhaustion Panting Limits",
       "category": "Health",
-      "score": 2.51,
+      "score": 2.5,
       "views": 21
     },
     {
       "topic": "Canine Resource Caching Instinct",
       "category": "Behavior",
-      "score": 2.45,
+      "score": 2.42,
       "views": 1
     },
     {
       "topic": "Canine Permanent Dental Structure",
       "category": "Anatomy",
-      "score": 2.39,
+      "score": 2.41,
       "views": 57
     },
     {
       "topic": "Canine Play Bow Communication",
       "category": "Body Language",
-      "score": 2.1,
+      "score": 2.12,
       "views": 50
     },
     {

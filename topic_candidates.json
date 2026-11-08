@@ -1,19 +1,24 @@
 {
-  "generated_at": "2026-11-08T11:55:11.547510Z",
+  "generated_at": "2026-11-08T17:54:31.691406Z",
   "top_candidates": [
     {
-      "topic": "Predatory Motor Sequence Truncation",
+      "topic": "Canine Late Pleistocene Wolf Divergence",
       "score": 100,
       "category": "dog_facts"
     },
     {
-      "topic": "Theobromine Hepatic Clearance",
+      "topic": "Predatory Motor Sequence Truncation",
       "score": 90,
       "category": "dog_facts"
     },
     {
-      "topic": "Canine Self Domestication Flight Distance",
+      "topic": "Theobromine Hepatic Clearance",
       "score": 80,
+      "category": "dog_facts"
+    },
+    {
+      "topic": "Canine Self Domestication Flight Distance",
+      "score": 70,
       "category": "dog_facts"
     },
     {
@@ -45,11 +50,6 @@
       "topic": "dog life hacks",
       "score": 64,
       "category": "dog_owner_tips"
-    },
-    {
-      "topic": "The Truth About Amazing dog abilities",
-      "score": 64,
-      "category": "dog_intelligence"
     }
   ]
 }
