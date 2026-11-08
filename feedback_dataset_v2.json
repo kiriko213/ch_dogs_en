@@ -1,9 +1,9 @@
 {
   "feedback_version": 2,
-  "generated_at": "2026-11-07T17:44:04.435567Z",
+  "generated_at": "2026-11-08T07:55:41.605122Z",
   "channel": "ch_dogs_en",
   "metadata": {
-    "total_videos_analyzed": 109,
+    "total_videos_analyzed": 110,
     "analytics_api_available": true,
     "cgs_mode": "beta",
     "data_freshness_hours": 72,
@@ -13,16 +13,16 @@
     {
       "topic": "Canine Late Pleistocene Wolf Divergence",
       "category": "Genetics",
-      "cgs": 86.11,
-      "ctr": 1006.0,
-      "apv": 137.0,
+      "cgs": 86.06,
+      "ctr": 1007.0,
+      "apv": 137.36,
       "avd": 23.0,
       "views": 1007
     },
     {
       "topic": "Canine Respiratory Sinus Arrhythmia",
       "category": "Cardiovascular Physiology",
-      "cgs": 80.68,
+      "cgs": 80.57,
       "ctr": 508.0,
       "apv": 72.27,
       "avd": 12.0,
@@ -31,7 +31,7 @@
     {
       "topic": "Predatory Motor Sequence Truncation",
       "category": "Ethology",
-      "cgs": 79.46,
+      "cgs": 79.41,
       "ctr": 1031.0,
       "apv": 96.01,
       "avd": 16.0,
@@ -40,7 +40,7 @@
     {
       "topic": "Theobromine Hepatic Clearance",
       "category": "Toxicology",
-      "cgs": 79.21,
+      "cgs": 79.19,
       "ctr": 1208.0,
       "apv": 95.23,
       "avd": 16.0,
@@ -49,18 +49,18 @@
     {
       "topic": "Canine Self Domestication Flight Distance",
       "category": "History",
-      "cgs": 77.93,
+      "cgs": 77.87,
       "ctr": 995.0,
       "apv": 65.4,
       "avd": 10.0,
-      "views": 995
+      "views": 996
     }
   ],
   "losing_topics": [
     {
       "topic": "Canine Salivary Amylase Absence",
       "category": "Dental",
-      "cgs": 43.72,
+      "cgs": 43.7,
       "ctr": 19.0,
       "apv": 33.1,
       "avd": 5.0,
@@ -78,16 +78,16 @@
     {
       "topic": "Canine Flicker Fusion Rate",
       "category": "Sensory Perception",
-      "cgs": 10.0,
+      "cgs": 29.86,
       "ctr": null,
       "apv": null,
       "avd": null,
-      "views": 0
+      "views": 30
     },
     {
       "topic": "Canine Secure Base Attachment Effect",
       "category": "Psychology",
-      "cgs": 6.13,
+      "cgs": 6.09,
       "ctr": 2.0,
       "apv": 0.0,
       "avd": 0.0,
@@ -96,7 +96,7 @@
     {
       "topic": "Canine Resource Caching Instinct",
       "category": "Behavior",
-      "cgs": 3.63,
+      "cgs": 3.62,
       "ctr": 1.0,
       "apv": 0.0,
       "avd": 0.0,
@@ -118,14 +118,14 @@
       "hook_type": "low_retention_proxy",
       "reason": "swipe_away_proxy",
       "avg_apv_proxy": 0.0,
-      "blacklisted_at": "2026-11-07T17:44:04.435645Z"
+      "blacklisted_at": "2026-11-08T07:55:41.605197Z"
     },
     {
       "topic_category": "Behavior",
       "hook_type": "low_retention_proxy",
       "reason": "swipe_away_proxy",
       "avg_apv_proxy": 0.0,
-      "blacklisted_at": "2026-11-07T17:44:04.435648Z"
+      "blacklisted_at": "2026-11-08T07:55:41.605200Z"
     }
   ],
   "growth_signals": {
@@ -135,6 +135,6 @@
   "exploration_ratio": {
     "reinforce_pct": 80,
     "explore_pct": 20,
-    "adjusted_by": "low_cgs_average_49.3"
+    "adjusted_by": "low_cgs_average_60.4"
   }
 }

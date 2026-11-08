@@ -1,7 +1,7 @@
 {
   "channel": "ch_dogs_en",
   "schema_version": 2,
-  "updated_at": "2026-11-07T17:54:55.349915Z",
+  "updated_at": "2026-11-08T07:57:11.171557Z",
   "items": [
     {
       "topic": "Dog episodic memory",
@@ -3072,14 +3072,19 @@
       "development_stage": "Adult",
       "search_query": "happy dog running",
       "id": "aq_1794073964_1",
-      "status": "pending",
-      "locked_at": null,
-      "used_at": null,
-      "video_id": null,
+      "status": "uploaded",
+      "locked_at": "2026-11-08T07:55:41.724377Z",
+      "used_at": "2026-11-08T07:57:11.170889Z",
+      "video_id": "XKWg_25dlGI",
       "original_title": "The Fascinating Reason Dogs Differ",
       "hook_score": 5.0,
       "hook_title_score": 10,
-      "hook_opening_score": 0
+      "hook_opening_score": 0,
+      "video_ids": [
+        35868040
+      ],
+      "local_filenames": [],
+      "scheduled_for": "2026-11-08T20:00:00Z"
     }
   ]
 }

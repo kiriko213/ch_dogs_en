@@ -1,14 +1,19 @@
 {
-  "generated_at": "2026-11-07T17:44:04.541012Z",
+  "generated_at": "2026-11-08T07:55:41.719718Z",
   "top_candidates": [
     {
-      "topic": "Theobromine Hepatic Clearance",
+      "topic": "Predatory Motor Sequence Truncation",
       "score": 100,
       "category": "dog_facts"
     },
     {
-      "topic": "Canine Self Domestication Flight Distance",
+      "topic": "Theobromine Hepatic Clearance",
       "score": 90,
+      "category": "dog_facts"
+    },
+    {
+      "topic": "Canine Self Domestication Flight Distance",
+      "score": 80,
       "category": "dog_facts"
     },
     {
@@ -42,14 +47,9 @@
       "category": "dog_owner_tips"
     },
     {
-      "topic": "The Truth About Dog health facts",
+      "topic": "The Truth About Amazing dog abilities",
       "score": 64,
-      "category": "dog_health"
-    },
-    {
-      "topic": "Dog health facts Most People Don't Know",
-      "score": 64,
-      "category": "dog_health"
+      "category": "dog_intelligence"
     }
   ]
 }
