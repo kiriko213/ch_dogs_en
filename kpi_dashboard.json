@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-11-08T07:57:11.180228Z",
+  "generated_at": "2026-11-08T12:18:40.878430Z",
   "kpis": {
-    "uploads": 110,
-    "views": 54884,
+    "uploads": 111,
+    "views": 54900,
     "ctr_average": 499.35,
     "apv_average": 66.02,
     "subscribers_gained": 118,
-    "cgs_average": 63.19,
+    "cgs_average": 62.68,
     "top_topics": [
       "Canine Late Pleistocene Wolf Divergence",
       "Canine Respiratory Sinus Arrhythmia",
       "Predatory Motor Sequence Truncation"
     ],
     "top_titles": [
-      "Why Your Dog Canine Splenic Erythrocyte Contraction",
       "Understanding Dog Canine Endogenous Ascorbate Synthesis",
-      "Understanding Dog Canine Tracheal Cartilage Compression"
+      "Understanding Dog Canine Tracheal Cartilage Compression",
+      "Understanding Dog Canine Xylitol Pancreatic Response"
     ]
   },
   "production_metrics": {
-    "success_rate_percent": 82.09,
-    "failure_rate_percent": 17.91,
-    "retry_rate_percent": 12.69,
-    "upload_latency_seconds": 5.37,
-    "generation_latency_seconds": 83.87
+    "success_rate_percent": 81.62,
+    "failure_rate_percent": 18.38,
+    "retry_rate_percent": 13.24,
+    "upload_latency_seconds": 10.71,
+    "generation_latency_seconds": 83.19
   },
   "warnings": []
 }
