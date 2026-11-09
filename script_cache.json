@@ -1,7 +1,7 @@
 {
   "channel": "ch_dogs_en",
   "schema_version": 2,
-  "updated_at": "2026-11-09T08:40:00.672430Z",
+  "updated_at": "2026-11-09T22:45:09.844696Z",
   "items": [
     {
       "topic": "Dog episodic memory",
@@ -3169,6 +3169,34 @@
       ],
       "local_filenames": [],
       "scheduled_for": "2026-11-09T20:00:00Z"
+    },
+    {
+      "topic": "Canine Baroreceptor Reflex",
+      "title": "Understanding Dog Canine Baroreceptor Reflex",
+      "hook_framework": "Problem & Solution",
+      "script": "Your dog instantly stabilizes blood pressure when leaping upright. Carotid baroreceptors constrict arteries within milliseconds to prevent dizziness. Does your dog jump up excitedly?",
+      "video_search_query": "dog running",
+      "category": "Cardiovascular Physiology",
+      "subtopic": "Hemodynamics",
+      "unique_fact": "Carotid sinus stretch receptors trigger immediate systemic vasoconstriction to counter postural hydrostatic pooling when dogs spring up.",
+      "angle": "Physiology",
+      "region": "Global",
+      "development_stage": "Adult",
+      "search_query": "dog running",
+      "id": "aq_1794264203_0",
+      "status": "uploaded",
+      "locked_at": "2026-11-09T22:43:23.437766Z",
+      "used_at": "2026-11-09T22:45:09.843995Z",
+      "video_id": "UmRoLrrrV84",
+      "original_title": "The Fascinating Reason Dogs Jump Up",
+      "hook_score": 10.0,
+      "hook_title_score": 20,
+      "hook_opening_score": 0,
+      "video_ids": [
+        39926443
+      ],
+      "local_filenames": [],
+      "scheduled_for": "2026-11-10T20:00:00Z"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T08:38:12.610660Z",
+  "generated_at": "2026-11-09T22:16:07.327643Z",
   "top_candidates": [
     {
       "topic": "Canine Late Pleistocene Wolf Divergence",
@@ -14,11 +14,6 @@
     {
       "topic": "Theobromine Hepatic Clearance",
       "score": 80,
-      "category": "dog_facts"
-    },
-    {
-      "topic": "Canine Self Domestication Flight Distance",
-      "score": 70,
       "category": "dog_facts"
     },
     {
@@ -50,6 +45,11 @@
       "topic": "dog life hacks",
       "score": 64,
       "category": "dog_owner_tips"
+    },
+    {
+      "topic": "The Truth About Amazing dog abilities",
+      "score": 64,
+      "category": "dog_intelligence"
     }
   ]
 }

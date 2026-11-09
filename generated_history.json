@@ -1,15 +1,5 @@
 [
   {
-    "title": "Understanding Dog Crossed Extensor Balance Reflex",
-    "topic": "Crossed Extensor Balance Reflex",
-    "script_content": "When your dog lifts one paw, the opposite leg immediately stiffens. This spinal reflex transfers body weight to maintain balance. Does your dog do this?",
-    "video_ids": [
-      27845106
-    ],
-    "local_filenames": [],
-    "timestamp": "2026-10-25T06:47:00.160255"
-  },
-  {
     "title": "Why Your Dog Canine Social Self-Handicapping Play",
     "topic": "Canine Social Self-Handicapping Play",
     "script_content": "When your dog flops down during play, they voluntarily hold back. This polite ritual reassures friends to keep games going. Does your dog do this?",
@@ -198,5 +188,15 @@
     ],
     "local_filenames": [],
     "timestamp": "2026-11-09T08:40:00.671790"
+  },
+  {
+    "title": "Understanding Dog Canine Baroreceptor Reflex",
+    "topic": "Canine Baroreceptor Reflex",
+    "script_content": "Your dog instantly stabilizes blood pressure when leaping upright. Carotid baroreceptors constrict arteries within milliseconds to prevent dizziness. Does your dog jump up excitedly?",
+    "video_ids": [
+      39926443
+    ],
+    "local_filenames": [],
+    "timestamp": "2026-11-09T22:45:09.844013"
   }
 ]
