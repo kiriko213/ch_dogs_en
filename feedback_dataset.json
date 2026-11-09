@@ -1,67 +1,67 @@
 {
   "feedback_version": 1,
-  "generated_at": "2026-11-08T17:54:30.653886Z",
+  "generated_at": "2026-11-09T08:38:11.212364Z",
   "top_topics": [
     {
       "topic": "Canine Prey Shake Motor Pattern",
       "category": "Ethology",
-      "score": 73.97,
-      "views": 912
+      "score": 72.95,
+      "views": 910
     },
     {
       "topic": "Canine Self Domestication Flight Distance",
       "category": "History",
-      "score": 67.35,
+      "score": 67.07,
       "views": 996
     },
     {
       "topic": "Canine Late Pleistocene Wolf Divergence",
       "category": "Genetics",
-      "score": 64.11,
-      "views": 1007
-    },
-    {
-      "topic": "Canine Geophagia Soil Ingestion",
-      "category": "Gastroenterology",
-      "score": 62.43,
-      "views": 679
+      "score": 63.89,
+      "views": 1008
     },
     {
       "topic": "Crossed Extensor Balance Reflex",
       "category": "Neurology",
-      "score": 62.25,
-      "views": 1004
+      "score": 62.08,
+      "views": 1005
+    },
+    {
+      "topic": "Canine Geophagia Soil Ingestion",
+      "category": "Gastroenterology",
+      "score": 61.77,
+      "views": 679
     }
   ],
   "underperforming_topics": [
     {
       "topic": "Canine Heat Exhaustion Panting Limits",
       "category": "Health",
-      "score": 2.5,
+      "score": 2.44,
       "views": 21
-    },
-    {
-      "topic": "Canine Resource Caching Instinct",
-      "category": "Behavior",
-      "score": 2.42,
-      "views": 1
     },
     {
       "topic": "Canine Permanent Dental Structure",
       "category": "Anatomy",
-      "score": 2.41,
+      "score": 2.36,
       "views": 57
+    },
+    {
+      "topic": "Canine Resource Caching Instinct",
+      "category": "Behavior",
+      "score": 2.35,
+      "views": 1
     },
     {
       "topic": "Canine Play Bow Communication",
       "category": "Body Language",
-      "score": 2.12,
+      "score": 2.08,
       "views": 50
     },
     {
       "topic": "Canine Paw Pad Thermoregulation",
       "category": "Physiology",
-      "score": 0.49,
+      "score": 0.48,
       "views": 10
     }
   ]

@@ -1,9 +1,9 @@
 {
   "feedback_version": 2,
-  "generated_at": "2026-11-08T17:54:31.570921Z",
+  "generated_at": "2026-11-09T08:38:12.479337Z",
   "channel": "ch_dogs_en",
   "metadata": {
-    "total_videos_analyzed": 112,
+    "total_videos_analyzed": 113,
     "analytics_api_available": true,
     "cgs_mode": "beta",
     "data_freshness_hours": 72,
@@ -13,16 +13,16 @@
     {
       "topic": "Canine Late Pleistocene Wolf Divergence",
       "category": "Genetics",
-      "cgs": 86.03,
+      "cgs": 85.97,
       "ctr": 1007.0,
       "apv": 137.36,
       "avd": 23.0,
-      "views": 1007
+      "views": 1008
     },
     {
       "topic": "Canine Respiratory Sinus Arrhythmia",
       "category": "Cardiovascular Physiology",
-      "cgs": 80.61,
+      "cgs": 80.44,
       "ctr": 508.0,
       "apv": 72.27,
       "avd": 12.0,
@@ -31,7 +31,7 @@
     {
       "topic": "Predatory Motor Sequence Truncation",
       "category": "Ethology",
-      "cgs": 79.38,
+      "cgs": 79.33,
       "ctr": 1031.0,
       "apv": 96.01,
       "avd": 16.0,
@@ -40,7 +40,7 @@
     {
       "topic": "Theobromine Hepatic Clearance",
       "category": "Toxicology",
-      "cgs": 79.18,
+      "cgs": 79.16,
       "ctr": 1208.0,
       "apv": 95.23,
       "avd": 16.0,
@@ -49,7 +49,7 @@
     {
       "topic": "Canine Self Domestication Flight Distance",
       "category": "History",
-      "cgs": 77.86,
+      "cgs": 77.79,
       "ctr": 995.0,
       "apv": 65.4,
       "avd": 10.0,
@@ -58,36 +58,36 @@
   ],
   "losing_topics": [
     {
-      "topic": "Canine Flicker Fusion Rate",
-      "category": "Sensory Perception",
-      "cgs": 21.61,
-      "ctr": null,
-      "apv": null,
-      "avd": null,
-      "views": 58
-    },
-    {
-      "topic": "Canine Tug Play Impulse Control",
-      "category": "Behavior",
-      "cgs": 10.0,
-      "ctr": null,
-      "apv": null,
-      "avd": null,
-      "views": 0
+      "topic": "Canine Paw Pad Thermoregulation",
+      "category": "Physiology",
+      "cgs": 42.31,
+      "ctr": 10.0,
+      "apv": 44.51,
+      "avd": 7.0,
+      "views": 10
     },
     {
       "topic": "Canine IGF1 Allelic Size Variation",
       "category": "Genetics",
-      "cgs": 9.64,
+      "cgs": 39.75,
       "ctr": null,
       "apv": null,
       "avd": null,
-      "views": 0
+      "views": 242
+    },
+    {
+      "topic": "Canine Flicker Fusion Rate",
+      "category": "Sensory Perception",
+      "cgs": 18.96,
+      "ctr": null,
+      "apv": null,
+      "avd": null,
+      "views": 92
     },
     {
       "topic": "Canine Secure Base Attachment Effect",
       "category": "Psychology",
-      "cgs": 6.07,
+      "cgs": 6.04,
       "ctr": 2.0,
       "apv": 0.0,
       "avd": 0.0,
@@ -96,7 +96,7 @@
     {
       "topic": "Canine Resource Caching Instinct",
       "category": "Behavior",
-      "cgs": 3.6,
+      "cgs": 3.59,
       "ctr": 1.0,
       "apv": 0.0,
       "avd": 0.0,
@@ -118,14 +118,14 @@
       "hook_type": "low_retention_proxy",
       "reason": "swipe_away_proxy",
       "avg_apv_proxy": 0.0,
-      "blacklisted_at": "2026-11-08T17:54:31.570989Z"
+      "blacklisted_at": "2026-11-09T08:38:12.479414Z"
     },
     {
       "topic_category": "Behavior",
       "hook_type": "low_retention_proxy",
       "reason": "swipe_away_proxy",
       "avg_apv_proxy": 0.0,
-      "blacklisted_at": "2026-11-08T17:54:31.570992Z"
+      "blacklisted_at": "2026-11-09T08:38:12.479418Z"
     }
   ],
   "growth_signals": {
@@ -135,6 +135,6 @@
   "exploration_ratio": {
     "reinforce_pct": 80,
     "explore_pct": 20,
-    "adjusted_by": "low_cgs_average_30.3"
+    "adjusted_by": "low_cgs_average_45.5"
   }
 }

@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-11-08T17:56:04.295385Z",
+  "generated_at": "2026-11-09T08:40:00.681726Z",
   "kpis": {
-    "uploads": 112,
-    "views": 54922,
-    "ctr_average": 499.35,
-    "apv_average": 66.02,
+    "uploads": 113,
+    "views": 56475,
+    "ctr_average": 499.41,
+    "apv_average": 66.01,
     "subscribers_gained": 118,
-    "cgs_average": 62.2,
+    "cgs_average": 62.59,
     "top_topics": [
       "Canine Late Pleistocene Wolf Divergence",
       "Canine Respiratory Sinus Arrhythmia",
       "Predatory Motor Sequence Truncation"
     ],
     "top_titles": [
-      "Understanding Dog Canine Tracheal Cartilage Compression",
       "Understanding Dog Canine Xylitol Pancreatic Response",
-      "Why Your Dog Canine Cutaneous Trunci Twitch"
+      "Why Your Dog Canine Cutaneous Trunci Twitch",
+      "Understanding Dog Canine Henle Loop Hyperosmolality"
     ]
   },
   "production_metrics": {
-    "success_rate_percent": 81.75,
-    "failure_rate_percent": 18.25,
-    "retry_rate_percent": 13.14,
-    "upload_latency_seconds": 4.76,
-    "generation_latency_seconds": 87.5
+    "success_rate_percent": 81.88,
+    "failure_rate_percent": 18.12,
+    "retry_rate_percent": 13.04,
+    "upload_latency_seconds": 5.79,
+    "generation_latency_seconds": 102.01
   },
   "warnings": []
 }
