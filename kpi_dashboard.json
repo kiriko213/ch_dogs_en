@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-11-09T22:45:09.852362Z",
+  "generated_at": "2026-11-11T08:48:52.725379Z",
   "kpis": {
-    "uploads": 114,
-    "views": 56605,
-    "ctr_average": 499.02,
-    "apv_average": 66.45,
-    "subscribers_gained": 128,
-    "cgs_average": 62.86,
+    "uploads": 115,
+    "views": 58361,
+    "ctr_average": 499.93,
+    "apv_average": 66.43,
+    "subscribers_gained": 130,
+    "cgs_average": 63.13,
     "top_topics": [
       "Canine Prey Shake Motor Pattern",
       "Canine Late Pleistocene Wolf Divergence",
       "Canine Respiratory Sinus Arrhythmia"
     ],
     "top_titles": [
-      "Why Your Dog Canine Cutaneous Trunci Twitch",
       "Understanding Dog Canine Henle Loop Hyperosmolality",
-      "Understanding Dog Canine Fatty Acid Muscle Metabolism"
+      "Understanding Dog Canine Fatty Acid Muscle Metabolism",
+      "Understanding Dog Canine Gut Microbiome Serotonin Synthesis"
     ]
   },
   "production_metrics": {
-    "success_rate_percent": 82.01,
-    "failure_rate_percent": 17.99,
-    "retry_rate_percent": 12.95,
-    "upload_latency_seconds": 4.57,
-    "generation_latency_seconds": 101.53
+    "success_rate_percent": 81.56,
+    "failure_rate_percent": 18.44,
+    "retry_rate_percent": 13.48,
+    "upload_latency_seconds": 9.51,
+    "generation_latency_seconds": 87.95
   },
   "warnings": []
 }

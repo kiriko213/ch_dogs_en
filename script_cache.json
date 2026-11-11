@@ -1,7 +1,7 @@
 {
   "channel": "ch_dogs_en",
   "schema_version": 2,
-  "updated_at": "2026-11-09T22:45:09.844696Z",
+  "updated_at": "2026-11-11T08:48:52.707297Z",
   "items": [
     {
       "topic": "Dog episodic memory",
@@ -3197,6 +3197,57 @@
       ],
       "local_filenames": [],
       "scheduled_for": "2026-11-10T20:00:00Z"
+    },
+    {
+      "topic": "Canine Geomagnetic Field Alignment",
+      "title": "Why Your Dog Canine Geomagnetic Field Alignment",
+      "hook_framework": "Curiosity Gap",
+      "script": "Your dog actually senses invisible planetary magnetic lines. They naturally align their body along the northern axis before pausing. Have you noticed this direction?",
+      "video_search_query": "dog running",
+      "category": "Biophysics",
+      "subtopic": "Navigation",
+      "unique_fact": "Canines preferentially orient their longitudinal body axis along the Earth's north-south geomagnetic axis during calm elimination behaviors.",
+      "angle": "Science",
+      "region": "Global",
+      "development_stage": "Adult",
+      "search_query": "dog running",
+      "id": "aq_1794386835_0",
+      "status": "uploaded",
+      "locked_at": "2026-11-11T08:47:15.180352Z",
+      "used_at": "2026-11-11T08:48:52.706666Z",
+      "video_id": "kbkOKcNWCzo",
+      "original_title": "The Fascinating Reason Dogs Align",
+      "hook_score": 10.0,
+      "hook_title_score": 20,
+      "hook_opening_score": 0,
+      "video_ids": [
+        31954389
+      ],
+      "local_filenames": [],
+      "scheduled_for": "2026-11-11T20:00:00Z"
+    },
+    {
+      "topic": "Canine Capillary Refill Time",
+      "title": "Why Your Dog Canine Capillary Refill Time",
+      "hook_framework": "Problem & Solution",
+      "script": "To check normal circulation, gently press your dog's upper gum. The blanched spot should turn bright pink within two seconds. Have you tried this check?",
+      "video_search_query": "cute dog",
+      "category": "Cardiovascular",
+      "subtopic": "Circulation",
+      "unique_fact": "Capillary refill time evaluates canine peripheral microvascular perfusion, where blanching mucosa should restore pink coloration in under two seconds.",
+      "angle": "Action",
+      "region": "Global",
+      "development_stage": "Adult",
+      "search_query": "cute dog",
+      "id": "aq_1794386835_1",
+      "status": "pending",
+      "locked_at": null,
+      "used_at": null,
+      "video_id": null,
+      "original_title": "Why You Should Check Dog Gums",
+      "hook_score": 10.0,
+      "hook_title_score": 20,
+      "hook_opening_score": 0
     }
   ]
 }
