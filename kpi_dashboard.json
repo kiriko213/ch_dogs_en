@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-11-11T08:48:52.725379Z",
+  "generated_at": "2026-11-11T12:42:20.436573Z",
   "kpis": {
-    "uploads": 115,
-    "views": 58361,
+    "uploads": 116,
+    "views": 58370,
     "ctr_average": 499.93,
     "apv_average": 66.43,
     "subscribers_gained": 130,
-    "cgs_average": 63.13,
+    "cgs_average": 62.69,
     "top_topics": [
       "Canine Prey Shake Motor Pattern",
       "Canine Late Pleistocene Wolf Divergence",
       "Canine Respiratory Sinus Arrhythmia"
     ],
     "top_titles": [
-      "Understanding Dog Canine Henle Loop Hyperosmolality",
       "Understanding Dog Canine Fatty Acid Muscle Metabolism",
-      "Understanding Dog Canine Gut Microbiome Serotonin Synthesis"
+      "Understanding Dog Canine Gut Microbiome Serotonin Synthesis",
+      "Why Your Dog Canine Kleiber Metabolic Body Mass Scaling"
     ]
   },
   "production_metrics": {
-    "success_rate_percent": 81.56,
-    "failure_rate_percent": 18.44,
-    "retry_rate_percent": 13.48,
-    "upload_latency_seconds": 9.51,
-    "generation_latency_seconds": 87.95
+    "success_rate_percent": 81.69,
+    "failure_rate_percent": 18.31,
+    "retry_rate_percent": 13.38,
+    "upload_latency_seconds": 5.41,
+    "generation_latency_seconds": 58.63
   },
   "warnings": []
 }

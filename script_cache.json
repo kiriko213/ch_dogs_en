@@ -1,7 +1,7 @@
 {
   "channel": "ch_dogs_en",
   "schema_version": 2,
-  "updated_at": "2026-11-11T08:48:52.707297Z",
+  "updated_at": "2026-11-11T12:42:20.429612Z",
   "items": [
     {
       "topic": "Dog episodic memory",
@@ -3240,14 +3240,19 @@
       "development_stage": "Adult",
       "search_query": "cute dog",
       "id": "aq_1794386835_1",
-      "status": "pending",
-      "locked_at": null,
-      "used_at": null,
-      "video_id": null,
+      "status": "uploaded",
+      "locked_at": "2026-11-11T12:41:16.114769Z",
+      "used_at": "2026-11-11T12:42:20.429054Z",
+      "video_id": "OuxJgb-P9Ig",
       "original_title": "Why You Should Check Dog Gums",
       "hook_score": 10.0,
       "hook_title_score": 20,
-      "hook_opening_score": 0
+      "hook_opening_score": 0,
+      "video_ids": [
+        36210001
+      ],
+      "local_filenames": [],
+      "scheduled_for": "2026-11-11T20:00:00Z"
     }
   ]
 }
