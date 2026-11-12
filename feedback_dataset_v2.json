@@ -1,9 +1,9 @@
 {
   "feedback_version": 2,
-  "generated_at": "2026-11-11T12:41:16.008031Z",
+  "generated_at": "2026-11-12T13:44:01.796589Z",
   "channel": "ch_dogs_en",
   "metadata": {
-    "total_videos_analyzed": 116,
+    "total_videos_analyzed": 117,
     "analytics_api_available": true,
     "cgs_mode": "beta",
     "data_freshness_hours": 72,
@@ -13,16 +13,16 @@
     {
       "topic": "Canine Prey Shake Motor Pattern",
       "category": "Ethology",
-      "cgs": 89.19,
-      "ctr": 916.0,
-      "apv": 127.06,
-      "avd": 21.0,
+      "cgs": 89.08,
+      "ctr": 997.0,
+      "apv": 119.8,
+      "avd": 20.0,
       "views": 991
     },
     {
       "topic": "Canine Late Pleistocene Wolf Divergence",
       "category": "Genetics",
-      "cgs": 85.81,
+      "cgs": 85.74,
       "ctr": 1008.0,
       "apv": 136.95,
       "avd": 23.0,
@@ -31,7 +31,7 @@
     {
       "topic": "Canine Respiratory Sinus Arrhythmia",
       "category": "Cardiovascular Physiology",
-      "cgs": 80.18,
+      "cgs": 80.08,
       "ctr": 508.0,
       "apv": 72.27,
       "avd": 12.0,
@@ -40,7 +40,7 @@
     {
       "topic": "Predatory Motor Sequence Truncation",
       "category": "Ethology",
-      "cgs": 79.17,
+      "cgs": 79.11,
       "ctr": 1031.0,
       "apv": 96.01,
       "avd": 16.0,
@@ -49,7 +49,7 @@
     {
       "topic": "Theobromine Hepatic Clearance",
       "category": "Toxicology",
-      "cgs": 78.98,
+      "cgs": 78.95,
       "ctr": 1208.0,
       "apv": 95.23,
       "avd": 16.0,
@@ -57,6 +57,15 @@
     }
   ],
   "losing_topics": [
+    {
+      "topic": "Canine Salivary Amylase Absence",
+      "category": "Dental",
+      "cgs": 43.59,
+      "ctr": 19.0,
+      "apv": 33.1,
+      "avd": 5.0,
+      "views": 19
+    },
     {
       "topic": "Canine Paw Pad Thermoregulation",
       "category": "Physiology",
@@ -69,25 +78,16 @@
     {
       "topic": "Canine Baroreceptor Reflex",
       "category": "Cardiovascular Physiology",
-      "cgs": 23.1,
+      "cgs": 22.65,
       "ctr": null,
       "apv": null,
       "avd": null,
-      "views": 192
-    },
-    {
-      "topic": "Canine Geomagnetic Field Alignment",
-      "category": "Biophysics",
-      "cgs": 10.0,
-      "ctr": null,
-      "apv": null,
-      "avd": null,
-      "views": 0
+      "views": 195
     },
     {
       "topic": "Canine Secure Base Attachment Effect",
       "category": "Psychology",
-      "cgs": 5.94,
+      "cgs": 5.89,
       "ctr": 2.0,
       "apv": 0.0,
       "avd": 0.0,
@@ -96,7 +96,7 @@
     {
       "topic": "Canine Resource Caching Instinct",
       "category": "Behavior",
-      "cgs": 3.53,
+      "cgs": 3.5,
       "ctr": 1.0,
       "apv": 0.0,
       "avd": 0.0,
@@ -118,23 +118,23 @@
       "hook_type": "low_retention_proxy",
       "reason": "swipe_away_proxy",
       "avg_apv_proxy": 0.0,
-      "blacklisted_at": "2026-11-11T12:41:16.008072Z"
+      "blacklisted_at": "2026-11-12T13:44:01.796676Z"
     },
     {
       "topic_category": "Behavior",
       "hook_type": "low_retention_proxy",
       "reason": "swipe_away_proxy",
       "avg_apv_proxy": 0.0,
-      "blacklisted_at": "2026-11-11T12:41:16.008074Z"
+      "blacklisted_at": "2026-11-12T13:44:01.796681Z"
     }
   ],
   "growth_signals": {
-    "total_subscribers_gained": 130,
+    "total_subscribers_gained": 132,
     "growth_trend": "growing"
   },
   "exploration_ratio": {
     "reinforce_pct": 80,
     "explore_pct": 20,
-    "adjusted_by": "low_cgs_average_28.3"
+    "adjusted_by": "low_cgs_average_38.4"
   }
 }

@@ -1,15 +1,6 @@
 {
   "items": [
     {
-      "video_id": "uavfFPhMgnc",
-      "title": "Understanding Dog Canine Fatty Acid Muscle Metabolism",
-      "ctr": 0.0,
-      "apv": 0.0,
-      "subscribers_gained": 0,
-      "performance_score": 0.0,
-      "recorded_at": "2026-10-13T19:31:26.269506Z"
-    },
-    {
       "video_id": "_bVpVjw0O38",
       "title": "Understanding Dog Canine Gut Microbiome Serotonin Synthesis",
       "ctr": 0.0,
@@ -449,6 +440,15 @@
       "subscribers_gained": 0,
       "performance_score": 0.0,
       "recorded_at": "2026-11-11T12:42:20.434486Z"
+    },
+    {
+      "video_id": "H91LdrIzfDQ",
+      "title": "Understanding Dog Canine Deciduous Root Resorption",
+      "ctr": 0.0,
+      "apv": 0.0,
+      "subscribers_gained": 0,
+      "performance_score": 0.0,
+      "recorded_at": "2026-11-12T14:05:07.830577Z"
     }
   ]
 }
