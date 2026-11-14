@@ -1,7 +1,7 @@
 {
   "channel": "ch_dogs_en",
   "schema_version": 2,
-  "updated_at": "2026-11-14T12:09:44.805984Z",
+  "updated_at": "2026-11-14T17:59:15.575596Z",
   "items": [
     {
       "topic": "Dog episodic memory",
@@ -3352,14 +3352,19 @@
       "development_stage": "Senior",
       "search_query": "dog running",
       "id": "aq_1794644888_2",
-      "status": "pending",
-      "locked_at": null,
-      "used_at": null,
-      "video_id": null,
+      "status": "uploaded",
+      "locked_at": "2026-11-14T17:57:32.602392Z",
+      "used_at": "2026-11-14T17:59:15.575121Z",
+      "video_id": "XJuWeE9iQus",
       "original_title": "Why You Should Check Your Dog's Paws",
       "hook_score": 0.0,
       "hook_title_score": 0,
-      "hook_opening_score": 0
+      "hook_opening_score": 0,
+      "video_ids": [
+        30187324
+      ],
+      "local_filenames": [],
+      "scheduled_for": "2026-11-14T20:00:00Z"
     }
   ]
 }

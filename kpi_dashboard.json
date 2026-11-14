@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-11-14T12:09:44.814781Z",
+  "generated_at": "2026-11-14T17:59:15.583342Z",
   "kpis": {
-    "uploads": 119,
-    "views": 59296,
+    "uploads": 120,
+    "views": 59335,
     "ctr_average": 503.23,
     "apv_average": 68.62,
     "subscribers_gained": 133,
-    "cgs_average": 63.09,
+    "cgs_average": 62.67,
     "top_topics": [
       "Canine Prey Shake Motor Pattern",
       "Canine Late Pleistocene Wolf Divergence",
       "Canine Respiratory Sinus Arrhythmia"
     ],
     "top_titles": [
-      "Why Your Dog Canine Pancreatic Lipase Sensitivity",
       "Why Your Dog Canine Diaphragmatic Spasms",
-      "Why Your Dog Canine Epidermal Acid Mantle"
+      "Why Your Dog Canine Epidermal Acid Mantle",
+      "Why Your Dog Canine Critical Socialization Window"
     ]
   },
   "production_metrics": {
-    "success_rate_percent": 82.07,
-    "failure_rate_percent": 17.93,
-    "retry_rate_percent": 13.1,
-    "upload_latency_seconds": 5.9,
-    "generation_latency_seconds": 83.18
+    "success_rate_percent": 82.19,
+    "failure_rate_percent": 17.81,
+    "retry_rate_percent": 13.01,
+    "upload_latency_seconds": 5.3,
+    "generation_latency_seconds": 97.41
   },
   "warnings": []
 }

@@ -1,9 +1,9 @@
 {
   "feedback_version": 2,
-  "generated_at": "2026-11-14T12:08:15.292627Z",
+  "generated_at": "2026-11-14T17:57:32.509707Z",
   "channel": "ch_dogs_en",
   "metadata": {
-    "total_videos_analyzed": 119,
+    "total_videos_analyzed": 120,
     "analytics_api_available": true,
     "cgs_mode": "beta",
     "data_freshness_hours": 72,
@@ -13,7 +13,7 @@
     {
       "topic": "Canine Prey Shake Motor Pattern",
       "category": "Ethology",
-      "cgs": 88.99,
+      "cgs": 89.03,
       "ctr": 997.0,
       "apv": 119.8,
       "avd": 20.0,
@@ -22,7 +22,7 @@
     {
       "topic": "Canine Late Pleistocene Wolf Divergence",
       "category": "Genetics",
-      "cgs": 85.6,
+      "cgs": 85.59,
       "ctr": 1008.0,
       "apv": 136.95,
       "avd": 23.0,
@@ -31,7 +31,7 @@
     {
       "topic": "Canine Respiratory Sinus Arrhythmia",
       "category": "Cardiovascular Physiology",
-      "cgs": 79.95,
+      "cgs": 79.97,
       "ctr": 508.0,
       "apv": 72.27,
       "avd": 12.0,
@@ -40,7 +40,7 @@
     {
       "topic": "Predatory Motor Sequence Truncation",
       "category": "Ethology",
-      "cgs": 78.99,
+      "cgs": 78.97,
       "ctr": 1031.0,
       "apv": 96.01,
       "avd": 16.0,
@@ -58,15 +58,6 @@
   ],
   "losing_topics": [
     {
-      "topic": "Canine Salivary Amylase Absence",
-      "category": "Dental",
-      "cgs": 43.55,
-      "ctr": 19.0,
-      "apv": 33.1,
-      "avd": 5.0,
-      "views": 19
-    },
-    {
       "topic": "Canine Paw Pad Thermoregulation",
       "category": "Physiology",
       "cgs": 42.31,
@@ -76,9 +67,18 @@
       "views": 10
     },
     {
+      "topic": "Canine Mystacial Vibrissae Tactile Navigation",
+      "category": "Sensory Anatomy",
+      "cgs": 9.5,
+      "ctr": null,
+      "apv": null,
+      "avd": null,
+      "views": 0
+    },
+    {
       "topic": "Canine Interdigital Webbing Hydrodynamics",
       "category": "Biomechanics",
-      "cgs": 9.5,
+      "cgs": 9.39,
       "ctr": null,
       "apv": null,
       "avd": null,
@@ -87,7 +87,7 @@
     {
       "topic": "Canine Secure Base Attachment Effect",
       "category": "Psychology",
-      "cgs": 5.81,
+      "cgs": 5.8,
       "ctr": 2.0,
       "apv": 0.0,
       "avd": 0.0,
@@ -96,7 +96,7 @@
     {
       "topic": "Canine Resource Caching Instinct",
       "category": "Behavior",
-      "cgs": 3.46,
+      "cgs": 3.45,
       "ctr": 1.0,
       "apv": 0.0,
       "avd": 0.0,
@@ -118,14 +118,14 @@
       "hook_type": "low_retention_proxy",
       "reason": "swipe_away_proxy",
       "avg_apv_proxy": 0.0,
-      "blacklisted_at": "2026-11-14T12:08:15.292687Z"
+      "blacklisted_at": "2026-11-14T17:57:32.509763Z"
     },
     {
       "topic_category": "Behavior",
       "hook_type": "low_retention_proxy",
       "reason": "swipe_away_proxy",
       "avg_apv_proxy": 0.0,
-      "blacklisted_at": "2026-11-14T12:08:15.292691Z"
+      "blacklisted_at": "2026-11-14T17:57:32.509766Z"
     }
   ],
   "growth_signals": {
@@ -135,6 +135,6 @@
   "exploration_ratio": {
     "reinforce_pct": 80,
     "explore_pct": 20,
-    "adjusted_by": "low_cgs_average_43.6"
+    "adjusted_by": "low_cgs_average_22.6"
   }
 }
