@@ -1,19 +1,24 @@
 {
-  "generated_at": "2026-11-14T07:59:17.238001Z",
+  "generated_at": "2026-11-14T12:08:15.525282Z",
   "top_candidates": [
     {
-      "topic": "Canine Late Pleistocene Wolf Divergence",
+      "topic": "Canine Prey Shake Motor Pattern",
       "score": 100,
       "category": "dog_facts"
     },
     {
-      "topic": "Canine Respiratory Sinus Arrhythmia",
+      "topic": "Canine Late Pleistocene Wolf Divergence",
       "score": 84,
       "category": "dog_facts"
     },
     {
+      "topic": "Canine Respiratory Sinus Arrhythmia",
+      "score": 74,
+      "category": "dog_facts"
+    },
+    {
       "topic": "Predatory Motor Sequence Truncation",
-      "score": 80,
+      "score": 70,
       "category": "dog_facts"
     },
     {
@@ -28,27 +33,22 @@
     },
     {
       "topic": "dog communication",
-      "score": 64,
+      "score": 70,
       "category": "dog_communication"
     },
     {
       "topic": "amazing dog abilities",
-      "score": 64,
+      "score": 70,
       "category": "dog_intelligence"
     },
     {
       "topic": "dog health facts",
-      "score": 64,
+      "score": 70,
       "category": "dog_health"
     },
     {
       "topic": "dog owner tips",
-      "score": 64,
-      "category": "dog_owner_tips"
-    },
-    {
-      "topic": "dog life hacks",
-      "score": 64,
+      "score": 70,
       "category": "dog_owner_tips"
     }
   ]

@@ -1,9 +1,9 @@
 {
   "feedback_version": 2,
-  "generated_at": "2026-11-14T07:59:17.150255Z",
+  "generated_at": "2026-11-14T12:08:15.292627Z",
   "channel": "ch_dogs_en",
   "metadata": {
-    "total_videos_analyzed": 118,
+    "total_videos_analyzed": 119,
     "analytics_api_available": true,
     "cgs_mode": "beta",
     "data_freshness_hours": 72,
@@ -13,7 +13,7 @@
     {
       "topic": "Canine Prey Shake Motor Pattern",
       "category": "Ethology",
-      "cgs": 88.93,
+      "cgs": 88.99,
       "ctr": 997.0,
       "apv": 119.8,
       "avd": 20.0,
@@ -22,7 +22,7 @@
     {
       "topic": "Canine Late Pleistocene Wolf Divergence",
       "category": "Genetics",
-      "cgs": 85.61,
+      "cgs": 85.6,
       "ctr": 1008.0,
       "apv": 136.95,
       "avd": 23.0,
@@ -31,7 +31,7 @@
     {
       "topic": "Canine Respiratory Sinus Arrhythmia",
       "category": "Cardiovascular Physiology",
-      "cgs": 79.92,
+      "cgs": 79.95,
       "ctr": 508.0,
       "apv": 72.27,
       "avd": 12.0,
@@ -40,7 +40,7 @@
     {
       "topic": "Predatory Motor Sequence Truncation",
       "category": "Ethology",
-      "cgs": 79.0,
+      "cgs": 78.99,
       "ctr": 1031.0,
       "apv": 96.01,
       "avd": 16.0,
@@ -57,15 +57,6 @@
     }
   ],
   "losing_topics": [
-    {
-      "topic": "Canine Heartworm Transmission",
-      "category": "Parasitology",
-      "cgs": 45.01,
-      "ctr": 43.0,
-      "apv": 35.53,
-      "avd": 5.0,
-      "views": 43
-    },
     {
       "topic": "Canine Salivary Amylase Absence",
       "category": "Dental",
@@ -85,9 +76,18 @@
       "views": 10
     },
     {
+      "topic": "Canine Interdigital Webbing Hydrodynamics",
+      "category": "Biomechanics",
+      "cgs": 9.5,
+      "ctr": null,
+      "apv": null,
+      "avd": null,
+      "views": 0
+    },
+    {
       "topic": "Canine Secure Base Attachment Effect",
       "category": "Psychology",
-      "cgs": 5.82,
+      "cgs": 5.81,
       "ctr": 2.0,
       "apv": 0.0,
       "avd": 0.0,
@@ -118,14 +118,14 @@
       "hook_type": "low_retention_proxy",
       "reason": "swipe_away_proxy",
       "avg_apv_proxy": 0.0,
-      "blacklisted_at": "2026-11-14T07:59:17.150307Z"
+      "blacklisted_at": "2026-11-14T12:08:15.292687Z"
     },
     {
       "topic_category": "Behavior",
       "hook_type": "low_retention_proxy",
       "reason": "swipe_away_proxy",
       "avg_apv_proxy": 0.0,
-      "blacklisted_at": "2026-11-14T07:59:17.150310Z"
+      "blacklisted_at": "2026-11-14T12:08:15.292691Z"
     }
   ],
   "growth_signals": {
@@ -135,6 +135,6 @@
   "exploration_ratio": {
     "reinforce_pct": 80,
     "explore_pct": 20,
-    "adjusted_by": "low_cgs_average_62.2"
+    "adjusted_by": "low_cgs_average_43.6"
   }
 }

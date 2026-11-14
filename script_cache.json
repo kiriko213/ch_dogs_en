@@ -1,7 +1,7 @@
 {
   "channel": "ch_dogs_en",
   "schema_version": 2,
-  "updated_at": "2026-11-14T08:29:46.381618Z",
+  "updated_at": "2026-11-14T12:09:44.805984Z",
   "items": [
     {
       "topic": "Dog episodic memory",
@@ -3324,14 +3324,19 @@
       "development_stage": "Adult",
       "search_query": "dog owner",
       "id": "aq_1794644888_1",
-      "status": "pending",
-      "locked_at": null,
-      "used_at": null,
-      "video_id": null,
+      "status": "uploaded",
+      "locked_at": "2026-11-14T12:08:15.530310Z",
+      "used_at": "2026-11-14T12:09:44.805407Z",
+      "video_id": "XU5ttCYBCno",
       "original_title": "Why You Should Protect Dog Whiskers",
       "hook_score": 0.0,
       "hook_title_score": 0,
-      "hook_opening_score": 0
+      "hook_opening_score": 0,
+      "video_ids": [
+        28898754
+      ],
+      "local_filenames": [],
+      "scheduled_for": "2026-11-14T20:00:00Z"
     },
     {
       "topic": "Canine Carpal Pad Friction Stabilization",
