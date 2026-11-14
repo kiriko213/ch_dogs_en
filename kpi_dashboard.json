@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-11-12T14:05:07.833952Z",
+  "generated_at": "2026-11-14T08:29:46.386940Z",
   "kpis": {
-    "uploads": 117,
-    "views": 58868,
-    "ctr_average": 503.36,
-    "apv_average": 66.21,
-    "subscribers_gained": 132,
-    "cgs_average": 62.97,
+    "uploads": 118,
+    "views": 59280,
+    "ctr_average": 503.23,
+    "apv_average": 68.62,
+    "subscribers_gained": 133,
+    "cgs_average": 63.52,
     "top_topics": [
       "Canine Prey Shake Motor Pattern",
       "Canine Late Pleistocene Wolf Divergence",
       "Canine Respiratory Sinus Arrhythmia"
     ],
     "top_titles": [
-      "Understanding Dog Canine Gut Microbiome Serotonin Synthesis",
       "Why Your Dog Canine Kleiber Metabolic Body Mass Scaling",
-      "Why Your Dog Canine Pancreatic Lipase Sensitivity"
+      "Why Your Dog Canine Pancreatic Lipase Sensitivity",
+      "Why Your Dog Canine Diaphragmatic Spasms"
     ]
   },
   "production_metrics": {
-    "success_rate_percent": 81.82,
-    "failure_rate_percent": 18.18,
-    "retry_rate_percent": 13.29,
-    "upload_latency_seconds": 4.98,
-    "generation_latency_seconds": 85.66
+    "success_rate_percent": 81.94,
+    "failure_rate_percent": 18.06,
+    "retry_rate_percent": 13.19,
+    "upload_latency_seconds": 5.22,
+    "generation_latency_seconds": 91.95
   },
   "warnings": []
 }

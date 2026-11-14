@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T13:44:01.922086Z",
+  "generated_at": "2026-11-14T07:59:17.238001Z",
   "top_candidates": [
     {
       "topic": "Canine Late Pleistocene Wolf Divergence",
@@ -7,13 +7,18 @@
       "category": "dog_facts"
     },
     {
+      "topic": "Canine Respiratory Sinus Arrhythmia",
+      "score": 84,
+      "category": "dog_facts"
+    },
+    {
       "topic": "Predatory Motor Sequence Truncation",
-      "score": 90,
+      "score": 80,
       "category": "dog_facts"
     },
     {
       "topic": "Theobromine Hepatic Clearance",
-      "score": 80,
+      "score": 70,
       "category": "dog_facts"
     },
     {
@@ -45,11 +50,6 @@
       "topic": "dog life hacks",
       "score": 64,
       "category": "dog_owner_tips"
-    },
-    {
-      "topic": "The Truth About Amazing dog abilities",
-      "score": 64,
-      "category": "dog_intelligence"
     }
   ]
 }
