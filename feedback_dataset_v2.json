@@ -1,9 +1,9 @@
 {
   "feedback_version": 2,
-  "generated_at": "2026-11-14T17:57:32.509707Z",
+  "generated_at": "2026-11-15T08:24:05.820946Z",
   "channel": "ch_dogs_en",
   "metadata": {
-    "total_videos_analyzed": 120,
+    "total_videos_analyzed": 121,
     "analytics_api_available": true,
     "cgs_mode": "beta",
     "data_freshness_hours": 72,
@@ -13,7 +13,7 @@
     {
       "topic": "Canine Prey Shake Motor Pattern",
       "category": "Ethology",
-      "cgs": 89.03,
+      "cgs": 88.79,
       "ctr": 997.0,
       "apv": 119.8,
       "avd": 20.0,
@@ -22,8 +22,8 @@
     {
       "topic": "Canine Late Pleistocene Wolf Divergence",
       "category": "Genetics",
-      "cgs": 85.59,
-      "ctr": 1008.0,
+      "cgs": 85.55,
+      "ctr": 1010.0,
       "apv": 136.95,
       "avd": 23.0,
       "views": 1010
@@ -31,7 +31,7 @@
     {
       "topic": "Canine Respiratory Sinus Arrhythmia",
       "category": "Cardiovascular Physiology",
-      "cgs": 79.97,
+      "cgs": 79.81,
       "ctr": 508.0,
       "apv": 72.27,
       "avd": 12.0,
@@ -40,7 +40,7 @@
     {
       "topic": "Predatory Motor Sequence Truncation",
       "category": "Ethology",
-      "cgs": 78.97,
+      "cgs": 78.94,
       "ctr": 1031.0,
       "apv": 96.01,
       "avd": 16.0,
@@ -49,7 +49,7 @@
     {
       "topic": "Theobromine Hepatic Clearance",
       "category": "Toxicology",
-      "cgs": 78.91,
+      "cgs": 78.89,
       "ctr": 1208.0,
       "apv": 95.23,
       "avd": 16.0,
@@ -58,36 +58,36 @@
   ],
   "losing_topics": [
     {
+      "topic": "Canine Salivary Amylase Absence",
+      "category": "Dental",
+      "cgs": 43.52,
+      "ctr": 19.0,
+      "apv": 33.1,
+      "avd": 5.0,
+      "views": 19
+    },
+    {
       "topic": "Canine Paw Pad Thermoregulation",
       "category": "Physiology",
-      "cgs": 42.31,
+      "cgs": 42.3,
       "ctr": 10.0,
       "apv": 44.51,
       "avd": 7.0,
       "views": 10
     },
     {
-      "topic": "Canine Mystacial Vibrissae Tactile Navigation",
-      "category": "Sensory Anatomy",
-      "cgs": 9.5,
+      "topic": "Canine Carpal Pad Friction Stabilization",
+      "category": "Kinematics",
+      "cgs": 18.86,
       "ctr": null,
       "apv": null,
       "avd": null,
-      "views": 0
-    },
-    {
-      "topic": "Canine Interdigital Webbing Hydrodynamics",
-      "category": "Biomechanics",
-      "cgs": 9.39,
-      "ctr": null,
-      "apv": null,
-      "avd": null,
-      "views": 0
+      "views": 107
     },
     {
       "topic": "Canine Secure Base Attachment Effect",
       "category": "Psychology",
-      "cgs": 5.8,
+      "cgs": 5.78,
       "ctr": 2.0,
       "apv": 0.0,
       "avd": 0.0,
@@ -96,7 +96,7 @@
     {
       "topic": "Canine Resource Caching Instinct",
       "category": "Behavior",
-      "cgs": 3.45,
+      "cgs": 3.44,
       "ctr": 1.0,
       "apv": 0.0,
       "avd": 0.0,
@@ -118,23 +118,23 @@
       "hook_type": "low_retention_proxy",
       "reason": "swipe_away_proxy",
       "avg_apv_proxy": 0.0,
-      "blacklisted_at": "2026-11-14T17:57:32.509763Z"
+      "blacklisted_at": "2026-11-15T08:24:05.820995Z"
     },
     {
       "topic_category": "Behavior",
       "hook_type": "low_retention_proxy",
       "reason": "swipe_away_proxy",
       "avg_apv_proxy": 0.0,
-      "blacklisted_at": "2026-11-14T17:57:32.509766Z"
+      "blacklisted_at": "2026-11-15T08:24:05.820998Z"
     }
   ],
   "growth_signals": {
-    "total_subscribers_gained": 133,
+    "total_subscribers_gained": 134,
     "growth_trend": "growing"
   },
   "exploration_ratio": {
     "reinforce_pct": 80,
     "explore_pct": 20,
-    "adjusted_by": "low_cgs_average_22.6"
+    "adjusted_by": "low_cgs_average_40.2"
   }
 }

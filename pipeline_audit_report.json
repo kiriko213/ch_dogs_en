@@ -1,16 +1,11 @@
 {
-  "timestamp": "2026-11-14T17:59:15.581328Z",
+  "timestamp": "2026-11-15T09:06:44.438574Z",
   "audit_status": "PASS",
   "findings": [
     {
-      "category": "cache",
-      "severity": "WARNING",
-      "message": "Script cache is empty. Next run will force batch refill."
-    },
-    {
       "category": "stability",
       "severity": "WARNING",
-      "message": "High frequency of recorded failures in failure registry (26 events)."
+      "message": "High frequency of recorded failures in failure registry (28 events)."
     }
   ]
 }

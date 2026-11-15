@@ -1,7 +1,7 @@
 {
   "channel": "ch_dogs_en",
   "schema_version": 2,
-  "updated_at": "2026-11-14T17:59:15.575596Z",
+  "updated_at": "2026-11-15T09:06:44.434324Z",
   "items": [
     {
       "topic": "Dog episodic memory",
@@ -3365,6 +3365,57 @@
       ],
       "local_filenames": [],
       "scheduled_for": "2026-11-14T20:00:00Z"
+    },
+    {
+      "topic": "Canine Temporomandibular Hinge Joint",
+      "title": "Why Your Dog Canine Temporomandibular Hinge Joint",
+      "hook_framework": "Myth vs Fact",
+      "script": "Dogs cannot actually chew sideways like plant eating animals. Their strict hinge jaw moves purely up and down. What does your dog love chewing?",
+      "video_search_query": "dog eating food",
+      "category": "Skeletal Biomechanics",
+      "subtopic": "Craniofacial Anatomy",
+      "unique_fact": "Canine temporomandibular joints form a deep transverse hinge that prevents lateral movement, directing mechanical force into vertical crushing power.",
+      "angle": "Science",
+      "region": "Global",
+      "development_stage": "Adult",
+      "search_query": "dog eating food",
+      "id": "aq_1794733510_0",
+      "status": "uploaded",
+      "locked_at": "2026-11-15T09:05:10.700287Z",
+      "used_at": "2026-11-15T09:06:44.433661Z",
+      "video_id": "HmhVT55dneE",
+      "original_title": "The Fascinating Reason Dogs Bite Down",
+      "hook_score": 10.0,
+      "hook_title_score": 20,
+      "hook_opening_score": 0,
+      "video_ids": [
+        38794068
+      ],
+      "local_filenames": [],
+      "scheduled_for": "2026-11-15T20:00:00Z"
+    },
+    {
+      "topic": "Canine Gastric Dilatation-Volvulus Rotation",
+      "title": "Understanding Dog Canine Gastric Dilatation-Volvulus Rotation",
+      "hook_framework": "Problem & Solution",
+      "script": "To help your dog digest, encourage calm resting after meals. Heavy running while full can twist their sensitive stomach. Does your dog rest quietly?",
+      "video_search_query": "dog resting floor",
+      "category": "Internal Medicine",
+      "subtopic": "Gastric Torsion",
+      "unique_fact": "Postprandial hyperactivity can rotate the canine stomach along its mesenteric axis.",
+      "angle": "Action",
+      "region": "Global",
+      "development_stage": "Adult",
+      "search_query": "dog resting floor",
+      "id": "aq_1794733510_1",
+      "status": "pending",
+      "locked_at": null,
+      "used_at": null,
+      "video_id": null,
+      "original_title": "Why You Should Rest Dogs After Meals",
+      "hook_score": 0.0,
+      "hook_title_score": 0,
+      "hook_opening_score": 0
     }
   ]
 }

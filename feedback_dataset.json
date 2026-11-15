@@ -1,67 +1,67 @@
 {
   "feedback_version": 1,
-  "generated_at": "2026-11-14T17:57:31.503609Z",
+  "generated_at": "2026-11-15T08:24:04.969774Z",
   "top_topics": [
     {
       "topic": "Canine Prey Shake Motor Pattern",
       "category": "Ethology",
-      "score": 72.1,
+      "score": 71.15,
       "views": 991
     },
     {
       "topic": "Canine Self Domestication Flight Distance",
       "category": "History",
-      "score": 66.18,
-      "views": 997
+      "score": 65.59,
+      "views": 998
     },
     {
       "topic": "Canine Late Pleistocene Wolf Divergence",
       "category": "Genetics",
-      "score": 62.35,
+      "score": 62.21,
       "views": 1010
-    },
-    {
-      "topic": "Canine Geophagia Soil Ingestion",
-      "category": "Gastroenterology",
-      "score": 60.98,
-      "views": 679
     },
     {
       "topic": "Crossed Extensor Balance Reflex",
       "category": "Neurology",
-      "score": 60.93,
+      "score": 60.72,
       "views": 1007
+    },
+    {
+      "topic": "Canine Geophagia Soil Ingestion",
+      "category": "Gastroenterology",
+      "score": 60.32,
+      "views": 679
     }
   ],
   "underperforming_topics": [
     {
       "topic": "Canine Permanent Dental Structure",
       "category": "Anatomy",
-      "score": 2.37,
+      "score": 2.32,
       "views": 57
     },
     {
       "topic": "Canine Play Bow Communication",
       "category": "Body Language",
-      "score": 2.08,
+      "score": 2.04,
       "views": 50
     },
     {
       "topic": "Canine Heat Exhaustion Panting Limits",
       "category": "Health",
-      "score": 2.07,
+      "score": 2.02,
       "views": 21
     },
     {
       "topic": "Canine Resource Caching Instinct",
       "category": "Behavior",
-      "score": 1.81,
+      "score": 1.75,
       "views": 1
     },
     {
       "topic": "Canine Paw Pad Thermoregulation",
       "category": "Physiology",
-      "score": 0.46,
+      "score": 0.45,
       "views": 10
     }
   ]
