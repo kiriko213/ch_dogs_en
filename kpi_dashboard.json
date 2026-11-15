@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-11-15T12:44:25.292656Z",
+  "generated_at": "2026-11-15T19:14:32.641253Z",
   "kpis": {
-    "uploads": 122,
-    "views": 61091,
+    "uploads": 123,
+    "views": 61290,
     "ctr_average": 501.37,
     "apv_average": 67.59,
     "subscribers_gained": 134,
-    "cgs_average": 62.73,
+    "cgs_average": 62.36,
     "top_topics": [
       "Canine Prey Shake Motor Pattern",
       "Canine Late Pleistocene Wolf Divergence",
       "Canine Respiratory Sinus Arrhythmia"
     ],
     "top_titles": [
-      "Why Your Dog Canine Critical Socialization Window",
       "Understanding Dog Canine Thermogenic Shivering Reflex",
-      "Why Your Dog Canine Passive Synovial Mobilization"
+      "Why Your Dog Canine Passive Synovial Mobilization",
+      "Why Your Dog Canine Footpad Epidermal Papillae"
     ]
   },
   "production_metrics": {
-    "success_rate_percent": 81.33,
-    "failure_rate_percent": 18.67,
-    "retry_rate_percent": 14.0,
-    "upload_latency_seconds": 4.7,
-    "generation_latency_seconds": 89.19
+    "success_rate_percent": 80.92,
+    "failure_rate_percent": 19.08,
+    "retry_rate_percent": 14.47,
+    "upload_latency_seconds": 10.02,
+    "generation_latency_seconds": 120.54
   },
   "warnings": []
 }

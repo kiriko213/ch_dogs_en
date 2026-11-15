@@ -1,7 +1,7 @@
 {
   "channel": "ch_dogs_en",
   "schema_version": 2,
-  "updated_at": "2026-11-15T12:44:25.284697Z",
+  "updated_at": "2026-11-15T19:14:32.633403Z",
   "items": [
     {
       "topic": "Dog episodic memory",
@@ -3418,6 +3418,34 @@
       "hook_opening_score": 0,
       "video_ids": [
         19770675
+      ],
+      "local_filenames": [],
+      "scheduled_for": "2026-11-15T20:00:00Z"
+    },
+    {
+      "topic": "Canine Compound Follicular Architecture",
+      "title": "Why Your Dog Canine Compound Follicular Architecture",
+      "hook_framework": "Fascinating Fact",
+      "script": "Your dog actually grows multiple hairs from each single skin pore. These compound follicles bundle protective guard hairs with dense undercoat. Is your dog fluffy?",
+      "video_search_query": "happy dog petting",
+      "category": "Integumentary Biology",
+      "subtopic": "Anatomy",
+      "unique_fact": "Canine skin features compound hair follicles where a single primary guard hair shares an ostium with up to fifteen secondary insulating hairs.",
+      "angle": "Science",
+      "region": "Global",
+      "development_stage": "Adult",
+      "search_query": "happy dog petting",
+      "id": "aq_1794769941_0",
+      "status": "uploaded",
+      "locked_at": "2026-11-15T19:12:22.012578Z",
+      "used_at": "2026-11-15T19:14:32.632147Z",
+      "video_id": "RRYPagZa-0U",
+      "original_title": "The Fascinating Reason Dogs Grow Fur",
+      "hook_score": 0.0,
+      "hook_title_score": 0,
+      "hook_opening_score": 0,
+      "video_ids": [
+        29383266
       ],
       "local_filenames": [],
       "scheduled_for": "2026-11-15T20:00:00Z"
