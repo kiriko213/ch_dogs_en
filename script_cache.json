@@ -1,7 +1,7 @@
 {
   "channel": "ch_dogs_en",
   "schema_version": 2,
-  "updated_at": "2026-11-15T09:06:44.434324Z",
+  "updated_at": "2026-11-15T12:44:25.284697Z",
   "items": [
     {
       "topic": "Dog episodic memory",
@@ -3408,14 +3408,19 @@
       "development_stage": "Adult",
       "search_query": "dog resting floor",
       "id": "aq_1794733510_1",
-      "status": "pending",
-      "locked_at": null,
-      "used_at": null,
-      "video_id": null,
+      "status": "uploaded",
+      "locked_at": "2026-11-15T12:42:51.089357Z",
+      "used_at": "2026-11-15T12:44:25.284256Z",
+      "video_id": "5buVHMwEFro",
       "original_title": "Why You Should Rest Dogs After Meals",
       "hook_score": 0.0,
       "hook_title_score": 0,
-      "hook_opening_score": 0
+      "hook_opening_score": 0,
+      "video_ids": [
+        19770675
+      ],
+      "local_filenames": [],
+      "scheduled_for": "2026-11-15T20:00:00Z"
     }
   ]
 }
