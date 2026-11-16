@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-11-16T14:04:11.116096Z",
+  "generated_at": "2026-11-16T21:58:08.316634Z",
   "kpis": {
-    "uploads": 124,
-    "views": 62563,
-    "ctr_average": 502.81,
-    "apv_average": 67.38,
-    "subscribers_gained": 134,
-    "cgs_average": 62.91,
+    "uploads": 125,
+    "views": 63000,
+    "ctr_average": 505.29,
+    "apv_average": 67.36,
+    "subscribers_gained": 135,
+    "cgs_average": 62.99,
     "top_topics": [
       "Canine Prey Shake Motor Pattern",
       "Canine Late Pleistocene Wolf Divergence",
       "Canine Respiratory Sinus Arrhythmia"
     ],
     "top_titles": [
-      "Why Your Dog Canine Passive Synovial Mobilization",
       "Why Your Dog Canine Footpad Epidermal Papillae",
-      "Understanding Dog Canine Cutaneous Wound Contraction"
+      "Understanding Dog Canine Cutaneous Wound Contraction",
+      "Understanding Dog Canine Gastric Hydrochloric Secretion"
     ]
   },
   "production_metrics": {
-    "success_rate_percent": 80.52,
-    "failure_rate_percent": 19.48,
-    "retry_rate_percent": 14.94,
-    "upload_latency_seconds": 10.93,
-    "generation_latency_seconds": 79.97
+    "success_rate_percent": 80.65,
+    "failure_rate_percent": 19.35,
+    "retry_rate_percent": 14.84,
+    "upload_latency_seconds": 5.11,
+    "generation_latency_seconds": 65.94
   },
   "warnings": []
 }

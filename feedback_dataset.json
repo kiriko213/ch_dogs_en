@@ -1,44 +1,44 @@
 {
   "feedback_version": 1,
-  "generated_at": "2026-11-16T13:35:36.873516Z",
+  "generated_at": "2026-11-16T21:56:55.658104Z",
   "top_topics": [
     {
       "topic": "Canine Prey Shake Motor Pattern",
       "category": "Ethology",
-      "score": 70.76,
+      "score": 70.69,
       "views": 991
     },
     {
       "topic": "Canine Self Domestication Flight Distance",
       "category": "History",
-      "score": 65.43,
+      "score": 65.42,
       "views": 998
-    },
-    {
-      "topic": "Canine Late Pleistocene Wolf Divergence",
-      "category": "Genetics",
-      "score": 61.93,
-      "views": 1010
     },
     {
       "topic": "Canine Gastric Dilatation-Volvulus Rotation",
       "category": "Internal Medicine",
-      "score": 61.28,
-      "views": 42
+      "score": 62.51,
+      "views": 77
+    },
+    {
+      "topic": "Canine Late Pleistocene Wolf Divergence",
+      "category": "Genetics",
+      "score": 61.85,
+      "views": 1010
     },
     {
       "topic": "Crossed Extensor Balance Reflex",
       "category": "Neurology",
-      "score": 60.56,
+      "score": 60.54,
       "views": 1008
     }
   ],
   "underperforming_topics": [
     {
-      "topic": "Canine Permanent Dental Structure",
-      "category": "Anatomy",
+      "topic": "Canine Salivary Amylase Absence",
+      "category": "Dental",
       "score": 2.32,
-      "views": 57
+      "views": 19
     },
     {
       "topic": "Canine Play Bow Communication",
@@ -49,13 +49,13 @@
     {
       "topic": "Canine Heat Exhaustion Panting Limits",
       "category": "Health",
-      "score": 1.95,
+      "score": 1.93,
       "views": 21
     },
     {
       "topic": "Canine Resource Caching Instinct",
       "category": "Behavior",
-      "score": 1.65,
+      "score": 1.63,
       "views": 1
     },
     {

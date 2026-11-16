@@ -1,7 +1,7 @@
 {
   "channel": "ch_dogs_en",
   "schema_version": 2,
-  "updated_at": "2026-11-16T14:04:11.109141Z",
+  "updated_at": "2026-11-16T21:58:08.309030Z",
   "items": [
     {
       "topic": "Dog episodic memory",
@@ -3492,14 +3492,19 @@
       "development_stage": "Adult",
       "search_query": "dog happy smiling",
       "id": "aq_1794837760_1",
-      "status": "pending",
-      "locked_at": null,
-      "used_at": null,
-      "video_id": null,
+      "status": "uploaded",
+      "locked_at": "2026-11-16T21:56:57.009526Z",
+      "used_at": "2026-11-16T21:58:08.308421Z",
+      "video_id": "v94xK3XZJf0",
       "original_title": "Why You Should Brush Your Dog's Teeth",
       "hook_score": 0.0,
       "hook_title_score": 0,
-      "hook_opening_score": 0
+      "hook_opening_score": 0,
+      "video_ids": [
+        34081711
+      ],
+      "local_filenames": [],
+      "scheduled_for": "2026-11-17T20:00:00Z"
     }
   ]
 }
