@@ -1,7 +1,7 @@
 {
   "channel": "ch_dogs_en",
   "schema_version": 2,
-  "updated_at": "2026-11-15T19:14:32.633403Z",
+  "updated_at": "2026-11-16T14:04:11.109141Z",
   "items": [
     {
       "topic": "Dog episodic memory",
@@ -3449,6 +3449,57 @@
       ],
       "local_filenames": [],
       "scheduled_for": "2026-11-15T20:00:00Z"
+    },
+    {
+      "topic": "Canine Cutaneous Vitamin D Synthesis Deficiency",
+      "title": "Why Your Dog Canine Cutaneous Vitamin D Synthesis Deficiency",
+      "hook_framework": "Curiosity Gap",
+      "script": "When your dog sunbathes, they absorb zero solar vitamin D. Their skin lacks the enzyme that synthesizes sunlight naturally. Does your dog love sunbathing?",
+      "video_search_query": "dog running",
+      "category": "Photobiology",
+      "subtopic": "Endocrine Metabolism",
+      "unique_fact": "Canine epidermal tissue lacks sufficient 7-dehydrocholesterol conversion capability, making dogs completely dependent on dietary vitamin D",
+      "angle": "Science",
+      "region": "Global",
+      "development_stage": "Adult",
+      "search_query": "dog running",
+      "id": "aq_1794837760_0",
+      "status": "uploaded",
+      "locked_at": "2026-11-16T14:02:40.147778Z",
+      "used_at": "2026-11-16T14:04:11.108459Z",
+      "video_id": "5flYiOZ0Fdg",
+      "original_title": "The Fascinating Reason Dogs Sunbathe",
+      "hook_score": 0.0,
+      "hook_title_score": 0,
+      "hook_opening_score": 0,
+      "video_ids": [
+        30790238
+      ],
+      "local_filenames": [],
+      "scheduled_for": "2026-11-16T20:00:00Z"
+    },
+    {
+      "topic": "Canine Salivary Alkaline pH and Calculus",
+      "title": "Understanding Dog Canine Salivary Alkaline Ph And Calculus",
+      "hook_framework": "Problem & Solution",
+      "script": "Dog saliva naturally resists cavities due to high alkalinity. However, this chemistry rapidly hardens leftover plaque into stubborn tartar. Do you brush your dog's teeth?",
+      "video_search_query": "dog happy smiling",
+      "category": "Dentistry",
+      "subtopic": "Oral Health",
+      "unique_fact": "Canine saliva has an alkaline pH of roughly 8.5 which buffers acidic cavity bacteria but accelerates dental calculus precipitation.",
+      "angle": "Action",
+      "region": "Global",
+      "development_stage": "Adult",
+      "search_query": "dog happy smiling",
+      "id": "aq_1794837760_1",
+      "status": "pending",
+      "locked_at": null,
+      "used_at": null,
+      "video_id": null,
+      "original_title": "Why You Should Brush Your Dog's Teeth",
+      "hook_score": 0.0,
+      "hook_title_score": 0,
+      "hook_opening_score": 0
     }
   ]
 }
