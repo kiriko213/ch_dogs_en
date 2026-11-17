@@ -1,7 +1,7 @@
 {
   "channel": "ch_dogs_en",
   "schema_version": 2,
-  "updated_at": "2026-11-16T21:58:08.309030Z",
+  "updated_at": "2026-11-17T09:50:02.897170Z",
   "items": [
     {
       "topic": "Dog episodic memory",
@@ -3502,6 +3502,34 @@
       "hook_opening_score": 0,
       "video_ids": [
         34081711
+      ],
+      "local_filenames": [],
+      "scheduled_for": "2026-11-17T20:00:00Z"
+    },
+    {
+      "topic": "Canine Endogenous Taurine Biosynthesis",
+      "title": "Understanding Dog Canine Endogenous Taurine Biosynthesis",
+      "hook_framework": "Fascinating Fact",
+      "script": "Your dog actually makes taurine internally from simple dietary proteins. Active liver enzymes protect their heart by synthesizing this nutrient. What does your dog eat?",
+      "video_search_query": "happy dog playing",
+      "category": "Nutrition & Biochemistry",
+      "subtopic": "Metabolic Pathways",
+      "unique_fact": "Unlike cats, dogs synthesize their own essential taurine from sulfur amino acids like methionine and cysteine.",
+      "angle": "Science",
+      "region": "Global",
+      "development_stage": "Adult",
+      "search_query": "happy dog playing",
+      "id": "aq_1794908916_0",
+      "status": "uploaded",
+      "locked_at": "2026-11-17T09:48:36.595253Z",
+      "used_at": "2026-11-17T09:50:02.896518Z",
+      "video_id": "gLBfiO_BlKI",
+      "original_title": "The Fascinating Reason Dogs Make Taurine",
+      "hook_score": 0.0,
+      "hook_title_score": 0,
+      "hook_opening_score": 0,
+      "video_ids": [
+        20243544
       ],
       "local_filenames": [],
       "scheduled_for": "2026-11-17T20:00:00Z"

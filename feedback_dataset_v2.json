@@ -1,9 +1,9 @@
 {
   "feedback_version": 2,
-  "generated_at": "2026-11-16T21:56:56.921011Z",
+  "generated_at": "2026-11-17T09:42:52.642426Z",
   "channel": "ch_dogs_en",
   "metadata": {
-    "total_videos_analyzed": 125,
+    "total_videos_analyzed": 126,
     "analytics_api_available": true,
     "cgs_mode": "beta",
     "data_freshness_hours": 72,
@@ -13,7 +13,7 @@
     {
       "topic": "Canine Prey Shake Motor Pattern",
       "category": "Ethology",
-      "cgs": 88.67,
+      "cgs": 88.55,
       "ctr": 997.0,
       "apv": 119.8,
       "avd": 20.0,
@@ -22,7 +22,7 @@
     {
       "topic": "Canine Late Pleistocene Wolf Divergence",
       "category": "Genetics",
-      "cgs": 85.46,
+      "cgs": 85.36,
       "ctr": 1010.0,
       "apv": 136.95,
       "avd": 23.0,
@@ -31,7 +31,7 @@
     {
       "topic": "Canine Respiratory Sinus Arrhythmia",
       "category": "Cardiovascular Physiology",
-      "cgs": 79.7,
+      "cgs": 79.61,
       "ctr": 508.0,
       "apv": 72.27,
       "avd": 12.0,
@@ -40,7 +40,7 @@
     {
       "topic": "Theobromine Hepatic Clearance",
       "category": "Toxicology",
-      "cgs": 78.86,
+      "cgs": 78.85,
       "ctr": 1208.0,
       "apv": 95.23,
       "avd": 16.0,
@@ -49,7 +49,7 @@
     {
       "topic": "Predatory Motor Sequence Truncation",
       "category": "Ethology",
-      "cgs": 78.86,
+      "cgs": 78.83,
       "ctr": 1031.0,
       "apv": 96.01,
       "avd": 16.0,
@@ -69,25 +69,25 @@
     {
       "topic": "Canine Compound Follicular Architecture",
       "category": "Integumentary Biology",
-      "cgs": 38.55,
+      "cgs": 39.41,
       "ctr": null,
       "apv": null,
       "avd": null,
-      "views": 177
+      "views": 241
     },
     {
-      "topic": "Canine Cutaneous Vitamin D Synthesis Deficiency",
-      "category": "Photobiology",
-      "cgs": 9.88,
+      "topic": "Canine Salivary Alkaline pH and Calculus",
+      "category": "Dentistry",
+      "cgs": 9.5,
       "ctr": null,
       "apv": null,
       "avd": null,
-      "views": 10
+      "views": 0
     },
     {
       "topic": "Canine Secure Base Attachment Effect",
       "category": "Psychology",
-      "cgs": 5.72,
+      "cgs": 5.7,
       "ctr": 2.0,
       "apv": 0.0,
       "avd": 0.0,
@@ -96,7 +96,7 @@
     {
       "topic": "Canine Resource Caching Instinct",
       "category": "Behavior",
-      "cgs": 3.41,
+      "cgs": 3.4,
       "ctr": 1.0,
       "apv": 0.0,
       "avd": 0.0,
@@ -118,14 +118,14 @@
       "hook_type": "low_retention_proxy",
       "reason": "swipe_away_proxy",
       "avg_apv_proxy": 0.0,
-      "blacklisted_at": "2026-11-16T21:56:56.921062Z"
+      "blacklisted_at": "2026-11-17T09:42:52.642486Z"
     },
     {
       "topic_category": "Behavior",
       "hook_type": "low_retention_proxy",
       "reason": "swipe_away_proxy",
       "avg_apv_proxy": 0.0,
-      "blacklisted_at": "2026-11-16T21:56:56.921065Z"
+      "blacklisted_at": "2026-11-17T09:42:52.642490Z"
     }
   ],
   "growth_signals": {
@@ -135,6 +135,6 @@
   "exploration_ratio": {
     "reinforce_pct": 80,
     "explore_pct": 20,
-    "adjusted_by": "low_cgs_average_35.9"
+    "adjusted_by": "low_cgs_average_32.2"
   }
 }
