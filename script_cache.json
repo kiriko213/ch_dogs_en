@@ -1,7 +1,7 @@
 {
   "channel": "ch_dogs_en",
   "schema_version": 2,
-  "updated_at": "2026-11-19T10:03:32.572584Z",
+  "updated_at": "2026-11-19T14:50:03.426305Z",
   "items": [
     {
       "topic": "Dog episodic memory",
@@ -3558,6 +3558,34 @@
       "hook_opening_score": 0,
       "video_ids": [
         35289395
+      ],
+      "local_filenames": [],
+      "scheduled_for": "2026-11-19T20:00:00Z"
+    },
+    {
+      "topic": "Canine Obligate Prolactin Adaptation",
+      "title": "Understanding Dog Canine Obligate Prolactin Adaptation",
+      "hook_framework": "Curiosity Gap",
+      "script": "Female dogs experience natural maternal instincts after every heat cycle. Rising prolactin evolved so ancestral females could nurse litters together. Does your dog mother toys?",
+      "video_search_query": "dog running",
+      "category": "Endocrinology",
+      "subtopic": "Reproduction",
+      "unique_fact": "Non-pregnant female dogs experience a mandatory surge in prolactin that historically supported cooperative alloparenting in packs.",
+      "angle": "Evolution",
+      "region": "Global",
+      "development_stage": "Adult",
+      "search_query": "dog running",
+      "id": "aq_1795099687_0",
+      "status": "uploaded",
+      "locked_at": "2026-11-19T14:48:07.312744Z",
+      "used_at": "2026-11-19T14:50:03.425620Z",
+      "video_id": "NfwJpy0qAmI",
+      "original_title": "The Fascinating Reason Dogs Care",
+      "hook_score": 0.0,
+      "hook_title_score": 0,
+      "hook_opening_score": 0,
+      "video_ids": [
+        40449050
       ],
       "local_filenames": [],
       "scheduled_for": "2026-11-19T20:00:00Z"

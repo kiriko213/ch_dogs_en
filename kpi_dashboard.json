@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-11-19T10:03:32.579240Z",
+  "generated_at": "2026-11-19T14:50:03.433612Z",
   "kpis": {
-    "uploads": 127,
-    "views": 64480,
+    "uploads": 128,
+    "views": 64484,
     "ctr_average": 512.54,
     "apv_average": 67.34,
     "subscribers_gained": 139,
-    "cgs_average": 63.52,
+    "cgs_average": 63.12,
     "top_topics": [
       "Canine Prey Shake Motor Pattern",
       "Canine Late Pleistocene Wolf Divergence",
       "Canine Respiratory Sinus Arrhythmia"
     ],
     "top_titles": [
-      "Understanding Dog Canine Gastric Hydrochloric Secretion",
       "Why Your Dog Canine Pandiculation Myofascial Reset",
-      "Understanding Dog Canine Nictitating Membrane Mobility"
+      "Understanding Dog Canine Nictitating Membrane Mobility",
+      "Understanding Dog Canine Affiliative Muzzle Nudge"
     ]
   },
   "production_metrics": {
-    "success_rate_percent": 80.38,
-    "failure_rate_percent": 19.62,
-    "retry_rate_percent": 15.19,
-    "upload_latency_seconds": 9.61,
-    "generation_latency_seconds": 79.17
+    "success_rate_percent": 80.5,
+    "failure_rate_percent": 19.5,
+    "retry_rate_percent": 15.09,
+    "upload_latency_seconds": 4.72,
+    "generation_latency_seconds": 110.99
   },
   "warnings": []
 }
