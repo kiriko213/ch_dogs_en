@@ -1,15 +1,6 @@
 {
   "items": [
     {
-      "video_id": "_7jRBoWH_-o",
-      "title": "Understanding Dog Canine Cutaneous Wound Contraction",
-      "ctr": 0.0,
-      "apv": 0.0,
-      "subscribers_gained": 0,
-      "performance_score": 0.0,
-      "recorded_at": "2026-10-17T15:29:35.726426Z"
-    },
-    {
       "video_id": "dy6ZVnE2CQA",
       "title": "Understanding Dog Canine Gastric Hydrochloric Secretion",
       "ctr": 0.0,
@@ -449,6 +440,15 @@
       "subscribers_gained": 0,
       "performance_score": 0.0,
       "recorded_at": "2026-11-17T09:50:02.900998Z"
+    },
+    {
+      "video_id": "9Br1eCMcyjY",
+      "title": "Why Your Dog Canine Humidity Evaporative Failure",
+      "ctr": 0.0,
+      "apv": 0.0,
+      "subscribers_gained": 0,
+      "performance_score": 0.0,
+      "recorded_at": "2026-11-19T10:03:32.576260Z"
     }
   ]
 }
