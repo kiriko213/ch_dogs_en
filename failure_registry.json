@@ -216,6 +216,13 @@
       "error_type": "UPLOAD_FAILURE",
       "error_message": "[SSL: UNEXPECTED_EOF_WHILE_READING] unexpected eof while reading (_ssl.c:2592)",
       "recovery_action": "Retrying YouTube upload (attempt 1/2)..."
+    },
+    {
+      "timestamp": "2026-11-20T14:22:34.977589Z",
+      "component": "YouTube_Upload",
+      "error_type": "UPLOAD_FAILURE",
+      "error_message": "[SSL: UNEXPECTED_EOF_WHILE_READING] unexpected eof while reading (_ssl.c:2592)",
+      "recovery_action": "Retrying YouTube upload (attempt 1/2)..."
     }
   ]
 }
