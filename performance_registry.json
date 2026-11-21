@@ -1,9 +1,9 @@
 {
   "channel": "ch_dogs_en",
-  "updated_at": "2026-11-21T13:26:36.996612Z",
-  "average_views": 495.49,
+  "updated_at": "2026-11-21T19:08:00.145962Z",
+  "average_views": 493.49,
   "summary": {
-    "total_videos_tracked": 131,
+    "total_videos_tracked": 132,
     "top_performing_category": "History",
     "lowest_performing_category": "Dental"
   },
@@ -15,7 +15,7 @@
       "category": "default",
       "title": "Dog Episodic Memory's Deepest Secrets",
       "first_tracked_at": "2026-06-22T13:55:43.070877Z",
-      "last_updated_at": "2026-11-21T13:26:36.961640Z",
+      "last_updated_at": "2026-11-21T19:08:00.134806Z",
       "metrics": {
         "views": 265,
         "likes": 2,
@@ -26,10 +26,10 @@
         "apv": 73.96,
         "avd": 9.0
       },
-      "performance_score": 64.54,
-      "performance_score_v1": 19.41,
-      "performance_score_v2": 15.23,
-      "cgs_score": 64.54
+      "performance_score": 64.55,
+      "performance_score_v1": 19.46,
+      "performance_score_v2": 15.27,
+      "cgs_score": 64.55
     },
     {
       "video_id": "rR_qYus7ivE",
@@ -38,7 +38,7 @@
       "category": "default",
       "title": "The Truth About Dog Noses",
       "first_tracked_at": "2026-06-20T13:51:28.810023Z",
-      "last_updated_at": "2026-11-21T13:26:36.994928Z",
+      "last_updated_at": "2026-11-21T19:08:00.144289Z",
       "metrics": {
         "views": 237,
         "likes": 2,
@@ -49,10 +49,10 @@
         "apv": 88.32,
         "avd": 10.0
       },
-      "performance_score": 66.41,
-      "performance_score_v1": 18.71,
-      "performance_score_v2": 14.63,
-      "cgs_score": 66.41
+      "performance_score": 66.42,
+      "performance_score_v1": 18.76,
+      "performance_score_v2": 14.67,
+      "cgs_score": 66.42
     },
     {
       "video_id": "HXcXSfrEMR4",
@@ -61,7 +61,7 @@
       "category": "default",
       "title": "This Dog Vocal Communication Will Shock You",
       "first_tracked_at": "2026-07-17T22:04:11.668259Z",
-      "last_updated_at": "2026-11-21T13:26:36.994956Z",
+      "last_updated_at": "2026-11-21T19:08:00.144316Z",
       "metrics": {
         "views": 271,
         "likes": 0,
@@ -72,10 +72,10 @@
         "apv": 87.19,
         "avd": 10.0
       },
-      "performance_score": 63.49,
-      "performance_score_v1": 13.67,
-      "performance_score_v2": 10.96,
-      "cgs_score": 63.49
+      "performance_score": 63.5,
+      "performance_score_v1": 13.73,
+      "performance_score_v2": 11.0,
+      "cgs_score": 63.5
     },
     {
       "video_id": "q9RUBk19_QA",
@@ -84,7 +84,7 @@
       "category": "Nutrition",
       "title": "Why Your Dog Grape Toxicity In Canine Nutrition",
       "first_tracked_at": "2026-08-02T04:59:55.603651Z",
-      "last_updated_at": "2026-11-21T13:26:36.994974Z",
+      "last_updated_at": "2026-11-21T19:08:00.144335Z",
       "metrics": {
         "views": 80,
         "likes": 1,
@@ -95,10 +95,10 @@
         "apv": 44.67,
         "avd": 6.0
       },
-      "performance_score": 49.94,
-      "performance_score_v1": 14.04,
-      "performance_score_v2": 10.77,
-      "cgs_score": 49.94
+      "performance_score": 49.95,
+      "performance_score_v1": 14.05,
+      "performance_score_v2": 10.78,
+      "cgs_score": 49.95
     },
     {
       "video_id": "VciACp6hcls",
@@ -107,7 +107,7 @@
       "category": "Biomechanics",
       "title": "Why Your Dog Canine Lapping Mechanics",
       "first_tracked_at": "2026-08-02T07:40:48.853697Z",
-      "last_updated_at": "2026-11-21T13:26:36.994989Z",
+      "last_updated_at": "2026-11-21T19:08:00.144350Z",
       "metrics": {
         "views": 912,
         "likes": 16,
@@ -118,10 +118,10 @@
         "apv": 64.85,
         "avd": 10.0
       },
-      "performance_score": 68.66,
-      "performance_score_v1": 60.05,
-      "performance_score_v2": 47.38,
-      "cgs_score": 68.66
+      "performance_score": 68.7,
+      "performance_score_v1": 60.24,
+      "performance_score_v2": 47.53,
+      "cgs_score": 68.7
     },
     {
       "video_id": "OJFt1ByU_FA",
@@ -130,7 +130,7 @@
       "category": "Behavior",
       "title": "Why Your Dog Frenetic Random Activity Periods",
       "first_tracked_at": "2026-08-02T13:49:45.350925Z",
-      "last_updated_at": "2026-11-21T13:26:36.995003Z",
+      "last_updated_at": "2026-11-21T19:08:00.144364Z",
       "metrics": {
         "views": 1301,
         "likes": 15,
@@ -153,7 +153,7 @@
       "category": "Physiology",
       "title": "Understanding Dog Canine Paw Pad Thermoregulation",
       "first_tracked_at": "2026-08-03T05:11:52.472080Z",
-      "last_updated_at": "2026-11-21T13:26:36.995025Z",
+      "last_updated_at": "2026-11-21T19:08:00.144385Z",
       "metrics": {
         "views": 10,
         "likes": 0,
@@ -165,7 +165,7 @@
         "avd": 7.0
       },
       "performance_score": 42.3,
-      "performance_score_v1": 0.5,
+      "performance_score_v1": 0.51,
       "performance_score_v2": 0.45,
       "cgs_score": 42.3
     },
@@ -176,7 +176,7 @@
       "category": "Sleep",
       "title": "Understanding Dog Canine Rem Sleep Dynamics",
       "first_tracked_at": "2026-08-03T08:41:37.374225Z",
-      "last_updated_at": "2026-11-21T13:26:36.995040Z",
+      "last_updated_at": "2026-11-21T19:08:00.144402Z",
       "metrics": {
         "views": 811,
         "likes": 9,
@@ -187,10 +187,10 @@
         "apv": 67.25,
         "avd": 9.0
       },
-      "performance_score": 71.58,
-      "performance_score_v1": 49.8,
-      "performance_score_v2": 39.44,
-      "cgs_score": 71.58
+      "performance_score": 71.61,
+      "performance_score_v1": 49.96,
+      "performance_score_v2": 39.57,
+      "cgs_score": 71.61
     },
     {
       "video_id": "Xxpa8xe-O1U",
@@ -199,7 +199,7 @@
       "category": "Body Language",
       "title": "Why Your Dog Canine Play Bow Communication",
       "first_tracked_at": "2026-08-03T15:12:29.344988Z",
-      "last_updated_at": "2026-11-21T13:26:36.995060Z",
+      "last_updated_at": "2026-11-21T19:08:00.144422Z",
       "metrics": {
         "views": 51,
         "likes": 0,
@@ -210,10 +210,10 @@
         "apv": 48.64,
         "avd": 8.0
       },
-      "performance_score": 49.26,
-      "performance_score_v1": 2.57,
-      "performance_score_v2": 2.1,
-      "cgs_score": 49.26
+      "performance_score": 49.27,
+      "performance_score_v1": 2.58,
+      "performance_score_v2": 2.11,
+      "cgs_score": 49.27
     },
     {
       "video_id": "MsUF_nBempI",
@@ -222,7 +222,7 @@
       "category": "Training",
       "title": "Understanding Dog Dog Reward Association Timing",
       "first_tracked_at": "2026-08-04T04:48:04.683089Z",
-      "last_updated_at": "2026-11-21T13:26:36.995074Z",
+      "last_updated_at": "2026-11-21T19:08:00.144436Z",
       "metrics": {
         "views": 203,
         "likes": 9,
@@ -233,10 +233,10 @@
         "apv": 61.92999999999999,
         "avd": 9.0
       },
-      "performance_score": 66.43,
-      "performance_score_v1": 45.71,
-      "performance_score_v2": 34.84,
-      "cgs_score": 66.43
+      "performance_score": 66.44,
+      "performance_score_v1": 45.75,
+      "performance_score_v2": 34.87,
+      "cgs_score": 66.44
     },
     {
       "video_id": "si1teOx1sT8",
@@ -245,7 +245,7 @@
       "category": "Anatomy",
       "title": "The Reason Dogs Have 42 Teeth",
       "first_tracked_at": "2026-08-04T07:47:58.463606Z",
-      "last_updated_at": "2026-11-21T13:26:36.995087Z",
+      "last_updated_at": "2026-11-21T19:08:00.144449Z",
       "metrics": {
         "views": 58,
         "likes": 0,
@@ -257,7 +257,7 @@
         "avd": 7.0
       },
       "performance_score": 51.89,
-      "performance_score_v1": 2.93,
+      "performance_score_v1": 2.94,
       "performance_score_v2": 2.39,
       "cgs_score": 51.89
     },
@@ -268,7 +268,7 @@
       "category": "Evolution",
       "title": "Understanding Dog Canine Starch Digestion",
       "first_tracked_at": "2026-08-04T14:36:48.236841Z",
-      "last_updated_at": "2026-11-21T13:26:36.995099Z",
+      "last_updated_at": "2026-11-21T19:08:00.144460Z",
       "metrics": {
         "views": 800,
         "likes": 13,
@@ -279,10 +279,10 @@
         "apv": 65.62,
         "avd": 9.0
       },
-      "performance_score": 71.63,
-      "performance_score_v1": 53.36,
-      "performance_score_v2": 42.09,
-      "cgs_score": 71.63
+      "performance_score": 71.66,
+      "performance_score_v1": 53.53,
+      "performance_score_v2": 42.22,
+      "cgs_score": 71.66
     },
     {
       "video_id": "b1CnFm706_c",
@@ -291,7 +291,7 @@
       "category": "Bonding",
       "title": "Understanding Dog Physical Weight Leaning Behavior",
       "first_tracked_at": "2026-08-05T04:47:19.475776Z",
-      "last_updated_at": "2026-11-21T13:26:36.995111Z",
+      "last_updated_at": "2026-11-21T19:08:00.144473Z",
       "metrics": {
         "views": 899,
         "likes": 14,
@@ -302,10 +302,10 @@
         "apv": 65.02,
         "avd": 8.0
       },
-      "performance_score": 66.3,
-      "performance_score_v1": 57.82,
-      "performance_score_v2": 45.68,
-      "cgs_score": 66.3
+      "performance_score": 66.34,
+      "performance_score_v1": 58.0,
+      "performance_score_v2": 45.82,
+      "cgs_score": 66.34
     },
     {
       "video_id": "rh7saz8wyM0",
@@ -314,7 +314,7 @@
       "category": "Navigation",
       "title": "Why Your Dog Canine Geomagnetic Orientation",
       "first_tracked_at": "2026-08-05T07:49:38.153510Z",
-      "last_updated_at": "2026-11-21T13:26:36.995124Z",
+      "last_updated_at": "2026-11-21T19:08:00.144486Z",
       "metrics": {
         "views": 1304,
         "likes": 12,
@@ -337,7 +337,7 @@
       "category": "Biomechanics",
       "title": "Understanding Dog Hind Leg Sploot Posture Mechanics",
       "first_tracked_at": "2026-08-05T14:29:18.515071Z",
-      "last_updated_at": "2026-11-21T13:26:36.995135Z",
+      "last_updated_at": "2026-11-21T19:08:00.144497Z",
       "metrics": {
         "views": 315,
         "likes": 1,
@@ -348,10 +348,10 @@
         "apv": 53.400000000000006,
         "avd": 9.0
       },
-      "performance_score": 53.69,
-      "performance_score_v1": 18.43,
-      "performance_score_v2": 14.67,
-      "cgs_score": 53.69
+      "performance_score": 53.71,
+      "performance_score_v1": 18.5,
+      "performance_score_v2": 14.72,
+      "cgs_score": 53.71
     },
     {
       "video_id": "J5KmDMb2bnA",
@@ -360,7 +360,7 @@
       "category": "Sensory Biology",
       "title": "Why Your Dog Canine Tactile Whiskers",
       "first_tracked_at": "2026-08-06T04:48:24.166069Z",
-      "last_updated_at": "2026-11-21T13:26:36.995146Z",
+      "last_updated_at": "2026-11-21T19:08:00.144508Z",
       "metrics": {
         "views": 865,
         "likes": 7,
@@ -371,10 +371,10 @@
         "apv": 53.900000000000006,
         "avd": 9.0
       },
-      "performance_score": 64.67,
-      "performance_score_v1": 50.12,
-      "performance_score_v2": 39.82,
-      "cgs_score": 64.67
+      "performance_score": 64.7,
+      "performance_score_v1": 50.29,
+      "performance_score_v2": 39.96,
+      "cgs_score": 64.7
     },
     {
       "video_id": "GUunj_VNnwc",
@@ -383,7 +383,7 @@
       "category": "Evolution",
       "title": "Understanding Dog Eyebrow Muscle Facial Evolution",
       "first_tracked_at": "2026-08-06T07:49:04.463982Z",
-      "last_updated_at": "2026-11-21T13:26:36.995157Z",
+      "last_updated_at": "2026-11-21T19:08:00.144519Z",
       "metrics": {
         "views": 164,
         "likes": 5,
@@ -395,8 +395,8 @@
         "avd": 7.0
       },
       "performance_score": 56.98,
-      "performance_score_v1": 32.66,
-      "performance_score_v2": 24.96,
+      "performance_score_v1": 32.7,
+      "performance_score_v2": 24.99,
       "cgs_score": 56.98
     },
     {
@@ -406,7 +406,7 @@
       "category": "Locomotion",
       "title": "Why Your Dog Dog Paddle Biomechanics",
       "first_tracked_at": "2026-08-06T14:32:32.942311Z",
-      "last_updated_at": "2026-11-21T13:26:36.995168Z",
+      "last_updated_at": "2026-11-21T19:08:00.144530Z",
       "metrics": {
         "views": 1306,
         "likes": 16,
@@ -429,7 +429,7 @@
       "category": "Nutrition",
       "title": "Why Your Dog Canine Grass Eating",
       "first_tracked_at": "2026-08-07T04:15:09.056510Z",
-      "last_updated_at": "2026-11-21T13:26:36.995179Z",
+      "last_updated_at": "2026-11-21T19:08:00.144541Z",
       "metrics": {
         "views": 1201,
         "likes": 6,
@@ -452,7 +452,7 @@
       "category": "Behavior",
       "title": "Understanding Dog Canine Deep Sighing Meaning",
       "first_tracked_at": "2026-08-07T14:18:51.702661Z",
-      "last_updated_at": "2026-11-21T13:26:36.995191Z",
+      "last_updated_at": "2026-11-21T19:08:00.144552Z",
       "metrics": {
         "views": 1058,
         "likes": 17,
@@ -475,7 +475,7 @@
       "category": "Behavior",
       "title": "Why Your Dog Canine Contagious Yawning",
       "first_tracked_at": "2026-08-08T03:12:38.818504Z",
-      "last_updated_at": "2026-11-21T13:26:36.995202Z",
+      "last_updated_at": "2026-11-21T19:08:00.144581Z",
       "metrics": {
         "views": 903,
         "likes": 8,
@@ -486,10 +486,10 @@
         "apv": 68.05,
         "avd": 10.0
       },
-      "performance_score": 70.47,
-      "performance_score_v1": 52.65,
-      "performance_score_v2": 41.82,
-      "cgs_score": 70.47
+      "performance_score": 70.51,
+      "performance_score_v1": 52.83,
+      "performance_score_v2": 41.97,
+      "cgs_score": 70.51
     },
     {
       "video_id": "53pNaGmaIvs",
@@ -498,7 +498,7 @@
       "category": "Aging",
       "title": "Understanding Dog Premature Graying In Canines",
       "first_tracked_at": "2026-08-08T05:54:57.385734Z",
-      "last_updated_at": "2026-11-21T13:26:36.995213Z",
+      "last_updated_at": "2026-11-21T19:08:00.144592Z",
       "metrics": {
         "views": 684,
         "likes": 11,
@@ -509,10 +509,10 @@
         "apv": 48.37,
         "avd": 8.0
       },
-      "performance_score": 57.97,
-      "performance_score_v1": 47.38,
-      "performance_score_v2": 37.31,
-      "cgs_score": 57.97
+      "performance_score": 57.99,
+      "performance_score_v1": 47.52,
+      "performance_score_v2": 37.42,
+      "cgs_score": 57.99
     },
     {
       "video_id": "XAYTQOgsPck",
@@ -521,7 +521,7 @@
       "category": "Nutrition",
       "title": "Understanding Dog Canine Water And Sweet Receptors",
       "first_tracked_at": "2026-08-08T13:09:25.467285Z",
-      "last_updated_at": "2026-11-21T13:26:36.995223Z",
+      "last_updated_at": "2026-11-21T19:08:00.144603Z",
       "metrics": {
         "views": 150,
         "likes": 1,
@@ -532,10 +532,10 @@
         "apv": 51.22,
         "avd": 8.0
       },
-      "performance_score": 52.23,
-      "performance_score_v1": 12.9,
-      "performance_score_v2": 10.11,
-      "cgs_score": 52.23
+      "performance_score": 52.24,
+      "performance_score_v1": 12.93,
+      "performance_score_v2": 10.13,
+      "cgs_score": 52.24
     },
     {
       "video_id": "YmmyFJiuX08",
@@ -544,7 +544,7 @@
       "category": "Vision",
       "title": "Why Your Dog Canine Dichromatic Color Vision",
       "first_tracked_at": "2026-08-09T03:20:24.239965Z",
-      "last_updated_at": "2026-11-21T13:26:36.995234Z",
+      "last_updated_at": "2026-11-21T19:08:00.144614Z",
       "metrics": {
         "views": 405,
         "likes": 9,
@@ -555,10 +555,10 @@
         "apv": 58.42,
         "avd": 9.0
       },
-      "performance_score": 59.84,
-      "performance_score_v1": 38.21,
-      "performance_score_v2": 29.74,
-      "cgs_score": 59.84
+      "performance_score": 59.86,
+      "performance_score_v1": 38.29,
+      "performance_score_v2": 29.8,
+      "cgs_score": 59.86
     },
     {
       "video_id": "E2pS9Sm8OF0",
@@ -567,7 +567,7 @@
       "category": "Genetics",
       "title": "Why Your Dog Canine Hypersociability Genetics",
       "first_tracked_at": "2026-08-09T05:57:00.173990Z",
-      "last_updated_at": "2026-11-21T13:26:36.995245Z",
+      "last_updated_at": "2026-11-21T19:08:00.144624Z",
       "metrics": {
         "views": 182,
         "likes": 3,
@@ -578,10 +578,10 @@
         "apv": 75.38,
         "avd": 12.0
       },
-      "performance_score": 63.09,
-      "performance_score_v1": 22.37,
-      "performance_score_v2": 17.29,
-      "cgs_score": 63.09
+      "performance_score": 63.1,
+      "performance_score_v1": 22.41,
+      "performance_score_v2": 17.32,
+      "cgs_score": 63.1
     },
     {
       "video_id": "V1muk7Ieux8",
@@ -590,7 +590,7 @@
       "category": "Reproduction",
       "title": "Why Your Dog Canine Pseudopregnancy Hormones",
       "first_tracked_at": "2026-08-09T13:12:20.244187Z",
-      "last_updated_at": "2026-11-21T13:26:36.995256Z",
+      "last_updated_at": "2026-11-21T19:08:00.144635Z",
       "metrics": {
         "views": 258,
         "likes": 0,
@@ -601,10 +601,10 @@
         "apv": 74.22,
         "avd": 11.0
       },
-      "performance_score": 60.95,
-      "performance_score_v1": 13.02,
-      "performance_score_v2": 10.47,
-      "cgs_score": 60.95
+      "performance_score": 60.96,
+      "performance_score_v1": 13.07,
+      "performance_score_v2": 10.51,
+      "cgs_score": 60.96
     },
     {
       "video_id": "Y7jmbNWEg7Q",
@@ -613,7 +613,7 @@
       "category": "Health",
       "title": "The Fascinating Reason Dogs Eat Bones",
       "first_tracked_at": "2026-08-10T03:29:51.282641Z",
-      "last_updated_at": "2026-11-21T13:26:36.995267Z",
+      "last_updated_at": "2026-11-21T19:08:00.144646Z",
       "metrics": {
         "views": 1154,
         "likes": 13,
@@ -636,7 +636,7 @@
       "category": "Coat Physiology",
       "title": "Understanding Dog Canine Double Coat Thermal Insulation",
       "first_tracked_at": "2026-08-10T06:21:39.598172Z",
-      "last_updated_at": "2026-11-21T13:26:36.995278Z",
+      "last_updated_at": "2026-11-21T19:08:00.144657Z",
       "metrics": {
         "views": 309,
         "likes": 5,
@@ -647,10 +647,10 @@
         "apv": 45.76,
         "avd": 7.0
       },
-      "performance_score": 52.72,
-      "performance_score_v1": 28.54,
-      "performance_score_v2": 22.24,
-      "cgs_score": 52.72
+      "performance_score": 52.73,
+      "performance_score_v1": 28.6,
+      "performance_score_v2": 22.29,
+      "cgs_score": 52.73
     },
     {
       "video_id": "rue5PQbVjk4",
@@ -659,7 +659,7 @@
       "category": "Nutrition",
       "title": "Why You Should Add Water With Dog Food",
       "first_tracked_at": "2026-08-10T13:38:36.805253Z",
-      "last_updated_at": "2026-11-21T13:26:36.995290Z",
+      "last_updated_at": "2026-11-21T19:08:00.144669Z",
       "metrics": {
         "views": 318,
         "likes": 10,
@@ -670,10 +670,10 @@
         "apv": 74.79,
         "avd": 11.0
       },
-      "performance_score": 68.49,
-      "performance_score_v1": 41.2,
-      "performance_score_v2": 31.76,
-      "cgs_score": 68.49
+      "performance_score": 68.5,
+      "performance_score_v1": 41.27,
+      "performance_score_v2": 31.82,
+      "cgs_score": 68.5
     },
     {
       "video_id": "xh6BzA7D0Ik",
@@ -682,7 +682,7 @@
       "category": "Physiology",
       "title": "Understanding Dog Canine Scratch Reflex Mechanism",
       "first_tracked_at": "2026-08-11T03:22:25.261335Z",
-      "last_updated_at": "2026-11-21T13:26:36.995301Z",
+      "last_updated_at": "2026-11-21T19:08:00.144679Z",
       "metrics": {
         "views": 524,
         "likes": 9,
@@ -693,10 +693,10 @@
         "apv": 48.01,
         "avd": 8.0
       },
-      "performance_score": 58.38,
-      "performance_score_v1": 40.18,
-      "performance_score_v2": 31.52,
-      "cgs_score": 58.38
+      "performance_score": 58.4,
+      "performance_score_v1": 40.29,
+      "performance_score_v2": 31.6,
+      "cgs_score": 58.4
     },
     {
       "video_id": "h16yFEz1XK4",
@@ -705,7 +705,7 @@
       "category": "Anatomy",
       "title": "Understanding Dog Canine Dewclaw Function",
       "first_tracked_at": "2026-08-11T06:02:24.364829Z",
-      "last_updated_at": "2026-11-21T13:26:36.995311Z",
+      "last_updated_at": "2026-11-21T19:08:00.144691Z",
       "metrics": {
         "views": 298,
         "likes": 7,
@@ -716,10 +716,10 @@
         "apv": 54.97,
         "avd": 9.0
       },
-      "performance_score": 57.66,
-      "performance_score_v1": 33.83,
-      "performance_score_v2": 26.19,
-      "cgs_score": 57.66
+      "performance_score": 57.67,
+      "performance_score_v1": 33.89,
+      "performance_score_v2": 26.23,
+      "cgs_score": 57.67
     },
     {
       "video_id": "Exg8G9mnbzQ",
@@ -728,7 +728,7 @@
       "category": "Psychology",
       "title": "Understanding Dog Canine Social Hierarchy Dynamics",
       "first_tracked_at": "2026-08-11T13:36:44.755014Z",
-      "last_updated_at": "2026-11-21T13:26:36.995322Z",
+      "last_updated_at": "2026-11-21T19:08:00.144702Z",
       "metrics": {
         "views": 152,
         "likes": 2,
@@ -739,10 +739,10 @@
         "apv": 54.230000000000004,
         "avd": 7.0
       },
-      "performance_score": 54.36,
-      "performance_score_v1": 18.2,
-      "performance_score_v2": 14.09,
-      "cgs_score": 54.36
+      "performance_score": 54.37,
+      "performance_score_v1": 18.23,
+      "performance_score_v2": 14.12,
+      "cgs_score": 54.37
     },
     {
       "video_id": "tyDl0Sgwwa4",
@@ -751,7 +751,7 @@
       "category": "Cognition",
       "title": "Understanding Dog Canine Biological Circadian Clock",
       "first_tracked_at": "2026-08-12T03:49:29.607286Z",
-      "last_updated_at": "2026-11-21T13:26:36.995333Z",
+      "last_updated_at": "2026-11-21T19:08:00.144713Z",
       "metrics": {
         "views": 243,
         "likes": 4,
@@ -762,10 +762,10 @@
         "apv": 87.28,
         "avd": 14.0
       },
-      "performance_score": 64.94,
-      "performance_score_v1": 25.43,
-      "performance_score_v2": 19.75,
-      "cgs_score": 64.94
+      "performance_score": 64.95,
+      "performance_score_v1": 25.48,
+      "performance_score_v2": 19.79,
+      "cgs_score": 64.95
     },
     {
       "video_id": "JouwELOTZhY",
@@ -774,7 +774,7 @@
       "category": "Instinct",
       "title": "Understanding Dog Canine Nesting Digging Instinct",
       "first_tracked_at": "2026-08-12T06:41:53.755045Z",
-      "last_updated_at": "2026-11-21T13:26:36.995344Z",
+      "last_updated_at": "2026-11-21T19:08:00.144725Z",
       "metrics": {
         "views": 721,
         "likes": 5,
@@ -785,10 +785,10 @@
         "apv": 60.54999999999999,
         "avd": 9.0
       },
-      "performance_score": 63.54,
-      "performance_score_v1": 41.93,
-      "performance_score_v2": 33.33,
-      "cgs_score": 63.54
+      "performance_score": 63.57,
+      "performance_score_v1": 42.07,
+      "performance_score_v2": 33.45,
+      "cgs_score": 63.57
     },
     {
       "video_id": "mHX0YDkqlqI",
@@ -797,7 +797,7 @@
       "category": "Health",
       "title": "Understanding Dog Canine Skin Elasticity Hydration Test",
       "first_tracked_at": "2026-08-12T13:39:45.051953Z",
-      "last_updated_at": "2026-11-21T13:26:36.995356Z",
+      "last_updated_at": "2026-11-21T19:08:00.144736Z",
       "metrics": {
         "views": 383,
         "likes": 5,
@@ -808,10 +808,10 @@
         "apv": 52.49,
         "avd": 7.0
       },
-      "performance_score": 55.52,
-      "performance_score_v1": 29.77,
-      "performance_score_v2": 23.36,
-      "cgs_score": 55.52
+      "performance_score": 55.54,
+      "performance_score_v1": 29.85,
+      "performance_score_v2": 23.42,
+      "cgs_score": 55.54
     },
     {
       "video_id": "shw-MLxE8vQ",
@@ -820,7 +820,7 @@
       "category": "Motor Control",
       "title": "Why Your Dog Canine Paw Preference Ambidexterity",
       "first_tracked_at": "2026-08-13T03:53:56.223098Z",
-      "last_updated_at": "2026-11-21T13:26:36.995367Z",
+      "last_updated_at": "2026-11-21T19:08:00.144748Z",
       "metrics": {
         "views": 328,
         "likes": 4,
@@ -831,10 +831,10 @@
         "apv": 88.45,
         "avd": 12.0
       },
-      "performance_score": 67.66,
-      "performance_score_v1": 26.31,
-      "performance_score_v2": 20.63,
-      "cgs_score": 67.66
+      "performance_score": 67.67,
+      "performance_score_v1": 26.37,
+      "performance_score_v2": 20.68,
+      "cgs_score": 67.67
     },
     {
       "video_id": "xmYcrUx8l1o",
@@ -843,7 +843,7 @@
       "category": "Respiratory",
       "title": "Why Your Dog Canine Reverse Sneezing Reflex",
       "first_tracked_at": "2026-08-13T06:44:44.342943Z",
-      "last_updated_at": "2026-11-21T13:26:36.995378Z",
+      "last_updated_at": "2026-11-21T19:08:00.144758Z",
       "metrics": {
         "views": 907,
         "likes": 9,
@@ -854,10 +854,10 @@
         "apv": 58.92000000000001,
         "avd": 9.0
       },
-      "performance_score": 63.25,
-      "performance_score_v1": 53.7,
-      "performance_score_v2": 42.63,
-      "cgs_score": 63.25
+      "performance_score": 63.29,
+      "performance_score_v1": 53.89,
+      "performance_score_v2": 42.78,
+      "cgs_score": 63.29
     },
     {
       "video_id": "annC9Ddd0xs",
@@ -866,7 +866,7 @@
       "category": "Psychology",
       "title": "Understanding Dog Canine Heartbeat Synchronization",
       "first_tracked_at": "2026-08-13T13:40:25.124854Z",
-      "last_updated_at": "2026-11-21T13:26:36.995410Z",
+      "last_updated_at": "2026-11-21T19:08:00.144769Z",
       "metrics": {
         "views": 1342,
         "likes": 23,
@@ -889,7 +889,7 @@
       "category": "Social Bonding",
       "title": "Why Your Dog Canine Social Allogrooming",
       "first_tracked_at": "2026-08-14T03:50:26.673833Z",
-      "last_updated_at": "2026-11-21T13:26:36.995422Z",
+      "last_updated_at": "2026-11-21T19:08:00.144780Z",
       "metrics": {
         "views": 910,
         "likes": 26,
@@ -900,10 +900,10 @@
         "apv": 61.55,
         "avd": 10.0
       },
-      "performance_score": 71.07,
-      "performance_score_v1": 68.77,
-      "performance_score_v2": 53.95,
-      "cgs_score": 71.07
+      "performance_score": 71.1,
+      "performance_score_v1": 68.96,
+      "performance_score_v2": 54.09,
+      "cgs_score": 71.1
     },
     {
       "video_id": "0TfiiIlj-Og",
@@ -912,7 +912,7 @@
       "category": "Immunology",
       "title": "Understanding Dog Canine Colostrum Antibody Transfer",
       "first_tracked_at": "2026-08-14T13:35:54.852867Z",
-      "last_updated_at": "2026-11-21T13:26:36.995434Z",
+      "last_updated_at": "2026-11-21T19:08:00.144791Z",
       "metrics": {
         "views": 308,
         "likes": 8,
@@ -923,10 +923,10 @@
         "apv": 66.12,
         "avd": 11.0
       },
-      "performance_score": 64.32,
-      "performance_score_v1": 36.32,
-      "performance_score_v2": 28.09,
-      "cgs_score": 64.32
+      "performance_score": 64.33,
+      "performance_score_v1": 36.38,
+      "performance_score_v2": 28.14,
+      "cgs_score": 64.33
     },
     {
       "video_id": "QoodlYYCBzM",
@@ -935,7 +935,7 @@
       "category": "Care",
       "title": "Why You Should Pick Safe Dog Toys",
       "first_tracked_at": "2026-08-16T02:46:33.948458Z",
-      "last_updated_at": "2026-11-21T13:26:36.995445Z",
+      "last_updated_at": "2026-11-21T19:08:00.144802Z",
       "metrics": {
         "views": 102,
         "likes": 0,
@@ -947,8 +947,8 @@
         "avd": 10.0
       },
       "performance_score": 54.55,
-      "performance_score_v1": 5.15,
-      "performance_score_v2": 4.2,
+      "performance_score_v1": 5.17,
+      "performance_score_v2": 4.21,
       "cgs_score": 54.55
     },
     {
@@ -958,7 +958,7 @@
       "category": "Locomotion",
       "title": "Understanding Dog Canine Rotary Gallop Biomechanics",
       "first_tracked_at": "2026-08-18T02:40:40.777106Z",
-      "last_updated_at": "2026-11-21T13:26:36.995457Z",
+      "last_updated_at": "2026-11-21T19:08:00.144813Z",
       "metrics": {
         "views": 444,
         "likes": 3,
@@ -969,10 +969,10 @@
         "apv": 56.10000000000001,
         "avd": 8.0
       },
-      "performance_score": 56.55,
-      "performance_score_v1": 27.81,
-      "performance_score_v2": 22.06,
-      "cgs_score": 56.55
+      "performance_score": 56.57,
+      "performance_score_v1": 27.9,
+      "performance_score_v2": 22.14,
+      "cgs_score": 56.57
     },
     {
       "video_id": "TxfOUYvIYVw",
@@ -981,7 +981,7 @@
       "category": "Anatomy",
       "title": "Understanding Dog Canine Vestigial Clavicle",
       "first_tracked_at": "2026-08-20T02:43:04.366191Z",
-      "last_updated_at": "2026-11-21T13:26:36.995469Z",
+      "last_updated_at": "2026-11-21T19:08:00.144824Z",
       "metrics": {
         "views": 70,
         "likes": 0,
@@ -993,8 +993,8 @@
         "avd": 6.0
       },
       "performance_score": 45.39,
-      "performance_score_v1": 3.53,
-      "performance_score_v2": 2.92,
+      "performance_score_v1": 3.55,
+      "performance_score_v2": 2.93,
       "cgs_score": 45.39
     },
     {
@@ -1004,7 +1004,7 @@
       "category": "Biology",
       "title": "Why Your Dog Canine Erythrocyte Antigen System",
       "first_tracked_at": "2026-08-23T02:48:43.625046Z",
-      "last_updated_at": "2026-11-21T13:26:36.995481Z",
+      "last_updated_at": "2026-11-21T19:08:00.144835Z",
       "metrics": {
         "views": 1023,
         "likes": 19,
@@ -1027,7 +1027,7 @@
       "category": "Anatomy",
       "title": "The Fascinating Reason Dogs Walk on Toes",
       "first_tracked_at": "2026-08-23T12:59:14.763930Z",
-      "last_updated_at": "2026-11-21T13:26:36.995492Z",
+      "last_updated_at": "2026-11-21T19:08:00.144847Z",
       "metrics": {
         "views": 880,
         "likes": 7,
@@ -1038,10 +1038,10 @@
         "apv": 50.59,
         "avd": 8.0
       },
-      "performance_score": 62.71,
-      "performance_score_v1": 53.04,
-      "performance_score_v2": 44.95,
-      "cgs_score": 62.71
+      "performance_score": 62.75,
+      "performance_score_v1": 53.22,
+      "performance_score_v2": 45.1,
+      "cgs_score": 62.75
     },
     {
       "video_id": "o-ePhLLAK6I",
@@ -1050,7 +1050,7 @@
       "category": "Socialization",
       "title": "Why Your Dog Canine Play Bite Inhibition",
       "first_tracked_at": "2026-08-25T02:44:37.558370Z",
-      "last_updated_at": "2026-11-21T13:26:36.995504Z",
+      "last_updated_at": "2026-11-21T19:08:00.144858Z",
       "metrics": {
         "views": 323,
         "likes": 7,
@@ -1061,10 +1061,10 @@
         "apv": 57.74,
         "avd": 9.0
       },
-      "performance_score": 59.2,
-      "performance_score_v1": 33.63,
-      "performance_score_v2": 26.17,
-      "cgs_score": 59.2
+      "performance_score": 59.21,
+      "performance_score_v1": 33.7,
+      "performance_score_v2": 26.22,
+      "cgs_score": 59.21
     },
     {
       "video_id": "qeoBfOtvnIQ",
@@ -1073,7 +1073,7 @@
       "category": "Cognition",
       "title": "The Fascinating Reason Dogs Count",
       "first_tracked_at": "2026-08-31T07:34:59.432275Z",
-      "last_updated_at": "2026-11-21T13:26:36.995516Z",
+      "last_updated_at": "2026-11-21T19:08:00.144869Z",
       "metrics": {
         "views": 567,
         "likes": 6,
@@ -1084,10 +1084,10 @@
         "apv": 42.37,
         "avd": 7.0
       },
-      "performance_score": 53.74,
-      "performance_score_v1": 37.07,
-      "performance_score_v2": 29.41,
-      "cgs_score": 53.74
+      "performance_score": 53.76,
+      "performance_score_v1": 37.19,
+      "performance_score_v2": 29.5,
+      "cgs_score": 53.76
     },
     {
       "video_id": "viDjc2nfhFo",
@@ -1096,7 +1096,7 @@
       "category": "Dermatology",
       "title": "Why Your Dog Canine Piloerection Reflex",
       "first_tracked_at": "2026-09-07T13:01:11.178929Z",
-      "last_updated_at": "2026-11-21T13:26:36.995527Z",
+      "last_updated_at": "2026-11-21T19:08:00.144880Z",
       "metrics": {
         "views": 594,
         "likes": 23,
@@ -1107,10 +1107,10 @@
         "apv": 73.34,
         "avd": 11.0
       },
-      "performance_score": 75.86,
-      "performance_score_v1": 60.95,
-      "performance_score_v2": 47.45,
-      "cgs_score": 75.86
+      "performance_score": 75.89,
+      "performance_score_v1": 61.07,
+      "performance_score_v2": 47.55,
+      "cgs_score": 75.89
     },
     {
       "video_id": "jeADDTH8nqY",
@@ -1119,7 +1119,7 @@
       "category": "Digestion",
       "title": "Why Your Dog Canine Gorge Feeding Elasticity",
       "first_tracked_at": "2026-09-07T17:44:08.211102Z",
-      "last_updated_at": "2026-11-21T13:26:36.995538Z",
+      "last_updated_at": "2026-11-21T19:08:00.144891Z",
       "metrics": {
         "views": 798,
         "likes": 11,
@@ -1130,10 +1130,10 @@
         "apv": 67.0,
         "avd": 10.0
       },
-      "performance_score": 73.81,
-      "performance_score_v1": 51.29,
-      "performance_score_v2": 40.73,
-      "cgs_score": 73.81
+      "performance_score": 73.84,
+      "performance_score_v1": 51.45,
+      "performance_score_v2": 40.85,
+      "cgs_score": 73.84
     },
     {
       "video_id": "otAsNEgc0Kw",
@@ -1142,7 +1142,7 @@
       "category": "Biology",
       "title": "Why Your Dog Photoperiod Dependent Fur Shedding",
       "first_tracked_at": "2026-09-12T15:28:29.958350Z",
-      "last_updated_at": "2026-11-21T13:26:36.995550Z",
+      "last_updated_at": "2026-11-21T19:08:00.144902Z",
       "metrics": {
         "views": 115,
         "likes": 3,
@@ -1153,10 +1153,10 @@
         "apv": 49.07,
         "avd": 8.0
       },
-      "performance_score": 54.05,
-      "performance_score_v1": 26.67,
-      "performance_score_v2": 20.61,
-      "cgs_score": 54.05
+      "performance_score": 54.06,
+      "performance_score_v1": 26.7,
+      "performance_score_v2": 20.62,
+      "cgs_score": 54.06
     },
     {
       "video_id": "YRNTikl-pE0",
@@ -1165,7 +1165,7 @@
       "category": "Digestion",
       "title": "Why You Should Elevate Dog Bowls",
       "first_tracked_at": "2026-09-23T16:51:22.278402Z",
-      "last_updated_at": "2026-11-21T13:26:36.995562Z",
+      "last_updated_at": "2026-11-21T19:08:00.144913Z",
       "metrics": {
         "views": 1065,
         "likes": 5,
@@ -1178,7 +1178,7 @@
       },
       "performance_score": 65.69,
       "performance_score_v1": 53.76,
-      "performance_score_v2": 43.36,
+      "performance_score_v2": 43.35,
       "cgs_score": 65.69
     },
     {
@@ -1188,7 +1188,7 @@
       "category": "Behavior",
       "title": "The Fascinating Reason Dogs Circle",
       "first_tracked_at": "2026-09-28T07:33:16.216628Z",
-      "last_updated_at": "2026-11-21T13:26:36.995574Z",
+      "last_updated_at": "2026-11-21T19:08:00.144924Z",
       "metrics": {
         "views": 1220,
         "likes": 24,
@@ -1199,10 +1199,10 @@
         "apv": 65.32,
         "avd": 11.0
       },
-      "performance_score": 74.62,
+      "performance_score": 74.61,
       "performance_score_v1": 65.74,
-      "performance_score_v2": 52.49,
-      "cgs_score": 74.62
+      "performance_score_v2": 52.48,
+      "cgs_score": 74.61
     },
     {
       "video_id": "y-qVMdtg8O0",
@@ -1211,7 +1211,7 @@
       "category": "Health",
       "title": "The Fascinating Reason Dogs Pant Loudly",
       "first_tracked_at": "2026-10-03T07:03:44.396594Z",
-      "last_updated_at": "2026-11-21T13:26:36.995585Z",
+      "last_updated_at": "2026-11-21T19:08:00.144935Z",
       "metrics": {
         "views": 21,
         "likes": 0,
@@ -1224,7 +1224,7 @@
       },
       "performance_score": 52.21,
       "performance_score_v1": 1.06,
-      "performance_score_v2": 1.72,
+      "performance_score_v2": 1.71,
       "cgs_score": 52.21
     },
     {
@@ -1234,7 +1234,7 @@
       "category": "Neurobiology",
       "title": "Why Your Dog Autonomic Nervous System Shake-Off",
       "first_tracked_at": "2026-10-09T07:58:43.521054Z",
-      "last_updated_at": "2026-11-21T13:26:36.995598Z",
+      "last_updated_at": "2026-11-21T19:08:00.144947Z",
       "metrics": {
         "views": 1126,
         "likes": 9,
@@ -1247,7 +1247,7 @@
       },
       "performance_score": 72.56,
       "performance_score_v1": 56.39,
-      "performance_score_v2": 45.97,
+      "performance_score_v2": 45.96,
       "cgs_score": 72.56
     },
     {
@@ -1257,7 +1257,7 @@
       "category": "Safety",
       "title": "Understanding Dog Canine Microchipping Biocompatibility",
       "first_tracked_at": "2026-10-09T11:53:04.342359Z",
-      "last_updated_at": "2026-11-21T13:26:36.995609Z",
+      "last_updated_at": "2026-11-21T19:08:00.144959Z",
       "metrics": {
         "views": 457,
         "likes": 36,
@@ -1268,10 +1268,10 @@
         "apv": 52.290000000000006,
         "avd": 8.0
       },
-      "performance_score": 72.02,
-      "performance_score_v1": 63.06,
-      "performance_score_v2": 49.63,
-      "cgs_score": 72.02
+      "performance_score": 72.03,
+      "performance_score_v1": 63.15,
+      "performance_score_v2": 49.69,
+      "cgs_score": 72.03
     },
     {
       "video_id": "9xtIFkUKs1Q",
@@ -1280,7 +1280,7 @@
       "category": "Toxicology",
       "title": "Understanding Dog Theobromine Hepatic Clearance",
       "first_tracked_at": "2026-10-10T07:42:58.679597Z",
-      "last_updated_at": "2026-11-21T13:26:36.995621Z",
+      "last_updated_at": "2026-11-21T19:08:00.144970Z",
       "metrics": {
         "views": 1208,
         "likes": 32,
@@ -1293,7 +1293,7 @@
       },
       "performance_score": 78.78,
       "performance_score_v1": 71.19,
-      "performance_score_v2": 57.13,
+      "performance_score_v2": 57.11,
       "cgs_score": 78.78
     },
     {
@@ -1303,7 +1303,7 @@
       "category": "Dental",
       "title": "Understanding Dog Canine Salivary Amylase Absence",
       "first_tracked_at": "2026-10-10T11:09:29.050952Z",
-      "last_updated_at": "2026-11-21T13:26:36.995632Z",
+      "last_updated_at": "2026-11-21T19:08:00.144982Z",
       "metrics": {
         "views": 19,
         "likes": 0,
@@ -1316,7 +1316,7 @@
       },
       "performance_score": 43.41,
       "performance_score_v1": 0.96,
-      "performance_score_v2": 2.01,
+      "performance_score_v2": 2.0,
       "cgs_score": 43.41
     },
     {
@@ -1326,7 +1326,7 @@
       "category": "Behavior",
       "title": "Understanding Dog Canine Resource Caching Instinct",
       "first_tracked_at": "2026-10-10T17:19:28.890722Z",
-      "last_updated_at": "2026-11-21T13:26:36.995644Z",
+      "last_updated_at": "2026-11-21T19:08:00.144993Z",
       "metrics": {
         "views": 1,
         "likes": 0,
@@ -1339,7 +1339,7 @@
       },
       "performance_score": 3.32,
       "performance_score_v1": 0.05,
-      "performance_score_v2": 1.3,
+      "performance_score_v2": 1.29,
       "cgs_score": 3.32
     },
     {
@@ -1349,7 +1349,7 @@
       "category": "Development",
       "title": "Why Your Dog Canine Umbilical Scar Anatomy",
       "first_tracked_at": "2026-10-11T07:47:38.159312Z",
-      "last_updated_at": "2026-11-21T13:26:36.995656Z",
+      "last_updated_at": "2026-11-21T19:08:00.145004Z",
       "metrics": {
         "views": 106,
         "likes": 0,
@@ -1361,7 +1361,7 @@
         "avd": 5.0
       },
       "performance_score": 47.9,
-      "performance_score_v1": 5.35,
+      "performance_score_v1": 5.37,
       "performance_score_v2": 5.58,
       "cgs_score": 47.9
     },
@@ -1372,7 +1372,7 @@
       "category": "Genetics",
       "title": "Why Your Dog Canine Domestication Neural Crest Changes",
       "first_tracked_at": "2026-10-11T11:23:42.192585Z",
-      "last_updated_at": "2026-11-21T13:26:36.995668Z",
+      "last_updated_at": "2026-11-21T19:08:00.145016Z",
       "metrics": {
         "views": 43,
         "likes": 0,
@@ -1384,7 +1384,7 @@
         "avd": 12.0
       },
       "performance_score": 60.76,
-      "performance_score_v1": 2.17,
+      "performance_score_v1": 2.18,
       "performance_score_v2": 3.04,
       "cgs_score": 60.76
     },
@@ -1395,7 +1395,7 @@
       "category": "Dermatology",
       "title": "Why Your Dog Canine Sebaceous Fur Coating",
       "first_tracked_at": "2026-10-11T17:40:44.181877Z",
-      "last_updated_at": "2026-11-21T13:26:36.995680Z",
+      "last_updated_at": "2026-11-21T19:08:00.145027Z",
       "metrics": {
         "views": 17,
         "likes": 0,
@@ -1408,7 +1408,7 @@
       },
       "performance_score": 61.0,
       "performance_score_v1": 0.86,
-      "performance_score_v2": 2.01,
+      "performance_score_v2": 2.0,
       "cgs_score": 61.0
     },
     {
@@ -1418,7 +1418,7 @@
       "category": "Hematology",
       "title": "Why Your Dog Canine Splenic Erythrocyte Contraction",
       "first_tracked_at": "2026-10-12T07:56:52.799892Z",
-      "last_updated_at": "2026-11-21T13:26:36.995692Z",
+      "last_updated_at": "2026-11-21T19:08:00.145038Z",
       "metrics": {
         "views": 14,
         "likes": 1,
@@ -1429,10 +1429,10 @@
         "apv": 43.85,
         "avd": 7.0
       },
-      "performance_score": 54.43,
+      "performance_score": 54.42,
       "performance_score_v1": 40.71,
-      "performance_score_v2": 31.93,
-      "cgs_score": 54.43
+      "performance_score_v2": 31.92,
+      "cgs_score": 54.42
     },
     {
       "video_id": "s59SvRSTauk",
@@ -1441,7 +1441,7 @@
       "category": "Biochemistry",
       "title": "Understanding Dog Canine Endogenous Ascorbate Synthesis",
       "first_tracked_at": "2026-10-12T13:07:10.936025Z",
-      "last_updated_at": "2026-11-21T13:26:36.995703Z",
+      "last_updated_at": "2026-11-21T19:08:00.145049Z",
       "metrics": {
         "views": 111,
         "likes": 2,
@@ -1453,7 +1453,7 @@
         "avd": 9.0
       },
       "performance_score": 57.72,
-      "performance_score_v1": 20.01,
+      "performance_score_v1": 20.04,
       "performance_score_v2": 16.67,
       "cgs_score": 57.72
     },
@@ -1464,7 +1464,7 @@
       "category": "Biomechanics",
       "title": "Understanding Dog Canine Tracheal Cartilage Compression",
       "first_tracked_at": "2026-10-12T21:14:54.098317Z",
-      "last_updated_at": "2026-11-21T13:26:36.995715Z",
+      "last_updated_at": "2026-11-21T19:08:00.145060Z",
       "metrics": {
         "views": 34,
         "likes": 2,
@@ -1477,7 +1477,7 @@
       },
       "performance_score": 57.1,
       "performance_score_v1": 41.72,
-      "performance_score_v2": 32.77,
+      "performance_score_v2": 32.76,
       "cgs_score": 57.1
     },
     {
@@ -1487,7 +1487,7 @@
       "category": "Toxicology",
       "title": "Understanding Dog Canine Xylitol Pancreatic Response",
       "first_tracked_at": "2026-10-13T08:23:00.980719Z",
-      "last_updated_at": "2026-11-21T13:26:36.995727Z",
+      "last_updated_at": "2026-11-21T19:08:00.145072Z",
       "metrics": {
         "views": 86,
         "likes": 1,
@@ -1499,7 +1499,7 @@
         "avd": 16.0
       },
       "performance_score": 62.97,
-      "performance_score_v1": 13.64,
+      "performance_score_v1": 13.66,
       "performance_score_v2": 11.88,
       "cgs_score": 62.97
     },
@@ -1510,7 +1510,7 @@
       "category": "Neurology",
       "title": "Why Your Dog Canine Cutaneous Trunci Twitch",
       "first_tracked_at": "2026-10-13T12:41:24.618407Z",
-      "last_updated_at": "2026-11-21T13:26:36.995739Z",
+      "last_updated_at": "2026-11-21T19:08:00.145085Z",
       "metrics": {
         "views": 118,
         "likes": 8,
@@ -1522,7 +1522,7 @@
         "avd": 8.0
       },
       "performance_score": 61.64,
-      "performance_score_v1": 45.95,
+      "performance_score_v1": 45.98,
       "performance_score_v2": 36.21,
       "cgs_score": 61.64
     },
@@ -1533,7 +1533,7 @@
       "category": "Nephrology",
       "title": "Understanding Dog Canine Henle Loop Hyperosmolality",
       "first_tracked_at": "2026-10-13T19:22:25.502493Z",
-      "last_updated_at": "2026-11-21T13:26:36.995751Z",
+      "last_updated_at": "2026-11-21T19:08:00.145097Z",
       "metrics": {
         "views": 28,
         "likes": 3,
@@ -1544,10 +1544,10 @@
         "apv": 27.750000000000004,
         "avd": 4.0
       },
-      "performance_score": 48.56,
-      "performance_score_v1": 41.41,
-      "performance_score_v2": 32.6,
-      "cgs_score": 48.56
+      "performance_score": 48.55,
+      "performance_score_v1": 41.42,
+      "performance_score_v2": 32.59,
+      "cgs_score": 48.55
     },
     {
       "video_id": "uavfFPhMgnc",
@@ -1556,7 +1556,7 @@
       "category": "Exercise Physiology",
       "title": "Understanding Dog Canine Fatty Acid Muscle Metabolism",
       "first_tracked_at": "2026-10-14T06:40:08.028596Z",
-      "last_updated_at": "2026-11-21T13:26:36.995763Z",
+      "last_updated_at": "2026-11-21T19:08:00.145109Z",
       "metrics": {
         "views": 23,
         "likes": 0,
@@ -1568,8 +1568,8 @@
         "avd": 5.0
       },
       "performance_score": 46.4,
-      "performance_score_v1": 1.16,
-      "performance_score_v2": 2.43,
+      "performance_score_v1": 1.17,
+      "performance_score_v2": 2.42,
       "cgs_score": 46.4
     },
     {
@@ -1579,7 +1579,7 @@
       "category": "Microbiology",
       "title": "Understanding Dog Canine Gut Microbiome Serotonin Synthesis",
       "first_tracked_at": "2026-10-14T10:08:58.958846Z",
-      "last_updated_at": "2026-11-21T13:26:36.995775Z",
+      "last_updated_at": "2026-11-21T19:08:00.145121Z",
       "metrics": {
         "views": 74,
         "likes": 5,
@@ -1591,8 +1591,8 @@
         "avd": 12.0
       },
       "performance_score": 67.25,
-      "performance_score_v1": 43.73,
-      "performance_score_v2": 34.5,
+      "performance_score_v1": 43.75,
+      "performance_score_v2": 34.49,
       "cgs_score": 67.25
     },
     {
@@ -1602,7 +1602,7 @@
       "category": "Bioenergetics",
       "title": "Why Your Dog Canine Kleiber Metabolic Body Mass Scaling",
       "first_tracked_at": "2026-10-14T17:05:08.405154Z",
-      "last_updated_at": "2026-11-21T13:26:36.995787Z",
+      "last_updated_at": "2026-11-21T19:08:00.145133Z",
       "metrics": {
         "views": 45,
         "likes": 8,
@@ -1614,8 +1614,8 @@
         "avd": 10.0
       },
       "performance_score": 65.89,
-      "performance_score_v1": 42.27,
-      "performance_score_v2": 33.35,
+      "performance_score_v1": 42.28,
+      "performance_score_v2": 33.34,
       "cgs_score": 65.89
     },
     {
@@ -1625,7 +1625,7 @@
       "category": "Digestion",
       "title": "Why Your Dog Canine Pancreatic Lipase Sensitivity",
       "first_tracked_at": "2026-10-15T06:22:57.817369Z",
-      "last_updated_at": "2026-11-21T13:26:36.995799Z",
+      "last_updated_at": "2026-11-21T19:08:00.145145Z",
       "metrics": {
         "views": 59,
         "likes": 10,
@@ -1636,10 +1636,10 @@
         "apv": 66.1,
         "avd": 9.0
       },
-      "performance_score": 63.78,
-      "performance_score_v1": 42.98,
-      "performance_score_v2": 33.96,
-      "cgs_score": 63.78
+      "performance_score": 63.77,
+      "performance_score_v1": 42.99,
+      "performance_score_v2": 33.95,
+      "cgs_score": 63.77
     },
     {
       "video_id": "GWqmG8Z1FdQ",
@@ -1648,7 +1648,7 @@
       "category": "Physiology",
       "title": "Why Your Dog Canine Diaphragmatic Spasms",
       "first_tracked_at": "2026-10-15T09:51:37.220597Z",
-      "last_updated_at": "2026-11-21T13:26:36.995810Z",
+      "last_updated_at": "2026-11-21T19:08:00.145156Z",
       "metrics": {
         "views": 95,
         "likes": 1,
@@ -1660,7 +1660,7 @@
         "avd": 8.0
       },
       "performance_score": 52.84,
-      "performance_score_v1": 13.21,
+      "performance_score_v1": 13.23,
       "performance_score_v2": 11.74,
       "cgs_score": 52.84
     },
@@ -1671,7 +1671,7 @@
       "category": "Health",
       "title": "Why Your Dog Canine Epidermal Acid Mantle",
       "first_tracked_at": "2026-10-16T09:45:15.937188Z",
-      "last_updated_at": "2026-11-21T13:26:36.995822Z",
+      "last_updated_at": "2026-11-21T19:08:00.145167Z",
       "metrics": {
         "views": 62,
         "likes": 3,
@@ -1683,7 +1683,7 @@
         "avd": 14.0
       },
       "performance_score": 68.8,
-      "performance_score_v1": 41.84,
+      "performance_score_v1": 41.85,
       "performance_score_v2": 33.2,
       "cgs_score": 68.8
     },
@@ -1694,7 +1694,7 @@
       "category": "Development",
       "title": "Why Your Dog Canine Critical Socialization Window",
       "first_tracked_at": "2026-10-16T16:33:43.159747Z",
-      "last_updated_at": "2026-11-21T13:26:36.995834Z",
+      "last_updated_at": "2026-11-21T19:08:00.145179Z",
       "metrics": {
         "views": 1026,
         "likes": 12,
@@ -1707,7 +1707,7 @@
       },
       "performance_score": 68.42,
       "performance_score_v1": 59.36,
-      "performance_score_v2": 48.71,
+      "performance_score_v2": 48.69,
       "cgs_score": 68.42
     },
     {
@@ -1717,7 +1717,7 @@
       "category": "Thermoregulation",
       "title": "Understanding Dog Canine Thermogenic Shivering Reflex",
       "first_tracked_at": "2026-10-17T06:06:37.912220Z",
-      "last_updated_at": "2026-11-21T13:26:36.995845Z",
+      "last_updated_at": "2026-11-21T19:08:00.145191Z",
       "metrics": {
         "views": 1071,
         "likes": 24,
@@ -1730,7 +1730,7 @@
       },
       "performance_score": 69.85,
       "performance_score_v1": 68.86,
-      "performance_score_v2": 57.05,
+      "performance_score_v2": 57.03,
       "cgs_score": 69.85
     },
     {
@@ -1740,7 +1740,7 @@
       "category": "Orthopedics",
       "title": "Why Your Dog Canine Passive Synovial Mobilization",
       "first_tracked_at": "2026-10-17T09:18:56.985142Z",
-      "last_updated_at": "2026-11-21T13:26:36.995857Z",
+      "last_updated_at": "2026-11-21T19:08:00.145203Z",
       "metrics": {
         "views": 180,
         "likes": 9,
@@ -1752,8 +1752,8 @@
         "avd": 7.0
       },
       "performance_score": 58.56,
-      "performance_score_v1": 49.08,
-      "performance_score_v2": 39.02,
+      "performance_score_v1": 49.12,
+      "performance_score_v2": 39.03,
       "cgs_score": 58.56
     },
     {
@@ -1763,7 +1763,7 @@
       "category": "Dermatology",
       "title": "Why Your Dog Canine Footpad Epidermal Papillae",
       "first_tracked_at": "2026-10-17T15:28:15.220866Z",
-      "last_updated_at": "2026-11-21T13:26:36.995869Z",
+      "last_updated_at": "2026-11-21T19:08:00.145215Z",
       "metrics": {
         "views": 373,
         "likes": 11,
@@ -1774,10 +1774,10 @@
         "apv": 83.48,
         "avd": 14.0
       },
-      "performance_score": 69.13,
-      "performance_score_v1": 42.41,
-      "performance_score_v2": 34.53,
-      "cgs_score": 69.13
+      "performance_score": 69.14,
+      "performance_score_v1": 42.49,
+      "performance_score_v2": 34.57,
+      "cgs_score": 69.14
     },
     {
       "video_id": "_7jRBoWH_-o",
@@ -1786,7 +1786,7 @@
       "category": "Cellular Biology",
       "title": "Understanding Dog Canine Cutaneous Wound Contraction",
       "first_tracked_at": "2026-10-18T06:33:19.076622Z",
-      "last_updated_at": "2026-11-21T13:26:36.995881Z",
+      "last_updated_at": "2026-11-21T19:08:00.145227Z",
       "metrics": {
         "views": 1034,
         "likes": 13,
@@ -1799,7 +1799,7 @@
       },
       "performance_score": 70.14,
       "performance_score_v1": 60.06,
-      "performance_score_v2": 49.37,
+      "performance_score_v2": 49.35,
       "cgs_score": 70.14
     },
     {
@@ -1809,7 +1809,7 @@
       "category": "Digestion",
       "title": "Understanding Dog Canine Gastric Hydrochloric Secretion",
       "first_tracked_at": "2026-10-18T09:32:29.338391Z",
-      "last_updated_at": "2026-11-21T13:26:36.995893Z",
+      "last_updated_at": "2026-11-21T19:08:00.145239Z",
       "metrics": {
         "views": 120,
         "likes": 1,
@@ -1821,8 +1821,8 @@
         "avd": 14.0
       },
       "performance_score": 63.42,
-      "performance_score_v1": 12.72,
-      "performance_score_v2": 11.69,
+      "performance_score_v1": 12.75,
+      "performance_score_v2": 11.68,
       "cgs_score": 63.42
     },
     {
@@ -1832,7 +1832,7 @@
       "category": "Behavior",
       "title": "Why Your Dog Canine Pandiculation Myofascial Reset",
       "first_tracked_at": "2026-10-18T15:48:07.243426Z",
-      "last_updated_at": "2026-11-21T13:26:36.995905Z",
+      "last_updated_at": "2026-11-21T19:08:00.145251Z",
       "metrics": {
         "views": 926,
         "likes": 17,
@@ -1843,10 +1843,10 @@
         "apv": 130.34,
         "avd": 22.0
       },
-      "performance_score": 75.06,
-      "performance_score_v1": 61.41,
-      "performance_score_v2": 50.26,
-      "cgs_score": 75.06
+      "performance_score": 75.1,
+      "performance_score_v1": 61.6,
+      "performance_score_v2": 50.39,
+      "cgs_score": 75.1
     },
     {
       "video_id": "nUUe-_LksEA",
@@ -1855,7 +1855,7 @@
       "category": "Ophthalmology",
       "title": "Understanding Dog Canine Nictitating Membrane Mobility",
       "first_tracked_at": "2026-10-19T06:45:12.036901Z",
-      "last_updated_at": "2026-11-21T13:26:36.995917Z",
+      "last_updated_at": "2026-11-21T19:08:00.145263Z",
       "metrics": {
         "views": 963,
         "likes": 7,
@@ -1866,10 +1866,10 @@
         "apv": 58.11999999999999,
         "avd": 9.0
       },
-      "performance_score": 63.09,
-      "performance_score_v1": 54.4,
-      "performance_score_v2": 45.16,
-      "cgs_score": 63.09
+      "performance_score": 63.12,
+      "performance_score_v1": 54.6,
+      "performance_score_v2": 45.29,
+      "cgs_score": 63.12
     },
     {
       "video_id": "F9OTJvEQTu4",
@@ -1878,7 +1878,7 @@
       "category": "Behavior",
       "title": "Understanding Dog Canine Affiliative Muzzle Nudge",
       "first_tracked_at": "2026-10-19T10:43:20.260520Z",
-      "last_updated_at": "2026-11-21T13:26:36.995929Z",
+      "last_updated_at": "2026-11-21T19:08:00.145275Z",
       "metrics": {
         "views": 279,
         "likes": 22,
@@ -1889,10 +1889,10 @@
         "apv": 82.5,
         "avd": 12.0
       },
-      "performance_score": 75.3,
-      "performance_score_v1": 54.08,
-      "performance_score_v2": 43.2,
-      "cgs_score": 75.3
+      "performance_score": 75.31,
+      "performance_score_v1": 54.13,
+      "performance_score_v2": 43.23,
+      "cgs_score": 75.31
     },
     {
       "video_id": "unvlP4xP1-U",
@@ -1901,7 +1901,7 @@
       "category": "Oral Biology",
       "title": "Why Your Dog Canine Salivary Bicarbonate Buffering",
       "first_tracked_at": "2026-10-19T18:42:04.573972Z",
-      "last_updated_at": "2026-11-21T13:26:36.995942Z",
+      "last_updated_at": "2026-11-21T19:08:00.145286Z",
       "metrics": {
         "views": 102,
         "likes": 4,
@@ -1912,10 +1912,10 @@
         "apv": 82.82,
         "avd": 14.0
       },
-      "performance_score": 69.91,
-      "performance_score_v1": 36.52,
-      "performance_score_v2": 29.62,
-      "cgs_score": 69.91
+      "performance_score": 69.9,
+      "performance_score_v1": 36.54,
+      "performance_score_v2": 29.61,
+      "cgs_score": 69.9
     },
     {
       "video_id": "XZMX4VLuszk",
@@ -1924,7 +1924,7 @@
       "category": "Aging",
       "title": "Why Your Dog Canine Age-Related Sarcopenia",
       "first_tracked_at": "2026-10-20T06:32:20.935285Z",
-      "last_updated_at": "2026-11-21T13:26:36.995954Z",
+      "last_updated_at": "2026-11-21T19:08:00.145298Z",
       "metrics": {
         "views": 361,
         "likes": 16,
@@ -1935,10 +1935,10 @@
         "apv": 56.84,
         "avd": 9.0
       },
-      "performance_score": 68.61,
-      "performance_score_v1": 53.67,
-      "performance_score_v2": 43.19,
-      "cgs_score": 68.61
+      "performance_score": 68.62,
+      "performance_score_v1": 53.75,
+      "performance_score_v2": 43.22,
+      "cgs_score": 68.62
     },
     {
       "video_id": "yStpju1K4h4",
@@ -1947,7 +1947,7 @@
       "category": "Dental Anatomy",
       "title": "Why Your Dog Canine Carnassial Shearing Mechanism",
       "first_tracked_at": "2026-10-20T10:00:11.846819Z",
-      "last_updated_at": "2026-11-21T13:26:36.995966Z",
+      "last_updated_at": "2026-11-21T19:08:00.145312Z",
       "metrics": {
         "views": 176,
         "likes": 9,
@@ -1959,8 +1959,8 @@
         "avd": 7.0
       },
       "performance_score": 57.94,
-      "performance_score_v1": 48.88,
-      "performance_score_v2": 39.14,
+      "performance_score_v1": 48.92,
+      "performance_score_v2": 39.15,
       "cgs_score": 57.94
     },
     {
@@ -1970,7 +1970,7 @@
       "category": "Nutrition",
       "title": "Understanding Dog Adult Canine Lactase Deficiency",
       "first_tracked_at": "2026-10-20T16:55:10.129541Z",
-      "last_updated_at": "2026-11-21T13:26:36.995978Z",
+      "last_updated_at": "2026-11-21T19:08:00.145323Z",
       "metrics": {
         "views": 183,
         "likes": 13,
@@ -1982,8 +1982,8 @@
         "avd": 22.0
       },
       "performance_score": 70.36,
-      "performance_score_v1": 49.23,
-      "performance_score_v2": 39.45,
+      "performance_score_v1": 49.27,
+      "performance_score_v2": 39.46,
       "cgs_score": 70.36
     },
     {
@@ -1993,7 +1993,7 @@
       "category": "Parasitology",
       "title": "Understanding Dog Canine Heartworm Transmission",
       "first_tracked_at": "2026-10-21T06:31:13.619661Z",
-      "last_updated_at": "2026-11-21T13:26:36.995992Z",
+      "last_updated_at": "2026-11-21T19:08:00.145335Z",
       "metrics": {
         "views": 43,
         "likes": 0,
@@ -2004,10 +2004,10 @@
         "apv": 35.53,
         "avd": 5.0
       },
-      "performance_score": 44.79,
-      "performance_score_v1": 2.17,
-      "performance_score_v2": 3.86,
-      "cgs_score": 44.79
+      "performance_score": 44.78,
+      "performance_score_v1": 2.18,
+      "performance_score_v2": 3.84,
+      "cgs_score": 44.78
     },
     {
       "video_id": "n6hzRR07OPA",
@@ -2016,7 +2016,7 @@
       "category": "Infectious Disease",
       "title": "Why Your Dog Canine Kennel Cough Transmission",
       "first_tracked_at": "2026-10-21T10:05:34.956193Z",
-      "last_updated_at": "2026-11-21T13:26:36.996005Z",
+      "last_updated_at": "2026-11-21T19:08:00.145347Z",
       "metrics": {
         "views": 1021,
         "likes": 11,
@@ -2027,10 +2027,10 @@
         "apv": 69.81,
         "avd": 11.0
       },
-      "performance_score": 70.83,
+      "performance_score": 70.82,
       "performance_score_v1": 58.62,
-      "performance_score_v2": 48.6,
-      "cgs_score": 70.83
+      "performance_score_v2": 48.58,
+      "cgs_score": 70.82
     },
     {
       "video_id": "7LKi0BsPrRI",
@@ -2039,7 +2039,7 @@
       "category": "Environmental Safety",
       "title": "Why Your Dog Canine Cutaneous Thermal Pad Vulnerability",
       "first_tracked_at": "2026-10-21T17:06:48.699316Z",
-      "last_updated_at": "2026-11-21T13:26:36.996017Z",
+      "last_updated_at": "2026-11-21T19:08:00.145359Z",
       "metrics": {
         "views": 1028,
         "likes": 21,
@@ -2052,7 +2052,7 @@
       },
       "performance_score": 68.26,
       "performance_score_v1": 67.32,
-      "performance_score_v2": 56.37,
+      "performance_score_v2": 56.35,
       "cgs_score": 68.26
     },
     {
@@ -2062,7 +2062,7 @@
       "category": "Psychology",
       "title": "Understanding Dog Canine Secure Base Attachment Effect",
       "first_tracked_at": "2026-10-22T06:33:26.370585Z",
-      "last_updated_at": "2026-11-21T13:26:36.996030Z",
+      "last_updated_at": "2026-11-21T19:08:00.145372Z",
       "metrics": {
         "views": 2,
         "likes": 0,
@@ -2073,10 +2073,10 @@
         "apv": 0.0,
         "avd": 0.0
       },
-      "performance_score": 5.58,
+      "performance_score": 5.57,
       "performance_score_v1": 0.1,
-      "performance_score_v2": 2.31,
-      "cgs_score": 5.58
+      "performance_score_v2": 2.29,
+      "cgs_score": 5.57
     },
     {
       "video_id": "8ipH5ANr49s",
@@ -2085,7 +2085,7 @@
       "category": "History",
       "title": "Understanding Dog Canine Self Domestication Flight Distance",
       "first_tracked_at": "2026-10-23T10:00:53.987655Z",
-      "last_updated_at": "2026-11-21T13:26:36.996042Z",
+      "last_updated_at": "2026-11-21T19:08:00.145384Z",
       "metrics": {
         "views": 998,
         "likes": 38,
@@ -2096,10 +2096,10 @@
         "apv": 65.4,
         "avd": 10.0
       },
-      "performance_score": 77.33,
+      "performance_score": 77.32,
       "performance_score_v1": 80.46,
-      "performance_score_v2": 65.21,
-      "cgs_score": 77.33
+      "performance_score_v2": 65.18,
+      "cgs_score": 77.32
     },
     {
       "video_id": "S68FCyP__Ew",
@@ -2108,7 +2108,7 @@
       "category": "Orthopedics",
       "title": "Why Your Dog Canine Epiphyseal Plate Ossification",
       "first_tracked_at": "2026-10-23T17:00:02.579180Z",
-      "last_updated_at": "2026-11-21T13:26:36.996055Z",
+      "last_updated_at": "2026-11-21T19:08:00.145396Z",
       "metrics": {
         "views": 388,
         "likes": 22,
@@ -2119,10 +2119,10 @@
         "apv": 78.04,
         "avd": 13.0
       },
-      "performance_score": 75.78,
-      "performance_score_v1": 59.58,
-      "performance_score_v2": 48.06,
-      "cgs_score": 75.78
+      "performance_score": 75.79,
+      "performance_score_v1": 59.66,
+      "performance_score_v2": 48.09,
+      "cgs_score": 75.79
     },
     {
       "video_id": "1l8fwTnUYfU",
@@ -2131,7 +2131,7 @@
       "category": "Gastroenterology",
       "title": "Why Your Dog Canine Geophagia Soil Ingestion",
       "first_tracked_at": "2026-10-24T15:51:47.349769Z",
-      "last_updated_at": "2026-11-21T13:26:36.996067Z",
+      "last_updated_at": "2026-11-21T19:08:00.145408Z",
       "metrics": {
         "views": 680,
         "likes": 56,
@@ -2142,10 +2142,10 @@
         "apv": 56.269999999999996,
         "avd": 9.0
       },
-      "performance_score": 74.59,
-      "performance_score_v1": 74.31,
-      "performance_score_v2": 59.96,
-      "cgs_score": 74.59
+      "performance_score": 74.61,
+      "performance_score_v1": 74.45,
+      "performance_score_v2": 60.04,
+      "cgs_score": 74.61
     },
     {
       "video_id": "5nZUq8MuOFo",
@@ -2154,7 +2154,7 @@
       "category": "Toxicology",
       "title": "Why Your Dog Allium Toxicosis Heinz Bodies",
       "first_tracked_at": "2026-10-25T06:45:22.330892Z",
-      "last_updated_at": "2026-11-21T13:26:36.996080Z",
+      "last_updated_at": "2026-11-21T19:08:00.145421Z",
       "metrics": {
         "views": 480,
         "likes": 31,
@@ -2165,10 +2165,10 @@
         "apv": 239.96,
         "avd": 35.0
       },
-      "performance_score": 75.49,
-      "performance_score_v1": 64.22,
-      "performance_score_v2": 51.97,
-      "cgs_score": 75.49
+      "performance_score": 75.5,
+      "performance_score_v1": 64.32,
+      "performance_score_v2": 52.01,
+      "cgs_score": 75.5
     },
     {
       "video_id": "WfTpWxPzSMM",
@@ -2177,7 +2177,7 @@
       "category": "Neurology",
       "title": "Understanding Dog Crossed Extensor Balance Reflex",
       "first_tracked_at": "2026-10-25T09:47:12.328700Z",
-      "last_updated_at": "2026-11-21T13:26:36.996093Z",
+      "last_updated_at": "2026-11-21T19:08:00.145433Z",
       "metrics": {
         "views": 1009,
         "likes": 29,
@@ -2190,7 +2190,7 @@
       },
       "performance_score": 72.04,
       "performance_score_v1": 72.99,
-      "performance_score_v2": 59.85,
+      "performance_score_v2": 59.82,
       "cgs_score": 72.04
     },
     {
@@ -2200,7 +2200,7 @@
       "category": "Ethology",
       "title": "Why Your Dog Canine Social Self-Handicapping Play",
       "first_tracked_at": "2026-10-25T16:06:19.776997Z",
-      "last_updated_at": "2026-11-21T13:26:36.996105Z",
+      "last_updated_at": "2026-11-21T19:08:00.145445Z",
       "metrics": {
         "views": 929,
         "likes": 21,
@@ -2211,10 +2211,10 @@
         "apv": 69.73,
         "avd": 11.0
       },
-      "performance_score": 76.07,
-      "performance_score_v1": 64.96,
-      "performance_score_v2": 53.7,
-      "cgs_score": 76.07
+      "performance_score": 76.1,
+      "performance_score_v1": 65.15,
+      "performance_score_v2": 53.82,
+      "cgs_score": 76.1
     },
     {
       "video_id": "8mIttvvvo0Y",
@@ -2223,7 +2223,7 @@
       "category": "Gastroenterology",
       "title": "Why Your Dog Canine Bilious Vomiting Syndrome",
       "first_tracked_at": "2026-10-26T06:54:06.159044Z",
-      "last_updated_at": "2026-11-21T13:26:36.996118Z",
+      "last_updated_at": "2026-11-21T19:08:00.145458Z",
       "metrics": {
         "views": 393,
         "likes": 21,
@@ -2234,10 +2234,10 @@
         "apv": 102.12,
         "avd": 17.0
       },
-      "performance_score": 74.65,
-      "performance_score_v1": 59.83,
-      "performance_score_v2": 48.59,
-      "cgs_score": 74.65
+      "performance_score": 74.66,
+      "performance_score_v1": 59.91,
+      "performance_score_v2": 48.62,
+      "cgs_score": 74.66
     },
     {
       "video_id": "iIWSzykA8nU",
@@ -2246,7 +2246,7 @@
       "category": "Behavior",
       "title": "Understanding Dog Canine Anticipatory Paw Lift Freeze",
       "first_tracked_at": "2026-10-29T07:39:22.678577Z",
-      "last_updated_at": "2026-11-21T13:26:36.996131Z",
+      "last_updated_at": "2026-11-21T19:08:00.145470Z",
       "metrics": {
         "views": 602,
         "likes": 21,
@@ -2257,10 +2257,10 @@
         "apv": 60.08,
         "avd": 10.0
       },
-      "performance_score": 71.46,
-      "performance_score_v1": 59.94,
-      "performance_score_v2": 51.72,
-      "cgs_score": 71.46
+      "performance_score": 71.47,
+      "performance_score_v1": 60.07,
+      "performance_score_v2": 51.78,
+      "cgs_score": 71.47
     },
     {
       "video_id": "YgzyiKlOmM4",
@@ -2269,7 +2269,7 @@
       "category": "Communication",
       "title": "Understanding Dog Canine Inguinal Belly Presentation",
       "first_tracked_at": "2026-10-29T11:29:33.655329Z",
-      "last_updated_at": "2026-11-21T13:26:36.996144Z",
+      "last_updated_at": "2026-11-21T19:08:00.145482Z",
       "metrics": {
         "views": 993,
         "likes": 7,
@@ -2280,10 +2280,10 @@
         "apv": 78.78,
         "avd": 13.0
       },
-      "performance_score": 71.4,
+      "performance_score": 71.39,
       "performance_score_v1": 55.64,
-      "performance_score_v2": 47.42,
-      "cgs_score": 71.4
+      "performance_score_v2": 47.38,
+      "cgs_score": 71.39
     },
     {
       "video_id": "p_Qv0pMSQUY",
@@ -2292,7 +2292,7 @@
       "category": "Orthopedics",
       "title": "Why Your Dog Canine Stifle Joint Biomechanics",
       "first_tracked_at": "2026-10-29T18:25:35.150547Z",
-      "last_updated_at": "2026-11-21T13:26:36.996156Z",
+      "last_updated_at": "2026-11-21T19:08:00.145494Z",
       "metrics": {
         "views": 1023,
         "likes": 15,
@@ -2305,7 +2305,7 @@
       },
       "performance_score": 74.02,
       "performance_score_v1": 61.73,
-      "performance_score_v2": 52.03,
+      "performance_score_v2": 52.0,
       "cgs_score": 74.02
     },
     {
@@ -2315,7 +2315,7 @@
       "category": "Ethology",
       "title": "Why Your Dog Predatory Motor Sequence Truncation",
       "first_tracked_at": "2026-10-30T07:42:16.361247Z",
-      "last_updated_at": "2026-11-21T13:26:36.996169Z",
+      "last_updated_at": "2026-11-21T19:08:00.145507Z",
       "metrics": {
         "views": 1031,
         "likes": 9,
@@ -2326,10 +2326,10 @@
         "apv": 96.01,
         "avd": 16.0
       },
-      "performance_score": 78.64,
+      "performance_score": 78.63,
       "performance_score_v1": 56.98,
-      "performance_score_v2": 48.56,
-      "cgs_score": 78.64
+      "performance_score_v2": 48.52,
+      "cgs_score": 78.63
     },
     {
       "video_id": "sYSrel8ksPs",
@@ -2338,7 +2338,7 @@
       "category": "Thermoregulation",
       "title": "Why Your Dog Canine Hypothermic Snow Ingestion",
       "first_tracked_at": "2026-10-30T11:22:00.598346Z",
-      "last_updated_at": "2026-11-21T13:26:36.996182Z",
+      "last_updated_at": "2026-11-21T19:08:00.145519Z",
       "metrics": {
         "views": 1012,
         "likes": 8,
@@ -2349,10 +2349,10 @@
         "apv": 57.48,
         "avd": 9.0
       },
-      "performance_score": 66.08,
+      "performance_score": 66.07,
       "performance_score_v1": 56.32,
-      "performance_score_v2": 48.09,
-      "cgs_score": 66.08
+      "performance_score_v2": 48.05,
+      "cgs_score": 66.07
     },
     {
       "video_id": "517zKHd8Ygg",
@@ -2361,7 +2361,7 @@
       "category": "Toxicology",
       "title": "Why Your Dog Canine Macadamia Toxicosis Mechanism",
       "first_tracked_at": "2026-10-31T07:28:05.384850Z",
-      "last_updated_at": "2026-11-21T13:26:36.996194Z",
+      "last_updated_at": "2026-11-21T19:08:00.145531Z",
       "metrics": {
         "views": 153,
         "likes": 4,
@@ -2373,8 +2373,8 @@
         "avd": 9.0
       },
       "performance_score": 61.66,
-      "performance_score_v1": 28.63,
-      "performance_score_v2": 25.35,
+      "performance_score_v1": 28.67,
+      "performance_score_v2": 25.34,
       "cgs_score": 61.66
     },
     {
@@ -2384,7 +2384,7 @@
       "category": "Genetics",
       "title": "Understanding Dog Canine Late Pleistocene Wolf Divergence",
       "first_tracked_at": "2026-10-31T10:54:13.542734Z",
-      "last_updated_at": "2026-11-21T13:26:36.996207Z",
+      "last_updated_at": "2026-11-21T19:08:00.145544Z",
       "metrics": {
         "views": 1010,
         "likes": 26,
@@ -2395,10 +2395,10 @@
         "apv": 136.95,
         "avd": 23.0
       },
-      "performance_score": 85.23,
+      "performance_score": 85.22,
       "performance_score_v1": 71.58,
-      "performance_score_v2": 60.94,
-      "cgs_score": 85.23
+      "performance_score_v2": 60.9,
+      "cgs_score": 85.22
     },
     {
       "video_id": "ojY6fPmrHxg",
@@ -2407,7 +2407,7 @@
       "category": "Endocrinology",
       "title": "Why Your Dog Canine Calcitonin Bone Protection",
       "first_tracked_at": "2026-10-31T17:14:37.602038Z",
-      "last_updated_at": "2026-11-21T13:26:36.996219Z",
+      "last_updated_at": "2026-11-21T19:08:00.145556Z",
       "metrics": {
         "views": 173,
         "likes": 6,
@@ -2418,10 +2418,10 @@
         "apv": 48.77,
         "avd": 8.0
       },
-      "performance_score": 56.63,
-      "performance_score_v1": 36.47,
-      "performance_score_v2": 31.36,
-      "cgs_score": 56.63
+      "performance_score": 56.62,
+      "performance_score_v1": 36.51,
+      "performance_score_v2": 31.34,
+      "cgs_score": 56.62
     },
     {
       "video_id": "nlJSW-bAHjg",
@@ -2430,7 +2430,7 @@
       "category": "Embryology",
       "title": "Understanding Dog Canine Endothelial Chorioallantoic Placentation",
       "first_tracked_at": "2026-11-01T11:48:50.400408Z",
-      "last_updated_at": "2026-11-21T13:26:36.996232Z",
+      "last_updated_at": "2026-11-21T19:08:00.145578Z",
       "metrics": {
         "views": 212,
         "likes": 8,
@@ -2441,10 +2441,10 @@
         "apv": 58.8,
         "avd": 9.0
       },
-      "performance_score": 68.78,
-      "performance_score_v1": 40.89,
-      "performance_score_v2": 34.9,
-      "cgs_score": 68.78
+      "performance_score": 68.77,
+      "performance_score_v1": 40.93,
+      "performance_score_v2": 34.89,
+      "cgs_score": 68.77
     },
     {
       "video_id": "YYsoXTGRlk8",
@@ -2453,7 +2453,7 @@
       "category": "Digestive Anatomy",
       "title": "Why Your Dog Canine Esophageal Striated Musculature",
       "first_tracked_at": "2026-11-01T17:54:59.368187Z",
-      "last_updated_at": "2026-11-21T13:26:36.996245Z",
+      "last_updated_at": "2026-11-21T19:08:00.145592Z",
       "metrics": {
         "views": 86,
         "likes": 2,
@@ -2464,10 +2464,10 @@
         "apv": 55.83,
         "avd": 9.0
       },
-      "performance_score": 56.23,
-      "performance_score_v1": 22.94,
-      "performance_score_v2": 21.17,
-      "cgs_score": 56.23
+      "performance_score": 56.22,
+      "performance_score_v1": 22.96,
+      "performance_score_v2": 21.14,
+      "cgs_score": 56.22
     },
     {
       "video_id": "Walnz0eFWPs",
@@ -2476,7 +2476,7 @@
       "category": "Cardiovascular Physiology",
       "title": "Why Your Dog Canine Respiratory Sinus Arrhythmia",
       "first_tracked_at": "2026-11-07T07:44:26.835911Z",
-      "last_updated_at": "2026-11-21T13:26:36.996258Z",
+      "last_updated_at": "2026-11-21T19:08:00.145605Z",
       "metrics": {
         "views": 508,
         "likes": 28,
@@ -2487,10 +2487,10 @@
         "apv": 72.27,
         "avd": 12.0
       },
-      "performance_score": 79.46,
-      "performance_score_v1": 65.63,
-      "performance_score_v2": 55.45,
-      "cgs_score": 79.46
+      "performance_score": 79.47,
+      "performance_score_v1": 65.73,
+      "performance_score_v2": 55.47,
+      "cgs_score": 79.47
     },
     {
       "video_id": "9pLzVDHkQEE",
@@ -2499,7 +2499,7 @@
       "category": "Sensory Perception",
       "title": "Why Your Dog Canine Flicker Fusion Rate",
       "first_tracked_at": "2026-11-07T17:44:03.059574Z",
-      "last_updated_at": "2026-11-21T13:26:36.996271Z",
+      "last_updated_at": "2026-11-21T19:08:00.145617Z",
       "metrics": {
         "views": 102,
         "likes": 1,
@@ -2511,8 +2511,8 @@
         "avd": 7.0
       },
       "performance_score": 54.3,
-      "performance_score_v1": 12.99,
-      "performance_score_v2": 15.04,
+      "performance_score_v1": 13.01,
+      "performance_score_v2": 15.0,
       "cgs_score": 54.3
     },
     {
@@ -2522,7 +2522,7 @@
       "category": "Ethology",
       "title": "Understanding Dog Canine Prey Shake Motor Pattern",
       "first_tracked_at": "2026-11-08T07:55:40.266188Z",
-      "last_updated_at": "2026-11-21T13:26:36.996284Z",
+      "last_updated_at": "2026-11-21T19:08:00.145631Z",
       "metrics": {
         "views": 991,
         "likes": 41,
@@ -2533,10 +2533,10 @@
         "apv": 120.26999999999998,
         "avd": 20.0
       },
-      "performance_score": 88.5,
+      "performance_score": 88.49,
       "performance_score_v1": 83.1,
-      "performance_score_v2": 70.02,
-      "cgs_score": 88.5
+      "performance_score_v2": 69.96,
+      "cgs_score": 88.49
     },
     {
       "video_id": "XKWg_25dlGI",
@@ -2545,7 +2545,7 @@
       "category": "Genetics",
       "title": "Understanding Dog Canine Igf1 Allelic Size Variation",
       "first_tracked_at": "2026-11-08T11:55:10.005555Z",
-      "last_updated_at": "2026-11-21T13:26:36.996297Z",
+      "last_updated_at": "2026-11-21T19:08:00.145644Z",
       "metrics": {
         "views": 246,
         "likes": 9,
@@ -2556,10 +2556,10 @@
         "apv": 50.21,
         "avd": 8.0
       },
-      "performance_score": 60.36,
-      "performance_score_v1": 41.68,
-      "performance_score_v2": 37.12,
-      "cgs_score": 60.36
+      "performance_score": 60.35,
+      "performance_score_v1": 41.73,
+      "performance_score_v2": 37.1,
+      "cgs_score": 60.35
     },
     {
       "video_id": "bom6nAvwtRM",
@@ -2568,7 +2568,7 @@
       "category": "Behavior",
       "title": "Understanding Dog Canine Tug Play Impulse Control",
       "first_tracked_at": "2026-11-08T17:54:30.651348Z",
-      "last_updated_at": "2026-11-21T13:26:36.996310Z",
+      "last_updated_at": "2026-11-21T19:08:00.145656Z",
       "metrics": {
         "views": 921,
         "likes": 16,
@@ -2579,10 +2579,10 @@
         "apv": 55.36,
         "avd": 9.0
       },
-      "performance_score": 66.48,
-      "performance_score_v1": 60.37,
-      "performance_score_v2": 52.9,
-      "cgs_score": 66.48
+      "performance_score": 66.51,
+      "performance_score_v1": 60.56,
+      "performance_score_v2": 52.99,
+      "cgs_score": 66.51
     },
     {
       "video_id": "guMp-8UjlAU",
@@ -2591,7 +2591,7 @@
       "category": "Evolutionary Biology",
       "title": "Why Your Dog Canine Conditioned Taste Aversion",
       "first_tracked_at": "2026-11-09T08:38:11.210080Z",
-      "last_updated_at": "2026-11-21T13:26:36.996322Z",
+      "last_updated_at": "2026-11-21T19:08:00.145669Z",
       "metrics": {
         "views": 1015,
         "likes": 12,
@@ -2602,10 +2602,10 @@
         "apv": 94.71,
         "avd": 15.0
       },
-      "performance_score": 76.14,
+      "performance_score": 76.12,
       "performance_score_v1": 59.46,
-      "performance_score_v2": 52.56,
-      "cgs_score": 76.14
+      "performance_score_v2": 52.5,
+      "cgs_score": 76.12
     },
     {
       "video_id": "LsminBELMxw",
@@ -2614,7 +2614,7 @@
       "category": "Musculoskeletal",
       "title": "Why Your Dog Canine Ligamentum Nuchae Elasticity",
       "first_tracked_at": "2026-11-09T22:16:06.322385Z",
-      "last_updated_at": "2026-11-21T13:26:36.996336Z",
+      "last_updated_at": "2026-11-21T19:08:00.145682Z",
       "metrics": {
         "views": 968,
         "likes": 13,
@@ -2625,10 +2625,10 @@
         "apv": 82.15,
         "avd": 13.0
       },
-      "performance_score": 75.69,
-      "performance_score_v1": 59.58,
-      "performance_score_v2": 52.75,
-      "cgs_score": 75.69
+      "performance_score": 75.71,
+      "performance_score_v1": 59.78,
+      "performance_score_v2": 52.84,
+      "cgs_score": 75.71
     },
     {
       "video_id": "UmRoLrrrV84",
@@ -2637,7 +2637,7 @@
       "category": "Cardiovascular Physiology",
       "title": "Understanding Dog Canine Baroreceptor Reflex",
       "first_tracked_at": "2026-11-11T08:19:01.117226Z",
-      "last_updated_at": "2026-11-21T13:26:36.996349Z",
+      "last_updated_at": "2026-11-21T19:08:00.145695Z",
       "metrics": {
         "views": 194,
         "likes": 2,
@@ -2648,10 +2648,10 @@
         "apv": 179.08,
         "avd": 30.0
       },
-      "performance_score": 65.51,
-      "performance_score_v1": 18.04,
-      "performance_score_v2": 20.05,
-      "cgs_score": 65.51
+      "performance_score": 65.5,
+      "performance_score_v1": 18.08,
+      "performance_score_v2": 20.01,
+      "cgs_score": 65.5
     },
     {
       "video_id": "kbkOKcNWCzo",
@@ -2660,7 +2660,7 @@
       "category": "Biophysics",
       "title": "Why Your Dog Canine Geomagnetic Field Alignment",
       "first_tracked_at": "2026-11-11T12:41:14.739560Z",
-      "last_updated_at": "2026-11-21T13:26:36.996362Z",
+      "last_updated_at": "2026-11-21T19:08:00.145709Z",
       "metrics": {
         "views": 229,
         "likes": 14,
@@ -2672,8 +2672,8 @@
         "avd": 9.0
       },
       "performance_score": 65.14,
-      "performance_score_v1": 51.55,
-      "performance_score_v2": 45.33,
+      "performance_score_v1": 51.6,
+      "performance_score_v2": 45.3,
       "cgs_score": 65.14
     },
     {
@@ -2683,7 +2683,7 @@
       "category": "Cardiovascular",
       "title": "Why Your Dog Canine Capillary Refill Time",
       "first_tracked_at": "2026-11-12T13:44:00.913597Z",
-      "last_updated_at": "2026-11-21T13:26:36.996375Z",
+      "last_updated_at": "2026-11-21T19:08:00.145722Z",
       "metrics": {
         "views": 365,
         "likes": 19,
@@ -2695,8 +2695,8 @@
         "avd": 24.0
       },
       "performance_score": 73.28,
-      "performance_score_v1": 58.42,
-      "performance_score_v2": 51.14,
+      "performance_score_v1": 58.49,
+      "performance_score_v2": 51.13,
       "cgs_score": 73.28
     },
     {
@@ -2706,7 +2706,7 @@
       "category": "Dentistry",
       "title": "Understanding Dog Canine Deciduous Root Resorption",
       "first_tracked_at": "2026-11-14T07:59:16.145580Z",
-      "last_updated_at": "2026-11-21T13:26:36.996398Z",
+      "last_updated_at": "2026-11-21T19:08:00.145734Z",
       "metrics": {
         "views": 320,
         "likes": 20,
@@ -2717,10 +2717,10 @@
         "apv": 67.74,
         "avd": 10.0
       },
-      "performance_score": 70.38,
-      "performance_score_v1": 56.15,
-      "performance_score_v2": 49.91,
-      "cgs_score": 70.38
+      "performance_score": 70.37,
+      "performance_score_v1": 56.21,
+      "performance_score_v2": 49.88,
+      "cgs_score": 70.37
     },
     {
       "video_id": "n_a7_tTZHmw",
@@ -2729,7 +2729,7 @@
       "category": "Biomechanics",
       "title": "Understanding Dog Canine Interdigital Webbing Hydrodynamics",
       "first_tracked_at": "2026-11-14T12:08:14.543099Z",
-      "last_updated_at": "2026-11-21T13:26:36.996411Z",
+      "last_updated_at": "2026-11-21T19:08:00.145747Z",
       "metrics": {
         "views": 1012,
         "likes": 17,
@@ -2740,10 +2740,10 @@
         "apv": 70.27,
         "avd": 11.0
       },
-      "performance_score": 70.63,
+      "performance_score": 70.61,
       "performance_score_v1": 63.44,
-      "performance_score_v2": 57.13,
-      "cgs_score": 70.63
+      "performance_score_v2": 57.05,
+      "cgs_score": 70.61
     },
     {
       "video_id": "XU5ttCYBCno",
@@ -2752,7 +2752,7 @@
       "category": "Sensory Anatomy",
       "title": "Understanding Dog Canine Mystacial Vibrissae Tactile Navigation",
       "first_tracked_at": "2026-11-14T17:57:31.501785Z",
-      "last_updated_at": "2026-11-21T13:26:36.996424Z",
+      "last_updated_at": "2026-11-21T19:08:00.145760Z",
       "metrics": {
         "views": 985,
         "likes": 20,
@@ -2763,10 +2763,10 @@
         "apv": 61.870000000000005,
         "avd": 10.0
       },
-      "performance_score": 71.97,
-      "performance_score_v1": 65.94,
-      "performance_score_v2": 59.08,
-      "cgs_score": 71.97
+      "performance_score": 71.99,
+      "performance_score_v1": 66.14,
+      "performance_score_v2": 59.16,
+      "cgs_score": 71.99
     },
     {
       "video_id": "XJuWeE9iQus",
@@ -2775,9 +2775,9 @@
       "category": "Kinematics",
       "title": "Understanding Dog Canine Carpal Pad Friction Stabilization",
       "first_tracked_at": "2026-11-15T08:24:04.967637Z",
-      "last_updated_at": "2026-11-21T13:26:36.996437Z",
+      "last_updated_at": "2026-11-21T19:08:00.145774Z",
       "metrics": {
-        "views": 388,
+        "views": 389,
         "likes": 7,
         "comments": 0,
         "retention": 76.48,
@@ -2787,8 +2787,8 @@
         "avd": 13.0
       },
       "performance_score": 67.14,
-      "performance_score_v1": 34.01,
-      "performance_score_v2": 33.84,
+      "performance_score_v1": 34.1,
+      "performance_score_v2": 33.83,
       "cgs_score": 67.14
     },
     {
@@ -2798,9 +2798,9 @@
       "category": "Skeletal Biomechanics",
       "title": "Why Your Dog Canine Temporomandibular Hinge Joint",
       "first_tracked_at": "2026-11-15T12:42:50.116538Z",
-      "last_updated_at": "2026-11-21T13:26:36.996451Z",
+      "last_updated_at": "2026-11-21T19:08:00.145787Z",
       "metrics": {
-        "views": 1014,
+        "views": 1015,
         "likes": 9,
         "comments": 0,
         "retention": 62.86999999999999,
@@ -2809,10 +2809,10 @@
         "apv": 62.86999999999999,
         "avd": 10.0
       },
-      "performance_score": 71.26,
-      "performance_score_v1": 57.1,
-      "performance_score_v2": 52.74,
-      "cgs_score": 71.26
+      "performance_score": 71.24,
+      "performance_score_v1": 57.09,
+      "performance_score_v2": 52.65,
+      "cgs_score": 71.24
     },
     {
       "video_id": "5buVHMwEFro",
@@ -2821,7 +2821,7 @@
       "category": "Internal Medicine",
       "title": "Understanding Dog Canine Gastric Dilatation-Volvulus Rotation",
       "first_tracked_at": "2026-11-15T18:46:33.986985Z",
-      "last_updated_at": "2026-11-21T13:26:36.996464Z",
+      "last_updated_at": "2026-11-21T19:08:00.145801Z",
       "metrics": {
         "views": 168,
         "likes": 11,
@@ -2832,10 +2832,10 @@
         "apv": 75.31,
         "avd": 12.0
       },
-      "performance_score": 72.29,
-      "performance_score_v1": 54.43,
-      "performance_score_v2": 56.2,
-      "cgs_score": 72.29
+      "performance_score": 72.28,
+      "performance_score_v1": 54.46,
+      "performance_score_v2": 56.14,
+      "cgs_score": 72.28
     },
     {
       "video_id": "RRYPagZa-0U",
@@ -2844,7 +2844,7 @@
       "category": "Integumentary Biology",
       "title": "Why Your Dog Canine Compound Follicular Architecture",
       "first_tracked_at": "2026-11-16T13:35:36.871220Z",
-      "last_updated_at": "2026-11-21T13:26:36.996478Z",
+      "last_updated_at": "2026-11-21T19:08:00.145813Z",
       "metrics": {
         "views": 293,
         "likes": 10,
@@ -2855,10 +2855,10 @@
         "apv": 53.31,
         "avd": 9.0
       },
-      "performance_score": 60.02,
-      "performance_score_v1": 42.09,
-      "performance_score_v2": 40.11,
-      "cgs_score": 60.02
+      "performance_score": 60.01,
+      "performance_score_v1": 42.15,
+      "performance_score_v2": 40.07,
+      "cgs_score": 60.01
     },
     {
       "video_id": "5flYiOZ0Fdg",
@@ -2867,7 +2867,7 @@
       "category": "Photobiology",
       "title": "Why Your Dog Canine Cutaneous Vitamin D Synthesis Deficiency",
       "first_tracked_at": "2026-11-16T21:56:55.656251Z",
-      "last_updated_at": "2026-11-21T13:26:36.996491Z",
+      "last_updated_at": "2026-11-21T19:08:00.145827Z",
       "metrics": {
         "views": 1012,
         "likes": 4,
@@ -2878,10 +2878,10 @@
         "apv": 61.75000000000001,
         "avd": 10.0
       },
-      "performance_score": 67.74,
+      "performance_score": 67.71,
       "performance_score_v1": 53.16,
-      "performance_score_v2": 50.32,
-      "cgs_score": 67.74
+      "performance_score_v2": 50.22,
+      "cgs_score": 67.71
     },
     {
       "video_id": "v94xK3XZJf0",
@@ -2890,7 +2890,7 @@
       "category": "Dentistry",
       "title": "Understanding Dog Canine Salivary Alkaline Ph And Calculus",
       "first_tracked_at": "2026-11-17T09:42:51.749829Z",
-      "last_updated_at": "2026-11-21T13:26:36.996504Z",
+      "last_updated_at": "2026-11-21T19:08:00.145840Z",
       "metrics": {
         "views": 38,
         "likes": 3,
@@ -2901,10 +2901,10 @@
         "apv": 46.37,
         "avd": 7.0
       },
-      "performance_score": 57.31,
-      "performance_score_v1": 41.92,
-      "performance_score_v2": 39.67,
-      "cgs_score": 57.31
+      "performance_score": 57.29,
+      "performance_score_v1": 41.93,
+      "performance_score_v2": 39.59,
+      "cgs_score": 57.29
     },
     {
       "video_id": "gLBfiO_BlKI",
@@ -2913,7 +2913,7 @@
       "category": "Nutrition & Biochemistry",
       "title": "Understanding Dog Canine Endogenous Taurine Biosynthesis",
       "first_tracked_at": "2026-11-19T09:30:22.509518Z",
-      "last_updated_at": "2026-11-21T13:26:36.996518Z",
+      "last_updated_at": "2026-11-21T19:08:00.145854Z",
       "metrics": {
         "views": 141,
         "likes": 7,
@@ -2924,10 +2924,10 @@
         "apv": 46.45,
         "avd": 7.0
       },
-      "performance_score": 60.53,
-      "performance_score_v1": 46.83,
-      "performance_score_v2": 44.46,
-      "cgs_score": 60.53
+      "performance_score": 60.51,
+      "performance_score_v1": 46.86,
+      "performance_score_v2": 44.38,
+      "cgs_score": 60.51
     },
     {
       "video_id": "9Br1eCMcyjY",
@@ -2936,9 +2936,9 @@
       "category": "Thermoregulation",
       "title": "Why Your Dog Canine Humidity Evaporative Failure",
       "first_tracked_at": "2026-11-19T14:23:05.200449Z",
-      "last_updated_at": "2026-11-21T13:26:36.996531Z",
+      "last_updated_at": "2026-11-21T19:08:00.145869Z",
       "metrics": {
-        "views": 38,
+        "views": 44,
         "likes": 3,
         "comments": 0,
         "retention": null,
@@ -2947,10 +2947,10 @@
         "apv": null,
         "avd": null
       },
-      "performance_score": 39.08,
-      "performance_score_v1": 41.92,
-      "performance_score_v2": 40.61,
-      "cgs_score": 39.08
+      "performance_score": 39.21,
+      "performance_score_v1": 42.23,
+      "performance_score_v2": 40.75,
+      "cgs_score": 39.21
     },
     {
       "video_id": "NfwJpy0qAmI",
@@ -2959,10 +2959,10 @@
       "category": "Endocrinology",
       "title": "Understanding Dog Canine Obligate Prolactin Adaptation",
       "first_tracked_at": "2026-11-20T13:58:55.823831Z",
-      "last_updated_at": "2026-11-21T13:26:36.996544Z",
+      "last_updated_at": "2026-11-21T19:08:00.145883Z",
       "metrics": {
-        "views": 315,
-        "likes": 5,
+        "views": 538,
+        "likes": 9,
         "comments": 0,
         "retention": null,
         "ctr": null,
@@ -2970,10 +2970,10 @@
         "apv": null,
         "avd": null
       },
-      "performance_score": 30.18,
-      "performance_score_v1": 28.59,
-      "performance_score_v2": 31.77,
-      "cgs_score": 30.18
+      "performance_score": 39.2,
+      "performance_score_v1": 40.64,
+      "performance_score_v2": 41.26,
+      "cgs_score": 39.2
     },
     {
       "video_id": "GtwYLAbAQvo",
@@ -2982,9 +2982,9 @@
       "category": "Fluid Dynamics",
       "title": "Why Your Dog Canine Water Column Lapping",
       "first_tracked_at": "2026-11-21T08:44:27.061867Z",
-      "last_updated_at": "2026-11-21T13:26:36.996558Z",
+      "last_updated_at": "2026-11-21T19:08:00.145896Z",
       "metrics": {
-        "views": 48,
+        "views": 49,
         "likes": 1,
         "comments": 0,
         "retention": null,
@@ -2993,10 +2993,10 @@
         "apv": null,
         "avd": null
       },
-      "performance_score": 23.62,
-      "performance_score_v1": 19.09,
-      "performance_score_v2": 24.34,
-      "cgs_score": 23.62
+      "performance_score": 23.32,
+      "performance_score_v1": 18.81,
+      "performance_score_v2": 24.02,
+      "cgs_score": 23.32
     },
     {
       "video_id": "IoENDkfRg3I",
@@ -3005,7 +3005,7 @@
       "category": "Sensory Physiology",
       "title": "Understanding Dog Canine Water Gustatory Receptors",
       "first_tracked_at": "2026-11-21T13:26:36.996571Z",
-      "last_updated_at": "2026-11-21T13:26:36.996571Z",
+      "last_updated_at": "2026-11-21T19:08:00.145910Z",
       "metrics": {
         "views": 0,
         "likes": 0,
@@ -3016,10 +3016,33 @@
         "apv": null,
         "avd": null
       },
-      "performance_score": 10.0,
+      "performance_score": 9.89,
+      "performance_score_v1": 0.0,
+      "performance_score_v2": 9.88,
+      "cgs_score": 9.89
+    },
+    {
+      "video_id": "eteW15piKIk",
+      "cache_item_id": "aq_1795184410_2",
+      "topic": "Canine Contact Cortisol Reduction",
+      "category": "Endocrinology",
+      "title": "Understanding Dog Canine Contact Cortisol Reduction",
+      "first_tracked_at": "2026-11-21T19:08:00.145924Z",
+      "last_updated_at": "2026-11-21T19:08:00.145924Z",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0,
+        "retention": null,
+        "ctr": null,
+        "subscribers_gained": null,
+        "apv": null,
+        "avd": null
+      },
+      "performance_score": 9.5,
       "performance_score_v1": 0.0,
       "performance_score_v2": 10.0,
-      "cgs_score": 10.0
+      "cgs_score": 9.5
     }
   ]
 }

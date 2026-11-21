@@ -1,7 +1,7 @@
 {
   "channel": "ch_dogs_en",
   "schema_version": 2,
-  "updated_at": "2026-11-21T13:28:01.508729Z",
+  "updated_at": "2026-11-21T19:24:10.421451Z",
   "items": [
     {
       "topic": "Dog episodic memory",
@@ -3673,6 +3673,57 @@
       ],
       "local_filenames": [],
       "scheduled_for": "2026-11-21T20:00:00Z"
+    },
+    {
+      "topic": "Canine Sweet Taste Receptor Preservation",
+      "title": "Understanding Dog Canine Sweet Taste Receptor Preservation",
+      "hook_framework": "Curiosity Gap",
+      "script": "Your dog actually possesses functional sweet receptors from ancient ancestors. This genetic trait lets them taste fruits unlike strict carnivores. Does your dog love apples?",
+      "video_search_query": "cute dog",
+      "category": "Evolution",
+      "subtopic": "Gustatory Genetics",
+      "unique_fact": "Unlike felids with pseudogenized T1R2 genes, canines maintain functional sweet taste receptors to detect fructose",
+      "angle": "Evolution",
+      "region": "Global",
+      "development_stage": "Adult",
+      "search_query": "cute dog",
+      "id": "aq_1795288968_0",
+      "status": "uploaded",
+      "locked_at": "2026-11-21T19:22:48.101395Z",
+      "used_at": "2026-11-21T19:24:10.420836Z",
+      "video_id": "IJhwt7qTGrI",
+      "original_title": "The Fascinating Reason Dogs Eat Fruit",
+      "hook_score": 0.0,
+      "hook_title_score": 0,
+      "hook_opening_score": 0,
+      "video_ids": [
+        39796364
+      ],
+      "local_filenames": [],
+      "scheduled_for": "2026-11-21T20:00:00Z"
+    },
+    {
+      "topic": "Canine Graminivory Plant Ingestion",
+      "title": "Understanding Dog Canine Graminivory Plant Ingestion",
+      "hook_framework": "Myth vs Fact",
+      "script": "Your dog actually grazes quite intentionally. Healthy canines chew garden lawn greens to gain extra fiber, not from nausea. Does your dog eat grass?",
+      "video_search_query": "dog eating grass",
+      "category": "Dietary Behavior",
+      "subtopic": "Foraging Ecology",
+      "unique_fact": "Wild canids routinely graze on plants to supplement dietary roughage rather than to induce vomiting.",
+      "angle": "Science",
+      "region": "Global",
+      "development_stage": "Adult",
+      "search_query": "dog eating grass",
+      "id": "aq_1795288968_1",
+      "status": "pending",
+      "locked_at": null,
+      "used_at": null,
+      "video_id": null,
+      "original_title": "The Fascinating Reason Dogs Eat Grass",
+      "hook_score": 0.0,
+      "hook_title_score": 0,
+      "hook_opening_score": 0
     }
   ]
 }
