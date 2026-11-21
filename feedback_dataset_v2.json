@@ -1,9 +1,9 @@
 {
   "feedback_version": 2,
-  "generated_at": "2026-11-20T13:58:57.483382Z",
+  "generated_at": "2026-11-21T08:44:28.234862Z",
   "channel": "ch_dogs_en",
   "metadata": {
-    "total_videos_analyzed": 129,
+    "total_videos_analyzed": 130,
     "analytics_api_available": true,
     "cgs_mode": "beta",
     "data_freshness_hours": 72,
@@ -22,7 +22,7 @@
     {
       "topic": "Canine Late Pleistocene Wolf Divergence",
       "category": "Genetics",
-      "cgs": 85.28,
+      "cgs": 85.25,
       "ctr": 1010.0,
       "apv": 136.95,
       "avd": 23.0,
@@ -31,7 +31,7 @@
     {
       "topic": "Canine Respiratory Sinus Arrhythmia",
       "category": "Cardiovascular Physiology",
-      "cgs": 79.47,
+      "cgs": 79.45,
       "ctr": 508.0,
       "apv": 72.27,
       "avd": 12.0,
@@ -40,7 +40,7 @@
     {
       "topic": "Theobromine Hepatic Clearance",
       "category": "Toxicology",
-      "cgs": 78.8,
+      "cgs": 78.78,
       "ctr": 1208.0,
       "apv": 95.23,
       "avd": 16.0,
@@ -49,7 +49,7 @@
     {
       "topic": "Predatory Motor Sequence Truncation",
       "category": "Ethology",
-      "cgs": 78.68,
+      "cgs": 78.65,
       "ctr": 1031.0,
       "apv": 96.01,
       "avd": 16.0,
@@ -58,36 +58,36 @@
   ],
   "losing_topics": [
     {
-      "topic": "Canine Paw Pad Thermoregulation",
-      "category": "Physiology",
-      "cgs": 42.3,
-      "ctr": 10.0,
-      "apv": 44.51,
-      "avd": 7.0,
-      "views": 10
-    },
-    {
       "topic": "Canine Humidity Evaporative Failure",
       "category": "Thermoregulation",
-      "cgs": 39.37,
+      "cgs": 39.16,
       "ctr": null,
       "apv": null,
       "avd": null,
-      "views": 35
+      "views": 38
+    },
+    {
+      "topic": "Canine Water Column Lapping",
+      "category": "Fluid Dynamics",
+      "cgs": 23.71,
+      "ctr": null,
+      "apv": null,
+      "avd": null,
+      "views": 48
     },
     {
       "topic": "Canine Obligate Prolactin Adaptation",
       "category": "Endocrinology",
-      "cgs": 25.69,
+      "cgs": 22.4,
       "ctr": null,
       "apv": null,
       "avd": null,
-      "views": 89
+      "views": 193
     },
     {
       "topic": "Canine Secure Base Attachment Effect",
       "category": "Psychology",
-      "cgs": 5.6,
+      "cgs": 5.58,
       "ctr": 2.0,
       "apv": 0.0,
       "avd": 0.0,
@@ -96,7 +96,7 @@
     {
       "topic": "Canine Resource Caching Instinct",
       "category": "Behavior",
-      "cgs": 3.34,
+      "cgs": 3.33,
       "ctr": 1.0,
       "apv": 0.0,
       "avd": 0.0,
@@ -118,14 +118,14 @@
       "hook_type": "low_retention_proxy",
       "reason": "swipe_away_proxy",
       "avg_apv_proxy": 0.0,
-      "blacklisted_at": "2026-11-20T13:58:57.483480Z"
+      "blacklisted_at": "2026-11-21T08:44:28.234931Z"
     },
     {
       "topic_category": "Behavior",
       "hook_type": "low_retention_proxy",
       "reason": "swipe_away_proxy",
       "avg_apv_proxy": 0.0,
-      "blacklisted_at": "2026-11-20T13:58:57.483485Z"
+      "blacklisted_at": "2026-11-21T08:44:28.234935Z"
     }
   ],
   "growth_signals": {
@@ -135,6 +135,6 @@
   "exploration_ratio": {
     "reinforce_pct": 80,
     "explore_pct": 20,
-    "adjusted_by": "low_cgs_average_42.0"
+    "adjusted_by": "low_cgs_average_28.4"
   }
 }

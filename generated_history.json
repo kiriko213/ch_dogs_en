@@ -1,15 +1,5 @@
 [
   {
-    "title": "Understanding Dog Canine Igf1 Allelic Size Variation",
-    "topic": "Canine IGF1 Allelic Size Variation",
-    "script_content": "People assume canine size requires hundreds of separate genes. Actually, one single IGF1 gene variant directs most skeletal proportions. Is your dog big?",
-    "video_ids": [
-      35868040
-    ],
-    "local_filenames": [],
-    "timestamp": "2026-11-08T07:57:11.170914"
-  },
-  {
     "title": "Understanding Dog Canine Tug Play Impulse Control",
     "topic": "Canine Tug Play Impulse Control",
     "script_content": "Pent-up canine energy often leads to unwanted household chewing. Structured games of tug release healthy drive while strengthening cooperation. Does your dog love tug?",
@@ -198,5 +188,15 @@
     ],
     "local_filenames": [],
     "timestamp": "2026-11-20T14:22:45.360035"
+  },
+  {
+    "title": "Understanding Dog Canine Water Gustatory Receptors",
+    "topic": "Canine Water Gustatory Receptors",
+    "script_content": "Your dog actually tastes fresh water through special sensors. These unique tongue receptors activate after meals to encourage hydration. Does your dog drink often?",
+    "video_ids": [
+      13260897
+    ],
+    "local_filenames": [],
+    "timestamp": "2026-11-21T08:46:02.936311"
   }
 ]

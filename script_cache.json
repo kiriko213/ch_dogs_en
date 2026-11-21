@@ -1,7 +1,7 @@
 {
   "channel": "ch_dogs_en",
   "schema_version": 2,
-  "updated_at": "2026-11-20T14:22:45.360826Z",
+  "updated_at": "2026-11-21T08:46:02.936760Z",
   "items": [
     {
       "topic": "Dog episodic memory",
@@ -3632,14 +3632,19 @@
       "development_stage": "Adult",
       "search_query": "dog drinking bowl",
       "id": "aq_1795184410_1",
-      "status": "pending",
-      "locked_at": null,
-      "used_at": null,
-      "video_id": null,
+      "status": "uploaded",
+      "locked_at": "2026-11-21T08:44:28.337343Z",
+      "used_at": "2026-11-21T08:46:02.936287Z",
+      "video_id": "IoENDkfRg3I",
       "original_title": "The Fascinating Reason Dogs Taste Water",
       "hook_score": 10.0,
       "hook_title_score": 20,
-      "hook_opening_score": 0
+      "hook_opening_score": 0,
+      "video_ids": [
+        13260897
+      ],
+      "local_filenames": [],
+      "scheduled_for": "2026-11-21T20:00:00Z"
     },
     {
       "topic": "Canine Contact Cortisol Reduction",
