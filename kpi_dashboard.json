@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-11-21T08:46:02.944825Z",
+  "generated_at": "2026-11-21T13:28:01.518878Z",
   "kpis": {
-    "uploads": 130,
-    "views": 64784,
-    "ctr_average": 507.64,
-    "apv_average": 66.98,
+    "uploads": 131,
+    "views": 64909,
+    "ctr_average": 507.65,
+    "apv_average": 66.99,
     "subscribers_gained": 140,
-    "cgs_average": 62.98,
+    "cgs_average": 62.64,
     "top_topics": [
       "Canine Prey Shake Motor Pattern",
       "Canine Late Pleistocene Wolf Divergence",
       "Canine Respiratory Sinus Arrhythmia"
     ],
     "top_titles": [
-      "Understanding Dog Canine Affiliative Muzzle Nudge",
       "Why Your Dog Canine Salivary Bicarbonate Buffering",
-      "Why Your Dog Canine Age-Related Sarcopenia"
+      "Why Your Dog Canine Age-Related Sarcopenia",
+      "Why Your Dog Canine Carnassial Shearing Mechanism"
     ]
   },
   "production_metrics": {
-    "success_rate_percent": 80.25,
-    "failure_rate_percent": 19.75,
-    "retry_rate_percent": 15.43,
-    "upload_latency_seconds": 4.93,
-    "generation_latency_seconds": 89.49
+    "success_rate_percent": 80.37,
+    "failure_rate_percent": 19.63,
+    "retry_rate_percent": 15.34,
+    "upload_latency_seconds": 4.75,
+    "generation_latency_seconds": 78.18
   },
   "warnings": []
 }
